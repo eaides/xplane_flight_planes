@@ -6,7 +6,7 @@ https://skyvector.com/
 http://aerotexas.com/RF/
 http://190.210.186.21/PDF/JeppesenApproachCharts-2014.pdf
 VOR or VOR/DME (use skyvector, print the Nav Log)
-
+https://www.simbrief.com/home/
 
 ---------------------------------------------------------------------------------------------------------------------
 SAEZ-SAWC		FL240		(alt SAWG)
@@ -29,14 +29,15 @@ SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 interc
 +CRV 117.5 -> 207	+56 IRAXO +138 BOKUK +86 ASOPA +18 UGADA +31 ECA = 329
 +ECA 114.7 <- 203
 
-total fuel	25395
-reserve		5.3
-ETA		02:55
-Alt		00:38
-Endurance	04:19
-PX		118
+total fuel	26757
+reserve		6.1
+dst		....
+alt.dst		....
+ETA		03:14
+Alt		00:40
+Endurance	04:39
+PAX		118
 payload		27.1
-
 
 
 ---------------------------------------------------------------------------------------------------------------------
@@ -60,42 +61,248 @@ SAWC-SAEZ		FL230		(alt SAAR)
 
 total fuel	27096
 reserve		6.1
+dst		....
+alt.dst		....
 ETA		03:15
 Alt		00:40
 Endurance	04:40
-PX		120
+PAX		120
 payload		27.6
 
 
+---------------------------------------------------------------------------------------------------------------------
+SAEZ-SAWG		FL240		(alt SAWC)
+	GBE W18 GAL
 
+SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 intercep on the takeoff the +EZE 116.5/126
+-GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
+-GBE 115.6 -> 211	+36 KALIM +60 DIL = 96
++DIL 115.9 <- 207
++DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
+	   -> 250	+55 MOXAN +55 BCA = 110		
++BCA 114.3 <- 250	
++BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
+	   -> 189	+53 UDESA +30 VIE = 83				-VIE is 172 from +TRE 115.1
+-VIE 117.1 <- 189
+-VIE 117.1 -> 213	+30 KIGIR +87 MIGUS +55 TRE = 172
++TRE 115.1 <- 213
++TRE 115.1 -> 207	+55 GATUD +69 ROMAX +55 CRV = 179
++CRV 117.5 <- 205
++CRV 117.5 -> 179	+55 ANDEX +158 SJU = 213
++SJU 117.7 <- 175
++SJU 117.7 -> 192	+95 IRAVU +55 GAL = 150
++GAL 116.7 <- 191
 
-
-
-
-
+total fuel	26460
+reserve		5.7
+dst		....
+alt.dst		....
+ETA		03:18
+Alt		00:33
+Endurance	04:36
+PAX		112
+payload		25.8
 
 
 ---------------------------------------------------------------------------------------------------------------------
-SAEZ-SAWG
+SAWG-SAEZ		FL230		(alt SAAR)
+	GAL W18 GBE
 
-SAWG-SAEZ
++GAL 116.7 -> 011	+55 IRAVU +95 SJU = 150
++SJU 117.7 <- 012
++SJU 117.7 -> 355	+158 ANDEX +55 CRV = 213
++CRV 117.5 <- 359	
++CRV 117.5 -> 025	+55 ROMAX +69 GATUD +55 TRE = 179
++TRE 115.1 <- 027
++TRE 115.1 -> 033	+55 MIGUS +87  KIGIR +30 VIE = 172
+-VIE 117.1 <- 033
+-VIE 117.1 <- 009	+30 UDESA +53 SANBU = 83		intercepta +BCA 114.3/29 (+53)		
+	   -> 029	+53 BCA
++BCA 114.3 <- 029
++BCA 114.3 -> 070	+55 MOXAN +55 ATITO = 110		intercepta +DIL 115.9/42 (+60)
+	   -> 042	+60 DIL
++DIL 115.9 <- 042
++DIL 115.9 -> 027	+60 KALIM +36 GBE = 96			(GBE is 55 out of +EZE 116.5/005)
+-GBE 115.6 -> 
 
-SAEZ-SAWE
+total fuel	27350
+reserve		7.3
+dst		....
+alt.dst		....
+ETA		03:04
+Alt		00:53
+Endurance	04:42
+PAX		117
+payload		26.9
 
-SAWE-SAEZ
 
-SAEZ-SAWH
+---------------------------------------------------------------------------------------------------------------------
+SAEZ-SAWE				FL240		(alt SAWH)
+	GBE W18 GAL W42 GRA
 
-SAWH-SAEZ
+SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 intercep on the takeoff the +EZE 116.5/126
+-GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
+-GBE 115.6 -> 211	+36 KALIM +60 DIL = 96
++DIL 115.9 <- 207
++DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
+	   -> 250	+55 MOXAN +55 BCA = 110		
++BCA 114.3 <- 250	
++BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
+	   -> 189	+53 UDESA +30 VIE = 83				-VIE is 172 from +TRE 115.1
+-VIE 117.1 <- 189
+-VIE 117.1 -> 213	+30 KIGIR +87 MIGUS +55 TRE = 172
++TRE 115.1 <- 213
++TRE 115.1 -> 207	+55 GATUD +69 ROMAX +55 CRV = 179
++CRV 117.5 <- 205
++CRV 117.5 -> 179	+55 ANDEX +158 SJU = 213
++SJU 117.7 <- 175
++SJU 117.7 -> 192	+95 IRAVU +55 GAL = 150
++GAL 116.7 <- 191
++GAL 116.7 -> 144	+78 MUBES +64 GRA = 142
++GRA 117.3 <- 144
 
+total fuel	28260
+reserve		5.3
+dst		....
+alt.dst		....
+ETA		03:41
+Alt		00:35
+Endurance	05:02
+PAX		116
+payload		26.7
+
+
+---------------------------------------------------------------------------------------------------------------------
+SAWE-SAEZ				FL230		(alt SAAR)
+	MUBES W42 GAL W18 GBE
+
++GRA 117.3 -> 283
+	GEDAB <- 283	+26 GEDAB	117.3/283/26
+	GEDAB -> 345	+47 MUBES	intercept 117.3/323/52
+	MUBES -> 324
++GAL 116.7 <- 324
++GAL 116.7 -> 011	+55 IRAVU +95 SJU = 150
++SJU 117.7 <- 012
++SJU 117.7 -> 355	+158 ANDEX +55 CRV = 213
++CRV 117.5 <- 359	
++CRV 117.5 -> 025	+55 ROMAX +69 GATUD +55 TRE = 179
++TRE 115.1 <- 027
++TRE 115.1 -> 033	+55 MIGUS +87  KIGIR +30 VIE = 172
+-VIE 117.1 <- 033
+-VIE 117.1 <- 009	+30 UDESA +53 SANBU = 83		intercepta +BCA 114.3/29 (+53)		
+	   -> 029	+53 BCA
++BCA 114.3 <- 029
++BCA 114.3 -> 070	+55 MOXAN +55 ATITO = 110		intercepta +DIL 115.9/42 (+60)
+	   -> 042	+60 DIL
++DIL 115.9 <- 042
++DIL 115.9 -> 027	+60 KALIM +36 GBE = 96			(GBE is 55 out of +EZE 116.5/005)
+-GBE 115.6 -> 
+
+total fuel	29486
+reserve		7.3
+dst		....
+alt.dst		....
+ETA		03:28
+Alt		00:53
+Endurance	05:07
+PAX		113
+payload		25.9
+
+
+---------------------------------------------------------------------------------------------------------------------
+SAEZ-SAWH				FL240		(alt SAWE)					
+	GBE W18 GAL W42 GRA T108 DABLI
+
+SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 intercep on the takeoff the +EZE 116.5/126
+-GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
+-GBE 115.6 -> 211	+36 KALIM +60 DIL = 96
++DIL 115.9 <- 207
++DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
+	   -> 250	+55 MOXAN +55 BCA = 110		
++BCA 114.3 <- 250	
++BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
+	   -> 189	+53 UDESA +30 VIE = 83				-VIE is 172 from +TRE 115.1
+-VIE 117.1 <- 189
+-VIE 117.1 -> 213	+30 KIGIR +87 MIGUS +55 TRE = 172
++TRE 115.1 <- 213
++TRE 115.1 -> 207	+55 GATUD +69 ROMAX +55 CRV = 179
++CRV 117.5 <- 205
++CRV 117.5 -> 179	+55 ANDEX +158 SJU = 213
++SJU 117.7 <- 175
++SJU 117.7 -> 192	+95 IRAVU +55 GAL = 150
++GAL 116.7 <- 191
++GAL 116.7 -> 144	+78 MUBES +64 GRA = 142
++GRA 117.3 <- 144
++GRA 117.3 -> 165	+44 DABLI
+
+	Aprox from DABLI				intercept +PWL 114.9/164/25.9		check with jeppesen
+	DABLI -> 164	+10 EDPAM			intercept +PWL 114.9/164/15.9		check with jeppesen
+			+4 WH213			intercept +PWL 114.9/164/11.9		check with jeppesen
+			+4 WH214			intercept +PWL 114.9/164/7.9		check with jeppesen
+	Wh214 ->215	+2 AMVUK			intercept +PWL 114.9/???/??		check with jeppesen
+
+-USU 113.7 <- ???
+
+total fuel	28399
+reserve		4.8
+dst		....
+alt.dst		....
+ETA		03:56
+Alt		00:29
+Endurance	05:11
+PAX		97
+payload		22.3
+
+---------------------------------------------------------------------------------------------------------------------
+SAWH-SAEZ				FL230		(alt SAAR)
+	KEXOP W42 GAL W18 GBE
+
+-USU 113.7 -> 004	+21 KEXOP (-45 to GRA) + 45 GRA = 66
++GRA 117.3 <- 005
++GRA 117.3 -> 324	+64 MUBES + 78 GAL = 142
++GAL 116.7 <- 324
++GAL 116.7 -> 011	+55 IRAVU +95 SJU = 150
++SJU 117.7 <- 012
++SJU 117.7 -> 355	+158 ANDEX +55 CRV = 213
++CRV 117.5 <- 359	
++CRV 117.5 -> 025	+55 ROMAX +69 GATUD +55 TRE = 179
++TRE 115.1 <- 027
++TRE 115.1 -> 033	+55 MIGUS +87  KIGIR +30 VIE = 172
+-VIE 117.1 <- 033
+-VIE 117.1 <- 009	+30 UDESA +53 SANBU = 83		intercepta +BCA 114.3/29 (+53)		
+	   -> 029	+53 BCA
++BCA 114.3 <- 029
++BCA 114.3 -> 070	+55 MOXAN +55 ATITO = 110		intercepta +DIL 115.9/42 (+60)
+	   -> 042	+60 DIL
++DIL 115.9 <- 042
++DIL 115.9 -> 027	+60 KALIM +36 GBE = 96			(GBE is 55 out of +EZE 116.5/005)
+-GBE 115.6 -> 
+
+total fuel	30008
+reserve		7.4
+dst		....
+alt.dst		....
+ETA		03:33
+Alt		00:54
+Endurance	05:12
+PAX		111
+payload		25.3
+
+
+---------------------------------------------------------------------------------------------------------------------
 SAEZ-SAVT
 
+---------------------------------------------------------------------------------------------------------------------
 SAVT-SAEZ
 
+---------------------------------------------------------------------------------------------------------------------
 SAEZ-SAZB
 
+---------------------------------------------------------------------------------------------------------------------
 SAZB-SAEZ
 
+---------------------------------------------------------------------------------------------------------------------
 SAEZ-SAZM
 
+---------------------------------------------------------------------------------------------------------------------
 SAZM-SAEZ
