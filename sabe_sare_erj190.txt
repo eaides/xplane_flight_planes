@@ -1,0 +1,30 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina21
+Destino:      SARE - Resistencia - Argentina
+Alternativo:  SARF - Formosa - Argentina
+Flight Level: FL370
+Ruta:	
+	LANDA UW64 GUA UL793 SIS
+Route (plain text) .. = dct . for airways			
+	SABE..LANDA.UW64.GUA.UL793.SIS..SARE
+	SABE DCT LANDA UW64 GUA UL793 SIS DCT SARE
+
+Distancia: 429 nm + Distancia Alternativo: 87 nm
+	   429 + 436 = 865 nm		  155 nm
+Tiempo Vuelo:               01:21
+Tiempo + alternativo:       01:51
+Total combustible (tiempo): 02:34
+Peso Combustible: 12233 ( 65 % - 65 % ) reserva: 4.5 
+                  16992
+TOW: 45864
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow LANDA3B to FL370   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow LANDA3B to FL370   SABE trf, airborne
+
+SARE trf, after KILIP leaving FL370, expecting rw 21 ILS     SARE trf, at SIS altitude 4000 clear for ILS rw21   SARE trf, full established ils rw21 to land    SARE trf, rw vacated, taxi to platform (xx via xxx xxx)   SARE trf, on blocks, engines off, flight plan close
+SARE trf, after KILIP leaving FL370, expecting rw 03 VOR/DME     SARE trf, altitude 2500 final rw 03 to land    SARE trf, rw vacated, taxi to platform (xx via xxx xxx)   SARE trf, on blocks, engines off, flight plan close

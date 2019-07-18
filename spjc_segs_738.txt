@@ -1,0 +1,25 @@
+Origen:       SPJC - Jorge Chavez Intl	- Lima-Callao, Peru 		alt. 112. ft.
+	RWY15 largo: 11506 ft.
+	RWY33 largo: 11506 ft.
+Destino:      SEGS - Seymour - Baltra I Galapagos Is, Ecuador		alt. 52 ft.
+	RWY14 largo: 7874 ft.
+	RWY32 largo: 7874 ft.
+Alternativo:  SEMT
+Flight Level: FL360
+
+Ruta:	
+	ISREN UL312 VAPOG UT17 SCV
+Route (plain text) .. = dct . for airways
+	SPJC..ISREN.UL312.VAPOG.UT17.SCV..SEGS
+
+Distancia: 1087 nm + Distancia Alternativo: 577 nm
+
+Tiempo Vuelo:               02:43
+Tiempo + alternativo:       04:16
+Total combustible (tiempo): 05:01
+Peso Combustible: 30.4 lbs		reserva: 12.5
+
+
+Avion: 737-800 : 167 pax (220 lbs per pax)
+Payload 38.4
+Cost Index SUR: 60

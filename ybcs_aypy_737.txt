@@ -1,0 +1,27 @@
+Origen:       YBCS - Cairns Intl - Cairns, Australia
+Destino:      AYPY - Jacksons - Port Moresby, Papua New Guinea
+Alternativo:  AYNZ - Nadzab - Lae - Papua New Guinea
+Flight Level: FL390
+Ruta:
+	ZANEY R210 LENAK
+Route (plain text) .. = dct . for airways
+	YBCS..ZANEY R210 LENAK..AYPY
+
+Distancia: 456 nm + Distancia Alternativo: 175 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       02:08
+Total combustible (tiempo): 02:53
+Peso Combustible: 19834 (99.9 % - 9.0 % - 99.9 %) reserva: 4.5 
+TOW: 127.8 (32.9% trim: 2.81)   v1: 123    vr: 131    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 15/33
+YBCS trf, at parking 6 pb/su to AYPY as filed      YBCS trf, taxi to hp rw15 via G3 G B B2            YBCS trf, hp rw15 lu & to follow GAFER2 departure to FL410    	YBCS trf, airborne
+YBCS trf, at parking 6 pb/su to AYPY as filed      YBCS trf, taxi to hp rw33 via ...            YBCS trf, entry rw for b/t to hp       YBCS trf, hp rw32 lu & to to FL410       	YBAS trf, airborne
+
+destination rw: 14RL/32LR
+AYPY trf, at BIBAG leaving FL410, expecting rw15 LOC-Y via BIB3A trans RAINY        AYPY trf, at BIB FL115 start BIB3A for rw15 LOC-Y trans RAINY     AYPY trf, RAINY 5000 clear for loc-y ils rw15      AYPY trf, established loc ils rw15 to land       AYPY trf, rw vacated, taxi to platform    AYPY trf, on blocks, engines off, flight plan close

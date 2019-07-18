@@ -1,0 +1,27 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LLET - Eilat - Eilat - Israel
+Alternativo:  LLBG - Ben Gurion - Tel Aviv - Israel
+Flight Level: FL210
+Ruta:
+	TALMI J10 LOT
+Route (plain text) .. = dct . for airways
+	LLBG..TALMI.J10.LOT..LLET
+
+Distancia: 346 nm (173x2 for non stop trip return to LLBG) + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:35
+Peso Combustible: 15807 ( xxx % - 00.0 % - xxx % ) reserva: 5.0 
+TOW: 137.9 <<?
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31020
+Cost Index SUR: 60
+
+Notas: 
+
+LLBG trf, at parking ?? pb & su to LLET as filed   LLBG trf, taxi to hp rw?? via ???    LLBG trf, hp rw??? lu & to follow ??? to FL210   LLBG trf, airborne - Despegue: ????Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLET trf, at/after XXX FL210 start descending, expecting rw XX vor-dme/visual (via star XXX) (transition XXX)   LLET trf, position XXX continue approach xxx for rw XX vor-dme/visual   LLET trf, at XXX altitude xxx starting approach rw XX   LLET trf, final rw XX to land    LLET trf, rw vacated, taxi to platform (xx via xxx xxx)   LLET trf, on blocks, engines off, flight plan close

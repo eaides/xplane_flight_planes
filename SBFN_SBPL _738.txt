@@ -1,0 +1,37 @@
+Origen:       SBFN - Fernando De Noronha - Fernando De Noronha, Brazil (alt 180)
+Destino:      SBPL - Petrolina - Petrolina, Brazil (alt 1263)
+Alternativo:  SBUF - Paulo Alfonso - Paulo Alfonzo, Brazil (alt )
+Flight Level: FL380
+Ruta:	
+	ESGUM UB623 REC UW10 GEBIT
+Route (plain text) .. = dct . for airways
+	SBFN..ESGUM.UB623.REC.UW10.GEBIT..SBPL
+	SBFN ESGUM UB623 REC UW10 GEBIT SBPL
+
+Distancia: 668 nm + Distancia Alternativo: 209 nm
+
+Tiempo Vuelo:               01:50
+Tiempo + alternativo:       02:27
+Total combustible (tiempo): 03:12
+Peso Combustible: 19785 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 137  vr: 141  v2: 147 (162)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+12/30
+SBFN trf, at parking pb & su to SBPL as filed         SBFN trf, taxi to hp rw12           SBFN trf, entry rw for bt    SBFN trf, hp rw12 lu & to to FL380      SBFN trf, airborne
+SBFN trf, at parking pb & su to SBPL as filed         SBFN trf, taxi to hp rw30           SBFN trf, entry rw for bt    SBFN trf, hp rw30 lu & to to FL380      SBFN trf, airborne
+
+13/31
+SBPL trf, after GEBIT inbound PTL leaving FL380, expecting rw13 VOR/DME             SBPL trf, PTL 4000 start final approach rw13
+SBPL trf, rw13 insight, final to land             SBPL trf, rw vacated, taxi to platform        SBPL trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

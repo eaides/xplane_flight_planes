@@ -1,0 +1,33 @@
+Origen:       SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Destino:      LEMD - BARAJAS - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL390
+Ruta:	
+	TREJO/F390 UL531 SIS UM529 VAS UM403 BSI UZ59 SIMUV UZ18 MAGNO UN866 TENPA/F380 UN866 APASO UN871 GDV UN858 TLD
+	TREJO/F390 UL531 SIS UM529 VAS UM403 BSI UZ59 SIMUV UZ18 (FLZ) MAGNO UN866 TENPA/F380 UN866 APASO UN871 GDV UN858 TLD
+Route (plain text) .. = dct . for airways			
+	SACO..TREJO.UL531.SIS.UM529.VAS.UM403.BSI.UZ59.SIMUV.UZ18.MAGNO.UN866.TENPA.UN866.APASO.UN871.GDV.UN858.TLD..LEMD
+	
+Distancia: 5520 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               12:10
+Tiempo + alternativo:       12:41
+Total combustible (tiempo): 12:26
+
+Peso Combustible: 147068 lbs, 13429 kgs 	reserva: 12862	8.75%		
+TOW: 280.845 (max.875000)   ZFW 251.240	 	V1:124   VR:136   V2:154   trim 5.4							
+
+Avion: 767-300 : 204 pax (220 lbs per pax)	(max = 269)	(max alt. 39000)
+Payload 67903
+Cost Index SUR: 60 / flaps despegue: 15
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B763/H
+
+Notas: 
+
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw17 via Interior A     SAEZ trf, hp rw17 lu & to follow PTA6A transition DORVO to FL370     SAEZ trf, airborne
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw11 via Interior F     SAEZ trf, hp rw11 lu & to follow PTA6B transition DORVO to FL370     SAEZ trf, airborne
+
+SBGL trf, after AKNUB leaving FL390 expect rw15 ils via EPGIP 1A rnav transition EGDUT    SBGL trf, EGDUT 6300 clear to ILS rw15     SBGL trf, full establshed ils rw15 to land       SBGL trf, rw vacated, taxi to parking      
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+

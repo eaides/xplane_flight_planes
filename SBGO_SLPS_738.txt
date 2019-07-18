@@ -1,0 +1,37 @@
+Origen:       SBGO - Santa Genoveva - Goiania, Brazil (alt 2450)
+Destino:      SLPS - SLPS - Salvador Ogaya - Puerto Suarez, Bolivia (alt 440)
+Alternativo:  SBDB - Bonito - Bonito, Brazil
+Flight Level: FL380
+Ruta:	
+	UBSUS UW29 GRD UZ42 CUB UA304 PSZ
+Route (plain text) .. = dct . for airways
+	SBGO..UBSUS.UW29.GRD.UZ42.CUB.UA304.PSZ..SLPS
+	SBGO UBSUS UW29 GRD UZ42 CUB UA304 PSZ SLPS
+ 
+Distancia: 586 nm + Distancia Alternativo: 157 nm
+
+Tiempo Vuelo:               01:39
+Tiempo + alternativo:       02:19
+Total combustible (tiempo): 03:04
+Peso Combustible: 18995 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 137  vr: 141  v2: 147 (162)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+14/32
+SBGO trf, at parking pb & su to SLPS as filed         SBGO trf, taxi to hp rw14           SBGO trf, entry rw for bt    SBGO trf, hp rw14 lu & to to FL380      SBGO trf, airborne
+SBGO trf, at parking pb & su to SLPS as filed         SBGO trf, taxi to hp rw32           SBGO trf, entry rw for bt    SBGO trf, hp rw32 lu & to to FL380      SBGO trf, airborne
+
+
+SBGO trf, inbound GNV leaving FL380, expecting rw32 VOR/DME             SBGO trf, GNV 5000 start final approach rw32
+SBGO trf, rw32 insight, final to land             SBGO trf, rw vacated, taxi to platform        SBGO trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

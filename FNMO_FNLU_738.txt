@@ -1,0 +1,37 @@
+Origen:       FNMO - Namibe - Namibe, Angola (alt 171)
+Destino:      FNLU - 4th Of February - Luanda, Angola (alt 238)
+Alternativo:  FNCA - Cabinda - Cabinda, Angola
+Flight Level: FL370
+Ruta:	
+	ETBON UN190 VNA
+Route (plain text) .. = dct . for airways
+	FNMO..ETBON.UN190.VNA..FNLU
+	FNMO ETBON UN190 VNA FNLU
+
+Distancia: 391 nm + Distancia Alternativo: 206 nm
+
+Tiempo Vuelo:               01:15
+Tiempo + alternativo:       02:01
+Total combustible (tiempo): 02:51
+Peso Combustible: 17133 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 141.1  (29.1% trim: 4.64)	v1: 1376  vr: 139  v2: 146 (161)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+08/26
+FNMO trf, at parking pb & su to FNLU as filed         FNMO trf, taxi to hp rw RW08           FNMO trf, entry rw for bt    FNMO trf, hp rw RW08 lu & to to FL370      FNMO trf, airborne
+FNMO trf, at parking pb & su to FNLU as filed         FNMO trf, taxi to hp rw RW26           FNMO trf, entry rw for bt    FNMO trf, hp rw RW26 lu & to to FL370 via ETBON1B      FNMO trf, airborne
+
+05/23 - 07/25
+FNLU trf, at ETBON leaving FL370, expecting rw23 ILS             FNLU trf, VNA 5000 clear for ils rw23
+FNLU trf, full established ils rw23 to land             FNLU trf, rw vacated, taxi to platform        FNLU trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

@@ -1,0 +1,31 @@
+Origen:       LGRP - Diagoras - Rodos - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL370
+Ruta:
+	NILAS UL609 SOLIN
+Route (plain text) .. = dct . for airways
+	LGRP..NILAS.UL609.SOLIN..LLBG
+
+Distancia: 429 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       02:00
+Total combustible (tiempo): 02:45
+Peso Combustible: 7119 ( 62.5 % - 62.5 % ) reserva: 2.300
+TOW: 44.825
+
+Avion: ERJ 145LR : 45 pax (220 lbs per pax) - 500 carga 
+Payload 9710 - ZFW 37047
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 300kn - Arriba de fl250 442kn (0.76 match)
+
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+LGRP trf, at parking xxx pb & su to LLBG as filed   LGRP trf, taxi to hp rw XRW via xx    (LGRP trf, crossing rw XX/XX)   (LGRP trf, entry rw XRW for backtrack)  LGRP trf, hp rw XRW lu & to follow XXXXX (transition XXX)   LGRP trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLBG trf, at/after XXX FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position XXX continue approach xxx for rw XX ils/vor-dme   LLBG trf, at XXX altitude xxx clear to ils/start approach rw XX   LLBG trf, full established ils/final rw XX to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

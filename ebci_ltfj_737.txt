@@ -1,0 +1,30 @@
+Destino:      EBCI - Charleroi Brussels South - Charleroi - Belgium
+Origen:       LTFJ - Sabhiha Gokcen - Istambul - Turkey
+Alternativo:  LTBF - Merkez - Balikesir - Turkey
+Flight Level: FL390
+Ruta:
+	SOPOK UY863 ETENO Y863 RUDUS UL984 RASPU UZ660 ROKEM UZ650 BERVA UM748 ERGOM DCT TEGRI UM748 OVDOT UL606 TIMUR L606 ADORU UL606 ATVEP
+Route (plain text) .. = dct . for airways
+	EBCI..SOPOK.UY863.ETENO.Y863.RUDUS.UL984.RASPU.UZ660.ROKEM.UZ650.BERVA.UM748.ERGOM..TEGRI.UM748.OVDOT.UL606.TIMUR.L606.ADORU.UL606.ATVEP..LTFJ
+	EBCI SOPOK UY863 ETENO Y863 RUDUS UL984 RASPU UZ660 ROKEM UZ650 BERVA UM748 ERGOM  DCT TEGRI UM748 OVDOT UL606 TIMUR L606 ADORU UL606 ATVEP LTFJ
+
+Distancia: 1223 nm + Distancia Alternativo: 100 nm
+Tiempo Vuelo:               03:08
+Tiempo + alternativo:       03:40
+Total combustible (tiempo): 04:25
+Peso Combustible: 23867 (99.9 % - 23.0 % - 99.9 % ) reserva: 4.5
+TOW: 131.8 (32.5% trim 3.08)	v1:125   vr:133   v2:140 (160)
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocity for Flight Plan: Above fl250 453kn (0.793 match)
+
+					
+Notas: 
+
+EBCI trf, at parking G2 pb & su to LTFJ as filed   EBCI trf, taxi to hp rw07 via south    EBCI trf, hp rw07 lu & to follow SOPOK4X to FL390   EBCI trf, airborne   
+EBCI trf, at parking G2 pb & su to LTFJ as filed   EBCI trf, taxi to hp rw25 via S S5    EBCI trf, hp rw25 lu & to follow SOPOK1U to FL390   EBCI trf, airborne   
+
+LTFJ at ATVEP FL390 start approach ATVEP1G for rw06 ils      LTFJ trf, leaving FL390 start descending, following ATVEP1G      LTFJ trf, FJ519 3000 clear to ils rw06     LTFJ trf, full established ils rw06 to land    LTFJ trf, rw vacated, taxi to platform     LTFJ trf, on blocks, engines off, flight plan close
+LTFJ at ATVEP FL390 start approach ATVEP1H for rw24 ils      LTFJ trf, leaving FL390 start descending, following ATVEP1H      LTFJ trf, FJ935 3500 clear to ils rw24     LTFJ trf, full established ils rw24 to land    LTFJ trf, rw vacated, taxi to platform     LTFJ trf, on blocks, engines off, flight plan close

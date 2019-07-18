@@ -1,0 +1,36 @@
+Origen:       SAOC - Area De Material - Rio Cuarto, Argentina (alt 1382)
+Destino:      SAVN - Antoine De Saint Exupery - San Antonio Oeste, Argentina (alt 85)
+Alternativo:  SAVY - El tehuelche - Puerto Madryn, Argentina 
+Flight Level: FL370
+Ruta:	
+	LYE/F370 UW15 DIL/F360 UA570 VIE
+Route (plain text) .. = dct . for airways
+	SAOC..LYE.UW15.DIL.UA570.VIE..SAVN
+	SAOC LYE UW15 DIL UA570 VIE SAVN
+ 
+Distancia: 546 nm + Distancia Alternativo: 69 nm
+
+Tiempo Vuelo:               01:57
+Tiempo + alternativo:       02:32
+Total combustible (tiempo): 03:17
+Peso Combustible: 20282 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 136  vr: 139  v2: 146 (161)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+05/23 18/36
+SAOC trf, at parking pb & su to SAVN as filed         SAOC trf, taxi to hp rw05           SAOC trf, entry rw for bt    SAOC trf, hp rw05 lu & to FL370      SAOC trf, airborne
+SAOC trf, at parking pb & su to SAVN as filed         SAOC trf, taxi to hp rw23           SAOC trf, entry rw for bt    SAOC trf, hp rw23 lu & to FL370      SAOC trf, airborne
+
+12/30
+SAVN trf, after ... inbound ... leaving FL360, expecting rw.. ILS trans. ...		SAVN trf, ... x000 clear ILS rw..
+SAVN trf, full established ils rw.. to land             SAVN trf, rw vacated, taxi to platform        SAVN trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

@@ -1,0 +1,30 @@
+Origen:       OAKB - KABUL INTL - Kabul - Afganistan
+Destino:      VIDP - INDIRA GANDHI Intl. - Delhi - India
+Alternativo:  VIDN - JOLLY GRANT - Dehradun - India
+Flight Level: FL370
+Ruta:
+	KODAD M875 SITAX A466 ELKUX
+Route (plain text) .. = dct . for airways
+	OAKB..KODAD.M875.SITAX.A466.ELKUX..VIDP  
+	OAKB DCT KODAD M875 SITAX A466 ELKUX DCT VIDP		OAKBVIDP01.FLTPLAN	
+
+Distancia: 598 nm + Distancia Alternativo: 112 nm
+Tiempo Vuelo:               01:44
+Tiempo + alternativo:       02:19
+Total combustible (tiempo): 03:05
+Peso Combustible: 16742 ( 97.0 % - 0.0 % - 97.0 % ) reserva: 4.5 
+TOW: 124.7
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+OAKB trf, at parking G1, pb & su to OAKB as filed
+OAKB trf, taxi to hp rw11 via MAIN     OAKB trf, hp rw11 lu & to follow MURAD3 RNAV transition KODAD to FL370   OAKB trf, airborne 
+Despegue 1203Z
+
+attention: in FSX rw29/11 not exists, use rw10/28 instead
+VIDP trf, after ELKUX leaving FL370 start descending, expecting rw28 ils via SAM6A approach    VIDP trf, position SAM continue approach for rw28 ils   VIDP trf, at FS711 3000 clear to ils rw28     VIDP trf, full established ils rw28 to land    VIDP trf, rw vacated on M, taxi to platform 45 via M P N R3  VIDP trf, on blocks, engines off, flight plan close
+
+
+

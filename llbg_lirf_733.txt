@@ -1,0 +1,35 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL360
+Ruta:
+	PURLA H1B SUVAS UL53 KAROL UL995 TEA UZ803 LAT 
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.TIGRA.L995.TEA.Z803.LAT..LIRF 
+
+Distancia: 1250 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               03:11
+Tiempo + alternativo:       03:45
+Total combustible (tiempo): 04:30
+Peso Combustible: 24443 ( 99.9 % - 25.0 % - 99.9 % ) reserva: 4.5
+TOW: 130.4
+
+Avion: 737-300 : 105 pax (220 lbs per pax)
+Empty Weight: 72392
+Payload:      23100
+ZFW:          95493	GW: 114430
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B733
+
+					
+Notas: 
+
+LLBG trf, at parking C3 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via M1 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking c3 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+
+Despegue: ????Z
+vertical TIGRA leaving FL380 descending FL370 over UL995 enter Italy air space
+
+LIRF trf, after AKAMO inbound TEA leaving FL380 start descending, expecting rw16L ils via LAT4A trans. CMP       LIRF at LAT FL130 start approach LATINA4A for rw16L ils transition CMP      LIRF trf, CMP 3000 clear to ils rw16L     LIRF trf, full established ils rw16L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+LIRF trf, after AKAMO inbound TEA leaving FL380 start descending, expecting rw34L ils via LAT1D trans. ROM       LIRF at LAT FL150 start approach LATINA1D for rw34L ils transition ROM      LIRF trf, ROM 4500 clear to ils rw34L     LIRF trf, full established ils rw34L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close

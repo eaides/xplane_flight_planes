@@ -1,0 +1,37 @@
+Origen:       FHAW - Ascension Aux AB - Ascension I., Ascension Island (alt 273)
+Destino:      SBFN - Fernando De Noronha - Fernando De Noronha, Brazil (alt 180)
+Alternativo:  SBNT - Augusto Severo - Natal, Brazil (alt )
+Flight Level: FL360
+Ruta:	
+	DAGAM UL695 NOISE UN857 UTRAM
+Route (plain text) .. = dct . for airways
+	FHAW..DAGAM.UL695.NOISE.UN857.UTRAM ..SBFN
+	FHAW DAGAM UL695 NOISE UN857 UTRAM SBFN
+
+Distancia: 1430 nm + Distancia Alternativo: 209 nm
+
+Tiempo Vuelo:               03:26
+Tiempo + alternativo:       04:13
+Total combustible (tiempo): 04:57
+Peso Combustible: 30417 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 146  vr: 150  v2: 154 (169)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+14/32
+FHAW trf, at parking pb & su to SBFN as filed         FHAW trf, taxi to hp rw RW14           FHAW trf, entry rw for bt    FHAW trf, hp rw RW14 lu & to to FL360      FHAW trf, airborne
+FHAW trf, at parking pb & su to SBFN as filed         FHAW trf, taxi to hp rw RW32           FHAW trf, entry rw for bt    FHAW trf, hp rw RW32 lu & to to FL360      FHAW trf, airborne
+
+12/30
+SBFN trf, inbound UTRAM leaving FL360, expecting rw12 VOR/DME             SBFN trf, FNR 4000 start final approach rw12
+SBFN trf, rw12 insight, final to land             SBFN trf, rw vacated, taxi to platform        SBFN trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

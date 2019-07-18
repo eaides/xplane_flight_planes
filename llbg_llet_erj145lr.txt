@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel				talmi2e 5004 
+Destino:      LLET - Eilat - Eilat - Israel					
+Alternativo:  LLBG - Ben Gurion - Tel Aviv - Israel
+Flight Level: FL210
+Ruta:
+	TALMI UJ10 LOT
+Route (plain text) .. = dct . for airways
+	LLBG..TALMI.J10.LOT..LLET
+
+Distancia: 346 nm (173x2 for non stop trip return to LLBG) + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:50
+Tiempo + alternativo:       01:30
+Total combustible (tiempo): 02:40
+Peso Combustible: 6834 ( 60 % - 00.0 % - 60 % ) reserva: 2.3 (34.17%)
+TOW: 43.881
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via M1 K R W1     
+LLBG trf, at parking L3 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via L N R W1     
+LLBG trf, at parking L3 pb & su to LLET as filed   LLBG trf, taxi to hp rw08 via L N R K S     
+LLBG trf, hp rw26 W1 lu & to follow TALMI2E initial 90000    LLBG trf, airborne
+LLBG trf, hp rw08 lu & to follow TALMI2B initial 90000    LLBG trf, airborne
+Despegue: ????Z
+
+LLET trf, at KINAR leaving FL210 descending to Eilat, expecting rw03 visual   LLET trf, after KITOR entry downwind left 03 2500      LLET trf, downwind left 03 2500   
+LLET trf, at KINAR leaving FL210 descending to Eilat, expecting rw03 RNAV visual   LLET trf, after LOT start RNAV visual rw03 at 2500      LLET trf, inbound rw03 
+LLET trf, final rw 03 to land    LLET trf, rw vacated, taxi to platform 3      LLET trf, on blocks, engines off, flight plan close                  VREF 127 (135)

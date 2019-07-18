@@ -1,0 +1,27 @@
+Origen:       WAMM - Ratulangi - Manado - Indonesia
+Destino:      WALL - Sultan Ali Muhamad Sulaiman Sepinggan - Balikpapan - Indonesia
+Alternativo:  WAFF - Mutiara - Palu - Indonesia
+Flight Level: FL400
+Ruta:
+	GONTA W51 PAL W36 DORIA
+Route (plain text) .. = dct . for airways
+	WAMM GONTA W51 PAL W36 DORIA WALL
+
+Distancia: 517 nm + Distancia Alternativo: 182 nm
+Tiempo Vuelo:               01:34
+Tiempo + alternativo:       02:17
+Total combustible (tiempo): 03:02
+Peso Combustible: 16568 (96.0 % - 0.0 % - 96.0 %) reserva: 4.5 wa
+TOW: 124.5 (33.1% trim: 2.66)   v1: 120    vr: 128    v2: 136
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 18/36
+WAMM trf, at parking 9 pb/su to WAMM as filed      WALL trf, taxi to hp rw18 via A           WAMM trf, hp rw18 lu & to GONTA1 @FL400       	WAMM trf, airborne
+WAMM trf, at parking 9 pb/su to WAMM as filed      WALL trf, taxi to hp rw36 via D           WAMM trf, hp rw36 lu & to DEP36 @FL400       	WAMM trf, airborne
+
+destination rw: 07/25
+WALL trf, after DORIA leaving FL400, expecting rw25 ILS via ECHO trans BPN        WALL trf, at BPN clear for rw25 ILS        WALL trf, full established ils rw26 to land       WALL trf, rw vacated, taxi to platform    WALL trf, on blocks, engines off, flight plan close

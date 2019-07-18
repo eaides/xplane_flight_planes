@@ -1,0 +1,32 @@
+Origen:       MHTG - Toncontin - Tegucigalpa - Honduras
+Destino:      KMIA - Miami Int. - Miami - Florida - USA
+Alternativo:  KRSW - Southwest Florida Intl - Ft Myers - Florida - USA
+Flight Level: FL390
+Ruta:
+	BTO UR645 ROA UB500 UCL UG448 TADPO G448 MTH
+Route (plain text) .. = dct . for airways
+	MHTG..BTO.UR645.ROA.UB500.UCL.UG448.TADPO.G448.MTH..KMIA
+	MHTG DCT BTO UR645 ROA UB500 UCL UG448 TADPO G448 MTH DCT KMIA			MHTGKMIA01
+
+Distancia: 835 nm + Distancia Alternativo: 91 nm
+Tiempo Vuelo:               02:16
+Tiempo + alternativo:       02:47
+Total combustible (tiempo): 03:32
+Peso Combustible: 19258 ( 99.9 % - 7 % - 99.9 % ) reserva: 4.5
+TOW: 127.2
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+MHTG trf, at parking 1 pb & su to KIMA as filed   MHTG trf, taxi to hp rw 02 via A    MHTG trf, hp rw 02 lu & folow RNAV departure/BTO       MHTG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+KMIA trf, after TADPO leaving FL390, expecting rw09 ILS via STAR DVALL1      KMIA trf, at MTH start DVALL1 approach for rw09 ILS    KMIA trf, at FOGSO 7000 descending 3000 clear to ILS rw09     KMIA trf, full established ILS rw09 land    KMIA trf, rw vacated, taxi to platform (xx via xxx xxx)   KMIA trf, on blocks .., engines off, flight plan close

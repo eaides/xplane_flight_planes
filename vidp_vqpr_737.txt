@@ -1,0 +1,32 @@
+Origen:       VIDP - INDIRA GANDHI Intl. - Delhi - India
+Destino:      VQPR - PARO BUTHAN - Paro - Buthan
+Alternativo:  VGSD - SAIDPUR - Saidpur - Bangladesh
+Flight Level: FL370
+Ruta:
+	ALI R460 LLK G598 SMR G336 KTM G348 SUBSU DCT TAKTI PRO
+
+Route (plain text) .. = dct . for airways
+	VIDP..ALI.R460.LLK.G598.PARSA..SMR..KTM.G348.SUBSU..TAKTI..PRO..VQPR			SMR is VOR/DMW SIMARA, TAKTI is N27E089
+	VIDP DCT ALI R460 LLK G598 SMR G336 KTM G348 SUBSU DCT TAKTI PRO DCT VQPR		VIDPVQPR01.FLTPLAN	
+
+Distancia: 748 nm + Distancia Alternativo: 112 nm
+Tiempo Vuelo:               02:04
+Tiempo + alternativo:       02:37
+Total combustible (tiempo): 03:22
+Peso Combustible: 18682 ( 99.9 % - 5.0 % - 99.9 % ) reserva: 4.5 
+TOW: 126.6
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+VIDP trf, at parking 45, pb & su to VIDP as filed
+VIDP trf, taxi to hp rw28 via R L1 P        VIDP trf, hp rw28 lu & to follow ALIGARH4A?? to FL370   VIDP trf, airborne 
+VIDP trf, taxi to hp rw10 via R3 S N1 N     VIDP trf, hp rw10 lu & to follow MATEX transition ALI to FL370   VIDP trf, airborne 
+Despegue 1203Z
+
+VQPR trf, at MECHI leaving FL370 start descending, expecting rw15 visual via TAKTI/PRO    VQPR trf, position TAKTI 16000 continue approach for rw15 visual   VQPR trf, at PRO 13500 change to visual descending 11500     VQPRO trf, over VQPR 11500 start approach visual rw15     VQPR trf, final rw15 to land    VQPR trf, rw vacated, taxi to platform   VQPR trf, on blocks, engines off, flight plan close
+VQPR trf, at MECHI leaving FL370 start descending, expecting rw33 visual via TAKTI/ over de river    VQPR trf, position TAKTI 16000 change to visual for rw33 visual        VQPR trf, final rw33 to land    VQPR trf, rw vacated, taxi to platform   VQPR trf, on blocks, engines off, flight plan close
+
+
+

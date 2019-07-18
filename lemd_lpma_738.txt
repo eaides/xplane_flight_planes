@@ -1,0 +1,25 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEMA - Funchal - Madeira - Portugal
+Alternativo:  GCXO - 
+Flight Level: FL370
+
+324/041	P003
+
+Ruta:
+	CCS2B CCS G7 ELVAR UN975 NARTA B18 SNT SNT4A
+	CCS G7 ELVAR UN975 NARTA B18 SNT
+Route (plain text) .. = dct . for airways			positionj 548 (t4-s)
+	LEMD..CCS.G7.ELVAR.UN975.NARTA.B18.SNT..LPMA
+
+Distancia: 314 nm + Distancia Alternativo: 71 nm
+Tiempo Vuelo:               02:19
+Tiempo + alternativo:       03:22
+Total combustible (tiempo): 04:08
+Peso Combustible: 22739 == reserva: 7.8
+TOW: 45.180
+
+Avion: 737-800: 152 pax
+Payload 35.0
+Cost Index SUR: 19			241/038 - P007
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+

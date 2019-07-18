@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LTBA - Ataturk - Istambul - Turkey
+Alternativo:  LTBF - Merkez - Balikesir - Turkey
+Flight Level: FL400
+Ruta:
+	PURLA UH1 GITLA UW13A VELOX UR18 ALSUS UB15 VESAR UB545 KFK UA16 DEKEK
+
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.UH1.GITLA.UW13A.VELOX.UR18.ALSUS.UB15.VESAR.UB545.KFK.UA16.DEKEK..LTBA
+
+Distancia: 676 nm + Distancia Alternativo: 91 nm
+Tiempo Vuelo:               01:51
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07
+Peso Combustible: 19528 ( 99.9 % - 7.0 % - 99.9 % ) reserva: 4.5
+TOW: 127.2
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+					
+Notas: 
+
+LLBG trf, at parking C3 pb/su to LTBA as filed   LLBG trf, taxi to hp rw26 W1 via M1 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA2E transition GITLA to FL400  LLBG trf, airborne 
+LLBG trf, at parking C3 pb/su to LTBA as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition GITLA to FL400      LLBG trf, airborne 
+
+Despegue: 21:47Z
+
+LTBA trf, at KARGI leaving FL400 start descending, expecting rw35R ils via DEKEK1D trans. ERMAN        LTBA at DEKEK start approach DEKEK1D for rw35R ils trans. ERMAN      LTBA trf, BA577 2700 clear to ils rw35R     LTBA trf, full established ils rw35R to land    LTBA trf, rw vacated, taxi to platform 105    LTBA trf, on blocks, engines off, flight plan close
+LTBA trf, at KARGI leaving FL400 start descending, expecting rw35L ils via DEKEK1A trans. ERMAN        LTBA at DEKEK start approach DEKEK1A for rw35L ils trans. ERMAN      LTBA trf, BA581 2700 clear to ils rw35L     LTBA trf, full established ils rw35L to land    LTBA trf, rw vacated, taxi to platform 105    LTBA trf, on blocks, engines off, flight plan close
+LTBA trf, after KARGI leaving FL400 start descending, expecting rw17L ils via DEKEK1B       LTBA at DEKEK start approach DEKEK1B for rw17L ils       LTBA trf, BA881 3000 clear to ils rw17L     LTBA trf, full established ils rw17L to land    LTBA trf, rw vacated, taxi to platform 105    LTBA trf, on blocks, engines off, flight plan close
+

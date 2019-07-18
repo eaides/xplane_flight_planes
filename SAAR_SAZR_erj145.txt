@@ -1,0 +1,29 @@
+Origen:       SAAR - Rosario - Rosario, Argentina
+Destino:      SAZR - Santa Rosa - Santa Rosa, Argentina
+Alternativo:  SAZB - Comandante Espora - Bahia Blanca, Argentina
+Flight Level: FL280
+Ruta:	
+	LYE UW62 GPI
+Route (plain text) .. = dct . for airways
+	SAAR..LYE.UW62.GPI..SAZR
+	SAAR LYE UW62 GPI SAZR
+
+Distancia: 281 nm + Distancia Alternativo: 163 nm
+Tiempo Vuelo:               01:03
+Tiempo + alternativo:       01:44
+Total combustible (tiempo): 02:29
+Peso Combustible: 6489 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+02/20
+SAAR trf, at parking 3 pb & su to SAZR as filed   SAAR trf, taxi to hp rw02    SAAR trf, hp rw02 lu & to to FL280   SAAR trf, airborne
+SAAR trf, at parking 3 pb & su to SAZR as filed   SAAR trf, taxi to hp rw20    SAAR trf, hp rw20 lu & to to FL280   SAAR trf, airborne
+
+01/19
+SAZR trf, after EDNOR inbound GPI leaving FL280, expecting rw19 ILS     SAZR trf, 20nm VOR altitude 3000 clear for ILS rw19   SAZR trf, full established ils rw19 to land    SAZR trf, rw vacated, taxi to platform (xx via xxx xxx)   SAZR trf, on blocks, engines off, flight plan close
+SAZR trf, after ... leaving FL270, expecting rw .. VOR/DME     SAZR trf, altitu12de ..00 final rw.. to land    SAZR trf, rw vacated, taxi to platform (xx via xxx xxx)   SAZR trf, on blocks, engines off, flight plan close

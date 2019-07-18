@@ -1,0 +1,25 @@
+Origen:       SBGL - GALEAO-ANTONIO C JOBIM INTL - RIO DE JANEIRO - BRAZIL
+Destino:      SAEZ - EZEIZA INTL MINISTRO PISTARINI - BUEBOS AIRES - ARGENTINA
+Alternativo:  SUMU - CARRASCO INTL/GEN C L BERISSO - MONTEVIDEO - URUGUAY
+Flight Level: FL380
+
+Ruta:   AKNUB UN857 MLO UM792 CRR UA310 DAGUS UA306 SARGO
+
+Route (plain text) .. = dct . for airways    SBGL..AKNUB.UN857.MLO.UM792.CRR.UA310.DAGUS.UA306.SARGO..SAEZ
+        
+Distancia: 1117 nm + Distancia Alternativo: 124 nm
+Tiempo Vuelo:               02:55
+Tiempo + alternativo:       03:30
+Total combustible (tiempo): 04:10
+Peso Combustible: 22979 ( 100 % - 19.9 % - 100 % ) reserva: 4.5 - TOW: 129.0
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - Payload 23088 - Cost Index SUR: 60
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SBGL trf, at parking 9 pb & su to SAEZ as filed   SBGL trf, taxi to hp rw 10 via L1 K N O    SBGL trf, hp rw 10 lu & to follow AKNUB1A to FL380   SBGL trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SAEZ trf, at/after XXX FL380 start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   SAEZ trf, position XXX continue approach xxx for rw XX ils/vor-dme   
+SAEZ trf, at GESTA altitude 2500 clear to ils rw35   SAEZ trf, full established ils rw 35 to land    SAEZ trf, rw vacated, taxi to platform (xx via xxx xxx)   SAEZ trf, on blocks, engines off, flight plan close

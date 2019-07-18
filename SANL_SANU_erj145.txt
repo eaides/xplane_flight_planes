@@ -1,0 +1,27 @@
+Origen:       SANL - Capitan V. Almandos Almonacid - La Rioja, Argentina (alt. 1437)
+Destino:      SANU - San Juan - San Juan, Argentina (alt. 1959)
+Alternativo:  SAME - El Plumerillo - Mendoza, Argentina
+Flight Level: FL200
+Ruta:	
+	DAMAP W3 ASOTA
+Route (plain text) .. = dct . for airways	
+	SANL..DAMAP.W3.ASOTA..SANU
+	SANL DAMAP W3 ASOTA SANU
+
+Distancia: 156 nm + Distancia Alternativo: 78 nm
+Tiempo Vuelo:               00:46
+Tiempo + alternativo:       01:15
+Total combustible (tiempo): 02:00
+Peso Combustible: 5343 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+02/20
+SANL trf, at parking pb & su to SANU as filed   SANL trf, taxi to hp rw..    	SANL trf, entry rw for backtrack       SANL trf, hp rw.. LU&TO FL200     SANL trf, airborne
+
+18/36
+SANU trf, 25nm inbound ASOTA leaving FL200, expecting rw18 VOR/DME via AKROL2       SANU trf, AKROL FL120 start AKROL2 for rw18 VOR/DME      SANU trf, AKROL 6000 start final approach rw18    SANU trf, final rw18, to land    SANU trf, rw vacated, taxi to platform (xx via xxx xxx)   SANU trf, on blocks, engines off, flight plan close

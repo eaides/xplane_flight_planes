@@ -1,0 +1,28 @@
+Origen:       SARP - Liberador Gral D Jose De San - Posadas, Argentina
+Destino:      SARF - Formosa - Formosa, Argentina
+Alternativo:  SARE - Resistencia intl - Resistencia, Argentina
+Flight Level: FL240
+Ruta:	
+	COATI A430 VAS A428 FSA
+Route (plain text) .. = dct . for airways
+	SARP..COATI.A430.VAS.A428.FSA..SARF
+	SARP COATI A430 VAS A428 FSA SARF
+
+Distancia: 223 nm + Distancia Alternativo: 87 nm
+Tiempo Vuelo:               00:55
+Tiempo + alternativo:       01:26
+Total combustible (tiempo): 02:11
+Peso Combustible: 5758 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+01/19
+SARP trf, at parking pb & su to SARF as filed   SARP trf, taxi to hp rw01    	SARP trf, entry rw for BT	SARP trf, hp rw01 lu & TO FL240     SARP trf, airborne
+SARP trf, at parking pb & su to SARF as filed   SARP trf, taxi to hp rw19       SARP trf, entry rw for BT	SARP trf, hp rw19 lu & TO FL240     SARP trf, airborne
+
+04/22
+SARF trf, vertical ... inbound FSA leaving FL240, expecting rw.. ILS     SARF trf, FSA 4000 start clear for ILS rw..    SARF trf, full established ILS rw.. to land    SARF trf, rw vacated, taxi to platform (xx via xxx xxx)   SARF trf, on blocks, engines off, flight plan close

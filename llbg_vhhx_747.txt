@@ -1,0 +1,46 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      VHHX - Kai Tak - Hong Kong - China
+Alternativo:  ZGGG - Guanzhou Baiyun - Guanzhou - China
+Flight Level: FL370
+Ruta:                                                                                                                                                                                                                                                                              	
+	PURLA UH1 GITLA/N490F310 UW13A VELOX UR18 ALSUS UL620 VESAR UL619 MUT UA285 SIV UW706 TBN UG261 NOLGA N61 KUFAN A921 IPLED G96 MASAV/N490F330 G155 SARIN A368 UGPEL/N490F350 A368 FKG B215 NUKTI W66 GOBIN B330 DOREX/N490F370 B330 POU R473 SIERA
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.UH1.GITLA.UW13A.VELOX.UR18.ALSUS.UL620.VESAR.UL619.MUT.UA285.SIV.UW706.TBN.UG261.NOLGA.N61.KUFAN.A921.IPLED.G96.MASAV.G155.SARIN.A368.FKG.B215.NUKTI.W66.GOBIN.B330.POU.R473.SIERA..VHHH	
+Distancia: 5058 nm + Distancia Alternativo: 73 nm
+Tiempo Vuelo:               10:38
+Tiempo + alternativo:       11:07
+Total combustible (tiempo): 11:52
+
+Peso Combustible: 328132 ( 100% - 100% - 71.2% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 60000 18.33%		fs_center: 263513-25206(8.73%) = 288719 
+TOW: 842.340 (max.875000)   ZFW 514.208	  V1:151 VR:167 V2:178 trim 6.0							747fuelcalc: 339920 - 37950 (10.78%) 
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas:
+
+LLBG trf, at parking C7 pb & su to VHHX as filed   LLBG trf, taxi to hp rw26 via M M1 K R W1    LLBG trf, hp rw26 W1 lu & to follow PURLA2E transition GITLA to FL310  LLBG trf, airborne
+
+VHHX trf, after ... leaving FL370 expecting rw13 via ... transition ...        VHHX trf, at ... start .... transition ..., expect rw13 ILS  
+VHHX trf, at .... altitude .000 clear to approach rw13 ILS	VHHX trf, establishe ILS rw13 to land	VHHX trf, rw vacated on ... taxi to parking
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start 											15:35
+encender motores									15:55	09:39
+taxi 											15:59	09:42
+despegue ----------------------------------------------------------------------------	16:03	09:48
+center off ------------------------ 2 en centers --------------------- (+-2:20) -----	18:20	12:28
+over G96 vertical MASAV, step climb from FL310 to FL330 -------------- (+-2:30) -----	18:35	12:50 (BODSI)
+over A368 vertical UGPEL, step climb from FL330 to FL350 ------------- (+-5:00) -----	21:04	15:12 (TCH)
+cerrar xfeed --------------------------------------------------------- (+-7:20) -----	23:20	17:27
+over B330 vertical DOREX, step climb from FL350 to FL370 ------------- (+-7:45) -----	23:54	18:06 (OMBOM)
+at QP program arrive, ----------- (35 min before arrive) ------------- (+-8:50) -----	00:57
+descenso despues de GYA --------- (25 min before arrive) ------------- (+-9:00) -----	01:16
+aterrizo --------------------------------------------- 30/148 -------- (+-9:30)------   01:40 ??
+
+combustible final: ------------------------------------------------------------------  49.710
+

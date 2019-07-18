@@ -1,0 +1,29 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL370
+Ruta:
+	PINAR/KN460FL360 UN870 BCN UN725 ORKUM UM603 SOR UM736 CRN UM601 RUTOM/KN460FL390 UM601 MIL UN134 SOLIN
+Route (plain text) .. = dct . for airways
+	LEMD..PINAR.UN870.BCN.UN725.ORKUM.UM603.SOR.UM736.CRN.UM601.MIL.UN134.SOLIN..LLBG
+
+Distancia: 1955 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               04:35
+Tiempo + alternativo:       05:05
+Total combustible (tiempo): 05:50
+Peso Combustible: 33775 ( 100 % - 57.3 % - 100 % ) reserva: 2.8 
+TOW: 155.9		trim 5.75	v1: 133		vr: 136		v2: 145
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+
+Notas: 
+
+LEMD trf, at parking T104 ? pb & su to LLBG as filed	LEMD trf, taxi to hp rw 15R via I9 G4 M10 M11 M12 LB    LEMD trf, hp rw 15R lu & to follow PINAR2B to FL360   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking 550 (4S) pb & su to LLBG as filed  LEMD trf, taxi to hp rw 14L via EB6 G14 K1    LEMD trf, hp rw 14L lu & to follow PINA1UV to FL360   LEMD trf, airborne - Despegue 1203Z
+
+vertical RUTOM FL360 over UM601 climb FL370 for even flight level after italian airspace
+
+LLBG trf, at/after XXX FL370 start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position SOLIN continue approach SOLIN1A for rw30 vor-dme transition GBN   
+LLBG trf, at BGN altitude 4000 start approach rw 30   LLBG trf, final rw 30 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

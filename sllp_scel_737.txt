@@ -1,0 +1,31 @@
+Origen:       SLLP - El Alto Intl - La Paz - Bolivia
+Destino:      SCEL - Arturo Merino Benitez - Santiago - Chile
+Alternativo:  SAME -  Mendoza - Mendoza - Argentina
+Flight Level: FL400
+Ruta:
+	IROBO UL309 TBN
+Route (plain text) .. = dct . for airways
+	SLLP..IROBO.UL309.TBN..SCEL
+	SLLP DCT IROBO UL309 TBN DCT SCEL		SLLPSCEL01
+
+Distancia: 1024 nm + Distancia Alternativo: 106 nm
+Tiempo Vuelo:               02:41
+Tiempo + alternativo:       03:15
+Total combustible (tiempo): 04:00
+Peso Combustible: 21562 ( 99.9 % - 15 % - 99.9 % ) reserva: 4.5
+TOW: 129.5
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SLLP trf, at parking P2 pb & su to SCEL as filed   SLLP trf, taxi to hp rw10/28 via A RW/B   SLLP entry rw on A for backtrack to hp rw10      SLLP trf, hp rw 10/28 lu & to follow IROBO1 departure       SLLP trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SCEL trf, at 20nm inbound ELAKO leaving FL390, expecting rw 10 ILS-Y transition ELAKO        SCEL trf, at D10.0 PAZ clear to ILS-Y rw 10     SCEL trf, full established ILS rw 10 to land    SCEL trf, rw vacated, taxi to platform (xx via xxx xxx)   SCEL trf, on blocks .., engines off, flight plan close

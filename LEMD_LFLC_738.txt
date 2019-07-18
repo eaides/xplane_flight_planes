@@ -1,0 +1,46 @@
+Origen:     	LEMD - Barajas - Madrid, Spain 				alt. 2000 ft.
+	RWY15L largo: 11483 ft.
+	RWY15R largo: 13451 ft.
+	RWY18L largo: 11483 ft.
+	RWY18R largo: 14268 ft.
+	RWY33L largo: 13451 ft.
+	RWY33R largo: 11483 ft.
+	RWY36L largo: 14268 ft.
+	RWY36R largo: 11483 ft.
+Destino:	LFLC - Clermont-Ferrand/Auvergne - Clermont-Ferrand/Auverg, France	alt. 1090 ft.
+	RWY01 largo: 2297 ft.
+	RWY08 largo: 9892 ft.
+	RWY08L largo: 2953 ft.
+	RWY19 largo: 2297 ft.
+	RWY26 largo: 9892 ft.
+	RWY26R largo: 2953 ft.
+Alternativo: 	LFQG
+Flight Level: FL360
+Ruta:
+	RBO R870 BRITO G5 LARDA UN871 MEZIN DCT PIMAK
+Route (plain text) .. = dct . for airways
+	LEMD..RBO.R870.BRITO.G5.LARDA.UN871.MEZIN..PIMAK..LFLC
+	
+Distancia: 517 nm + Distancia Alternativo: 73 nm
+Ti0empo Vuelo:              01:31
+Tiempo + alternativo:       02:00
+Total combustible (tiempo): 02:45
+Peso Combustible: 18544		reserva: 6.5
+TOW: 142.0
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw10 via main 3    UHMM entry rw for bt		UHMM trf, hp rw 10 lu & to follow OSKET1     UHMM trf, airborne
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw28 via main 1    UHMM entry rw for bt		UHMM trf, hp rw 28 lu & to follow OSKET3     UHMM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+UHPP trf, at EGONI FL370, expecting rw... ILS via .... transition ....		UHPP trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

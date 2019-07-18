@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LGAV - Eleftherios Venizelos Int. - Athens - Greece
+Alternativo:  LGBL - Almiros - Nea Anchialos - Greece
+Flight Level: FL380
+
+Ruta:
+	PURLA H1B SUVAS UL53 KAROL UL995 VARIX
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.H1B.SUVAS.UL53.KAROL.UL995.VARIX..LGAV
+
+Distancia: 656 nm + Distancia Alternativo: 94 nm
+Tiempo Vuelo:               01:45
+Tiempo + alternativo:       02:17
+Total combustible (tiempo): 03:02
+Peso Combustible: 49010 lbs = 22231 kgs ( 99.9% - 0% - 99.9% ) res: 4.5 
+TOW: 125.2 (33.3% - trim 2.63)	v1:126  vr:129  v2: 144
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B77L/H
+					
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LGAV as filed   LLBG trf, taxi to hp rw26 via M1 K R W1     
+LLBG trf, at parking C5 pb to release point 15  & su to LGAV as filed   LLBG trf, taxi to hp rw26 via M2 K R W1     
+LLBG trf, at parking L3 pb & su to LGAV as filed   LLBG trf, taxi to hp rw26 via L N R W1     
+LLBG trf, hp rw26 W1 lu & to follow PURLA2E    LLBG trf, airborne - Despegue: ????Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LGAV trf, after AKINA leaving FL380 start descending, expecting rw21R ils via VARIX1A transition KRO   LGAV trf, position VARIX continue approach VARIX1A/KRO for rw21R ils   LGAV trf, at KRO altitude 6000 clear to ils rw21R   LGAV trf, full established ils rw21R to land    LGAV trf, rw vacated, taxi to platform (xx via xxx xxx)   LGAV trf, on blocks, engines off, flight plan close

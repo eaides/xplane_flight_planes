@@ -1,0 +1,28 @@
+Origen:       LTBA - Ataturk - Istambul - Turkey                                
+Destino:      LHBP - Liszt Ferenc Intl. - Budapest - Hungary
+Alternativo:  LHPA - Papa - Papa - Hugary
+Flight Level: FL400
+Ruta:
+	VADEN N618 SOMOV UY553 DEGET UP184 ABONY
+	
+Route (plain text) .. = dct . for airways
+	LTBA..VADEN.N618.SOMOV.UY553.DEGET.UP184.ABONY..LHBP
+
+Distancia: 571 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               01:37
+Tiempo + alternativo:       02:06
+Total combustible (tiempo): 02:51
+Peso Combustible: 18682 ( 99.9 % - 5.0 % - 99.9 % ) reserva: 4.5
+TOW: 126.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+					
+Notas: 
+
+LTBA trf, at parking 105 pb/su to LHBP as filed   LTBA trf, taxi to hp rw35R via D1 N B8 C B11 (K E H G1)  LTBA trf, hp rw35R lu & to follow VADEN1Z to FL400   LTBA trf, airborne 
+
+LHBP trf, after DEGET inbound ABONY leaving FL400 start descending, expecting rw31R ils via ABONY3L        LHBP at ABONY start approach ABONY3L for rw31L ils       LHBP trf, BP434 6000 clear to ils rw31L     LHBP trf, full established ils rw31L to land    LHBP trf, rw vacated, taxi to platform     LHBP trf, on blocks, engines off, flight plan close
+

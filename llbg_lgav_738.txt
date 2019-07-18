@@ -1,0 +1,32 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LGAV - Eleftherios Venizelos Int. - Athens - Greece
+Alternativo:  LGKL -
+Flight Level: FL360
+Ruta:
+
+	PURLA DCT SUVAS UL53 KAROL UL995 VARIX
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.VARIX..LGAV
+
+Distancia: 656 nm + Distancia Alternativo: 94 nm
+Tiempo Vuelo:               01:56
+Tiempo + alternativo:       02:34
+Total combustible (tiempo): 03:34
+Peso Combustible: 19986 		res: ???
+
+
+Avion: 737-800 : 184 pax (220 lbs per pax)
+Payload 42.3
+Cost Index SUR: 26		-- 237/063 -- P002
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+					
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via M1 K R W1     
+LLBG trf, at parking L3 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via L N R W1     
+LLBG trf, hp rw26 W1 lu & to follow TALMI2E initial 90000   LLBG trf, airborne - Despegue: ????Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LGAV trf, at AKINA leaving FL380 start descending, expecting rw21R ils via VARIX1A transition KRO   LGAV trf, position VARIX continue approach VARIX1A/KRO for rw21R ils   LGAV trf, at KRO altitude 6000 clear to ils rw21R   LGAV trf, full established ils rw21R to land    LGAV trf, rw vacated, taxi to platform (xx via xxx xxx)   LGAV trf, on blocks, engines off, flight plan close

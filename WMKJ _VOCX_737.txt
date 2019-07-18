@@ -1,0 +1,28 @@
+Origen:       WMKJ - Sultan Ismail - Johor Bahru - Malaysia
+Destino:      VOCX - Car Nicobar AB - Car Nicobar - India
+Alternativo:  VOPB - Port Blair - Port Blair - India
+Flight Level: FL400
+Ruta:
+	TERUS B466 APASI
+Route (plain text) .. = dct . for airways
+	WMKJ TERUS B466 APASI VOCX 
+	WMKJ..TERUS.B466.APASI..VOCX 
+
+Distancia: 837 nm + Distancia Alternativo: 150 nm
+Tiempo Vuelo:               02:10
+Tiempo + alternativo:       02:49
+Total combustible (tiempo): 03:34
+Peso Combustible: 19690 (99.9 % - 8.5 % - 99.9 %) reserva: 4.5 wa
+TOW: 127.6 0trim: 2.80)   v1: 122    vr: 12830    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 16/34
+WMKJ trf, at parking 4 pb/su to VOCX as filed      WMKJ trf, taxi to hp rw16 via rw        WMKJ trf, entry rw to b/t       WMKJ trf, hp rw13 lu & to JOHOR1E trans TERUS @FL400       	WMKJ trf, airborne
+WMKJ trf, at parking 4 pb/su to VOCX as filed      WMKJ trf, taxi to hp rw34 via rw        WMKJ trf, entry rw to b/t       WMKJ trf, hp rw31 lu & to JOHOR1F trans TERUS @FL400       	WMKJ trf, airborne
+
+destination rw: 02/20
+VOCX trf, inbound APASI leaving FL400, expecting rw02 visual        VOCX trf, final rw02 to land       VOCX trf, rw vacated, taxi to platform    VOCX trf, on blocks, engines off, flight plan close

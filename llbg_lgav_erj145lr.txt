@@ -1,0 +1,29 @@
+Origen:       LGAV - ELEFTHERIOS VENIZELOS INTL - Athens - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL370
+Ruta:
+	VARIX UL995 RDS UL609 SOLIN
+Route (plain text) .. = dct . for airways
+	LGAV..VARIX.UL995.RDS.UL609.SOLIN..LLBG
+
+Distancia: 647 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:55
+Tiempo + alternativo:       02:30
+Total combustible (tiempo): 03:15
+Peso Combustible: 8315 ( 73 % - 73 % ) reserva: 2309 
+TOW: 45.361
+
+Avion: ERJ 145LR : 45 pax (220 lbs per pax) - 500 carga (85%)
+Payload 9710 
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo TAS: Hasta fl250 300kn - Arriba de fl250 440kn (0.76 match)
+ICAO aircraft: E45X
+					
+					
+Notas: 
+
+LGAV trf, at parking A34 pb & su to LLBG as filed   LGAV trf, taxi to hp rw03R via I C D2     LGAV trf, hp rw03R W1 lu & to follow VARIX1E     LGAV trf, airborne - Despegue: ????Z
+
+
+LLBG trf, leaving FL370 start descending, expecting rw08 ils via SOLIN1B      LLBG at SOLIN 9000 start approach SOLIN1B for rw08 ils      LLBG trf, BOAZZ 3000 clear to ils rw08     LLBG trf, full established ils rw08 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close

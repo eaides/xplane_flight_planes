@@ -1,0 +1,35 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SANT - Tucuman
+Alternativo:  SASA
+Flight Level: FL240
+Ruta:	
+	ATOVO W5 ROS T672 ERE W8 ANGEN
+Route (plain text) .. = dct . for airways
+	SAEZ..ATOVO.W5.ROS.T672.ERE.W8.ANGEN..SANT
+
+Distancia: 602 nm + Distancia Alternativo: 120 nm
+Tiempo Vuelo:               01:35
+Tiempo + alternativo:       02:07
+Total combustible (tiempo): 02:52
+Peso Combustible: 21632
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+	EZE 116.5 -> 005 +42 (landa)
+	SNT 117.7 <- 269 (+31 eze20, +22 eze26)
+	FDO 114.4 -> 317 (26.6 eze26, 36.6 atovo)
+	ROS 117.3 <- 318 ( + 34 + 43 + 30 )
+	ROS 117.3 -> 350 ( + 20 + 70 + 90 )
+	ERE 115.5 <- 348
+	ERE 115.5 -> 322 ( + 74 + 73 + 30 = 177)
+	SDE 114.8 <- 322
+SDE 114.8 -> 337 ( + 30 ) intersection TUC 
+TUC 114.1 <- 322 ( + 40 )
+SANT					-67 TUC descent to 4900 (over SDE)
+

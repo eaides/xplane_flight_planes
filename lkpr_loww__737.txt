@@ -1,0 +1,25 @@
+Origen:       LKPR - Ruzyne - Prague - Czech 
+Destino:      LOWW - Schwechat - Vienna - Austria
+Alternativo:  LOWL - Linz - Linz - AUstria
+Flight Level: FL250
+Ruta:
+	VOZ M725 LANUX
+Route (plain text) .. = dct . for airways
+	LKPR..VOZ.M725.LANUX..LOWW
+
+Distancia: 150 nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:17
+Total combustible (tiempo): 02:02	
+Peso Combustible: 12082 (70.0 % - 0.0 % - 70.0 % ) reserva: 4.5
+TOW: 120.0 (32.3% - trim 2.80)	v1:117  vr:125  v2: 134
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+LKPR trf, at parking 11 pb & su to LOWW as filed      LKPR trf, taxi to hp rw24 via B2 H A      LKPR trf, hp rw24 lu & to follow VOZ1A        LKPR trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LOWW trf, after VOZ leaving FL290 expect rw29 ils via LANUX6W            LOWW trf, at LANUX continue LANUX6W for rw29 ils transition WW950    LOWW trf, at WW950 altitude 3000 clear to ils rw29      LOWW trf, full established rw29 to land      LOWW trf, rw vacated, taxi to platform      LOWW trf, on blocks, engines off, flight plan close

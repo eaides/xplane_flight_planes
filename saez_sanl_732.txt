@@ -1,0 +1,35 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SANL - La Rioja
+Alternativo:  SANT - Tucuman
+Flight Level: FL240
+Ruta:	
+	ATOVO W5 ROS W5 CBA W16 LAR
+Route (plain text) .. = dct . for airways
+	SAEZ..ATOVO.W5.ROS.W5.CBA.W16.LAR..SANL
+
+Distancia: 702 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               01:35
+Tiempo + alternativo:       02:12
+Total combustible (tiempo): 02:57
+Peso Combustible: 23063
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+	EZE 116.5 -> 005 +42 (landa)
+	SNT 117.7 <- 269 (+31 eze20, +22 eze26)
+	FDO 114.4 -> 317 (26.6 eze26, 36.6 atovo)
+	ROS 117.3 <- 318 ( + 34 + 43 + 30 )
+	ROS 117.3 -> 308 ( + 30 + 36 + 78 = 144 ASISA) intercepta CBA/298 +25 + 20 = 45)
+	CBA 114.5 <- 298
+	CBA 114.5 -> 315 ( + 55 + 44 + 48 + 30 = 173)						
+	LAR 113.5 <- 313 				(intercepta CAT 114.3 232/+74)
+SANL							CAT 211/75 AKRAS (-30 NLA)
+	-61 of LAR (+112 CBA) descent to 7000
+
+

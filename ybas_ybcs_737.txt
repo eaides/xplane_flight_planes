@@ -1,0 +1,27 @@
+Origen:       YBAS - Alice Springs - Alice Springs, Australia
+Destino:      YBCS - Cairns Intl - Cairns, Australia
+Alternativo:  YBTL - Townsville - Townsville - Australia
+Flight Level: FL410
+Ruta:
+	GAFER J64 BIB
+Route (plain text) .. = dct . for airways
+	YBAS..GAFER.J64.BIB..YBCS
+
+Distancia: 787 nm + Distancia Alternativo: 154 nm
+Tiempo Vuelo:               02:10
+Tiempo + alternativo:       02:49
+Total combustible (tiempo): 03:34
+Peso Combustible: 19834 (99.9 % - 9.0 % - 99.9 %) reserva: 4.5 
+TOW: 127.8 (32.9% trim: 2.81)   v1: 123    vr: 131    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 12/30
+YBAS trf, at parking 4 pb/su to YBCS as filed      YBAS trf, taxi to hp rw12 via A2 A1 rw24/06            YBAS trf, hp rw12 lu & to follow GAFER2 departure to FL410    	YBAS trf, airborne
+YBAS trf, at parking 4 pb/su to YBCS as filed      YBAS trf, taxi to hp rw30 via ...            YBAS trf, entry rw for b/t to hp       YBAS trf, hp rw32 lu & to to FL410       	YBAS trf, airborne
+
+destination rw: 15/33
+YBCS trf, at BIBAG leaving FL410, expecting rw15 LOC-Y via BIB3A trans RAINY        YBCS trf, at BIB FL115 start BIB3A for rw15 LOC-Y trans RAINY     YBCS trf, RAINY 5000 clear for loc-y ils rw15      YBCS trf, established loc ils rw15 to land       YBCS trf, rw vacated, taxi to platform    YBCS trf, on blocks, engines off, flight plan close

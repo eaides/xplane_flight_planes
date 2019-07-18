@@ -1,0 +1,28 @@
+Origen:       YMHB - Hobart - Hobart - Australia
+Destino:      YSSY - Kingsford Smith Intl - Sydney - Australia
+Alternativo:  YSCB - Canberra - Canberra - Australia
+Flight Level: FL410
+Ruta:
+	KAREN J163 CB W423 CULIN Y59 RIVET
+Route (plain text) .. = dct . for airways
+	YMHB..KAREN.J163.CB.W423.CULIN.Y59.RIVET..YSSY 
+
+Distancia: 595 nm + Distancia Alternativo: 128 nm
+Tiempo Vuelo:               01:44
+Tiempo + alternativo:       02:20
+Total combustible (tiempo): 03:05
+Peso Combustible: 16914 (98.0 % - 0.0 % - 98.0 %) reserva: 4.5 
+TOW: 124.8 (33.2% trim: 2.64)   v1: 120    vr: 128    v2: 137
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 12/30
+YMHB trf, at parking 10 pb/su to YSSY as filed      YMHB trf, taxi to hp rw12 via F A C           YMHB trf, entry rw to b/t to hp rw12       YMHB trf, hp rw12 lu & follow KAREN4 to FL410      	YMHB trf, airborne
+YMHB trf, at parking 10 pb/su to YSSY as filed      YMHB trf, taxi to hp rw30 via G A D           YMHB trf, entry rw to b/t to hp rw30       YMHB trf, hp rw30 lu & follow KAREN4 to FL410         	YMHB trf, airborne
+
+destination rw: 34L/16R 34R/16L
+YSSY trf, after CB inbound CULIN leaving FL410, expecting rw34L ILS via RIVET2.34B	      YSSY trf, RIVET, start RIVET2.34B trans. NASHO for ILS rw34L       YSSY trf, NASHO 4000 clear to ILS rw34L       YSSY trf, full established ils rw34L to land       YYSSY MHB trf, rw vacated, taxi to platform    YSSY trf, on blocks, engines off, flight plan close
+YSSY trf, after ... leaving FL410, expecting rw.. ...         YSSY trf, vertical ... start ..... for rw30 ...       YSSY trf, ... ..00 start/clear ... rw30       YSSY trf, final/full established ils rw30 to land       YSSY trf, rw vacated, taxi to platform    YSSY trf, on blocks, engines off, flight plan close

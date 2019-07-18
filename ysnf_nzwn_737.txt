@@ -1,0 +1,28 @@
+Origen:       YSNF - Norfolk Island Intl - Norfolk I, Australia
+Destino:      NZWN - Wellington Intl - Wellington, New Zealand
+Alternativo:  NZCH - Christchurch Intl - Christchurch - New Zealand 
+Flight Level: FL410
+Ruta:
+	NF L326 MOTKO DCT SIMZI
+Route (plain text) .. = dct . for airways
+	YSNF..NF.L326.MOTKO..SIMZI..NZWN 
+
+Distancia: 874 nm + Distancia Alternativo: 164 nm
+Tiempo Vuelo:               02:22
+Tiempo + alternativo:       03:02
+Total combustible (tiempo): 03:47
+Peso Combustible: 20698 (99.9 % - 12.0 % - 99.9 %) reserva: 4.5 
+TOW: 128.6 (32.8% trim: 2.87)   v1: 123    vr: 131    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 11/29
+YSNF trf, su to NZWN as filed      YSNF trf, taxi to hp rw11     YSNF trf, entry rw to b/t for hp rw11       YSNF trf, hp rw11 lu & to FL410      	YSNF trf, airborne
+YSNF trf, su to NZWN as filed      YSNF trf, taxi to hp rw29     YSNF trf, entry rw to b/t for hp rw29       YSNF trf, hp rw29 lu & to FL410         	YSNF trf, airborne
+
+destination rw: 16/34
+NZWN trf, 
+NZWN trf, 100 miles inbound SIMZI leaving FL410, expecting rw34 ILS, SIMZI3A trans. UMUGA            NZWN trf, vertical SIMZI start SIMZI3A for ILS rw34 trans UMUGA       NZWN trf, UMUGA 2000 clear to ILS rw34       NZWN trf, full established ILS rw34 to land       NZWN trf, rw vacated, taxi to platform    NZWN trf, on blocks, engines off, flight plan close

@@ -1,0 +1,38 @@
+Origen:       LIRF - FIUMICINO - Roma - Italy
+Destino:      LEMD - BARAJAS - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL390
+Ruta:
+	SOSAK ESINO UZ924 GITRI UQ710 GINOX UM601 BCN UN975 RAMON UT520 CMA UZ596 TERSA
+
+Route (plain text) .. = dct . for airways
+	LIRF..SOSAK..ESINO.UZ924.GITRI.UQ710.GINOX.UM601.BCN.UN975.RAMON.UT520.CMA.UZ596.TERSA..LEMD
+
+Distancia: 732 nm + Distancia Alternativo: 93 nm
+
+Tiempo Vuelo:               02:05
+Tiempo + alternativo:       02:35
+Total combustible (tiempo): 03:20
+Peso Combustible: 18259 ( 100 % - 3.5 % - 100 % ) reserva: 4.5 
+TOW: 126.2
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegueS
+
+LIRF trf, at parking A4 pb & su to LEMD as filed   LIRF trf, taxi to hp BA1 rw25 via NG N B     LIRF trf, hp BA1 rw25 lu & to follow SOSAK5A ESINO5H   LIRF trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LEMD trf, after RUBEO leaving FL390, expecting rw 32L ils via TERSA1D transition ASBIN    LEMD trf, position TERSA continue approach TERSA1D for 32L ils   LEMD trf, at ASBIN altitude 6000 clear to ils rw32L   LEMD trf, full established ils rw32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+
+west satellite parking 707 with information echo, request clearance IFR to barcelona, madrid as filed
+rw25 
+raval5a gispa7a   4000 5435   ---   BB 25 M R P
+roma radar on 124.80 
+
+
+
+LEMD trf, after RUBEO leaving FL390, expecting rw 33R ils-Z via star TERSA1D transition  ASBIN      LEMD trf, position TERSA continue approach TERSA1D for rw 33R ils-Z    LEMD trf, at ASBIN altitude 6000 clear to ils rw 33R    LEMD trf, full established ils rw33R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

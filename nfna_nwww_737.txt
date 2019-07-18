@@ -1,0 +1,28 @@
+Origen:       NFNA - Nausori Intl - Nausori - Fiji Islands
+Destino:      NWWW - Tontouta - Noumea - New Caledonia
+Alternativo:  NVVV - Port Vila Bauefield - Port Vila - Vanuatu
+Flight Level: FL400
+Ruta:
+	NN B599 MESUS
+Route (plain text) .. = dct . for airways
+	NFNA..NN.B599.MESUS..NWWW
+
+Distancia: 753 nm + Distancia Alternativo: 285 nm
+Tiempo Vuelo:               02:05
+Tiempo + alternativo:       03:02
+Total combustible (tiempo): 03:47
+Peso Combustible: 20698 (99.9 % - 12.0 % - 99.9 %) reserva: 4.5 
+TOW: 128.6 (32.8% trim: 2.87)   v1: 123    vr: 131    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 10/28
+NFNA trf, su to NWWW as filed      NFNA trf, taxi to hp rw10     NFNA trf, entry rw to b/t for hp rw10       NFNA trf, hp rw10 lu & to follow CHARLI trans. NN      	NFNA trf, airborne
+NFNA trf, su to NWWW as filed      NFNA trf, taxi to hp rw28     NFNA trf, entry rw to b/t for hp rw28       NFNA trf, hp rw28 lu & to SETTS/FL400      	NFNA trf, airborne
+
+destination rw: 11/29
+NWWW trf, after MESUS leaving FL400, expecting rw11 ILS STAR ADORA1 trans PEPIT           MWWW trf, vertical ADORA start ADORA1 via LTO/PEPIT for rw11 ILS     NWWW trf, vertical PEPIT 7000 clear to ILS rw11        NWWW trf, full established ILS rw11 to land       NWWW trf, rw vacated, taxi to platform    NWWW trf, on blocks, engines off, flight plan close
+NWWW trf, 50 miles inbound LUPLO leaving FL400, expecting rw28 VOR/ARC DNE trans D011J           NWWW trf, vertical D011J 1500 start approach ARC DME for rw28 VOR       NWWW trf, final rw28 to land       NWWW trf, rw vacated, taxi to platform    NWWW trf, on blocks, engines off, flight plan close

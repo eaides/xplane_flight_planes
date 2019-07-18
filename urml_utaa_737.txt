@@ -1,0 +1,30 @@
+Origen:       URML - UYTASH - Makhachkala - Russia
+Destino:      UTAA - ASHGABAT - Ashgabat - Turmenistan
+Alternativo:  UTAM - MARY - Mary - Turmenistan
+Flight Level: FL370
+Ruta:
+	LIKSU DCT BALIP B491 BISNA M23 MARAL B450 MAMED
+Route (plain text) .. = dct . for airways
+	URML..LIKSU..BALIP.B491.BISNA.M23.MARAL.B450.MAMED..UTAA  
+	URML DCT BALIP B491 BISNA M23 MARAL B450 MAMED DCT UTAA		URMLUTAA01.FLTPLAN	
+
+Distancia: 571 nm + Distancia Alternativo: 169 nm
+Tiempo Vuelo:               01:41
+Tiempo + alternativo:       02:23
+Total combustible (tiempo): 03:08
+Peso Combustible: 17086 ( 99.0 % - 0 % - 99.0 % ) reserva: 4.5 
+TOW: 125.0
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+URML trf, at parking 3, pb & su to UTAA as filed
+URML trf, taxi to hp rw14 via 1 rw     URML trf, entry rw and backtrack to hp14      URML trf, hp rw14 lu & to follow LIKSU1 transition BALIP to FL370   URML trf, airborne 
+URML trf, taxi to hp rw32 via 1 rw     URML trf, entry rw and backtrack to hp32      URML trf, hp rw32 lu & to follow LIKSU3 transition BALIP to FL370   URML trf, airborne 
+Despegue 1203Z
+
+UTAA trf, at/after XXX FL370 start descending, expecting rw XX ils/vor via star MAMED..    UTAA trf, position MAMED continue approach MAMED.. for rw.. ils/vor   UTAA trf, at ... altitude .... clear to ils rw..   UTAA trf, full established ils rw.. to land    UTAA trf, rw vacated on .., taxi to platform    UTAA trf, on blocks, engines off, flight plan close
+
+
+

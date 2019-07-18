@@ -1,0 +1,38 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEAM - Almeria - Almeria - Spain					
+Alternativo:  LELC - San Javier - Murcia - Spain
+Flight Level: FL270	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	VTB UN867 ANZAN UL27 BLN UM192 ROLAS M192 AGIDO
+Route (plain text) .. = dct . for airways
+	LEMD DCT VTB UN867 ANZAN UL27 BLN UM192 ROLAS M192 AGIDO DCT LEAM			LEMDLEAM01.FLTPLAN
+	LEMD..VTB.UN867.ANZAN.UL27.BLN.UM192.ROLAS.M192.AGIDO..LEAM
+
+Distancia: 243 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:58
+Tiempo + alternativo:       01:29
+Total combustible (tiempo): 02:14
+Peso Combustible: 5923 ( 52 % - 52 % ) reserva: 2.3 (40.52%)
+TOW: 44.383
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking T37 pb & su to LEAM as filed   
+				LEMD trf, taxi to hp rw14R via interior G5 A...     
+				LEMD trf, taxi to hp rw14L via interior G5 A...     
+LEMD trf, taxi to hp rw36R via interior G5 A...     
+LEMD trf, taxi to hp rw36L via interior G5 A...     
+				LEMD trf, hp rw14R lu & to follow VILLATOBAS2S o 1B    LEMD trf, airborne
+				LEMD trf, hp rw14L lu & to follow VILLATOBAS1V         LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow VILLATOBAS2W         LEMD trf, airborne
+LEMD trf, hp rw36L lu & to follow VILLATOBAS1NF        LEMD trf, airborne
+Despegue: ????Z
+
+10-25
+LEAM trf, approaching ROLAS leaving FL270 to fl200 for AGIDO1C expecting rw25 ILS
+LEAM trf, at AGIDO fl200 continue approach AGIDO1C to ils rw25     LEAM trf, at NIDON FL070 clear to ILS 25     LEAM trf, full established ils rw10 to land    LEAM trf, rw vacated, taxi to platform

@@ -1,0 +1,28 @@
+Origen:       SAWG - Norberto Fernandez - Rio Gallegos, Argentina
+Destino:      SAWH - Ushuaia Intl Malvine Is - Ushuaia, Argentina
+Alternativo:  SCCI - Carlos I. del Campo - Punta Arenas, Chile
+Flight Level: FL210
+Ruta:	
+	MUBES W63 UGIRA
+Route (plain text) .. = dct . for airways	
+	SAWG..MUBES.W63.USU..SAWH
+	SAWG MUBES W63 USU SAWH
+
+Distancia: 131 nm + Distancia Alternativo: 142 nm
+Tiempo Vuelo:               00:52
+Tiempo + alternativo:       01:30
+Total combustible (tiempo): 02:15
+Peso Combustible: 5944 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+07/25
+SAWG trf, at parking pb & su to SAWH as filed   SAWG trf, taxi to hp rw07 via A   	SAWG trf, entry rw on A for BT      SAWG trf, hp rw07 LU&TO FL210     SAWG trf, airborne
+SAWG trf, at parking pb & su to SAWH as filed   SAWG trf, taxi to hp rw25 via D  	SAWG trf, hp rw25 LU&TO FL210     SAWG trf, airborne
+
+07/25
+SAWH trf, 60nm inbound USU leavinng FL210 expecting for rw25 ILS chart2        SAWH trf, USU 8000 clear for ILS rw25 chart2      SAWH trf, full established ILS rw25, to land    SAWH trf, rw vacated, taxi to platform (xx via xxx xxx)   SAWH trf, on blocks, engines off, flight plan close

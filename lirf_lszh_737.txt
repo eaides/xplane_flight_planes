@@ -1,0 +1,30 @@
+Origen:       LIRF - Fiumicino - Roma - Italy
+Destino:      LSZH - Zurich - Zurich - Switzerland
+Alternativo:  LSMP - Payerne - Payerne - Switzerland
+Flight Level: FL380
+Ruta:
+	TIBER UL995 CANNE UZ651 KELIP
+
+Route (plain text) .. = dct . for airways
+	LIRF..TIBER.UL995.CANNE.UZ651.KELIP..LSZH
+
+Distancia: 396 nm + Distancia Alternativo: 76 nm
+
+Tiempo Vuelo:               01:17
+Tiempo + alternativo:       01:47
+Total combustible (tiempo): 02:32
+Peso Combustible: 13980 ( 81 % - 0 % - 81 % ) reserva: 4.5 
+TOW: 121.9 (32.7% - trim 2.74)	v1:118  vr:126  v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - equipement: L
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegueS
+
+LIRF trf, at parking 407 (a7) pb & su to LSZH as filed   LIRF trf, taxi to hp BA1 rw25 via NZ G P B BA1    LIRF trf, hp BA1 rw25 lu & to follow SOSAK5A TIBER6B    LIRF trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LSZH trf, after ... leaving FL380, expecting rw.. ils via KELIP.. transition ....    LSZH trf, position KELIP continue approach KELIP.. for rw.. ils   LSZH trf, at .... altitude ..00 clear to ils rw..   LSZH trf, full established ils rw.. to land    LSZH trf, rw vacated, taxi to platform (xx via xxx xxx)   LSZH trf, on blocks, engines off, flight plan close	

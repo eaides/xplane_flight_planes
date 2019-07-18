@@ -1,0 +1,37 @@
+Origen:       GLRB - Roberts Intl - Monrovia, Liberia (alt 31)
+Destino:      FHAW - Ascension Aux AB - Ascension I., Ascension Island (alt 273)
+Alternativo:  GLRB - Roberts Intl - Monrovia, Liberia (alt 31)
+Flight Level: FL360
+Ruta:	
+	MIRKO UT328 LUMGO ASI
+Route (plain text) .. = dct . for airways
+	GLRB..MIRKO.UT328.LUMGO..ASI..FHAW
+	GLRB MIRKO UT328 LUMGO ASI FHAW
+
+Distancia: 888 nm + Distancia Alternativo: 888 nm
+
+Tiempo Vuelo:               02:18
+Tiempo + alternativo:       04:30
+Total combustible (tiempo): 05:15
+Peso Combustible: 32164 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 146  vr: 150  v2: 154 (169)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+04/22
+GLRB trf, at parking pb & su to FHAW as filed         GLRB trf, taxi to hp rw RW04           GLRB trf, entry rw for bt    GLRB trf, hp rw RW04 lu & to to FL360      GLRB trf, airborne
+GLRB trf, at parking pb & su to FHAW as filed         GLRB trf, taxi to hp rw RW22           GLRB trf, entry rw for bt    GLRB trf, hp rw RW22 lu & to to FL360      GLRB trf, airborne
+
+14/32
+FHAW trf, inbound MATHY leaving FL360, expecting rw13 VOR/DME             FHAW trf, MATHY 3000 start final approach rw13
+FHAW trf, rw13 insight, final to land             FHAW trf, rw vacated, taxi to platform        FHAW trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

@@ -1,0 +1,28 @@
+Origen:       SARE - Resistencia - Argentina
+Destino:      SABE - Jorge Newery - Buenos Aires - Argentina
+Alternativo:  SAAR - Rosario - Argentina
+Flight Level: FL340
+Ruta:	
+	SIS UL793 GUA W11 PAGON
+Route (plain text) .. = dct . for airways
+	SARE..SIS.UL793.GUA.W11.PAGON..SABE
+	SARE DCT SIS UL793 GUA W11 PAGON DCT SABE
+
+Distancia: 436 nm + Distancia Alternativo: 155 nm
+Tiempo Vuelo:               01:24
+Tiempo + alternativo:       02:04
+Total combustible (tiempo): 02:49
+Peso Combustible: 7403 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+SARE trf, at parking 1 pb & su to SABE as filed   SARE trf, taxi to hp rw RW21    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW21 lu & to to FL340   SARE trf, airborne
+SARE trf, at parking 1 pb & su to SABE as filed   SARE trf, taxi to hp rw RW03    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW03 lu & to to FL340   SARE trf, airborne
+
+SABE trf, after GUA leaving FL340, expecting rw31 vor-dme via star PAGON7D    SABE trf, position PAGON continue approach PAGON7D for rw31 vor-dme   SABE trf, at ILM altitude 2500 start approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+SABE trf, after DALAB inbound GUA leaving FL340, expecting rw13 ILS via star PAGON7C transition VANAR    SABE trf, position PAGON continue approach PAGON7C for rw13 ILS    SABE trf, at FDO altitude 2500 clear to ILS rw13   SABE trf, full established ILS rw13 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

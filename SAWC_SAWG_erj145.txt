@@ -1,0 +1,28 @@
+Origen:       SAWC - El Calafate - Calafate, Argentina
+Destino:      SAWG - Norberto Fernandez - Rio Gallegos, Argentina
+Alternativo:  SCCI - Carlos I. del Campo - Punta Arenas, Chile
+Flight Level: FL210
+Ruta:	
+	KIBAR W52 GAL
+Route (plain text) .. = dct . for airways	
+	SAWC..KIBAR.W52.GAL..SAWG
+	SAWC KIBAR W52 GAL SAWG
+
+Distancia: 131 nm + Distancia Alternativo: 101 nm
+Tiempo Vuelo:               00:42
+Tiempo + alternativo:       01:15
+Total combustible (tiempo): 02:00
+Peso Combustible: 5333 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+07/25
+SAWC trf, at parking pb & su to SAWG as filed   SAWC trf, taxi to hp rw07 via B   	SAWC trf, entry rw on B for BT      SAWC trf, hp rw07 LU&TO KIBAR1 FL210     SAWC trf, airborne
+SAWC trf, at parking pb & su to SAWG as filed   SAWC trf, taxi to hp rw25 via A  	SAWC trf, entry rw on A for BT      SAWC trf, hp rw25 LU&TO KIBAR1 FL210     SAWC trf, airborne
+
+07/25
+SAWG trf, 15nm inbound DEVIS leavinng FL210 expecting for rw25 ILS chart1        SAWG trf, GAL 3500 clear for ILS rw25 chart1      SAWG trf, final rw25, to land    SAWG trf, rw vacated, taxi to platform (xx via xxx xxx)   SAWG trf, on blocks, engines off, flight plan close

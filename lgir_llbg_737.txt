@@ -1,0 +1,30 @@
+Origen:       LGIR - Nikos Kazantzakis - Iraklion - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL390
+Ruta:
+	SIT UM1 KAVOS UM33 GIPAS UN134 SOLIN
+Route (plain text) .. = dct . for airways
+	LGIR..SIT.UM1.KAVOS.UM33.GIPAS.UN134.SOLIN..LLBG
+
+Distancia: 533 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:36
+Tiempo + alternativo:       02:12
+Total combustible (tiempo): 02:57
+Peso Combustible: 16224 ( 94 % - 0 % - 94 % ) reserva: 4.5
+TOW: 124.2 (33.1% - trim 2.67)	v1:120  vr:128  v2: 136
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - equipement: L
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LGIR trf, at parking 3, pb & su to LLBG as filed     LGIR trf, taxi to hp rw 27       LGIR trf, hp rw27 lu & to follow SIT3C to FL390   LGIR trf, airborne
+
+LLBG trf, at ERIMO leaving FL390, expecting rw12 ils via star GODED1    LLBG trf, position SOLIN continue approach GODED1 for rw12 ils   LLBG trf, at GODED altitude 5000 clear to ils rw12      LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, after VELOX FL390 start descending, expecting rw 08 ils via star SOLIN2A transition BOAZZ   LLBG trf, position SOLIN FL120 continue approach SOLIN2A for rw 08 ils   LLBG trf, at BOAZZ altitude 3000 clear to ils rw 08   LLBG trf, full established ils rw 08 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at ERIMO FL390 start descending, expecting rw 26 ils via star SOLIN1C transition BGN   LLBG trf, position SOLIN FL120 continue approach SOLIN1C for rw 26 ils   LLBG trf, at BGN altitude 4500 clear to ils rw 26   LLBG trf, full established ils rw 26 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+
+

@@ -1,0 +1,24 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAAR - Rosario - Rosario, Argentina
+Alternativo:  SAAV - Sauce Viejo - Santa Fe, Argentina
+Flight Level: FL240
+Ruta:	
+	ATOVO W5 ROS						SABESAAR
+Route (plain text) .. = dct . for airways
+	SAEZ..ATOVO.W5.ROS..SAAR
+	SAEZ ATOVO W5 ROS SAAR
+
+Distancia: 155 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               00:46
+Tiempo + alternativo:       01:15
+Total combustible (tiempo): 02:00
+Peso Combustible: 11672
+TOW: 119.4  	(20.2% trim: 4.75)	v1: 12145    vr: 124    v2: 136
+
+Avion: 737-300 : 80 pax (220 lbs per pax)
+Payload:      18.4
+ZFW:          92.8
+Cost Index SUR: 54
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+

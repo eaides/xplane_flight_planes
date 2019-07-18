@@ -1,0 +1,31 @@
+Origen:       LIRF - Fiumicino - Roma - Italy
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL390
+Ruta:NG 
+	SIPRO/KN450FL380 UZ803 TEA UL995 EKTOL UT75 TIGRA/KN450FL390 UL995 KRK UL53 KOR UN604 ATV UL995 RDS UL609 SOLIN
+			
+Route (plain text) .. = dct . for airways
+	LIRF..SIPRO.UZ803.TEA.UL995.EKTOL.UT75.TIGRA.UL995.KRK.UL53.KOR.UN604.ATV.UL995.RDS.UL609.SOLIN..LLBG
+
+Distancia: 1245 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               03:11
+Tiempo + alternativo:       03:47
+Total combustible (tiempo): 04:32
+Peso Combustible: 24731 ( 99.9 % - 26% - 99.9 % ) reserva: 4.5
+TOW: 132.7 (32.4% trim 3.14)	v1: 125 - vr: 133 - v2 140
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+					
+Notas: 
+
+LIRF trf, at parking 406 (A6) pb/su to LLBG as filed   LIRF trf, taxi to hp rw16R via NG H B A AA    LIRF trf, hp rw16R lu & to follow XIBRI5A - SIPRO7A to FL390      LIRF trf, airborne - Despegue: ????Z
+LIRF trf, at parking 707 (T7) pb/su to LLBG as filed   LIRF trf, taxi to hp rw25 via M R B BB        LIRF trf, hp rw25 lu & to follow XIBRI5A - SIPRO7A to FL390       LIRF trf, airborne - Despegue: ????Z
+
+LLBG trf, leaving FL390 start descending, expecting rw08 ils via SOLIN2B      LLBG at SOLIN 9000 start approach SOLIN2B for rw08 ils      LLBG trf, BOAZZ 3000 clear to ils rw08     LLBG trf, full established ils rw08 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, leaving FL390 start descending, expecting rw12 ils via GODED1       LLBG at SOLIN 12000 start approach GODED1 for rw12 ils      LLBG trf, GODED 5000 clear to ils rw12     LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, position LEDRA, leaving FL390 start descending, expecting rw30 RNAV via SOLIN1Z     LLBG trf, at SOLIN 12000 start approach SOLIN1Z for rw30 RNAV    LLBG trf, LIMKO 5000 start RNAV approach rw30     LLBG trf, final rw30 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close

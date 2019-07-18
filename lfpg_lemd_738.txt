@@ -1,0 +1,23 @@
+Origen:       LFPG - Charles de Gaulle - Paris - France
+Destino:      LEMD
+Alternativo:  LEAB
+Flight Level: FL370
+Ruta:
+	ERIXU DCT MOTAL J18 VEROS G54 CTX G28 LMG UN857 NETUK/F370 UN857 BAN
+Route (plain text) .. = dct . for airways
+	LFPG..ERIXU..MOTAL.J18.VEROS.G54.CTX.G28.LMG.UN857.BAN..LEMD			MOTAL
+
+Distancia: 217nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               01:38
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:23
+Peso Combustible: 18631  - reserva: 7.6
+
+Avion: 737-800 : 147 pax (220 lbs per pax)
+Payload 33.8
+Cost Index SUR: 5			259/035   CI P003
+
+LFPG trf, at parking F92 (...) pb & su to EHAM as filed      LFPG trf, taxi to hp rw08L via F G FN3 N U UT1 T1   LFPG trf, hp T1 rw08L lu & to follow NURMO9L            LFPG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+EHAM trf, at ... leaving FL330 expect rw... via HELEM..            EHAM trf, at HELEM continue HELEM.. for rw.. ils   EHAM trf, at .... altitude .... clear to ils rw..      EHAM trf, full established ils rw.. to land      EHAM trf, rw vacated, taxi to platform      EHAM trf, on blocks, engines off, flight plan close

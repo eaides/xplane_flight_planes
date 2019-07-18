@@ -1,0 +1,34 @@
+Origen:       FSPP - Praslin - Praslin, Seychelles
+Destino:      FIMP - Mauritius Intl - Mauritius, Mauritius
+Alternativo:  FMEE - Roland Garros - La Reunion, Reunion
+Flight Level: FL360
+Ruta:	
+	PRA UR400 UTIVA
+Route (plain text) .. = dct . for airways
+	FSPP..PRA.UR400.UTIVA..FIMP
+
+Distancia: 977 nm + Distancia Alternativo: 125 nm
+
+Tiempo Vuelo:               02:29
+Tiempo + alternativo:       03:05
+Total combustible (tiempo): 03:50
+Peso Combustible: 23571 ( 99.9 % - ?? % - 90.0 % ) reserva: 5.0
+TOW: 150.8  (29.9% trim: 4.55)	v1: 144  vr: 146  v2: 154 (169)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058    TOW: 150759	- opt: FL350     max: FL378
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+15/33
+FSPP trf, at parking pb & su to FIMP as filed    FSPP trf, taxi to hp rw RW15            FSPP trf, hp rw RW15 lu & to to FL360      FSPP trf, airborne
+FSPP trf, at parking pb & su to FIMP as filed    FSPP trf, taxi to hp rw RW33            FSPP trf, hp rw RW33 lu & to to FL360      FSPP trf, airborne
+
+14/32
+FIMP trf, after UTIBA leaving FL360, expecting rw14 ILS follow GBY1                  FIMP trf, at GBY clear to ILS rw14 trans FF
+FIMP trf, full established ils rw15 to land             FIMP trf, rw vacated, taxi to platform        FIMP trf, on blocks, engines off, flight plan close
+

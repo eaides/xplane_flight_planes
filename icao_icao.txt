@@ -1,0 +1,31 @@
+Reemplazar ORIG (case sensitive) por el icao de origen
+Reemplazar DEST (case sensitive) por el icao de destino
+Reemplazar ALTN (case sensitive) por el icao del alternativo
+Reemplazar FLxxx (case sensitive) por el flight level correspondiente
+
+Origen:       ORIG - airport_name - city - state_country
+Destino:      DEST - airport_name - city - state_country
+Alternativo:  ALTN - airport_name - city - state_country
+Flight Level: FLxxx
+Ruta:
+
+Route (plain text) .. = dct . for airways
+
+Distancia: xxxx nm + Distancia Alternativo: xxx nm
+Tiempo Vuelo:               00:00
+Tiempo + alternativo:       00:00
+Total combustible (tiempo): 00:00
+Peso Combustible: xxxxx ( xxx % - xxx % - xxx % ) reserva: X.X 
+TOW: xxx.x
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+ORIG trf, at parking xxx pb & su to DEST as filed   ORIG trf, taxi to hp rw XRW via xx    (ORIG trf, crossing rw XX/XX)   (ORIG trf, entry rw XRW for backtrack)  ORIG trf, hp rw XRW lu & to follow XXXXX (transition XXX)   ORIG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+DEST trf, at/after XXX FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   DEST trf, position XXX continue approach xxx for rw XX ils/vor-dme   DEST trf, at XXX altitude xxx clear to ils/start approach rw XX   DEST trf, full established ils/final rw XX to land    DEST trf, rw vacated, taxi to platform (xx via xxx xxx)   DEST trf, on blocks, engines off, flight plan close

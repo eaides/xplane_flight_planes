@@ -1,0 +1,31 @@
+Origen:       SEQM (SEQU) - Mariscal Antonio Sucre - Ecuador
+Destino:      SPIM - Jorge Chavez Intl. - Lima-Callao - Peru
+Alternativo:  SPSO - Pisco - Pisco - Peru
+Flight Level: FL390
+Ruta:
+	QIT UM674 ATOGO
+Route (plain text) .. = dct . for airways
+	SEQU..QIT.UM674.ATOGO..SPIM
+	SEQU DCT QIT UM674 ATOGO DCT SPIM		SEQUSPIM01
+
+Distancia: 741 nm + Distancia Alternativo: 116 nm
+Tiempo Vuelo:               02:03
+Tiempo + alternativo:       02:38
+Total combustible (tiempo): 03:23
+Peso Combustible: 18682 ( 99.9 % - 5 % - 99.9 % ) reserva: 4.5
+TOW: 126.6
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SEQU trf, at parking 7 pb & su to SPIM as filed   SEQU trf, taxi to hp rw35L     SEQU trf, hp rw 35 lu & to follow condorcocha departure       SEQU trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+PIM trf, at ATOGO leaving FL390, expecting rw 15 ILS-Z follow ATOGO1 transition SIGAS        SPIM trf, at SIGAS 4000 clear to ILS rw 15     SPIM trf, full established ILS rw 15 to land    SPIM trf, rw vacated, taxi to platform (xx via xxx xxx)   SPIM trf, on blocks .., engines off, flight plan close

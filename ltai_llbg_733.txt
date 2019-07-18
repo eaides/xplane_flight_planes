@@ -1,0 +1,34 @@
+Origen:       MNMG	MROC	MRPN
+Destino:      MROC	MRPN	MPEJ
+Alternativo:  MRPN	MRLM	MPTO
+Flight Level: FL230
+Ruta:
+	LISPA A502 TIO
+	TIO A502 FINCA
+	COTOS A502 DAV A502 TBG Q5 MADEN Q4 FNC
+
+Route (plain text) .. = dct . for airways
+	
+
+Distancia: 293 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:20
+Tiempo + alternativo:       01:56
+Total combustible (tiempo): 02:41
+Peso Combustible: 16.287    reserva: 5.9 
+TOW: 132.1
+
+Avion: 737-300 : 105 pax (220 lbs per pax)
+Empty Weight: 72.392
+Payload:      23.100
+ZFW:          95.493	GW: 111.101
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B733
+
+Notas: 
+
+LCLK trf, at parking pb & su to LLBG as filed   LCLK trf, taxi to hp rw22    LCLK trf, hp rw22 lu & to follow EMEDA1B to FL270   LCLK trf, airborne - Despegue: ????Z
+
+LLBG trf, over UW13 heading to SOLIN leaving FL270 start descending, expecting rw12 ils transition GODED approach GODED1   LLBG trf, at GODED altitude 5000 clear to rw12 ils   LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close                  VREF: 140 (150)
+LLBG trf, over UW13 heading to SOLIN leaving FL270 start descending, expecting rw26 ils transition BGA approach SOLIN1c   LLBG trf, at BGN altitude 4500 starting approach rw26 ils   LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close                  VREF: 140 (150)
+LLBG trf, 55nm inbound SOLIN leaving FL270 start descending, expecting rw30 RNAV via LIMKO1     LLBG at SOLIN 12000 start approach LIMKO1 for rw30 RNAV      LLBG trf, LIMKO 5000 start RNAV approach rw30     LLBG trf, final rw30 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close

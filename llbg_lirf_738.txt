@@ -1,0 +1,42 @@
+Origen:      LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL360
+Ruta:
+        PURLA/F350 SUVAS UL53 KRK UL995 TIGRA/F360 L995 TEA Z803 LAT
+ PURL1G PURLA      SUVAS UL53 KRK UL995 TIGRA      L995 TEA Z803 LAT LAT4A
+
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KRK.UL995.TIGRA.L995.TEA.Z803.LAT..LIRF 
+
+Distancia: 1250 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               03:20
+Tiempo + alternativo:       04:10
+Total combustible (tiempo): 04:56
+Peso Combustible: 27437		reserva: 6.6
+TOW: 149.0			v1: 136   vr: 136   v2: 145      28.4% trim 5.25
+
+Avion: 737-800 : 170 pax (220 lbs per pax)
+Payload 39.1
+Cost Index SUR: 26
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+					
+Notas: 
+
+LLBG trf, at parking C3 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via M1 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking c3 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+
+Despegue: ????Z
+vertical TIGRA leaving FL380 descending FL350 over UL995 even FL at italian air space
+
+16L: CMP 5000
+22	ROM	120
+11+11	LAT	200
+34	SIPRO	310
+15	TEA	360
+31	AKAMO	15 to TEA start descent
+
+LIRF trf, at AKANO leaving FL350 start descending, expecting rw16L ils via LAT4A trans. CMP       LIRF at LAT FL120 start approach LATINA4A for rw16L ils transition CMP      LIRF trf, CMP 6000 clear to ils rw16L     LIRF trf, full established ils rw16L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+LIRF trf, at AKANO leaving FL350 start descending, expecting rw34L ils via LAT1D trans. RATIR      LIRF at LAT FL120 start approach LATINA1D for rw34L ils transition RATIR     LIRF trf, RATIR 5000 clear to ils rw34L    LIRF trf, full established ils rw34L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+
+/?

@@ -1,0 +1,29 @@
+Origen:       SAOU - San Luis - San Luis, Argentina
+Destino:      SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina
+Alternativo:  SAOC - Area de Material - Rio Cuarto, Argentina
+Flight Level: FL210
+Ruta:	
+	ISIPO W23 ALDEX A307 CBA
+Route (plain text) .. = dct . for airways
+	SAOU..ISIPO.W23.ALDEX.A307.CBA..SACO
+	SAOU ISIPO W23 ALDEX A307 CBA SACO
+
+Distancia: 178 nm + Distancia Alternativo: 107 nm
+Tiempo Vuelo:               00:49
+Tiempo + alternativo:       01:22
+Total combustible (tiempo): 02:07
+Peso Combustible: 5621 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+01/19
+SAOU trf, at parking pb & su to SACO as filed   SAOU trf, taxi to hp rw01    SAOU trf, hp rw01 lu & to to FL210   SAOU trf, airborne
+SAOU trf, at parking pb & su to SACO as filed   SAOU trf, taxi to hp rw19    SAOU trf, entry rw for BT    SAOU trf, hp rw19 lu & to to FL210   SAOU trf, airborne
+
+18/36
+SACO trf, vertical ALDEX leaving FL210, expecting ILS rw18     SACO trf, CBA FL060 clear to ILS rw18     SACO trf, full established ILS rw18 to land    SACO trf, rw vacated, taxi to platform (xx via xxx xxx)   SAOU trf, on blocks, engines off, flight plan close
+SACO trf, vertical ALDEX leaving FL210, expecting rw23 VOR/DME     SACO trf, CBA FL060 start approach rw23 VOR/DME   SACO trf, final rw23 to land    SACO trf, rw vacated, taxi to platform (xx via xxx xxx)   SACO trf, on blocks, engines off, flight plan close

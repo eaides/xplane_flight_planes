@@ -1,0 +1,28 @@
+Origen:       SANE - Santiago Del Estero - Santiago Del Estero, Argentina
+Destino:      SANT - Benjamin Matienzo - Tucuman, Argentina
+Alternativo:  SA
+Flight Level: FL100
+Ruta:	
+	ANGEN W8 TUC
+Route (plain text) .. = dct . for airways
+	SANE..ANGEN.W8.TUC..SANT
+	SANE ANGEN W8 TUC SANT
+
+Distancia: 70 nm + Distancia Alternativo: 121 nm
+Tiempo Vuelo:               00:34
+Tiempo + alternativo:       01:10
+Total combustible (tiempo): 01:55
+Peso Combustible: 5109 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+03/21
+SANE trf, at parking pb & su to SANE as filed   SANE trf, taxi to hp rw03    	SANE trf, entry rw for BT      SANE trf, hp rw03 lu & TO FL100     SANE trf, airborne
+SANE trf, at parking pb & su to SANE as filed   SANE trf, taxi to hp rw21       SANE trf, hp rw21 lu & TO FL100     SANE trf, airborne
+
+02/20
+SANT trf, 35nm inbound TUC leaving FL100, expecting rw02 ILS     SANT trf, TUC 5000 clear ILS rw02    SANT trf, full established ILS rw02, to land    SANT trf, rw vacated, taxi to platform (xx via xxx xxx)   SANT trf, on blocks, engines off, flight plan close

@@ -1,0 +1,27 @@
+Origen:       LGRP - Rodos - Rodos - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL390
+Ruta:
+	NILAS UL609 SOLIN
+Route (plain text) .. = dct . for airways
+	LGRP..NILAS.UL609.SOLIN..LLBG	// SIRON is N032 E034
+
+Distancia: 469 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:19
+Tiempo + alternativo:       01:55
+Total combustible (tiempo): 02:40
+Peso Combustible: 18072 lbs ( 89 % - 0.0 % - 89 % ) reserva: 4.5 
+TOW: 130.6     (20.2%   trim: 4.75 )    v1: 135   vr: 136  v2: 145   
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 29603
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LGRP trf, at parking 6, pb & su to LLBG as filed     LGRP trf, taxi to hp rw 25 via A   LGRP trf, hp rw 25 lu & to follow NILAS1A1 to FL390   LGRP trf, airborne
+
+LLBG trf, 20nm inbound LEDRA leaving FL390, expect rw12 ils via star GODED1 transition GODED   LLBG trf, position SOLIN FL110 continue approach GODED1 for rw12 ils   LLBG trf, at GODED altitude 5000 clear to ils rw12   LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated on Y, taxi to platform C3 via Y M M1   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, 20nm inbound LEDRA leaving FL390, expect rw30 RNAV via star LIMKO1 transition LIMKO   LLBG trf, position SOLIN FL110 continue approach LIMKO1 for rw30 RNAV   LLBG trf, at LIMKO altitude 5000 star RNAV for rw30   LLBG trf, final rw12 to land    LLBG trf, rw vacated on Y, taxi to platform C3 via Y M M1   LLBG trf, on blocks, engines off, flight plan close

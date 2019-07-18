@@ -1,0 +1,31 @@
+Origen:       SAEZ - Ministro Pistarini - Ezeiza - Bs.As. - Argentina
+Destino:      SARE - Resistencia - Argentina
+Alternativo:  SGAS - Asuncion - Paraguay
+Flight Level: FL390
+Ruta:	
+	LANDA UW64 GUA UL793 SIS
+Route (plain text) .. = dct . for airways
+	SABE..LANDA.UW64.GUA.UL793.SIS..SARE
+	SABE DCT LANDA UW64 GUA UL793 SIS DCT SARE
+
+Distancia: 444 nm + Distancia Alternativo: 157 nm
+
+Tiempo Vuelo:               01:19
+Tiempo + alternativo:       01:59
+Total combustible (tiempo): 02:44
+Peso Combustible: 44302 lbs = 20095 kgs ( 99.9 % - 0 % - 90.0 % ) reserva: 4.5        (7821 kg)
+TOW: 139.7  (29.9% trim: 4.55)	v1: 133  vr: 140  v2: 151
+(63366 kg)
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B77L/H
+
+
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow LANDA.. to FL350   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow LANDA3B to FL350   SABE trf, airborne
+
+SARE trf, after ... leaving FL350, expecting rw 21 ILS     SARE trf, at SIS altitude ... clear for ILS rw21   SARE trf, full established ils rw21 to land    SARE trf, rw vacated, taxi to platform (xx via xxx xxx)   SARE trf, on blocks, engines off, flight plan close
+SARE trf, after KILIP leaving FL350, expecting rw 03 VOR/DME     SARE trf, altitude 2500 final rw 03 to land    SARE trf, rw vacated, taxi to platform (xx via xxx xxx)   8

@@ -1,0 +1,34 @@
+Origen:       LEMH - Menorca - Menorca - Spain
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL270	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	LUNIK/KN440FL240 A25 BCN/KN440FL270 UN975 RAMON UT520 CMA UZ596 TERSA
+Route (plain text) .. = dct . for airways
+	LEMH DCT LUNIK A25 BCN UN975 RAMON UT520 CMA UZ596 TERSA DCT LEMD			LEMHLEMD01.FLTPLAN
+	LEMH..LUNIK.A25.BCN.UN975.RAMON.UT520.CMA.UZ596.TERSA..LEMD
+
+Distancia: 391 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:                01:18
+Tiempo + Ealternativo:       01:49
+Total combustible (tiempo):  02:34
+Peso Combustible: 6720 ( 59 % - 59 % ) reserva: 2.3 (40.52%)
+TOW: 45180
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMH trf, at parking G5 pb & su to LEMD as filed   
+LEMH trf, taxi to hp rw01L via F D T H01  	LEMH trf, hp rw01L lu & to follow LUNIK2C     LEMH trf, airborne
+LEMH trf, taxi to hp rw19R via F T H19   	LEMH trf, hp rw19R lu & to follow LUNIK2D     LEMH trf, airborne
+
+vertical BCN FL240 climb FL270 for upper UN975
+
+LEMD trf, after ... FL260 start descending, expecting rw32/18 ... ils via star ... transition ASBIM/TAGOM    LEMD trf, position VILLA continue approach VILLA2E for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+
+LEMD trf, aproaching TERSA leaving FL270 , expecting rw18R ils via star TERSA2E transition TAGOM
+LEMD trf, position TERSA FL210 continue approach TERSA2E for rw 18R ils   LEMD trf, at TAGOM altitude 10000 clear to ils rw18R   LEMD trf, full established ils rw 18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

@@ -1,0 +1,37 @@
+Origen:       FNLU - 4th Of February - Luanda, Angola (alt 238)
+Destino:      FOOL - Leon M'ba - Libreville, Gabon  (alt 38)
+Alternativo:  FOOG - Port Gentil - Port Gentil, Gabon  (alt ...)
+Flight Level: FL360
+Ruta:	
+	VNA UR526 BUNDO R526G MISVA
+Route (plain text) .. = dct . for airways
+	FNLU..VNA.UR256.UR526.BUNDO.R526G.MISVA..FOOL
+	FNLU VNA UR526 BUNDO R526G MISVA FOOL
+
+Distancia: 605 nm + Distancia Alternativo: 81 nm
+
+Tiempo Vuelo:               01:42
+Tiempo + alternativo:       02:12
+Total combustible (tiempo): 02:57
+Peso Combustible: 18268 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 141.1  (29.1% trim: 4.64)	v1: 136  vr: 139  v2: 146 (161)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+05/23 - 07/25
+FNLU trf, at parking pb & su to FOOL as filed         FNLU trf, taxi to hp rw RW..           FNLU trf, entry rw for bt    FNLU trf, hp rw RW.. lu & to to FL360      FNLU trf, airborne
+FNLU trf, at parking pb & su to FNLU as filed         FNLU trf, taxi to hp rw RW23           FNLU trf, entry rw for bt    FNLU trf, hp rw RW23 lu & to to FL360      FNLU trf, airborne
+
+16/34
+FOOL trf, after BUNDO inbound MISVA leaving FL360, expecting rw16 ILS             FOOL trf, LV 3000 clear for ils rw16
+FOOL trf, full established ils rw16 to land             FOOL trf, rw vacated, taxi to platform        FOOL trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

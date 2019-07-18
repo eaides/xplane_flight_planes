@@ -1,0 +1,30 @@
+Destino:      LTFJ - Sabhiha Gokcen - Istambul - Turkey          
+Origen:       EGSS - Stansted - London - United Kingdom
+Alternativo:  EGBB - Birmingham - Birmingham - United Kingdom
+Flight Level: FL400
+Ruta:
+	MAKOL L602 KOMAN UL602 HMM UZ302 GORLO UP20 IDESI
+	
+Route (plain text) .. = dct . for airways
+	LTFJ..MAKOL.L602.KOMAN.UL602.HMM.UZ302.GORLO.UP20.IDESI..EGSS
+
+Distancia: 1406 nm + Distancia Alternativo: 81 nm
+Tiempo Vuelo:               03:32
+Tiempo + alternativo:       04:02
+Total combustible (tiempo): 04:47
+Peso Combustible: 26171 (99.9 % - 31.0 % - 99.9 % ) reserva: 4.5
+TOW: 134.1	v1:126  vr:134  v2:141    trim:3.23
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+					
+Notas: 
+
+LTFJ trf, at parking 8 pb/su to EGSS as filed   LTFJ trf, taxi to hp rw06 via Q D J   LTFJ trf, hp rw06 lu & to follow MAKOL1J to FL400   LTFJ trf, airborne 
+LTFJ trf, at parking 8 pb/su to EGSS as filed   LTFJ trf, taxi to hp rw24 via R D E   LTFJ trf, hp rw24 lu & to follow MAKOL1L to FL400   LTFJ trf, airborne 
+
+EGSS trf, leaving FL400 start descending, expecting rw04 ils via ABBOT1C    EGSS trf, at IDESI .... start approach ABBOT1C for rw04 ils      EGSS trf, D5BPK 2500 clear to ils rw04        EGSS trf, full established ils rw04 to land    EGSS trf, rw vacated, taxi to platform     EGSS trf, on blocks, engines off, flight plan close
+EGSS trf, leaving FL400 start descending, expecting rw22 ils via ABBOT1C    EGSS trf, at IDESI FL180 start approach ABBOT1C for rw22 ils      EGSS trf, D16.5BKY 4000 clear to ils rw22     EGSS trf, full established ils rw22 to land    EGSS trf, rw vacated, taxi to platform     EGSS trf, on blocks, engines off, flight plan close

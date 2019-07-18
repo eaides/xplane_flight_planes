@@ -1,0 +1,23 @@
+Origen:       LIPX - Valerio Catullo Villafranca - Verona - Italy
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL370
+Ruta:
+	BOA/KN440FL360 UM738 VALEN UM872 URBAN UM730 ANC UL612 VIE UQ920 GOKEL/KN440FL350 UM603 PINDO UL607 KEA UL52 MAGIS UN134 SOLIN
+Route (plain text) .. = dct . for airways
+	LIPX..BOA.UM738.VALEN.UM872.URBAN.UM730.ANC.UL612.VIE.UQ920.GOKEL.UM603.PINDO.UL607.KEA.UL52.MAGIS.UN134.SOLIN..LLBG
+Distancia: 1428 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               03:30
+Tiempo + alternativo:       04:10
+Total combustible (tiempo): 04:55
+Peso Combustible: 26765 ( 100 % - 33 % - 100 % ) reserva: 4.5 
+TOW: 132.8
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - Payload 23088 
+Cost Index SUR: 60
+
+LIPX trf, at parking pb & su to LLBG as filed   LIPX trf, taxi to hp rw 04 via Y and rw    LIPX trf, entry rw 22 for backtrack  LIPX trf, hp rw 04 lu & to follow BOA7S    LIPX trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLBG trf, after ASPIS FL370 start descending, expecting rw 26 ils via star SOLIN1C transition BGN    LLBG trf, position BGN 4500 continue approach for rw 26 ils   LLBG trf, clear to ils approach rw 26   LLBG trf, full established ils rw 26 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

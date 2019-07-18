@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel					
+Destino:      LCLK - Larnaca Intl - Larnaca - Cyprus
+Alternativo:  LTFG - Gazipasa - Antalya - Turkey
+Flight Level: FL260
+Ruta:
+	MERVA UP42 DESPO UR19 REXAL
+Route (plain text) .. = dct . for airways
+	LLBG..MERVA.UP42.DESPO.UR19.REXAL..LCLK
+	LLBG DCT MERVA UP42 DESPO UR19 REXAL DCT LCLK			LLBGLCLK01.FLTPLAN
+
+Distancia: 368 nm (184*2 for non stop in LCLK then return to LLBG) + Distancia Alternativo: 107 nm
+Tiempo Vuelo:               00:50
+Tiempo + alternativo:       01:20
+Total combustible (tiempo): 02:35
+Peso Combustible: 15015 ( 88 % - 00.0 % - 86 % ) reserva: 4.5 
+TOW: 122.9
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LCLK as filed   LLBG trf, taxi to hp rw26 via M1 K R W1   
+LLBG trf, at parking C3 pb & su to LCLK as filed   LLBG trf, taxi to hp rw08 via M2 K S    
+LLBG trf, at parking L3 pb & su to LCLK as filed   LLBG trf, taxi to hp rw26 via L N R W1   
+LLBG trf, at parking L3 pb & su to LCLK as filed   LLBG trf, taxi to hp rw08 via L N ...
+LLBG trf, hp W1 rw26 lu & to follow MERVA1E to FL260   LLBG trf, airborne - Despegue: ????Z
+LLBG trf, hp W1 rw08 lu & to follow MERVA1B to FL260   LLBG trf, airborne - Despegue: ????Z
+
+LCLK trf, 45nm inbound DESPO leaving FL260 start descending, expecting rw22 ils via transition LCA   LCLK trf, at LCA altitude 4000 clear to ils rw22
+LCLK trf, 45nm inbound DESPO leaving FL260 start descending, expecting rw22 ils via REXAL1A    LCLK trf, at REXAL altitude 4000 clear to ils rw22
+LCLK trf, full established ils rw22 to land    LCLK trf, rw vacated, taxi to platform (xx via xxx xxx)   LCLK trf, on blocks, engines off, flight plan close                  VREF:

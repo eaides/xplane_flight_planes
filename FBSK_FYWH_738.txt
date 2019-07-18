@@ -1,0 +1,37 @@
+Origen:       FBSK - Sir Seretse Khama Intl - Gaborone, Botswana (alt 3299)
+Destino:      FYWH - Hosea Kutako Intl - Windhoek, Namibia (alt 5640)
+Alternativo:  FYWB - Walvis Bay - Walvis Bay, Namibia (alt ...)
+Flight Level: FL360
+Ruta:	
+	SINKI UG653 MOKAK
+Route (plain text) .. = dct . for airways
+	FBSK..SINKI.UG653.MOKAK..FYWH
+	FBSK SINKI UG653 MOKAK FYWH
+
+Distancia: 482 nm + Distancia Alternativo: 95 nm
+
+Tiempo Vuelo:               01:26
+Tiempo + alternativo:       02:06
+Total combustible (tiempo): 02:51
+Peso Combustible: 18682 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 141.1  (29.1% trim: 4.64)	v1: 137  vr: 144  v2: 151 (166)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 144.9 - opt: FL357     max: FL385
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+08/26
+FBSK trf, at parking pb & su to FYWH as filed         FBSK trf, taxi to hp rw RW08 via A           FBSK trf, entry rw for bt    FBSK trf, hp rw RW08 lu & to to FL360 via SINLI1B     FBSK trf, airborne
+FBSK trf, at parking pb & su to FYWH as filed         FBSK trf, taxi to hp rw RW26 via B           FBSK trf, entry rw for bt    FBSK trf, hp rw RW26 lu & to to FL360 via SINKI1A     FBSK trf, airborne
+
+08/26
+FYWH trf, after ANTOR inbound MOKAK leaving FL360, expecting rw26 ILS             FYWH trf, MOKAK FL200 clear to ILS rw26
+FYWH trf, full established ILS rw26 to land             FYWH trf, rw vacated, taxi to platform        FYWH trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

@@ -1,0 +1,27 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL390
+Ruta:
+	PINAR/KN460/FL380 UN870 BCN UN725 ORKUM UM603 SOR UM736 CRN UM601 RUTOM/KN460FL390 UM601 MIL UN134 SOLIN UH2 SIRON
+Route (plain text) .. = dct . for airways
+	LEMD..PINAR.UN870.BCN.UN725.ORKUM.UM603.SOR.UM736.CRN.UM601.MIL.UN134.SOLIN.UH2.SIRON..LLBG
+
+Distancia: 1955 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               04:45
+Tiempo + alternativo:       05:20
+Total combustible (tiempo): 06:05
+Peso Combustible: 30940 ( 100 % - xx.x % - 100 % ) reserva: 2.5 
+TOW: 155.8
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas: 
+
+LEMD trf, at parking T16 pb & su to LLBG as filed   LEMD trf, taxi to hp rw 15R via I9 G4 M10 M11 M12 LB    LEMD trf, hp rw 15R lu & to follow PINAR2B to FL380   LEMD trf, airborne - Despegue 1203Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLBG trf, at/after XXX FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position XXX continue approach xxx for rw XX ils/vor-dme   LLBG trf, at XXX altitude xxx clear to ils/start approach rw XX   LLBG trf, full established ils/final rw XX to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

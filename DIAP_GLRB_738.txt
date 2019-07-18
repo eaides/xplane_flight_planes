@@ -1,0 +1,37 @@
+Origen:       DIAP - Felix Houphouet-Boigny - Abidjan, Cote dIvoire (alt 20)
+Destino:      GLRB - Roberts Intl - Monrovia, Liberia (alt 31)
+Alternativo:  GLTN - Tchien - Tchien, Liberia  (alt ...)
+Flight Level: FL360
+Ruta:	
+	AD UB600 RITAM
+Route (plain text) .. = dct . for airways
+	DIAP..AD.UB600.RITAM..GLRB
+	DIAP AD UB600 RITAM GLRB
+
+Distancia: 389 nm + Distancia Alternativo: 133 nm
+
+Tiempo Vuelo:               01:14
+Tiempo + alternativo:       01:51
+Total combustible (tiempo): 02:36
+Peso Combustible: 16171 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 141.1  (29.1% trim: 4.64)	v1: 135  vr: 138  v2: 145 (160)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+03/21
+DIAP trf, at parking pb & su to GLRB as filed         DIAP trf, taxi to hp rw RW03           DIAP trf, entry rw for bt    DIAP trf, hp rw RW03 lu & to to FL360      DIAP trf, airborne
+DIAP trf, at parking pb & su to GLRB as filed         DIAP trf, taxi to hp rw RW21           DIAP trf, entry rw for bt    DIAP trf, hp rw RW21 lu & to to FL360      DIAP trf, airborne
+
+04/22
+GLRB trf, after RITAM inbound ROB leaving FL360, expecting rw04 ILS trans. ROB             GLRB trf, 12nm inbound ROB 3000 clear for ils rw04 via arc dme10
+GLRB trf, full established ils rw04 to land             GLRB trf, rw vacated, taxi to platform        GLRB trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

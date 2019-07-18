@@ -1,0 +1,26 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel			231/049 // P009
+Destino:      LCLK - Larnaca Intl - Larnaca - Cyprus
+Alternativo:  LTFG - Gazipasa - Antalya - Turkey
+Flight Level: FL260
+Ruta:
+	GITLA UW13A VELOX UB17 BOSIS
+Route (plain text) .. = dct . for airways
+	LLBG..GITLA.UW13A.VELOX.UB17.BOSIS..LCLK
+
+Distancia: 368 nm (184*2 for non stop in LCLK then return to LLBG) + Distancia Alternativo: 107 nm
+Tiempo Vuelo:               00:48
+Tiempo + alternativo:       01:29
+Total combustible (tiempo): 02:30
+Peso Combustible: 14015 lbs - reserva: 7.6 
+TOW: 137.7
+
+Avion: 737-800 : 170 pax (220 lbs per pax)
+Pa4yload 39.1
+Cost Index SUR: 42
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LCLK as filed   LLBG trf, taxi to hp rw26 via M2 M R W1   LLBG trf, hp rw26 W1 lu & to follow MERVA1E to FL280   LLBG trf, airborne - Despegue: ????Z
+
+LCLK trf, vertical VELOX leaving FL260 start descending, expecting rw22 ils transition LCA   LCLK trf, at LCA altitude 4000 starting approach rw22 ils   LCLK trf, full established ils rw22 to land    LCLK trf, rw vacated, taxi to platform (xx via xxx xxx)   LCLK trf, on blocks, engines off, flight plan close                  VREF:
+LCLK trf, vertical VELOX leaving FL260 start descending, expecting rw04 VOR/DME-X LCA   LCLK trf, at LCA altitude 4000 starting approach rw04 VOR/DME-X   LCLK trf, final rw04 to land    LCLK trf, rw vacated, taxi to platform (xx via xxx xxx)   LCLK trf, on blocks, engines off, flight plan close                  VREF:

@@ -1,0 +1,28 @@
+Origen:       NSTU - Pago Pago Intl - Pago Pago, American SamoaNCAI - Avarua - Aitutaki, Cook Islands
+Destino:      NFNA - Nausori Intl - Nausori - Fiji Islands
+Alternativo:  NFFN - Nadi Intl. - Nadi  Fiji Islands
+Flight Level: FL400
+Ruta:
+	SETTS G224 LUPLO DCT NA
+Route (plain text) .. = dct . for airways
+	NSTU..SETTS.G224.LUPLO..NA..NFNA
+
+Distancia: 667 nm + Distancia Alternativo: 66 nm
+Tiempo Vuelo:               01:50
+Tiempo + alternativo:       02:18
+Total combustible (tiempo): 03:03
+Peso Combustible: 19258 ( 99.9 % - 7.0 % - 99.9 % ) reserva: 5.0 
+TOW: 127.2 (33.0% trim: 2.77)   v1: 122    vr: 130    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 05/23
+NSTU trf, su to NFNA as filed      NSTU trf, taxi to hp rw05 via A        NSTU trf, hp rw05 lu & to SETTS/FL400      	NSTU trf, airborne
+NSTU trf, su to NFNA as filed      NSTU trf, taxi to hp rw23 via C/RW     NSTU trf, entry rw to b/t for hp rw23       NSTU trf, hp rw23 lu & to SETTS/FL400      	NSTU trf, airborne
+
+destination rw: 10/28
+NFNA trf, at/after ... leaving FL400, expecting rw10 VOR/ILS STAR ... trans TUT           NFNA trf, vertical ... ..00 clear to ILS/start approach rw10 VOR       NFNA trf, full established ILS/final rw10 to land       NFNA trf, rw vacated, taxi to platform    NFNA trf, on blocks, engines off, flight plan close
+NFNA trf, 50 miles inbound LUPLO leaving FL400, expecting rw28 VOR/ARC DNE trans D011J           NFNA trf, vertical D011J FL120 start approach ARC DME for rw28 VOR       NFNA trf, final rw28 to land       NFNA trf, rw vacated, taxi to platform    NFNA trf, on blocks, engines off, flight plan close

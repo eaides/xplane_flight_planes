@@ -1,0 +1,28 @@
+Origen:       SAVT - Almirante Zar - Trelew, Argentina
+Destino:      SAVV - Gobernador Castello - Viedma, Argentina
+Alternativo:  SAVT - Almirante Zar - Trelew, Argentina
+Flight Level: FL190
+Ruta:	
+	TRE W18 VIE
+Route (plain text) .. = dct . for airways	
+	SAVT..TRE.W18.VIE..SAVV
+	SAVT TRE W18 VIE SAVV
+
+Distancia: 173 nm + Distancia Alternativo: 173 nm
+Tiempo Vuelo:               00:48
+Tiempo + alternativo:       01:31
+Total combustible (tiempo): 02:16
+Peso Combustible: 5955 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+06/24
+SAVT trf, at parking pb & su to SAVV as filed   SAVT trf, taxi to hp rw06 via A   	SAVT trf, entry rw on B for BT       SAVT trf, hp rw06 LU&TO FL190     SAVT trf, airborne
+SAVT trf, at parking pb & su to SAVV as filed   SAVT trf, taxi to hp rw24 via B  	       SAVT trf, hp rw24 LU&TO FL190     SAVT trf, airborne
+
+
+SAVV trf, 35nm inbound KIGIR leavinng FL190 expecting for rw24 VOR/DME chart 1        SAVV trf, VIE 3000 start approach rw11 chart1      SAVV trf, final rw11, to land    SAVV trf, rw vacated, taxi to platform (xx via xxx xxx)   SAVT trf, on blocks, engines off, flight plan close

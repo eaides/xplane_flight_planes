@@ -1,0 +1,25 @@
+Origen:       LLET - Eilat - Eilat - Israel                                    
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLET - Eilat - Eilat - Israel        
+Flight Level: FL200
+Ruta:
+	SAMAR J10 GOBRI P52 BGN
+Route (plain text) .. = dct . for airways
+	LLET..SAMAR.J10.GOBRI.P52.BGN..LLBG
+
+Distancia: 174 nm + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:10
+Peso Combustible: 10280 ( 58 % - 00.0 % - 61 % ) reserva: 5.0 
+TOW: 132.2 
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31020
+Cost Index SUR: 60
+
+Notas: 
+
+LLET trf, at parking 3 su to LLBG as filed   LLET trf, taxi to hp rw03    LLET trf, hp rw03 lu & to follow SAMAR1A to FL220   LLET trf, airborne - Despegue: ????Z
+
+LLBG trf, leaving FL220 start descending, expecting rw26 ils    LLBG trf, clear to ils26  LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

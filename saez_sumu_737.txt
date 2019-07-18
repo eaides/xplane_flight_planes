@@ -1,0 +1,33 @@
+Origen:       SAEZ - Ministro Psiatrini - Ezeiza - Buenos Aires - Argentina
+Destino:      SUMU - Carrasco Int. - Montevideo - Uruguay
+Alternativo:  SUDU - Santa Bernardina int. - Durazno - Uruguay
+Flight Level: FL250
+Ruta:
+	DORVO UA305 TIGRE
+Route (plain text) .. = dct . for airways
+	SAEZ..DORVO.UA305.TIGRE..SUMU			SAEZSUMU01
+
+Distancia: 131 nm + Distancia Alternativo: 92 nm
+Tiempo Vuelo:               00:42
+Tiempo + alternativo:       01:14
+Total combustible (tiempo): 01:59
+Peso Combustible: 11045 ( 64.0 % - 0.0 % - 64.0 % ) reserva: 4.5
+TOW: 119.0
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SAEZ trf, at parking 14 pb & su to SUMU as filed   SAEZ trf, taxi to hp rw 11 via F      SAEZ trf, hp rw 11 lu & to follow PTA6B/DORBO     SAEZ trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SUMU trf, after DORVO leaving FL270, expecting rw 06 vor-dme via TIGRE1C transition ASI   SUMU trf, position TIGRE continue approach TIGRE1C/ASI for rw 06 vor-dme   SUMU trf, at ASI altitude 3000 clear to start approach rw 06   SUMU trf, final rw 06 to land    SUMU trf, rw vacated, taxi to platform (xx via xxx xxx)   SUMU trf, on blocks, engines off, flight plan close
+SUMU trf, after DORVO leaving FL270, expecting rw 24 ILS via TIGRE1G transition KONBI   SUMU trf, position TIGRE continue approach TIGRE1G/KONBI for rw 24 ILS   SUMU trf, at KONVI altitude 3000 clear to ILS rw24   SUMU trf, full established ILS rw24 to land    SUMU trf, rw vacated, taxi to platform (xx via xxx xxx)   SUMU trf, on blocks, engines off, flight plan close
+

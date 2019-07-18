@@ -1,0 +1,29 @@
+Origen:       LGIR - Nikos Kazantzakis - Iraklion - Greece			299/030 --- M001
+Destino:      LIRF - Fiumicino - Roma - Italia
+Alternativo:  LIRN
+Flight Level: FL380
+Ruta:
+	BAVE1K BAVES UJ65 TRL UM601 RUTOM/F370 M601 CRN M736 SOR Q58 LAT
+Rout	e (plain text) .. = dct . for airways
+	LGIR..BAVES.UJ65.TRL.UM601.RUTOM.M601.CRN.M736.SOR.Q58.LAT..LIRF
+
+Distancia: 739 nm
+Tiempo Vuelo:               02:06
+Tiempo + alternativo:       02:38
+Total combustible (tiempo): 03:39
+Peso Combustible: 20661				reserva: 6.6
+TOW: 124.5
+
+Avion: 737-800 : 179 pax (220 lbs per pax)
+Payload 41.2
+Cost Index SUR: 29
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LGIR trf, at parking 3, pb & su to LLBG as filed     LGIR trf, taxi to hp rw 27       LGIR trf, hp rw27 lu & to follow SIT3C to FL390   LGIR trf, airborne
+
+LLBG trf, at ERIMO leaving FL390, expecting rw12 ils via star GODED1    LLBG trf, position SOLIN continue approach GODED1 for rw12 ils   LLBG trf, at GODED altitude 5000 clear to ils rw12      LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at ERIMO leaving FL390, expecting rw30 RNAV via LIMKO1        LLBG at SOLIN 12000 start approach LIMKO1 for rw30 RNAV      LLBG trf, LIMKO 5000 start RNAV approach rw30     LLBG trf, final rw30 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+
+

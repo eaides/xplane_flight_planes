@@ -1,0 +1,24 @@
+Origen:       LEMD - BARAJAS - MADRID - SPAIN
+Destino:      EGLC - LONDON CITY- LONDON - ENGLAND
+Alternativo:  EGGD - BRISTOL - BRISTOL - ENGLAND
+Flight Level: FL380
+Ruta:
+	SIE UN858 DGO UN867 SAM UQ41 PEPIS DCT CPT UL9 KENET
+Route (plain text) .. = dct . for airways
+	LEMD..SIE.UN858.DGO.UN867.SAM.UQ41.PEPIS..CPT.UL9.KENET..EGLC
+Distancia: 755 nm + Distancia Alternativo: 104 nm
+Tiempo Vuelo:               02:05
+Tiempo + alternativo:       02:40
+Total combustible (tiempo): 03:25
+Peso Combustible: 18556 ( 100 % - 4.5 % - 100 % ) reserva: 4.5
+TOW: 124.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+LEMD trf, at parking T7 pb & su to EGLC as filed   LEMD trf, taxi to hp rw 36R via I G2 M S2 R5 Z1    LEMD trf, hp rw 36R lu & to follow SIE1W    LEMD trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+EGLC trf, after PEPIS leaving FL380, expecting rw 27 ils via star SPEAR1A     EGLC trf, position KENET continue approach SPEAR1A for rw 27 ils   EGLC trf, at SPEAR altitude 5000 clear to ils rw 27   EGLC trf, full established ils rw 27 to land    EGLC trf, rw vacated, taxi to platform (xx via xxx xxx)   EGLC trf, on blocks, engines off, flight plan close

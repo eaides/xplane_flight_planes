@@ -1,0 +1,49 @@
+Origen:       SARE - Resistencia - Chaco - Argentina
+Destino:      SABE - Jorge Newery - Buenos Aires - Argentina
+Alternativo:  SAAR - Rosario - Argentina
+Flight Level: FL360
+Ruta:	
+	 BURSA UL793 GUA UW65 PAGON
+Route (plain text) .. = dct . for airways
+	SARE..SIS.UL793.GUA.UW65.PAGON..VANAR..SABE				pushback from parking1 str/110?ft
+Distancia: 436 nm + Distancia Alternativo: 155 nm
+
+Tiempo Vuelo:               01:11
+Tiempo + alternativo:       01:58
+Total combustible (tiempo): 02:43
+Peso Combustible: 15835			- reserva: 6.9 
+TOW: 139.7
+
+
+Avion: 737-800 : 183 pax (220 lbs per pax)
+Payload 42.1
+Cost Index SUR: 5			317/075 /// 14c
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+
+SARE trf, at parking 1 pb & su to SABE as filed   SARE trf, taxi to hp rw RW21    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW21 lu & to BURSA1A to FL400   SARE trf, airborne
+SARE trf, at parking 1 pb & su to SABE as filed   SARE trf, taxi to hp rw RW03    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW03 lu & to to FL400   SARE trf, airborne
+
+for 13:
+5000 on VANAR		40 - 5 = 35 * 3 = 105 -> 115
+DALAB to GUA	= 41	119	
+GUA to PAGON	= 54	GUA 	= 26500
+PAGON to VANAR  = 24	PAGON 	= 10500
+			VANAR	= 50003
+
+for 31:
+2500 on ILM	37.5 * x = 112 -> 122
+a 50 de PAGON descender
+GUA is 54 to PAGON
+PAGON	22000
+VANAR 	14000
+ENO	9500
+D28	4000
+ILM	2500
+
+SABE trf, vertical GUA leaving FL400, expecting rw31 vor-dme via star PAGON7D                SABE trf, position PAGON continue approach PAGON7D for rw31 vor-dme   SABE trf, at ILM altitude 2500 start approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+
+SABE trf, vertical DALAB leaving FL400, expecting rw13 ILS via star PAGON7C transition VANAR    SABE trf, position PAGON continue approach PAGON7C for rw13 ILS    SABE trf, at FDO altitude 2500 clear to ILS rw13   
+    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

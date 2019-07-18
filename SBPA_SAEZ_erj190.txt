@@ -1,0 +1,28 @@
+Origen:       SBPA - Salgado Filho Intl - Porto Alegre, Brazil
+Destino:      SAEZ - Ministri Pistarini - Ezeiza, Argentina
+Alternativo:  SAAR - Rosario - Rosario, Argentina
+Flight Level: FL380
+Ruta:	
+	OBLAD UM534 ISOBU UM788 BGE UN741 PAPIX			Unicom 123.45, at ISALA change to 122.80
+Route (plain text) .. = dct . for airways	
+	SBPA..OBLAD.UM534.ISOBU.UM788.BGE.UN741.PAPIX..SAEZ
+	SBPA OBLAD UM534 ISOBU UM788 BGE UN741 ISALA UN741  PAPIX SAEZ
+
+Distancia: 481 nm + Distancia Alternativo: 161 nm
+Tiempo Vuelo:               01:26
+Tiempo + alternativo:       02:07
+Total combustible (tiempo): 02:524
+Peso Combustible: 13373 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 95564
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+11/29
+SBPA trf, at parking pb & su to SBPA as filed   SBPA trf, taxi to hp rw11    	       SBPA trf, hp rw11 OBLAD1 LU&TO FL380     SBPA trf, airborne
+SBPA trf, at parking pb & su to SBPA as filed   SBPA trf, taxi to hp rw29   	       SBPA trf, hp rw29 ... LU&TO FL380     SBPA trf, airborne
+
+11/29 17/35
+SAEZ trf, 15nm inbound POMPA leavinng FL380 expecting for rw11 ILS chart 4 via PAPIX6A/EZE       SAEZ trf, EZE 4000 clear to ILS rw11 chart 4      SAEZ trf, full established ILS rw11, to land    SAEZ trf, rw vacated, taxi to platform (xx via xxx xxx)   SAEZ trf, on blocks, engines off, flight plan close

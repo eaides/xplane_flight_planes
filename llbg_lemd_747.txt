@@ -1,0 +1,43 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LEVD - Villanubla - Valladolid - Spain
+Flight Level: FL380
+Ruta:
+        GITLA UA14 KAVOS UM1 SIT UM978 GZO UM732 UM732 CAR UM871 SOTAX UN733 PRADO
+Route (plain text) .. = dct . for airways
+	LLBG..GITLA.UA14.KAVOS.UM1.SIT.UM978.GZO.UM732.CAR.UM871.SOTAX.UN733.PRADO..LEMD		E:\fsx\PMDG\FLIGHTPLANS	LLBGLEMD01.RTE
+
+Distancia: 1975 nm + Distancia Alternativo: 94 nm
+Tiempo Vuelo:               04:25
+Tiempo + alternativo:       04:56
+Total combustible (tiempo): 05:41
+Peso Combustible: 101400 ( 100% - 44.2 % - 0 - 44.2% - 100 % - 0 - 100% - 0 - 0) reserva: 15.0
+TOW: 660.2   ZFW 547.2	  V1:130   VR:144   V2:158    trim 7.5	
+
+Avion: 747-200 : 351 pax (220 lbs per pax) (75%)
+Payload 77220
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 490kn (0.795 match ???)
+
+Notas: 
+
+LLBG trf	, at parking C7 pb & su to LEMD as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    LLBG trf, hp rw26 lu & to follow PURLA2E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+LLBG trf, at parking C7 pb & su to LEMD as filed   LLBG trf, taxi to hp rw08 via M2 K S       LLBG trf, hp rw08 lu & to follow PURLA1B to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+LEMD trf, at CATON leaving FL380 expecting rw32R ILS via PRADO1D transition ASBIN    LEMD trf, vertical PRADO FL210 continue approach PRADO1D for rw32R ils   LEMD trf, at ASBIN altitude 6000 clear for ils rw32R   LEMD trf, full established ils rw32R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+LEMD trf, at CATON leaving FL380 expecting rw32L ILS via PRADO1D transition ASBIN    LEMD trf, vertical PRADO FL210 continue approach PRADO1D for rw32L ils   LEMD trf, at ASBIN altitude 6000 clear for ils rw32L   LEMD trf, full established ils rw32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+	
+LEMD trf, at CATON leaving FL380 expecting rw18R ILS via PRADO2E transition TAGOM    LEMD trf, vertical PRADO FL210 continue approach PRADO2E for rw18R ils   LEMD trf, at TAGOM altitude 10000 clear for ils rw18R   LEMD trf, full established ils rw18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+LEMD trf, at CATON leaving FL380 expecting rw18L ILS-Z via PRADO4E transition TAGOM    LEMD trf, vertical PRADO FL210 continue approach PRADO4E for rw18L ils-z   LEMD trf, at TAGOM altitude 10000 clear for ils rw18R   LEMD trf, full established ils rw18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+
+start 											21:05	14:30
+encender motores									21:23	14:54
+taxi 											21:26	
+despegue ----------------------------------------------------------------------------	21:33	15:03
+cerrar xfeed --------------------------------------------------------- (+-0:07) -----	21:40	15:10
+over UM978 vertical BIMKO, step climb from FL360 to FL380 ------------ (+-1:35) -----	23:08	16:53
+at ARGOR program arrive, -------- (35 min before arrive) ------------- (+-3:45) -----	01:21	18:50
+descenso antes de CATON --------- (25 min before arrive) ------------- (+-3:55) -----	01:29
+aterrizo ------------------------------------------------------------- (+-4:20)------	01:51	19:26
+
+combustible final: ------------------------------------------------------------------  	28.411	27.437

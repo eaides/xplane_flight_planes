@@ -1,0 +1,28 @@
+Origen:       SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina
+Destino:      SAAV - Sauce Viejo - Santa Fe, Argentina
+Alternativo:  SAAR - Islas Malvinas - Rosario, Argentina
+Flight Level: FL210
+Ruta:	
+	GENAS W6 VAPES
+Route (plain text) .. = dct . for airways
+	SACO..GENAS.W6.VAPES..SAAV
+	SACO GENAS W6 VAPES SAAV
+
+Distancia: 178 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               00:48
+Tiempo + alternativo:       01:17
+Total combustible (tiempo): 02:02
+Peso Combustible: 5419 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+18/36
+SACO trf, at parking pb & su to SAAV as filed   SACO trf, taxi to hp rw18    	SACO trf, entry rw for BT	SACO trf, hp rw18 lu & TO follow GENAS1 to FL210     SACO trf, airborne
+SACO trf, at parking pb & su to SAAV as filed   SACO trf, taxi to hp rw36       SACO trf, hp rw36 lu & TO follow GENAS1 to FL210   SACO trf, airborne
+
+03/21
+SAAV trf, 15nm inbound VAPES leaving FL210, expecting rw03 NDB ILS     SAAV trf, SVO 4000 start clear for ILS rw03    SAAV trf, full established ILS rw03 to land    SAAV trf, rw vacated, taxi to platform (xx via xxx xxx)   SACO trf, on blocks, engines off, flight plan close

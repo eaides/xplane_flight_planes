@@ -1,0 +1,28 @@
+Origen:       SAME - El Plumerillo - Mendoza, Argentina (alt. 2311)
+Destino:      SAZN - Presidente Peron - Neuquen, Argentina (alt. 896)
+Alternativo:  SAZY - Aviador C Campos - San Martin de los Andes, Argentina 
+Flight Level: FL330
+Ruta:	
+	ESITO UW37 ARVET KOTOG
+Route (plain text) .. = dct . for airways	
+	SAME..ESITO.UW37.ARVET..KOTOG..SAZN
+	SAME ESITO UW37 ARVET KOTOG SAZN
+
+Distancia: 81 nm + Distancia Alternativo: 78 nm
+Tiempo Vuelo:               01:15
+Tiempo + alternativo:       01:55
+Total combustible (tiempo): 02:40
+Peso Combustible: 6948 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+18/36
+SAME trf, at parking pb & su to SAZN as filed   SAME trf, taxi to hp rw36    	SAME trf, hp rw36 LU&TO ESITO3A FL330     SAME trf, airborne
+SAME trf, at parking pb & su to SAZN as filed   SAME trf, taxi to hp rw18    	SAME trf, hp rw18 LU&TO ESITO3A FL330     SAME trf, airborne
+
+09/27
+SAZN trf, 30nm inbound ARVET leavinng FL330 expecting for rw17 VOR/DME     SAZN trf, 15nm inbound NEU, 4000 start arc dme for approach rw27    SAZN trf, final rw27, to land    SAZN trf, rw vacated, taxi to platform (xx via xxx xxx)   SAZN trf, on blocks, engines off, flight plan close

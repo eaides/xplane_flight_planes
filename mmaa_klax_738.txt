@@ -1,0 +1,34 @@
+Origen:       MMAA - Gen Juan N Alvarez Intl - Acapulco, Mexico 	alt. 16 ft.
+	RWY06 largo: 5577 ft.
+	RWY10 largo: 10827 ft.
+	RWY24 largo: 5577 ft.
+	RWY28 largo: 10827 ft.
+Destino:      KLAX - Los Angeles Intl - Los Angeles, USA 		alt. 126 ft.
+	RWY06L largo: 8925 ft.
+	RWY06R largo: 10285 ft.
+	RWY07L largo: 12091 ft.
+	RWY07R largo: 11095 ft.
+	RWY24L largo: 10285 ft.
+	RWY24R largo: 8925 ft.
+	RWY25L largo: 11095 ft.
+	RWY25R largo: 12091 ft.
+Alternativo:  KONT
+
+Flight Level: FL360
+
+Ruta:	
+	ALANS NUXCO UJ3 LMM UT4 SANFE JLI
+Route (plain text) .. = dct . for airways
+	MMAA..ALANS..NUXCO.UJ3.LMM.UT4.SANFE..JLI..KLAX
+
+Distancia: 1449 nm + Distancia Alternativo: 41 nm
+
+Tiempo Vuelo:               03:29
+Tiempo + alternativo:       03:54
+Total combustible (tiempo): 04:39
+Peso Combustible: 27.5 lbs		reserva: 5.5
+
+
+Avion: 737-800 : 140 pax (220 lbs per pax)
+Payload 32.2
+Cost Index SUR: 60

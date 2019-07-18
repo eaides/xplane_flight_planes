@@ -1,0 +1,31 @@
+Origen:       LEAL - Alicante - Alicante - Spain
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL260	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	ASTRO UL150 VILLA (CJN)
+Route (plain text) .. = dct . for airways
+	LEAL DCT ASTRO UL150 CJN DCT LEMD			LEALLEMD01.FLTPLAN
+	LEAL..ASTRO.UL150.CJN..LEMD
+
+Distancia: 202 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:52
+Tiempo + alternativo:       01:24
+Total combustible (tiempo): 02:09
+Peso Combustible: 5695 ( 50 % - 50 % ) reserva: 2.3 (40.52%)
+TOW: 44.156
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEAL trf, at parking 21 pb & su to LEMD as filed   
+LEAL trf, taxi to hp rw10 via Interior B A1 A3    	LEAL trf, hp rw10 lu & to follow ASTRO4A    LEAL trf, airborne
+LEAL trf, taxi to hp rw28 via Interior C C1 C3 C8    	LEAL trf, hp rw28 lu & to follow ASTRO3D    LEAL trf, airborne
+
+Despegue: ????Z
+
+LEMD trf, after NANDO FL260 start descending, expecting rw 18L ils via star VILLA2E transition TAGOM    LEMD trf, position VILLA continue approach VILLA2E for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

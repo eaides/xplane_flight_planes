@@ -1,0 +1,30 @@
+Origen:       LEGR - Federico Garcia Lorca - Granada - Spain					
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL220	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	BLN G5 NASOS
+Route (plain text) .. = dct . for airways
+	LEGR DCT BLN G5 NASOS DCT LEMD			LEGREMDM01.FLTPLAN
+	LEGR..BLN.G5.NASOS..LEMD
+
+Distancia: 207 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:52
+Tiempo + alternativo:       01:24
+Total combustible (tiempo): 02:09
+Peso Combustible: 5752 ( 50.5 % - 50.5 % ) reserva: 2.3 (40.52%)
+TOW: 44.213
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEGR trf, at parking 6 pb & su to LEMD as filed   
+LEGR trf, taxi to hp rw09 via interior rw    	LEGR trf, entry rw to backtrack to hp rw09     LEGR trf, hp rw09 lu & to follow BAILEN1N    LEGR trf, airborne
+LEGR trf, taxi to hp rw27 via interior rw    	LEGR trf, entry rw to backtrack to hp rw27     LEGR trf, hp rw27 lu & to follow BAILEN1V    LEGR trf, airborne
+
+LEMD at NASOS start NASOS2A, expecting rw18R      LEMD trf, after NASOS FL220 start descending for rw18R ils continue NASOS2A     LEMD trf, at TAGOM altitude 10000 clear to ils rw18R   LEMD trf, full established ils rw 18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+LEMD trf, after ... FL220 start descending, expecting rw32/18 ... ils via star NASOS.. transition ASBIM/TAGOM    LEMD trf, position NASOS continue approach NASOS.. for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

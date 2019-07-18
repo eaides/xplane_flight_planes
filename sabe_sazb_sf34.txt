@@ -1,0 +1,29 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SAZB - Comandante Espora - Bahia Blanca - Argentina
+Alternativo:  SAVV - Gobernador castillo - Viedma - Argentina
+Flight Level: FL220
+Ruta:	
+	GBE W18 BCA
+Route (plain text) .. = dct . for airways
+	SABE..GBE.W18.BCA..SAZB
+	SABE GBE W18 BCA SAZB
+
+Distancia: 337 nm + Distancia Alternativo: 134 nm
+Tiempo Vuelo:               01:21
+Tiempo + alternativo:       02:04
+Total combustible (tiempo): 02:49
+Peso Combustible: 1827+013.5 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 30790
+
+Avion: SF34 Saab 340 : 30 pax (220 lbs per pax) - 0 carga (85%)
+Payload 6600 - ZFW 25600
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+SABE trf, at parking 8 pb & su to SAZB as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow El Palomar8 to FL220   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SAZB as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow El Palomar8 to FL220   SABE trf, airborne
+
+
+SAZB trf, after PEDRO inbound ESKON leaving FL260, expecting rw20 ILS     SAAR trf, at ROS altitude 4000 clear for ILS rw20   SAAR trf, full established ils rw20 to land    SAAR trf, rw vacated, taxi to platform (xx via xxx xxx)   SAAR trf, on blocks, engines off, flight plan close
+SAZB trf, at PEDRO leaving FL220, expecting rw02 VOR/DME     SAAR trf, altitude 2500 final rw02 to land    SAAR trf, rw vacated, taxi to platform (xx via xxx xxx)   SAAR trf, on blocks, engines off, flight plan close

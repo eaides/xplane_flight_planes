@@ -1,0 +1,28 @@
+Origen:       LLET - Eilat - Eilat - Israel                                    
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLET - Eilat - Eilat - Israel                                    
+Flight Level: FL220
+Ruta:
+	SAMAR UJ10 BGN
+Route (plain text) .. = dct . for airways
+	LLET..SAMAR.UJ10.BGN..LLBG
+
+Distancia: 174 nm + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:48
+Tiempo + alternativo:       01:27
+Total combustible (tiempo): 02:12
+Peso Combustible: 12980 ( 47 % - 00.0 % - 47 % ) reserva: 4.7 
+TOW: 137.3
+
+Avion: Airbus320 : 146 pax (220 lbs per pax)
+Payload 33349
+Cost Index SUR: 35
+
+Notas: 
+
+LLET trf, at parking 3 su to LLBG as filed   LLET trf, taxi to hp rw03    LLET trf, hp rw03 lu & to follow SAMAR1A to FL220   LLET trf, airborne - Despegue: ????Z
+
+LLBG trf, leaving FL220 start descending, expecting rw26 ils    LLBG trf, clear to ils26  LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform C3 via W4 M   LLBG trf, on blocks, engines off, flight plan close
+
+
+LLBG trf, leaving FL220 start descending, expecting rw08 ils transition BGN   LLBG trf, vertical BGN 6000 clear to ils 08  LLBG trf, full established ils rw 08 to land    LLBG trf, rw vacated, taxi to platform C3 via W3 (or W2) R K M1     LLBG trf, on blocks, engines off, flight plan close

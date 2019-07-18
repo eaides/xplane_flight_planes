@@ -1,0 +1,32 @@
+Origen:      	MHTG - Toncontin Intl - Tegucigalpa, Honduras				alt. 3294 ft
+Destino:	MMCP - Alberto Acuna Ongay - Campeche, Mexico      			alt. 31 ft
+Alternativo: 	MMCE - Ciudad del Carmen, Mexico
+Flight Level: FL380
+Ruta:
+	LMS UB753 BZE UR899 CTM UJ61 CPE
+Route (plain text) .. = dct . for airways
+	MHTG..LMS.UB753.BZE.UR899.CTM.UJ61.CPE..MMCP
+	
+Distancia: 425 nm + Distancia Alternativo: 102 nm
+Tiempo Vuelo:               01:19
+Tiempo + alternativo:       01:52
+Total combustible (tiempo): 02:37
+Peso Combustible: 17740 ( 99.9 % - 4.0 % - 99.9 % ) reserva: 6.5
+TOW: 126.3
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SGAS trf, at parking G2 pb & su to SBBR as filed   SGAS trf, taxi to hp rw20 via interior P E    SGAS trf, hp rw 20 lu & to follow ROCIO/NILKI     SGAS trf, airborne
+SGAS trf, at parking G2 pb & su to SBBR as filed   SGAS trf, taxi to hp rw02 via interior P A    SGAS trf, hp rw 02 lu & to follow ROCIO/NILKI     SGAS trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SBBR trf, at EGONI FL390, expecting rw29L ILS via EGONI1A transition KOMDI    SBBR trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

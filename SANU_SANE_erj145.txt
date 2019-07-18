@@ -1,0 +1,27 @@
+Origen:       SANU - San Juan - San Juan, Argentina (alt. 1959)
+Destino:      SAME - El Plumerillo - Mendoza, Argentina (alt. 2311)
+Alternativo:  SANU - San Juan - San Juan, Argentina (alt. 1959)
+Flight Level: FL150
+Ruta:	
+	MEBRA W3 DOZ
+Route (plain text) .. = dct . for airways	
+	SANU..MEBRA.W3.DOZ..SAME
+	SANU MEBRA W3 DOZ SAME
+
+Distancia: 81 nm + Distancia Alternativo: 78 nm
+Tiempo Vuelo:               00:36
+Tiempo + alternativo:       01:05
+Total combustible (tiempo): 01:50
+Peso Combustible: 4934 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+18/36
+SANU trf, at parking pb & su to SAME as filed   SANU trf, taxi to hp rw36    	SANU trf, hp rw36 LU&TO BITAG2 FL110     SANU trf, airborne
+
+18/36
+SAME trf, MEBRA leavinng FL150 start MEBRA1 for rw36 ILS     SAME trf, URERI 5000 clear for ILS rw36    SAME trf, full established ILS rw36, to land    SAME trf, rw vacated, taxi to platform (xx via xxx xxx)   SAME trf, on blocks, engines off, flight plan close

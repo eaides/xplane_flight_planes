@@ -1,0 +1,29 @@
+Destino:      EGSS - Stansted - London - United Kingdom
+Origen:       LTFJ - Sabhiha Gokcen - Istambul - Turkey
+Alternativo:  LTBF - Merkez - Balikesir - Turkey
+Flight Level: FL390
+Ruta:
+	DET UL6 DVR UL9 KONAN UL607 AMASI UM149 DETEV UL603 ZAG UP735 VBA UM19 ETIDA M19 ADORU UG80 ATVEP
+Route (plain text) .. = dct . for airways
+	EGSS..DET.UL6.DVR.UL9.KONAN.UL607.AMASI.UM149.DETEV.UL603.ZAG.UP735.VBA.UM19.ETIDA.M19.ADORU.UG80.ATVEP..LTFJ
+
+Distancia: 1394 nm + Distancia Alternativo: 100 nm
+Tiempo Vuelo:               03:31
+Tiempo + alternativo:       04:03
+Total combustible (tiempo): 04:48
+Peso Combustible: 26171 (99.9 % - 31.0 % - 99.9 % ) reserva: 4.5
+TOW: 134.1	v1:126   vr:134   v2:141 (161)     trim: 3.23
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocity for Flight Plan: Above fl250 453kn (0.793 match)
+
+					
+Notas: 
+
+EGSS trf, at parking 12 pb & su to LTFJ as filed   EGSS trf, taxi to hp rw06 via A H H1    EGSS trf, hp rw06 lu & to follow DET1S to FL390   EGSS trf, airborne   
+EGSS trf, at parking 12 pb & su to LTFJ as filed   EGSS trf, taxi to hp rw22 via A H R1    EGSS trf, hp rw22 lu & to follow DET1R to FL390   EGSS trf, airborne
+
+LTFJ at ATVEP FL390 start approach ATVEP1G for rw06 ils      LTFJ trf, leaving FL390 start descending, following ATVEP1G      LTFJ trf, FJ519 3000 clear to ils rw06     LTFJ trf, full established ils rw06 to land    LTFJ trf, rw vacated, taxi to platform     LTFJ trf, on blocks, engines off, flight plan close
+LTFJ at ATVEP FL390 start approach ATVEP1H for rw24 ils      LTFJ trf, leaving FL390 start descending, following ATVEP1H      LTFJ trf, FJ935 3500 clear to ils rw24     LTFJ trf, full established ils rw24 to land    LTFJ trf, rw vacated, taxi to platform     LTFJ trf, on blocks, engines off, flight plan close

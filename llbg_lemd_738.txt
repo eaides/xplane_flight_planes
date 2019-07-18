@@ -1,0 +1,45 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel			alt. 134
+Destino:      LEMD - Barajas - Madrid - Spain				alt. 1998
+Alternativo:  LEAB - ALBACETE						alt. 2301
+Flight Level: FL350
+Ruta:
+	GITLA/F320 UA14 KAROL UM1 SIT M978 GZO M732 UPLIT/F340 M732 CAR M871 XATOS UM871 SOTAX/F350 UN733 PRADO
+	PURLA DCT GITLA UA14 KAROL UM1 SIT M978 GZO M732 CAR M871 XATOS UM871 SOTAX UN733 PRADO
+Route (plain text) .. = dct . for airways
+	LLBG..GITLA.UA14.KAROL.UM1.SIT.M978.GZO.M732.CAR.M871.XATOS.UM871.SOTAX.UN733.PRADO..LEMD
+
+Distancia: 1975 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               05:35
+Tiempo + alternativo:       ??:??
+Total combustible (tiempo): 06:45
+Peso Combustible: 33763 ( 100 % - 57.3 % - 100 % ) reserva: 2.8
+TOW: 156.1		v1: 142   vr: 149   v2: 158       277.9% trim: 5.59
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LEMD as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    LLBG trf, hp rw26 W1 lu & to follow PURLA1E to FL360 transition GITLA	LLBG trf, airborne
+LLBG trf, at parking C3 pb & su to LEMD as filed   LLBG trf, taxi to hp rw08 via M1 K S       LLBG trf, hp rw08 lu & to follow PURLA1B to FL360 transition GITLA  	LLBG trf, airborne
+
+Despegue: ????Z
+
+Vertical UPLIT fl360 climbing fl370 for even flight level when entry italy airspace
+
+LEMD trf, vertical CLS leaving FL370 expecting rw33R ILS via PRADO1D transition ASBIN
+LEMD trf, vertical CLS leaving FL370 expecting rw18L ILS via PRADO2E transition TAGOM
+
+LEMD trf, PRADO continue approach PRADO1D for rw33R ils   LEMD trf, at ASBIN altitude 6000 clear for ils rw33R   LEMD trf, full established ils rw33R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+
+LEMD trf, PRADO continue approach PRADO2E for rw18L ils   LEMD trf, at TAGOM altitude 10000 clear for ils rw18L   LEMD trf, full established ils rw18L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+
+
+
+
+
+LEPA trf, insufficient fuel to LEMD, need to descent in LEPA to refuel and continue, at EDINO direct to MORSS, leaving FL380, expect rw24L ILS via MORS1P trans. CDP  
+LEPA trf, at MORSS start approach MPORS1P for ILS rw24L trans CDP      LEPA trf, at CDP clear to ils RW 24L      LEPA trf, full established ILS rw24L to land
+LEPA trf, rw vacated, taxi to platform    LEPA trf, on blocks, engines off, flight plan close

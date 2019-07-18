@@ -1,0 +1,27 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SAZN - Presidente Peron - Neuquen - Argentina
+Alternativo:  SAZS - San Carlos de Bariloche - Argentina
+Flight Level: FL360
+Ruta:	
+	TORUL UT654 BIXIM UT669 ROPON
+Route (plain text) .. = dct . for airways			
+	SABE..TORUL.UT654.BIXIM.UT669.ROPON..SAZN
+
+Distancia: 542 nm + Distancia Alternativo: 191 nm
+
+Tiempo Vuelo:               01:34
+Tiempo + alternativo:       02:18
+Total combustible (tiempo): 03:03
+
+Peso Combustible: 20367		reserva: 6.5 
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+SABE trf, at parking 8 pb & su to SAZN as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow EZE8/TORUL to FL360   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SAZN as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow EZE8/TORUL to FL360   SABE trf, airborne
+

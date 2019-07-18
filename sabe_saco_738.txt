@@ -1,0 +1,37 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina					alt. 20 ft.
+	RWY13 largo: 6890 ft.
+	RWY31 largo: 6890 ft.
+Destino:      SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina				alt. 1604 ft.
+	RWY05 largo: 7398 ft.
+	RWY18 largo: 10499 ft.
+	RWY23 largo: 7398 ft.
+	RWY36 largo: 10499 ft.
+Alternativo:  SAAR - Rosario
+Flight Level: FL360
+Ruta:	
+	ATOVO UW5 ASISA
+Route (plain text) .. = dct . for airways			
+	SABE..ATOVO.UW5.ASISA..SACO
+	SABE DCT ATOVO UW5 ASISA DCT SACO
+
+Distancia: 355 nm + Distancia Alternativo: 107 nm
+
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:55
+Total combustible (tiempo): 02:41
+Peso Combustible: 15591 	-	reserva: 6.7 
+
+TOW: 45864
+
+Avion: 737-800 : 179 pax (220 lbs per pax)
+Payload 41.2
+Cost Index SUR: 8	-- 266/048 -- P007
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+SABE trf, at parking 8 pb & su to SACO as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow ATOVO3B to FL360   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SACO as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow ATOVO3B to FL360   SABE trf, airborne
+
+SACO trf, inbound ASISA leaving FL340, expecting rw 18 ILS     SACO trf, at CBA altitude 5000 clear for ILS rw18   SACO trf, full established ils rw18 to land    SACO trf, rw vacated, taxi to platform    SACO trf, on blocks, engines off, flight plan close
+(trans CATDP)

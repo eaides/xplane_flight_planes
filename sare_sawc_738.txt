@@ -1,0 +1,26 @@
+Origen:       SARE - Resistencia - Argentina
+Destino:      SAWC - El Calafate - Argentina
+Alternativo:  SAWJ - San Julian - Argentina
+Flight Level: FL400
+Ruta:	
+	EDAMIS UL793 GUA UW65 PAGON DCT GBE/N0458F360 UA570 CRV UW48 ASOPA
+Route (plain text) .. = dct . for airways
+	SARE..DAMIS.UL793.GUA.UW65.PAGON..GBE.UA570.CRV.UW48.ASOPA
+	SARE DAMIS UL793 GUA UW65 PAGON DCT GBE UA570 CRV UW48 ASOPA SAWC
+
+Distancia: 1507 nm + Distancia Alternativo: 175 nm
+Tiempo Vuelo:               03:36
+Tiempo + alternativo:       04:18
+Total combustible (tiempo): 05:03
+Peso Combustible: 30491 ( 99.9% - 46% - 99.9% ) reserva: 4.5 
+TOW: 152.9 (28.2% trim: 5.38)	v1: 140 - vr: 147 - v2: 156			pushback 160??
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+SAWC trf, at parking 1 pb & su to SARE as filed   SAWC trf, taxi to hp rw07    SAWC trf, entry rw for b/t      SAWC trf, hp rw07 lu & to to FL410     SAWC trf, airborne
+
+SARE trf, 15nm inboud DENIS leaving FL390, expecting rw 21 ILS/1 transition SIS     SARE trf, vertical SIS FL055 clear for ILS rw21      SARE trf, full established ils rw21 to land    SARE trf, rw vacated, taxi to platform (xx via xxx xxx)   SARE trf, on blocks, engines off, flight plan close
+SARE trf, after KILIP leaving FL410, expecting rw 03 VOR/DME  chart 8 trans.D186M     SARE trf, altitude 2250 final rw 03 to land    SARE trf, rw vacated, taxi to platform    SARE trf, on blocks, engines off, flight plan close

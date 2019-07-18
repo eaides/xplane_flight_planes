@@ -1,0 +1,37 @@
+Origen:       SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LEVD - Villanubla - Valladolid - Spain
+Flight Level: FL330
+Ruta:                                                                                                                                                                                                                                                                              	
+	DORVO UN857 MLO UM671 RONUT/FL350 UZ23 BCO UZ14 NTL/FL370 UN873 CVS UW11 GUNET UN857 BIPET/F390 UN857 LZR UN871 VJF UN10 HIJ UZ230 SOTUK
+Route (plain text) .. = dct . for airways
+	SAEZ DORVO UN857 MLO UM671 RONUT UZ23 BCO UZ14 NTL UN873 CVS UW11 GUNET UN857 LZR UN871 VJF UN10 HIJ UZ230 SOTUK			saezlemd
+	SAEZ..DORVO.UN857.MLO.UM671.RONUT.UZ23.BCO.UZ14.NTL.UN873.CVS.UW11.GUNET.UN857.LZR.UN871.VJF.UN10.HIJ.UZ230.SOTUK..LEMD
+
+Distancia: 5510 nm + Distancia Alternativo: 94 nm
+Tiempo Vuelo:               11:40
+Tiempo + alternativo:       12:12
+Total combustible (tiempo): 12:57
+
+Peso Combustible: 206863 lbs, 93831 kgs ( 96.8% - 34.6% - 0% - 34.6% - 96.8% - 0 - 100% - 0% - 0%) 	reserva: 42350 36.3%		
+TOW: 634.675 (max.875000)   ZFW 514.208	  V1:143 VR:155 V2:167 trim 6.0 						
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B77L/H
+
+Notas: 
+
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw17 via Interior A     SAEZ trf, hp rw17 lu & to follow PTA6A transition DORVO to FL330     SAEZ trf, airborne
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw11 via Interior F     SAEZ trf, hp rw11 lu & to follow PTA6B transition DORVO to FL330     SAEZ trf, airborne
+
+vertical MLO change unicom 122.80 to 123.45 (Brazil)
+vertical VVUNOK change unicom 123.45 (Brazil) to 122.80
+after NTL close crossover fuel and then turn off center fuel
+
+LEMD trf, at SOTUK leaving FL410 expecting rw32R ILS via SOTUK2C transition TOBEK    LEMD trf, vertical SOTUK FL... continue approach SOTUK2C for rw32R ils   LEMD trf, at TOBEK altitude 5000 clear for ils rw32R   LEMD trf, full established ils rw32R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+LEMD trf, at SOTUK leaving FL410 expecting rw32L ILS via SOTUK2C transition TOBEK    LEMD trf, vertical SOTUK FL... continue approach SOTUK2C for rw32L ils   LEMD trf, at TOBEK altitude 5000 clear for ils rw32L   LEMD trf, full established ils rw32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+LEMD trf, at SOTUK leaving FL410 expecting rw18R ILS via ... transition ...    LEMD trf, vertical SOTUK FL... continue approach SOTUK... for rw18R ils   LEMD trf, at ... altitude 10000 clear for ils rw18R   LEMD trf, full established ils rw18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+

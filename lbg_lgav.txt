@@ -1,0 +1,8 @@
+LLBG - LGAV - FL400 - LGBL
+GITLA UA14 KAVOS UM872 SIT UL607 KEA 
+LLBG..GITLA.UA14.KAVOS.UM872.SIT.UL607.KEA..LGAV
+675 + 94 || 01:50 - 02:20 - 03:35
+fuel: 17548 ( 100 - 1 - 100 ) res: 4.5 - tow: 123.5
+737-700 : 105 pax (220 lbs per pax)
+payload 23088
+cost index SUR: 60

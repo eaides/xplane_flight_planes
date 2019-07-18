@@ -1,0 +1,34 @@
+Origen:       SOCA - Cayenne - Cayenne - French Guaiana
+Destino:      SYCJ - Cheddi Jagan Int - Georgetown - Guyana
+Alternativo:  SMJP - Paramaribo Johan - Zandery - Suriname 
+Flight Level: FL380
+Ruta:
+	GEDAX UG443 TIM
+Route (plain text) .. = dct . for airways
+	SOCA..GEDAX.UG443.TIM..SYCJ
+	SOCA DCT GEDAX UG443 TIM DCT SYCJ 			SOCASYCJ01
+
+Distancia: 367 nm + Distancia Alternativo: 193 nm
+Tiempo Vuelo:               01:14
+Tiempo + alternativo:       01:59
+Total combustible (tiempo): 02:44
+Peso Combustible: 15016 ( 87 % - 0 % - 87 % ) reserva: 4.5
+TOW: 122.9
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SOCA trf, at parking 4 pb & su to SYCJ as filed   SOCA trf, taxi to hp rw08 via A C rw     SOCA trf, entry rw on C for backtrack 08     SOCA trf, hp rw08 lu & to FL380     SOCA trf, airborne
+SOCA trf, at parking 4 pb & su to SYCJ as filed   SOCA trf, taxi to hp rw26 via A E rw     SOCA trf, entry rw on C for backtrack 26     SOCA trf, hp rw26 lu & to FL380     SOCA trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SYCJ trf, at 35nm inbound GEBON leaving FL380, expecting rw06 ILS      SYCJ trf, start arc dme11, clear to rw06L ILS    SYCJ trf, full established ILS rw06 to land    SYCJ trf, rw vacated, taxi to platform B   SYCJ trf, on blocks 3, engines off, flight plan close
+SYCJ trf, at ... leaving FL380, expecting rw24      SYCJ trf, vertical TIM start final approach to rw24     SYCJ trf, final rw24 to land    SYCJ trf, rw vacated, taxi to platform (xx via xxx xxx)   SYCJ trf, on blocks 3, engines off, flight plan close

@@ -1,0 +1,29 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LFPO - Orly - Paris - France
+Alternativo:  EBBR - Rouen Vallee De Seine- Rouen- France
+Flight Level: FL380
+Ruta:
+	SIE UN858 CNA UT182 KEPER
+Route (plain text) .. = dct . for airways
+	LEMD..SIE.UN858.CNA.UT182.KEPER..LFPO 
+
+Distancia: 569 nm + Distancia Alternativo: 62 nm
+Tiempo Vuelo:               01:37
+Tiempo + alternativo:       02:16
+Total combustible (tiempo): 03:16
+Peso Combustible: 16725 - reserva: 6.7 
+TOW: 134799
+
+Avion: 737-800 : 116 pax (220 lbs per pax)
+Payload 26.7
+Cost Index SUR: 8		203/011 - P003
+
+Notas: 
+
+LEMD trf, at parking 614 pb & su to LLBG as filed	LEMD trf, taxi to hp rw 36R via ...    LEMD trf, hp rw 36R lu & to follow RBO1R to FL380   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking 614 pb & su to LLBG as filed 	LEMD trf, taxi to hp rw 14L via ...    LEMD trf, hp rw 14L lu & to follow RBO1U to FL380   LEMD trf, airborne - Despegue 1203Z
+
+vertical RUTOM FL360 over UM601 climb FL370 for even flight level after italian airspace
+
+LLBG trf, at/after XXX FL370 start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position SOLIN continue approach SOLIN1A for rw30 vor-dme transition GBN   
+LLBG trf, at BGN altitude 4000 start approach rw 30   LLBG trf, final rw 30 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

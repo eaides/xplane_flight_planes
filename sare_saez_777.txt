@@ -1,0 +1,30 @@
+Origen:       SARE - Resistencia - Argentina139.7
+Destino:      SAEZ - Ministro Pistarini - Ezeiza - Argentina
+Alternativo:  SAAR - Rosario - Argentina
+Flight Level: FL400
+Ruta:	
+	SIS UL793 GUA UW65 PAGON
+Route (plain text) .. = dct . for airways
+	SARE..SIS.UL793.GUA.UW65.PAGON..VANAR..SAEZ				pushback from parking1 str/110?ft
+Distancia: 436 nm + Distancia Alternativo: 155 nm
+
+Tiempo Vuelo:               01:20
+Tiempo + alternativo:       02:00
+Total combustible (tiempo): 02:45
+Peso Combustible: 42991 lbs - 19500 kg ( 99.9 % - 0 % - 90.0 % ) reserva: 4.5        (7821 kg)
+TOW: 139.7  (29.9% trim: 4.55)	v1: 133  vr: 140  v2: 151
+(63366 kg)
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 490kn - Arriba de fl250 490kn (0.84 match)
+ICAO aircraft: B77L/H
+
+
+
+SARE trf, at parking 3 pb & su to SABE as filed   SARE trf, taxi to hp rw RW21    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW21 lu & to to FL380   SARE trf, airborne
+SARE trf, at parking 3 pb & su to SABE as filed   SARE trf, taxi to hp rw RW03    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW03 lu & to to FL380   SARE trf, airborne
+
+SAEZ trf, after DALAB inbound GUA leaving FL400, expecting rw11 ILS via star PAGON6A transition ARSOT    SAEZ trf, position PAGON continue approach PAGON6A for rw11 ILS    SAEZ trf, at ARSOT FL050 clear to ILS rw11   
+SAEZ trf, full established ILS rw11 to land    SAEZ trf, rw vacated, taxi to platform    SAEZ trf, on blocks, engines off, flight plan close

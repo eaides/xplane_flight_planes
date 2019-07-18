@@ -1,0 +1,41 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SARE - Resistencia - Argentina
+Alternativo:  SARF - Formosa - Argentina
+Flight Level: FL370
+Ruta:	
+	LANDA UW64 GUA UL793 BURSA
+Route (plain text) .. = dct . for airways
+	SABE..LANDA.UW64.GUA.UL793.BURSA..SARE
+	SABE DCT LANDA UW64 GUA UL793 BURSA DCT SARE
+
+Distancia: 429 nm + Distancia Alternativo: 87 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       01:56
+Total combustible (tiempo): 02:41
+Peso Combustible: 18937 ( 99.9 % - 6.0 - 99.9 % ) reserva: 4.5 
+TOW: 126.9 (33.0% trim: 2.75)	v1: 121 - vr: 129 - v2: 138			pushback 160ft
+
+Avion: 737-300 : 105 pax (220 lbs per pax)
+Empty Weight: 72392
+Payload:      23100
+ZFW:          95493	GW: 114430
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B733
+
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow LANDA3B to FL370   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow LANDA3B to FL370   SABE trf, airborne
+
+for 21:
+4000 over SIS 	--  37 - 4 = 35 * 3 = 103 -> 110
+from DAMIS 		= 85
+from KILIP to DAMIS 	= 49   
+29 after KILIP
+
+for 03:
+3000 over OPMIT	--  37 - 3 = 33 * 3 = 109 -> 115
+from DAMIS  		= 72
+from KILIP to DAMIS 	= 49   
+
+SARE trf, 20nm inbound DAMIS leaving FL370, expecting rw21 ILS       SARE trf, at SIS altitude 4000 clear for ILS rw21   SARE trf, full established ils rw21 to land    SARE trf, rw vacated, taxi to platform    SARE trf, on blocks, engines off, flight plan close
+SARE trf, at KILIP leaving FL370, expecting rw03 RNM OPMIT           SARE trf, OPMIT 3000 start approach rw03 RNP        SARE trf. TENOB final rw03 to land             SARE trf, rw vacated, taxi to platform 

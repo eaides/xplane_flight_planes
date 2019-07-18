@@ -1,0 +1,27 @@
+Origen:       LOWW - Schwechat - Vienna - Austria
+Destino:      LDZA - Pleso - Zagreb - Croatia
+Alternativo:  LOWG - Graz - Graz - Austria
+Flight Level: FL260
+Ruta:
+	SNU M138 PUBEG M725 GRZ/N460F250 L604 PETOV
+Route (plain text) .. = dct . for airways
+	LOWW..SNU.M138.PUBEG.M725.GRZ.L604.PETOV..LDZA
+
+Distancia: 172 nm + Distancia Alternativo: 80 nm
+Tiempo Vuelo:               00:48
+Tiempo + alternativo:       01:18
+Total combustible (tiempo): 02:03	
+Peso Combustible: 12082 (70.0 % - 0.0 % - 70.0 % ) reserva: 4.5
+TOW: 120.0 (32.3% - trim 2.80)	v1:117  vr:125  v2: 134
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+LOWW trf, at parking C33 pb & su to LDZA as filed      LOWW trf, taxi to hp rw29 via TL EX11 M A2     LOWW trf, hp rwA2 lu & to follow SNU2C        LOWW trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LDZA trf, at GRZ leaving FL260 descending FL250 for odd Flight Level
+LDZA trf, at ELSIS leaving FL250 expect rw05 ils via PETOV2F trans. PIS            LDZA trf, at PETOV continue PETOV2F for rw05 ils transition PIS    LDZA trf, at PIS altitude 3000 clear to ils rw05      LDZA trf, full established rw05 to land      LDZA trf, rw vacated, taxi to platform      LDZA trf, on blocks, engines off, flight plan close

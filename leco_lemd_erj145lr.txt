@@ -1,0 +1,34 @@
+Origen:       LECO - A Coruna - A Coruna - Spain	(6000)
+Destino:      LEMD - Barajas - Madrid - Spain		(13000)
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL230	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	FORNO A33 ZMR
+Route (plain text) .. = dct . for airways
+	LECO DCT FORNO A33 ZMR DCT LEMD			LECOLEMD01.FLTPLAN
+	LECO..FORNO.A33.ZMR..LEMD
+
+Distancia: 278 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               01:02
+Tiempo + alternativo:       01:34
+Total combustible (tiempo): 02:19
+Peso Combustible: 6036 ( 53 % - 53 % ) reserva: 2.3 (40.52%)
+TOW: 48.501
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LECO trf, at parking G1 pb & su to LEMD as filed   
+LECO trf, taxi to hp rw21 via N and backtrack    	LLECO trf, entry rw for backtrack rw21     ECO trf, hp rw21 lu & to follow FORNO1C    LECO trf, airborne
+LECO trf, taxi to hp rw03 via ...    	LECO trf, hp rw03 lu & to follow FORNO1D    LECO trf, airborne
+
+LEMD trf, after ... FL260 start descending, expecting rw32/18 ... ils via star ... transition ASBIM/TAGOM    LEMD trf, position ... continue approach ... for rw... ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+ZAMORA3A para 18R o 18L
+ZAMORA3C o 1DCC para 32R o 32L
+
+LEMD trf, after ... FL230 start descending, expecting rw18R ils via star ZAMORA3A transition LALPI    LEMD trf, position ZMR continue approach ZAMORA3A for rw 18R ils   LEMD trf, at LALPI altitude 11000 clear to ils rw18R   LEMD trf, full established ils rw 18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+LEMD trf, after ... FL230 start descending, expecting rw32L ils via star ZAMORA1DCC transition TOBEK    LEMD trf, position ZMR continue approach ZAMORA1DCC for rw 32L ils   LEMD trf, at TOBEK altitude 5000 clear to ils rw32L   LEMD trf, full established ils rw 32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

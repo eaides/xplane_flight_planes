@@ -1,0 +1,37 @@
+!! Be sure to uncheck controller enabled - after star turn off the weather radar of the co-pilot !!
+
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel				
+Destino:      LLET - Eilat - Eilat - Israel
+Alternativo:  LLBG - Ben Gurion - Tel Aviv - Israel
+Flight Level: FL190
+Ruta:
+	TOMAL J10 LOT
+Route (plain text) .. = dct . for airways
+	LLBG..TOMAL.J10.LOT..LLET
+	LLBG TOMAL SIVAK AMMIT MZD SUKOT KINAR ZFR SHAYO NURIT SAMAR KITOR LOT318/1.6 LOT218/6.6 LOT198/6.4     180/2700 - 150/2500 - 150/1500
+														final turn with 20` bank and descent -1100
+														if have winds from the right to the rw, use 25` bank
+Distancia: 346 nm (173x2 for non stop trip return to LLBG) + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:35
+Peso Combustible: 15879 ( 93 % - 00.0 % - 91 % ) reserva: 5.0
+TOW: 123.8
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24395
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 445kn - Arriba de fl250 460kn (0.76 match)
+ICAO aircraft: B737
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LLET as filed   	LLBG trf, taxi to hp rw26 via M1 K R W2 hold shot rw 12/30       LLBG trf, crossing rw12/30 continue to hp26 W2 via R
+LLBG trf, at parking C3 pb & su to LLET as filed	LLBG trf, taxi to hp rw08 via M1 K S    
+LLBG trf, at parking L4 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via L N R W1     
+LLBG trf, hp rw26 W2 lu & to follow TOMAL2E initial 3000   LLBG trf, airborne     LLBG trf, climb 7000     LLBG trf, vertical BGN climb 9000      LLBG trf, altitude 9000 high speed aproved     LLBG trf, leaving LLBG control climb FL190
+LLBG trf, hp rw08 S lu & to follow TOMAL2B initial 3000   LLBG trf, airborne 	LLBG trf, airborne     LLBG trf, climb 7000     LLBG trf, vertical BGN climb 9000     LLBG trf, altitude 9000 high speed aproved     LLBG trf, leaving LLBG control climb FL190
+
+LLET trf, at ZFR leaving FL190 descending to Eilat, expecting rw03 visual   LLET trf, after KITOR entry downwind left 03 2500      LLET trf, downwind left 03 2500   
+LLET trf, at ZFR leaving FL190 descending to Eilat, expecting rw03 RNAV visual   LLET trf, after LOT start RNAV visual rw03 at 2500      LLET trf, inbound rw03 
+LLET trf, final rw 03 to land    LLET trf, rw vacated, taxi to platform 3      LLET trf, on blocks, engines off, flight plan close                  VREF 127 (135)

@@ -1,0 +1,25 @@
+Origen:       EFHK - Vantaa - Helsinki - Finland
+Destino:      EPWA - Lotnisko Chopina Warszawie - Warsaw - Poland 
+Alternativo:  EPLK - Lask - Lask - Poland
+Flight Level: FL400
+Ruta:
+	VETUD DOBAN P870 BOKSU M857 GERVI P851 NEPOX
+Route (plain text) .. = dct . for airways
+	EFHK..RILBO..DOBAN.P870.BOKSU.M857.GERVI.P851.NEPOX..EPWA 
+
+Distancia: 556 nm + Distancia Alternativo: 76 nm
+Tiempo Vuelo:               01:32
+Tiempo + alternativo:       02:02
+Total combustible (tiempo): 02:47	
+Peso Combustible: 15878 (92.0 % - 0.0 % - 92.0 % ) reserva: 4.5
+TOW: 123.8 (33.0% - trim 2.68)	v1:119  vr:127  v2: 136
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+EFHK trf, at parking 21 pb & su to EFHK as filed      EPWA trf, taxi to hp rw22R via ...      EFHK trf, hp .. rw22R lu & to follow RILBO..           EFHK trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+EFHK trf, after RIRIP inbound LAKT leaving FL350 expect rw22L via LAKUT2A            EFHK trf, at LAKUT continue LAKUT2A for rw22L ils        EFHK trf, at ARVUX altitude 3100 clear to ils rw22L      EFHK trf, full established ils rw22L to land      EFHK trf, rw vacated, taxi to platform      EFHK trf, on blocks, engines off, flight plan close

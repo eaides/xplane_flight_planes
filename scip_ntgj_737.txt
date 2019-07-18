@@ -1,0 +1,29 @@
+Origen:       SCIP - Mataveri Intl - Isla De Pascua, Chile
+Destino:      NTGJ - Totegegie - Totegegie I - French Polynesia
+Alternativo:  NTTO - Hao Isl - Hao Isl - French Polynesia
+Flight Level: FL400
+Ruta:
+
+	IPA UL348 SUNTA DCT MG
+Route (plain text) .. = dct . for airways
+	SCIP..IPA.UL348.SUNTA..MG
+
+Distancia: 1405 nm + Distancia Alternativo: 456 nm
+Tiempo Vuelo:               03:23
+Tiempo + alternativo:       04:41
+Total combustible (tiempo): 05:26
+Peso Combustible: 33228 ( 99.9 % - 55.5 % - 99.9 % ) reserva: 5.1 
+TOW: 141.2 (31.4% trim: 3.67)   v1: 129    vr: 138    v2: 145
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 10/28
+SCIP trf, at parking 2 pb & su to NTGJ as filed   SCIP trf, taxi to hp rw10        SCIP trf, entry rw to b/t for hp rw10       SCIP trf, hp rw10 lu & to IPA/UL348 FL400      		SCSE trf, airborne
+SCIP trf, at parking 2 pb & su to NTGJ as filed   SCIP trf, taxi to hp rw28        SCIP trf, entry rw to b/t for hp rw28       SCIP trf, hp rw28 lu & to UL348 FL400       	        SCTE trf, airborne
+
+destination rw: 12/30
+NTGJ trf, 100nb inbound MG leaving FL400, expecting rw12 NDB        NTGJ trf, MG 3000 start NDB approach for rw12 NDB      NTGJ trf, final rw12 to land    NTGJ trf, rw vacated, taxi to platform (xx via xxx xxx)   NTGJ trf, on blocks, engines off, flight plan close
+NTGJ trf, at ... leaving FL400, expecting rw30 NDB        NTGJ trf, MG .... start NDB approach for rw30 NDB      NTGJ trf, final rw30 to land    NTGJ trf, rw vacated, taxi to platform (xx via xxx xxx)   NTGJ trf, on blocks, engines off, flight plan close

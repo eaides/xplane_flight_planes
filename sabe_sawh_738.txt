@@ -1,0 +1,31 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SAWH - Usuahia - Usuahia - Argentina
+Alternativo:  SAWE - Rio Grande - Rio Grande - Argentina
+Flight Level: FL400
+Ruta:	
+	GBE UA570 DIL UT662 GRA T108 DABLI
+Route (plain text) .. = dct . for airways
+	SABE..GBE.UA570.DIL.UT662.GRA.T108.DABLI..SAWH
+	SABE DCT3 GBE UA570 DIL UT662 GRA UW42 GRA T108 DABLI DCT SAWH
+
+Distancia: 428 nm + Distancia Alternativo: 155 nm
+
+Tiempo Vuelo:               03:09
+Tiempo + alternativo:       03:37
+Total combustible (tiempo): 04:22
+Peso Combustible: 28283 lbs = 12829 kgs ( 99.9 % - 0 % - 90.0 % ) reserva: 4.5        (7821 kg)
+TOW: 129.84  (20.7% trim: 4.75)	v1: 127  vr: 130  v2: 140
+(63366 kg)
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+SABE trf, at parking 6 pb & su to SAWH as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow PTA7/GBE to FL300   SABE trf, airborne
+SABE trf, at parking 6 pb & su to SAWH as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow PTA7/GBE to FL300   SABE trf, airborne
+
+07/25
+SAWH trf, 60nm inbound USU leavinng FL210 expecting for rw25 ILS chart2        SAWH trf, USU 8000 clear for ILS rw25 chart2      SAWH trf, full established ILS rw25, to land    SAWH trf, rw vacated, taxi to platform (xx via xxx xxx)   SAWH trf, on blocks, engines off, flight plan close

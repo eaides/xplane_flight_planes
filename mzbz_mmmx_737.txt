@@ -1,0 +1,32 @@
+Origen:       MZBZ - Philip Goldson Int. Belize City - Belize
+Destino:      MMMX - Mexico City - Mexico - Mexico
+Alternativo:  MMMM - Morelia Int. - Morelia - Mexico
+Flight Level: FL380
+Ruta:
+	BZE UG633 VSA UJ5 MEX
+Route (plain text) .. = dct . for airways
+	MZBZ..BZE.UG633.VSA.UJ5.MEX..MMMX
+	MZBZ DCT BZE UG633 VSA UJ5 MEX DCT MMMX		MZBZMMMX01
+
+Distancia: 628 nm + Distancia Alternativo: 113 nm
+Tiempo Vuelo:               01:48
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07
+Peso Combustible: 18682 ( 99.9 % - 5 % - 99.9 % ) reserva: 4.5
+TOW: 126.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+MZBZ trf, at parking G3 pb & su to MMMX as filed   MZBZ trf, taxi to hp rw07 via A    MZBZ entry rw for bt     MZBZ hp rw07 lu & to over UG833 to west        MZBZ trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+MMMX trf, at ... leaving FL380, expecting rw.. ILS approach MEXICO3A/3B        MMMX trf, at MEX start MEXICO3A/3B     MMX trf, at ... clear to ILS rw..     MMMX trf, full established ILS rw.. land    MMMX trf, rw vacated, taxi to platform (xx via xxx xxx)   MMMX trf, on blocks .., engines off, flight plan close

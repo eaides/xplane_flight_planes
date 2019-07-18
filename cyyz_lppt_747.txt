@@ -1,0 +1,49 @@
+Origen:       CYYZ - Lester B. Pearson International Airport - Toronto - Canada 
+Destino:      LPPT - Lisbon Portela Airport - Lisbon - Portugal 
+Alternativo:  LPBJ - Beja International Airport - Beja - Portugal
+Flight Level: FL350
+Ruta:
+	BULGE2/KN497FL330 AIRCO GEE GEE111 EXTOL J522 HNK HUO J63 JFK L461 FATON/M0845/FL350 L461 LINND JOBOC 4160N 4350N 4240N 4230N 4120N ERPES BUSEN
+Route (plain text) .. = dct . for airways
+	CYYZ..AIRCO.V252.GEE.V14.BEEPS.J522.HNK..HUO.J63.JFK.L461.LINND.N15B.JOBOC..4160N..4350N..4240N..4230N..4120N..ERPES.UZ22.BUSEN..LPPT 
+	CTTZ AIRCO GEE EXTOL J522 HNK HUO J63 JFK L461 LINND JOBOC 4160N 4350N 4240N 4230N 4120N ERPES BUSEN LPPT				CYYZLPPT01.RTE
+
+Distancia: 3329 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               07:09
+Tiempo + alternativo:       07:37
+Total combustible (tiempo): 08:22
+
+Peso Combustible: 226.640 ( 100% - 88.5% - 0% - 88.5% - 100% - 0 - 100% - 100% - 100%) reserva: 30.750 <<  13.56%
+TOW: 740.848 (max.875000)   ZFW 514.208	  V1:139 VR:153 V2:168 trim 5.9
+
+Avion: 747-200 : 259 pax (220 lbs per pax)	747-400 heavy /L
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 301kn (0.845 match)
+514.2
+Notas:       SUR5717     SELCAL: RS-EL     TOT: 11:37Z
+
+
+CYYZ trf, at parking 177 (173 in fsx) pb & su to LPPT as filed   CYYZ trf, taxi to hp rw24L via DR D D5 Hold Short rw24L    CYYZ trf, hp rw24L D5 lu & to follow BULGE2 to FL330    CYYZ trf, airborne
+
+
+LPPT trf, at ... start ...., expect rw... ILS      LPPT trf, after ... leaving FL370 expecting rw... ILS via ........... transition ........   
+
+
+
+start 											11:10
+encender motores									 
+taxi 											
+despegue ----------------------------------------------------------------------------	12:09
+vertical FATON step climb from FL330 to FL350 ------------------------ (+-1:00) -----	12:58 (not pemitted by controller)
+request oceanic 30 min after JACOB --------------------------------------------------	13:00 ?
+oceanic (JACOB) 02:15 ------- 5:00 despues del despegue	-------------- (+-1:30) -----	13:33
+step climb from FL330 to FL350 ---------------------------------------          -----
+cerrar xfeed --------------------------------------------------------- (+-3:00) -----	15:56
+step climb from FL350 to FL370 --------------------------------------- (+-4:30) -----	16:35
+entry Portugal Domestic on ERPES ------------------------------------- (+-6:??) -----	??:??
+descenso inbound BUSEN ----------------------------------------------- (+-6:20) ----	18:30	
+aterrizo --------------------------------------------------------------(+-6:45)-----	18:54 	
+
+combustible final: ------------------------------------------------------------------	57.871
+

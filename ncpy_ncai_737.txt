@@ -1,0 +1,29 @@
+Origen:       NCPY - Tongareva - Penrhyn Island - Cook Islands
+Destino:      NCAI - Avarua - Aitutaki, Cook Islands
+Alternativo:  NCRG - Raratonga Intl. - Rarartonga Isl - Cook Islands
+Flight Level: FL390
+Ruta:
+
+	OTURI B596 AI
+Route (plain text) .. = dct . for airways
+	NCPY..OTURI.B596.AI..NCAI
+
+Distancia: 626 nm + Distancia Alternativo: 142 nm
+Tiempo Vuelo:               01:44
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07
+Peso Combustible: 19258 ( 99.9 % - 7.0 % - 99.9 % ) reserva: 5.0 
+TOW: 127.2 (33.0% trim: 2.77)   v1: 122    vr: 130    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 32/14
+NCPY trf, su to NCAI as filed      NCPY trf, taxi to hp rw32        NCPY trf, entry rw to b/t for hp rw32       NCPY trf, hp rw32 lu & to FL390      		NCPY trf, airborne
+NCPY trf, su to NCAI as filed      NCPY trf, taxi to hp rw14        NCPY trf, entry rw to b/t for hp rw14       NCPY trf, hp rw14 lu & to FL390      	        NCPY trf, airborne
+
+destination rw: 14/32
+NCAI trf, at ... leaving FL390, expecting rw14 ...       NCAI trf, vertical ... ... start ... approach rw14          NCAI trf, final rw14 to land       NCAI trf, rw vacated, taxi to platform    NCAI trf, on blocks, engines off, flight plan close
+NCAI trf, at ... leaving FL390, expecting rw32 ...                                                                   NCAI trf, final rw32 to land       NCAI trf, rw vacated, taxi to platform    NCAI trf, on blocks, engines off, flight plan close

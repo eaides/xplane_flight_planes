@@ -1,0 +1,28 @@
+Origen:       NZWN - Wellington Intl - Wellington, New Zealand
+Destino:      NZQN - Queenstown - Queenstown, New Zealand
+Alternativo:  NZNV - Inercargill - Inercargill - New Zealand 
+Flight Level: FL400
+Ruta:
+	PEGSA DCT SABDA Y622 MESIX H159 CH Y266 ELRUV
+Route (plain text) .. = dct . for airways
+	NZWN..PEGSA..SABDA.Y622.MESIX.H159.CH.Y266.ELRUV..NZQN 
+
+Distancia: 354 nm + Distancia Alternativo: 86 nm
+Tiempo Vuelo:               01:12
+Tiempo + alternativo:       03:43
+Total combustible (tiempo): 02:28
+Peso Combustible: 13980 (81.0 % - 0.0 % - 81.0 %) reserva: 4.5 
+TOW: 121.9 (32.7% trim: 2.74)   v1: 118    vr: 126    v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 16/34
+NZWN trf, at parking 22 pb/su to NZQN as filed      NZWN trf, taxi to hp rw16 via A Main 1           NZWN trf, hp rw16 lu & to follow PEGSA3 to FL400      	NZWN trf, airborne
+NZWN trf, at parking 22 pb/su to NZQN as filed      NZWN trf, taxi to hp rw34            NZWN trf, hp rw34 lu & to FL400         	NZWN trf, airborne
+
+destination rw: 05/23
+NZQN trf, ... miles inbound ELRUV leaving FL400, expecting rw05 RNAV, ELRUV1A trans. IBABU	NZQN trf, vertical ELRUV start ELRUV1A for rw05 RNAV trans IBABU       NZQN trf, UBABU 10000 start RNAV rw05       NZQN trf, final rw05 to land       NZQN trf, rw vacated, taxi to platform    NZQN trf, on blocks, engines off, flight plan close
+NZQN trf, ... miles inbound ELRUV leaving FL400, expecting rw23 RNAV, ELRUV2B trans. ATKIL      NZQN trf, vertical ELRUV start ELRUV2B for rw23 RNAV trans ATKIL       NZQN trf, ATKIL 7100 start RNAV rw23        NZQN trf, final rw23 to land       NZQN trf, rw vacated, taxi to platform    NZQN trf, on blocks, engines off, flight plan close

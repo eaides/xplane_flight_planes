@@ -1,0 +1,28 @@
+Origen:       NZQN - Queenstown - Queenstown, New Zealand
+Destino:      YMHB - Hobart - Hobart, Australia
+Alternativo:  YDPO - Devonport - Devonport - Australia
+Flight Level: FL400
+Ruta:
+	LIBLA P880 MADOK M643 PECOB
+Route (plain text) .. = dct . for airways
+	NZQN..LIBLA.P880.MADOK.M643.PECOB..YMHB 
+
+Distancia: 981 nm + Distancia Alternativo: 79 nm
+Tiempo Vuelo:               02:28
+Tiempo + alternativo:       03:02
+Total combustible (tiempo): 02:47
+Peso Combustible: 20698 (99.9 % - 12.0 % - 99.9 %) reserva: 4.5 
+TOW: 128.6 (32.8% trim: 2.87)   v1: 123    vr: 131    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 05/23
+NZQN trf, at parking 2 pb/su to YMHB as filed      NZQN trf, taxi to hp rw05            NZQN trf, wntry rw to b/t to hp rw05       NZQN trf, hp rw05 lu & follow IPNOR1C trans. LIBLA to FL400      	NZQN trf, airborne
+NZQN trf, at parking 2 pb/su to YMHB as filed      NZQN trf, taxi to hp rw23            NZQN trf, wntry rw to b/t to hp rw23       NZQN trf, hp rw23 lu & follow IPNOR1D trans. LIBLA to FL400         	NZQN trf, airborne
+
+destination rw: 12/30
+YMHB trf, ... miles inbound ... leaving FL400, expecting rw12 ...	YMHB trf, vertical ... start ..... for rw12 ...       YMHB trf, ... ..00 start/clear ... rw12       YMHB trf, final/full established ils rw12 to land       YMHB trf, rw vacated, taxi to platform    YMHB trf, on blocks, engines off, flight plan close
+YMHB trf, ... miles inbound ... leaving FL400, expecting rw30 ...       YMHB trf, vertical ... start ..... for rw30 ...       YMHB trf, ... ..00 start/clear ... rw30       YMHB trf, final/full established ils rw30 to land       YMHB trf, rw vacated, taxi to platform    YMHB trf, on blocks, engines off, flight plan close

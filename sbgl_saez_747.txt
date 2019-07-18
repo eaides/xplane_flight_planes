@@ -1,0 +1,39 @@
+Origen:       SBGL - Galeao-Antonio C Jobim Intl - Rio de Janeiro - Brazil
+Destino:      SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Alternativo:  SUMU - Carrasco Intl - Montevideo - Uruguay
+Flight Level: FL380
+Ruta:                                                                                                                                                                                                                                                                              	
+	BITAK UN857 MLO UM792 CRR UA310 DAGUS UA306 SARGO
+
+Distancia: 1126 nm + Distancia Alternativo: 124 nm
+Tiempo Vuelo:               02:42
+Tiempo + alternativo:       03:17
+Total combustible (tiempo): 04:02
+
+Peso Combustible: 96123 ( 79.7% - 28.5% - 0% - 28.5% - 79.7% - 0 - 100% - 0% - 0%) 	reserva: 17600 18.32%		
+TOW: 610.330 (max.875000)   ZFW 514.208	  V1:122 VR:133 V2:151 trim 5.6							
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+SBGL trf, at parking 12 pb & su to SAEZ as filed   SBGL trf, taxi to hp rw 10 via EE N O     SBGL trf, hp rw 10 lu & to follow IH 1A RNAV transition BITAK to FL380   SBGL trf, airborne
+						   SBGL trf, taxi to hp rw 15 via EE M A
+SAEZ trf, after DAGUS leaving FL380 expecting rw11 ILS via SARGO6A transition EZE        SAEZ trf, at SARGO FL320 start SARGO6A expect rw11 ils     SAEZ trf, at EZE FL070 clear to ILS rw11		SAEZ trf, full established ILS rw11 to land	   SAEZ trf, rw vacated on ... taxi to parking
+SAEZ trf, after DAGUS leaving FL380 expecting rw35 ILS via SARGO6B transition GESTA      SAEZ trf, at SARGO FL300 start SARGO6B expect rw35 ils     SAEZ trf, at GESTA FL050 clear to ILS rw35		SAEZ trf, full established ILS rw35 to land	   SAEZ trf, rw vacated on ... taxi to parking
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start 											06:00	08:30
+encender motores					    (+-0:20)			06:16	08:50
+taxi 							    (+-0:25)			06:18	08:55
+despegue 21:32	------------------------------------------- (+-0:35) ----------------	06:24	09:01
+at AROMO program arrive, -------- (35 min before arrive) ------------- (+-2:00) -----	08:26	11:08
+after DAGUS leaving FL380 ------- (25 min before arrive) ------------- (+-2:20) -----	08:45	11:26
+aterrizo ------------------------------------------------------------- (+-2:45)------	09:11	11:48 ?
+
+combustible final: ------------------------------------------------------------------   30582	29001
+

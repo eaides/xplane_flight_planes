@@ -1,0 +1,31 @@
+Origen:       MNMG	MROC	MRPN
+Destino:      MROC	MRPM	MPEJ
+Alternativo:  MRPM	MRLM	MPTO
+Flight Level: FL230
+Ruta:
+	LISPA A502 TIO
+	TIO A502 FINCA
+	COTOS A502 DAV A502 TBG Q5 MADEN Q4 FNC
+
+Distancia: 250 nm + Distancia Alternativo: 20 nm
+
+Tiempo Vuelo:               01:02		
+Tiempo + alternativo:       01:31
+Total combustible (tiempo): 02:15
+Payload					
+Passagers		0 / 2 x 220 = 		2240kgs =~ 5000lbs
+
+Alias			Saab 340	SF34					
+28 gals x hour	=>	150 x 2.25 hs = 340 -> (..%)
+							
+			refuel 	yes refuel on MYAK	
+				yes refuel on MYIG
+
+Avion: 737-300 : 105 pax (220 lbs per pax)
+Empty Weight: 72392
+F6uel:		24.500
+Payload:      	23.100
+ZFW:          	95.493	GW: 115550
+Cost In\dex SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B733

@@ -1,0 +1,28 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LLET - Eilat - Eilat - Israel
+Alternativo:  LLBG - Ben Gurion - Tel Aviv - Israel
+Flight Level: FL190							be58/60 - fl170
+Ruta:
+	TOMAL J10 LOT
+Route (plain text) .. = dct . for airways
+	LLBG..TOMAL.J10.LOT..LLET
+
+Distancia: 346 nm (173x2 for non stop trip return to LLBG) + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:35
+Peso Combustible: 16569 ( 97 % - 00.0 % - 95 % ) reserva: 5.0 
+TOW: 138.7
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+
+Notas: 
+
+LLBG trf, at parking C5 pb & su to LLET as filed   LLBG trf, taxi to hp rw08 via M2 M K   	LLBG trf, hp rw08 W1 lu & to follow TALMI2B to FL210  
+LLBG trf, at parking C5 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via M2 K R W1	LLBG trf, hp rw08 W1 lu & to follow TALMI2E to FL210
+  LLBG trf, airborne - Despegue: ????Z   
+
+
+LLET trf, after KINAR leaving FL210 start descending, expecting rw 03 RNAV visual    LLET trf, position LOT continue approach for rw 03 RNAV visual   LLET trf, final rw 03 to land    LLET trf, rw vacated, taxi to platform 3   LLET trf, on blocks, engines off, flight plan close                  VREF 143 (150)

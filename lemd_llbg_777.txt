@@ -1,0 +1,62 @@
+Origen:       LEMD - Barajas - Madrid - Spain						36r pinar2ar    5702
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL390
+Ruta:
+	PINAR UN870 BCN UN725 ORKUM UM603 SOR UM736 CRN UM601 MIL UN134 SOLIN
+Route (plain text) .. = dct . for airways
+	LEMD..PINAR.UN870.BCN.UN725.ORKUM.UM603.SOR.UM736.CRN.UM601.MIL.UN134.SOLIN..SIRON..LLBG	// SOR is VOR sorrento // SIRON is N032 E034
+	LEMD DCT PINAR UN870 BCN UN725 ORKUM UM603 SOR UM736 CRN UM601 MIL UN134 SOLIN SIRON DCT LLBG	LEMDLLBG
+
+Distancia: 1955 nm + Distancia Alternativo: 125 nm
+
+Tiempo Vuelo:               04:24
+Tiempo + alternativo:       05:00
+Total combustible (tiempo): 05:45
+Peso Combustible: 91044 lbs = 41297 kgs ( 100% - 41.9 % - 0 - 41.9% - 100 % - 0 - 100% - 0 - 0) reserva: 17600 13.53%
+TOW: 644.838   zfw 508.088	ZFW 514.208	  V1:123   VR:137   V2:150   trim 5.75			
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 490kn - Arriba de fl250 490kn (0.84 match)
+ICAO aircraft: B77L/H
+
+Notas: 
+
+LEMD trf, at parking T7, pb & su to LLBG as filed
+LEMD trf, taxi to hp rw 14R via R3 G2 A LB     LEMD trf, hp rw 14R lu & to follow PINAR2B to FL390     LEMD trf, airborne
+
+LEMD trf, at parking 534 terminal 4 satelite, pb & su to LLBG as filed
+LEMD trf, at parking 556 terminal 4 satelite, pb & su to LLBG as filed      LEMD trf, taxi to hp rw 14L via EB G14 K1    LEMD trf, hp rw 14L lu & to follow PINARAU to FL380     LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking T22 pb & su to LLBG as filed   LEMD trf, taxi to hp rw 36L via I9 4 M M16 M18 R5   LEMD trf, hp rw 36L lu & to follow PINAR2N to FL380   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking T14 pb & su to LLBG as filed   LEMD trf, taxi to hp rw 36L via I G2 M M16 M18 R5   LEMD trf, hp rw 36L lu & to follow PINAR2N to FL380   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking T14 pb & su to LLBG as filed   LEMD trf, taxi to hp rw 14L via I G2 M M15 A AM M K1   LEMD trf, hp rw 14L lu & to follow PINARAU to FL380   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking 556 terminal 4 satelite, pb & su to LLBG as filed      LEMD trf, taxi to hp rw 36R via EB N Y2    LEMD trf, hp rw 36R lu & to follow PINAR2R to FL390     LEMD trf, airborne - Despegue 1203Z
+
+at RUTOM leaving fl380 climbing fl390 out of italy air space
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLBG trf, at ERIMO FL390 start descending, expecting rw26 ILS via star SOLIN1D transition KEPIP    LLBG trf, position SOLIN FL120 continue approach SOLIN1D for rw26 ILS    LLBG trf, at KEPIP altitude 4500 clear to ILS rw26              LLBG trf, full established ILS rw26 to land    LLBG trf, rw vacated on .., taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, after ASPIS FL390 start descending, expecting rw08 ILS via star SOLIN1B transition BOAZZ   LLBG trf, position SOLIN FL120 continue approach SOLIN1B for rw08 ILS   LLBG trf, at BOAZZ altitude 3000 clear to ILS rw08   LLBG trf, full established ILS rw08 to land    LLBG trf, rw vacated on .., taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, after ASPIS FL390 start descending, expecting rw12 ILS via star SOLIN1X transition SIRON   LLBG trf, position SOLIN FL120 continue approach SOLIN1X for rw12 ILS   LLBG trf, at SIRON altitude 5000 clear to ILS rw12   LLBG trf, full established ILS rw12 to land    LLBG trf, rw vacated on .., taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, after ASPIS FL390 start descending, expecting rw21 ILS via star SOLIN1F transition KEPIP   LLBG trf, position SOLIN FL120 continue approach SOLIN1F for rw21 ILS   LLBG trf, at NIREL altitude 3000 clear to ILS rw21   LLBG trf, full established ILS rw21 to land    LLBG trf, rw vacated on .., taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+
+LLBG trf, inbound ERIMO FL390 start descending, expecting rw30 RNAV via star LIMKO1 transition LIMKO   
+LLBG trf, position SOLIN FL120 continue approach LIMKO1 for rw30 RNAV   
+LLBG trf, at LIMKO altitude 5000 clear to approach rw30 RNAV    LLBG trf, final rw30 to land                   LLBG trf, rw vacated on .., taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+
+
+start 											10:40	15:32
+encender motores									11:02
+taxi 											11:04
+despegue ----------------------------------------------------------------------------	11:12	16:11
+cerrar xfeed --------------------------------------------------------- (+-0:10) -----	11:19	16:17
+over UM601 vertical RUTOM, step climb from FL370 to FL390 ------------ (+-2:25) -----	13:29
+over UN134 vertical GISOS, step climb from FL370 to FL390 ------------ (+-2:25) -----	13:29
+at GISOS program arrive, -------- (35 min before arrive) ------------- (+-3:45) -----	14:32
+descenso despues de OGLAP ------- (25 min before arrive) ------------- (+-3:55) -----	14:59
+aterrizo ------------------------------------------------------------- (+-4:20)------	15:25
+
+combustible final: ------------------------------------------------------------------  33.294

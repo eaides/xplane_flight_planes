@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LGAV - Eleftherios Venizelos Int. - Athens - Greece
+Alternativo:  LGBL - Almiros - Nea Anchialos - Greece
+Flight Level: FL340
+Ruta:
+	PURLA H1B SUVAS UL53 KAROL UL995 VARIX
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.H1B.SUVAS.UL53.KAROL.UL995.VARIX..LGAV
+
+Distancia: 656 nm + Distancia Alternativo: 94 nm
+
+Distancia: 647 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:49
+Tiempo + alternativo:       02:20
+Total combustible (tiempo): 03:05
+Peso Combustible: 14407 ( 73 % - 73 % ) reserva: 2309 
+TOW: 45.361
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+					
+					
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via M1 K R W1     
+LLBG trf, at parking L3 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via L N R W1     
+LLBG trf, hp rw26 W1 lu & to follow TALMI2E initial 90000   LLBG trf, airborne - Despegue: ????Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LGAV trf, after AKINA leaving FL340 start descending, expecting rw21R ils via VARIX1A transition KRO   LGAV trf, position VARIX continue approach VARIX1A/KRO for rw21R ils   LGAV trf, at KRO altitude 6000 clear to ils rw21R   LGAV trf, full established ils rw21R to land    LGAV trf, rw vacated, taxi to platform (xx via xxx xxx)   LGAV trf, on blocks, engines off, flight plan close

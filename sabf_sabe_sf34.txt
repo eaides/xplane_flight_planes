@@ -1,0 +1,28 @@
+Origen:       SAZB - Comandante Espora - Bahia Blanca - Argentina
+Destino:      SABE - Jorge Newery - Buenos Aires - Argentina
+Alternativo:  SAAR - Rosario - Argentina
+Flight Level: FL210
+Ruta:	
+	PULAS UW22 VALOS
+Route (plain text) .. = dct . for airways
+	SAZB..PULAS.UW22.VALOS..SABE
+	SAZB DCT PULAS UW22 VALOS DCT SABE
+
+Distancia: ... nm + Distancia Alternativo: 155 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       02:05
+Total combustible (tiempo): 02:50
+Peso Combustible: 1827+913.5 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: SF34 Saab 340 : 30 pax (220 lbs per pax) - 0 carga (85%)
+Payload 6600 - ZFW 15600
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+SAZB trf, at parking 1 pb & su to SABE as filed   SAZB trf, taxi to hp rw RW17      SAZB trf, hp rw RW17 lu & to GAVAS2/PULAS to FL210   SAZB trf, airborne
+SAZB trf, at parking 1 pb & su to SABE as filed   SAZB trf, taxi to hp rw RW35      SAZB trf, hp rw RW35 lu & to GAVAS2/PULAS to FL210   SAZB trf, airborne
+
+SABE trf, after GUA leaving FL340, expecting rw31 vor-dme via star PAGON7D    SABE trf, position PAGON continue approach PAGON7D for rw31 vor-dme   SABE trf, at ILM altitude 2500 start approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+SABE trf, after DALAB inbound GUA leaving FL340, expecting rw13 ILS via star PAGON7C transition VANAR    SABE trf, position PAGON continue approach PAGON7C for rw13 ILS    SABE trf, at FDO altitude 2500 clear to ILS rw13   SABE trf, full established ILS rw13 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

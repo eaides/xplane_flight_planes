@@ -1,0 +1,29 @@
+Origen:       NTGJ - Totegegie - Totegegie I, French Polynesia
+Destino:      NTAA - Faaa - Tahiti I - French Polynesia
+Alternativo:  NTTO - 
+Flight Level: FL400
+Ruta:
+
+	MURUA J29 ASOKI
+Route (plain text) .. = dct . for airways
+	NTGJ..MURUA.J29.ASOKI..NTAA
+
+Distancia: 919 nm + Distancia Alternativo: 496 nm
+Tiempo Vuelo:               02:22
+Tiempo + alternativo:       03:44
+Total combustible (tiempo): 04	:29
+Peso Combustible: 27323 ( 99.9 % - 35.0 % - 99.9 % ) reserva: 5.0 
+TOW: 135.3 (32.1% trim: 3.30)   v1: 126    vr: 135    v2: 142
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 12/30
+NTGJ trf, at parking 2 pb & su to NTAA as filed      NTGJ trf, taxi to hp rw12        NTGJ trf, entry rw to b/t for hp rw12       NTGJ trf, hp rw12 lu & to MG DCT MURUA FL400      		NTGJ trf, airborne
+NTGJ trf, at parking 2 pb & su to NTAA as filed      NTGJ trf, taxi to hp rw30        NTGJ trf, entry rw to b/t for hp rw30       NTGJ trf, hp rw30 lu & to DCT MURUA FL400       	        NTGJ trf, airborne
+
+destination rw: 04/22
+NTAA trf, after VETEA inbound ASOKI leaving FL400, expecting rw04 ILS via ASOKI3V    NTAA trf, ASOKI 9000 start ASOKI3V approach for rw04 ILS    NTAA trf, TAF 9000 clear for ILS-Y LOC-Y rw04    NTAA trf, full established ILS rw04 to land    NTAA trf, rw vacated, taxi to platform (xx via xxx xxx)   NTAA trf, on blocks, engines off, flight plan close
+NTAA trf, at ... leaving FL400, expecting rw22 VOR via ASOKI3M    NTAA trf, ASOKI 9000 start ASOKI3M approach for rw22 VOR    NTAA trf, MOANA 3000 clear for rw30 VOR-Z        NTAA trf, final rw22 to land                   NTAA trf, rw vacated, taxi to platform (xx via xxx xxx)   NTAA trf, on blocks, engines off, flight plan close

@@ -1,0 +1,25 @@
+Origen:       EHAM - Schiphol - Amsterdam - Netherlands
+Destino:      EKCH - Kobenhavn/Kastrup - Copenhagen - Denmark
+Alternativo:  ESDF - Ronneby - Ronneby - Sweden 
+Flight Level: FL390
+Ruta:
+	ANDIK UN873 JUIST UP729 DOSUR P729 TUDLO
+Route (plain text) .. = dct . for airways
+	EHAM..ANDIK.UN873.JUIST.UP729.DOSUR.P729.TUDLO..EKCH
+
+Distancia: 217nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:26
+Total combustible (tiempo): 02:27
+Peso Combustible: 13980 (81.0 % - 0.0 % - 81.0 % ) reserva: 4.5
+TOW: 121.9 (32.7% - trim 2.74)	v1:118  vr:126  v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+EHAM trf, at parking C6 (...) pb & su to EKCH as filed      EHAM trf, taxi to hp rw36L via A Q A crossing 36C on W5      EHAM trf, hp V4 rw36L lu & to follow SPY2V            EHAM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+EKCH trf, after DOSUR leaving FL390 expect rw04L via TUDLO1M            EKCH trf, at TUDLO continue TUDLO1M for rw04L ils   EKCH trf, at BASLO altitude 3000 clear to ils rw04L      EKCH trf, full established ils rw04L to land      EKCH trf, rw vacated, taxi to platform      EKCH trf, on blocks, engines off, flight plan close

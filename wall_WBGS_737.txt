@@ -1,0 +1,29 @@
+Origen:       WALL - Sultan Ali Muhamad Sulaiman Sepinggan - Balikpapan - Indonesia
+Destino:      WBGS - Sibu - Sibu - Malaysia
+Alternativo:  WBGG - Kuching Intl. - Kuching - Malaysia
+Flight Level: FL380
+Ruta:
+	ELANG W36 ROTAN L504 OMEGA/F370 P648 OKADA DCT ALEKA
+Route (plain text) .. = dct . for airways
+	WALL ELANG W36 ROTAN L504 OMEGA P648 OKADA ALEKA WBGS
+	WALL..ELANG.W36.ROTAN.L504.OMEGA.P648.OKADA..ALEKA..WBGS
+
+Distancia: 554 nm + Distancia Alternativo: 109 nm
+Tiempo Vuelo:               01:39
+Tiempo + alternativo:       02:12
+Total combustible (tiempo): 02:57
+Peso Combustible: 16568 (96.0 % - 0.0 % - 96.0 %) reserva: 4.5 wa
+TOW: 124.5 (33.1% trim: 2.66)   v1: 120    vr: 128    v2: 136
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 07/25
+WALL trf, at parking 1 pb/su to WBGS as filed      WALL trf, taxi to hp rw07 via F NP E           WALL trf, hp rw07 lu & to SEPIN6 trans ELANG @FL380       	WALL trf, airborne
+WALL trf, at parking 1 pb/su to WBGS as filed      WALL trf, taxi to hp rw25 via A                WALL trf, hp rw25 lu & to SEPIN5 trans ELANG @FL380       	WALL trf, airborne
+
+destination rw: 13/31
+WBGS trf, at OMEGA leaving FL380 to FL370 for odd FL
+WBGS trf, vertical OKADA leaving FL370, expecting rw13 ILS via APAD1A trans GORSU       WBGS trf, at GORSU clear for rw13 ILS        WBGS trf, full established ils rw13 to land       WBGS trf, rw vacated, taxi to platform    WBGS trf, on blocks, engines off, flight plan close

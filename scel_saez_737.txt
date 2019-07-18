@@ -1,0 +1,32 @@
+Origen:       SCEL - Arturo Merino Benitez - Santiago - Chile
+Destino:      SAEZ - Ministro Pistarini - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR - Rosario - Rosario - Argentina
+Flight Level: FL390
+Ruta:
+	ALBAL UM424 ASADA
+Route (plain text) .. = dct . for airways
+	SCEL..ALBAL.UM424.ASADA..SAEZ
+	SCEL DCT ALBAL UM424 ASADA DCT SAEZ		SCELSAEZ01
+
+Distancia: 630 nm + Distancia Alternativo: 161 nm
+Tiempo Vuelo:               01:49
+Tiempo + alternativo:       02:29
+Total combustible (tiempo): 03:14
+Peso Combustible: 18862 ( 99.9 % - 5 % - 99.9 % ) reserva: 4.5
+TOW: 126.6 - 128.1
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SCEL trf, at parking 19 pb & su to SAEZ as filed   SCEL trf, taxi to hp rw17L via G K C A    SCEL trf, hp rw 17L lu & to follow ALBAL1 departure       SCEL trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SAEZ trf, leaving FL390, expecting rw 11 ILS via ASADA6 transition ARSOT         SAEZ trf, at ASADA initial ASADA6A fot ARSOT ils rw 11             SAEZ trf, at ARSOT 5000 clear to ILS rw 11     SAEZ trf, full established ILS rw 11 to land    SAEZ trf, rw vacated, taxi to platform (xx via xxx xxx)   SAEZ trf, on blocks .., engines off, flight plan close

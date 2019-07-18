@@ -1,0 +1,22 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SARI
+Alternativo:  SARP
+Flight Level: FL330
+Ruta:	
+	LANDA UW64 MCS UT667 DOKBA
+Route (plain text) .. = dct . for airways
+	SAEZ..LANDA.UW64.MCS.UT667.DOKBA..SARI
+
+Distancia: 601 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               01:36
+Tiempo + alternativo:       02:09
+Total combustible (tiempo): 02:55
+Peso Combustible: 23360
+
+Avion: 737-200 : 89 pax (220 lbs per pax)
+Payload:      20.03+5
+ZFW:          92.4
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+

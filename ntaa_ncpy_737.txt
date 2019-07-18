@@ -1,0 +1,29 @@
+Origen:       NTAA - Faaa - Tahiti I - French Polynesia
+Destino:      NCPY - Tongareva - Penrhyn Island - Cook Islands
+Alternativo:  NTAA - Faaa - Tahiti I - French Polynesia
+Flight Level: FL400
+Ruta:
+
+	MIKOP G223 AI B596 OTURI
+Route (plain text) .. = dct . for airways
+	NTAA..MIKOP.G223.AI.B596.OTURI..NCPY
+
+Distancia: 1209 nm + Distancia Alternativo: 711 nm
+Tiempo Vuelo:               02:58
+Tiempo + alternativo:       04:48
+Total combustible (tiempo): 05:33
+Peso Combustible: 33372 ( 99.9 % - 56.0 % - 99.9 % ) reserva: 5.0 
+TOW: 141.3 (31.4% trim: 3.30)   v1: 129    vr: 138    v2: 145
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 22/04
+NTAA trf, at parking 2 pb & su to NCPY as filed      NTAA trf, taxi to hp rw22        NTAA trf, entry rw to b/t for hp rw22       NTAA trf, hp rw22 lu & to FL400      		NTAA trf, airborne
+NTAA trf, at parking 2 pb & su to NCPY as filed      NTAA trf, taxi to hp rw04        NTAA trf, entry rw to b/t for hp rw04       NTAA trf, hp rw04 lu & to FL400      	        NTAA trf, airborne
+
+destination rw: 14/32
+NCPY trf, at OTURI leaving FL400, expecting rw14 NDB          NCPY trf, vertical PY 1500 start NDB approach rw14          NCPY trf, final rw14 to land       NCPY trf, rw vacated, taxi to platform    NCPY trf, on blocks, engines off, flight plan close
+NCPY trf, at OTURI leaving FL400, expecting rw32 visual       NCPY trf, final rw32 to land       NCPY trf, rw vacated, taxi to platform    NCPY trf, on blocks, engines off, flight plan close

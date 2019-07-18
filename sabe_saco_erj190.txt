@@ -1,0 +1,29 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina
+Alternativo:  SAOC - Area de Material - Rio Cuarto, Argentina
+Flight Level: FL340
+Ruta:	
+	ATOVO UW5 CBA
+Route (plain text) .. = dct . for airways			
+	SABE..ATOVO.UW5.CBA..SACO
+	SABE DCT ATOVO UW5 CBA DCT SACO
+
+Distancia: 355 nm + Distancia Alternativo: 107 nm
+	   355 + 352 = 707 nm		   155 nm
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:44
+Total combustible (tiempo): 02:29 -- 03:20
+Peso Combustible: 11650 ( 65 % - 65 % ) reserva: 4.5 
+                  15479
+TOW: 45864
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+SABE trf, at parking 8 pb & su to SACO as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow ATOVO3B to FL340   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SACO as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow ATOVO3B to FL340   SABE trf, airborne
+
+SACO trf, inbound ASISA leaving FL340, expecting rw 18 ILS     SACO trf, at CBA altitude 5000 clear for ILS rw18   SACO trf, full established ils rw18 to land    SACO trf, rw vacated, taxi to platform    SACO trf, on blocks, engines off, flight plan close

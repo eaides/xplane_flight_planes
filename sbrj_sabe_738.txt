@@ -1,0 +1,42 @@
+DISABLE: HOOBS - SLEW - XQUACKBOX or X-IVAOC
+http://tracker.ivao.aero/search.php
+	
+Origen:       SBRJ - Santos Dumont - Rio de Janeiro - Brazil
+Destino:      SABE - Jorge Newery - Buenos Aires - Argentina
+Alternativo:  SAAR - Rosario - Argentina
+Flight Level: FL380
+Ruta:	
+	BITAK UN857 NELOX UM534 ISOBU UM788 BGE UN741 PAPIX
+Route (plain text) .. = dct . for airways
+	SBRJ..BITAK.UN857.NELOX.UM534.ISOBU.UM788.BGE.UN741.PAPIX..SABE				
+Distancia: 1080 nm + Distancia Alternativo: 155 nm
+
+Tiempo Vuelo:               02:42
+Tiempo + alternativo:       03:21
+Total combustible (tiempo): 04:06
+Peso Combustible: 26766 lbs = 12141 kgs ( 99.9 % - 0 % - 90.0 % ) reserva: 4.5        (7821 kg)
+TOW: 139.7  (29.9% trim: 5.25)	v1: 133  vr: 136  v2: 145
+(63366 kg)
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+
+SBRJ trf, pb & su to SABE as filed   SBRJ trf, taxi to hp rw RW20L    SBRJ trf, hp rw RW20L lu & to IH1C.BITAK to FL380   SBRJ trf, airborne
+SBRJ trf, pb & su to SABE as filed   SBRJ trf, taxi to hp rw RW02R    SBRJ trf, hp rw RW02R lu & to IH1A.BITAK to FL380   SBRJ trf, airborne
+
+for 13 start descent 10nm inboud POMPA for 5000 on VANAR via PAPIX1C: 
+PAPIX 24000 
+PAL 13000 
+ENO 9000 
+VANAR 5000
+for 31 start descent at DUR for 2500 on ILM
+
+SABE trf, after DUR inbound PONPA leaving FL380, expecting rw13 ILS via star PAPIX1C transition VANAR    
+SABE trf, position PAPIX continue approach PAPIX1C for rw13 ILS    SABE trf, at FDO altitude 2500 clear to ILS rw13   
+SABE trf, at DUR leaving FL380, expecting rw31 vor-dme via ILM    SABE trf, position PAPIX continue approach for rw31 direct ILM/    SABE trf, at ILM altitude 2500 start final approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

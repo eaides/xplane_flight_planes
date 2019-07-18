@@ -1,0 +1,29 @@
+Origen:       SASA - Salta - Salta, Argentina
+Destino:      SANL - Capitan V. Almandos Almonacid - La Rioja, Argentina
+Alternativo:  SANC - Catamarca - Catamarca, Argentina
+Flight Level: FL280
+Ruta:	
+	PONPI/F270 UW5 TUC/F280 UW3 KAKAN
+Route (plain text) .. = dct . for airways	
+	SASA..PONPI.UW5.TUC.UW3.KAKAN..SANL
+	SASA PONPI UW5 TUC UW3 KAKAN SANL
+
+Distancia: 304 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               01:06
+Tiempo + alternativo:       01:35
+Total combustible (tiempo): 02:20
+Peso Combustible: 6118 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+02/20 06/24
+SASA trf, at parking pb & su to SANL as filed   SASA trf, taxi to hp rw20    	      SASA trf, hp rw20 LU&TO PONPI2A initial FL270     SASA trf, airborne
+
+trf, over TUC climb from FL270 to FL280 for even FL over UW3
+
+02/20
+SANL trf, ..nm inbound ... leaving FL260, expecting rw21 ILS chart1/hold over LAR       SANL trf, LAR 6000 clear ILS rw21    SANL trf, full established ILS rw21, to land    SANL trf, rw vacated, taxi to platform (xx via xxx xxx)   SANL trf, on blocks, engines off, flight plan close

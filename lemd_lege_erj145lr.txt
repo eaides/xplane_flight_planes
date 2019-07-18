@@ -1,0 +1,41 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEGE - Girona - Girona - Spain
+Alternativo:  LEDA - Alguaire - Lleida - Spain
+Flight Level: FL260	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	PINAR/KN440FL260 UN870 SEROX/KN440FL240 H110 MAMUK			even  even(low)	
+Route (plain text) .. = dct . for airways
+	LEMD DCT PINAR UN870 SEROX H110 MAMUK DCT LEGE			LEMDLEGE01.FLTPLAN
+	LEMD..PINAR.UN870.SEROX.H110.MAMUK..LEGE
+
+Distancia: 303 nm + Distancia Alternativo: 100 nm
+Tiempo Vuelo:               01:06
+Tiempo + alternativo:       01:38
+Total combustible (tiempo): 02:23
+Peso Combustible: 6264 ( 55 % - 55 % ) reserva: 2.3 (40.52%)
+TOW: 44.497
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking remoto25 pb & su to LEGE as filed   
+LEMD trf, taxi to hp rw14R via M G2 A(norte) LA    
+LEMD trf, taxi to hp rw14L via M G2 A(norte) AM M K1
+LEMD trf, taxi to hp rw36R via M G2 A(norte) AM M NY Y1
+LEMD trf, taxi to hp rw36L via M G2 A(norte) M17 R5 Z4
+LEMD trf, hp rw14R lu & to follow PINAR2B                LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw36L lu & to follow PINAR..                LEMD trf, airborne
+Despegue: ????Z
+
+vertical SEROX FL260 descending FL240 for H110 lower
+
+02-20
+LEGE trf, after REBUL leaving FL240 descending FL150 for MAMUK1K expecting rw02 VOR approach
+LEGE trf, after REBUL leaving FL240 descending  FL150 for MAMUK1F expecting rw20 ILS
+LEGE trf, at CASPE FL160 continue approach CASPE4T to ils rw25L     LEGE trf, at SSL FL070 clear to ILS rw25L     LEGE trf, full established ils rw25L to land    LEGE trf, rw vacated, taxi to platform

@@ -1,0 +1,22 @@
+Origen:       SAAR - Rosario - Rosario, Argentina
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SUMU - Carrasco - Montevideo - Uruaguay
+Flight Level: FL210
+Ruta:	
+	ROS W20 MULTA W24 SNT			
+Route (plain text) .. = dct . for airways
+	SAAR..ROS.W20.MULTA.W24.SNT..SAEZ
+
+Distancia: 161 nm + Distancia Alternativo: 119 nm
+Tiempo Vuelo:               00:35
+Tiempo + alternativo:       01:03
+Total combustible (tiempo): 01:47
+Peso Combustible: 14958
+
+Avion: 737-200 : 89 pax (220 lbs per pax)
+Payload:      20.5
+ZFW:          83.0
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+

@@ -1,0 +1,27 @@
+Origen:      LIRF - Fiumiciono - Roma - Italia
+Destino:     GVAC - Amilcar Cabral - Sal - Cape Verde
+Alternativo: GVNP - Praia intl - Praia - Cape Verde
+FL: FL400
+Ruta:
+     SOSAK DCT ESINO/KN460FL390 UZ924 KUPIM UM986 ETEKO UM871 SOTAX UT100 GIVRA UM143 GALTO/KN460FL400 UN869 ADM UA600 DKH UB600 MAURI DCT PE UB600 YF UR976 LUMPO R976 POLMO
+Route (plain text) .. = dct . for airways
+     LIRF..SOSAK..ESINO.UZ924.KUPIM.UM986.ETEKO.UM871.SOTAX.UT100.GIVRA..GALTO.UN869.ADM.UA600.DKH.UB600.MAURI..PE.UB600.YF.UR976.LUMPO.R976.POLMO..GVAC
+Distancia: 2729 nm + Distancia Alternativo: 112 nm
+Tiempo Vuelo:               06:25
+Tiempo + alternativo:       07:00
+Total combustible (tiempo): 07:45
+Peso Combustible: 40780 ( 100 % - 81.7 % - 100 % ) reserva: 3.4 
+TOW: 146.8
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas:
+
+
+
+
+LIRF trf, at parking 206 pb & su to GVAC as filed   LIRF trf, taxi to hp rw25 via EB EG D N B BA    LIRF trf, hp rw25 lu & to follow SOSAK5A transition ESINO5H   LIRF trf, airborne
+
+GVAC trf, at POLNO 24000 start approach expecting rw 01 ils transition CVS   GVAC trf, at CSV altitude 2500 clear to ils rw 01   GVAC trf, full established ils 01 to land    GVAC trf, rw vacated, taxi to platform via A4 A C   GVAC trf, on blocks, engines off, flight plan closed

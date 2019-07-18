@@ -1,0 +1,50 @@
+Origen:     	KBOS - Logan Intl - Boston, USA					alt. 20 ft.
+	RWY04L largo: 7861 ft.
+	RWY04R largo: 10005 ft.
+	RWY09 largo: 7000 ft.
+	RWY14 largo: 5000 ft.
+	RWY15L largo: 2557 ft.
+	RWY15R largo: 10083 ft.
+	RWY22L largo: 10005 ft.
+	RWY22R largo: 7861 ft.
+	RWY27 largo: 7000 ft.
+	RWY32 largo: 5000 ft.
+	RWY33L largo: 10083 ft.
+	RWY33R largo: 2557 ft.
+Destino:	KDCA - Ronald Reagan USA, Washington Natl - USA, Washington, USA	alt. 15 ft.
+	RWY01 largo: 6869 ft.
+	RWY04 largo: 4911 ft.
+	RWY15 largo: 5204 ft.
+	RWY19 largo: 6869 ft.
+	RWY22 largo: 4911 ft.
+	RWY33 largo: 5204 ft.
+Alternativo: 	KPHL
+Flight Level: FL380
+Ruta:
+	PATSS NELIE CMK J75 MXE
+Route (plain text) .. = dct . for airways
+	KBOS..PATSS..NELIE..CMK.J75.MXE..KDCA
+
+Distancia: 352 nm + Distancia Alternativo: 104 nm
+Ti0empo Vuelo:              01:10
+Tiempo + alternativo:       01:43
+Total combustible (tiempo): 02:30
+Peso Combustible: 16836		reserva: 6.5
+TOW: 142.0
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw10 via main 3    UHMM entry rw for bt		UHMM trf, hp rw 10 lu & to follow OSKET1     UHMM trf, airborne
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw28 via main 1    UHMM entry rw for bt		UHMM trf, hp rw 28 lu & to follow OSKET3     UHMM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+UHPP trf, at EGONI FL370, expecting rw... ILS via .... transition ....		UHPP trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

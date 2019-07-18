@@ -1,0 +1,32 @@
+Origen:       KLAX - Los Angeles Intl - Los Angeles, USA 		alt. 126 ft.
+	RWY06L largo: 8925 ft.
+	RWY06R largo: 10285 ft.
+	RWY07L largo: 12091 ft.
+	RWY07R largo: 11095 ft.
+	RWY24L largo: 10285 ft.
+	RWY24R largo: 8925 ft.
+	RWY25L largo: 11095 ft.
+	RWY25R largo: 12091 ft.
+Destino:      KRNT - Renton Mun - Renton, USA				alt. 32 ft.
+	RWY15 largo: 5382 ft.
+	RWY33 largo: 5382 ft.
+Alternativo:  CYVR
+
+Flight Level: FL360
+
+Ruta:	
+	EHF V23 CZQ V230 FRA J7 FMG J5 SUMMA
+Route (plain text) .. = dct . for airways
+	KLAX..EHF.V23.CZQ.V230.FRA.J7.FMG.J5.SUMMA..KRNT
+
+Distancia: 842 nm + Distancia Alternativo: 109 nm
+
+Tiempo Vuelo:               02:12
+Tiempo + alternativo:       02:45
+Total combustible (tiempo): 03:15
+Peso Combustible: 20.7 lbs		reserva: 5.7
+
+
+Avion: 737-800 : 170 pax (220 lbs per pax)
+Payload 39.1
+Cost Index SUR: 60

@@ -1,0 +1,29 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LGRP - Diagoras - Rodos - Greece
+Alternativo:  LGKP - Karphatos - Karphatos - Greece
+Flight Level: FL380
+Ruta:
+	GITLA UA14 KAROL UL995 IRBAX
+Route (plain text) .. = dct . for airways
+	LLBG..GITLA.UA14.KAROL.UL995.IRBAX..LGRP		LLBGLGRP01.FLTPLAN
+
+Distancia: 436 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       01:55
+Total combustible (tiempo): 02:40
+Peso Combustible: 14670 ( 86 % - 0 % - 84 % ) reserva: 4.5
+TOW: 122.6 (32.8 trim:2.72)	v1:118 vr:126 v2:136
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LGRP as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    
+LLBG trf, at parking L3 pb & su to LGRP as filed   LLBG trf, taxi to hp rw26 via L N R W1    
+LLBG trf, hp rw26 lu & to follow PURLA1E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+
+LGRP trf, at xxx leaving FL380 expecting rw25 ILS via IRBAX1D transition RDS    LGRP trf, vertical IRBAX continue approach IRBAX1D for rw25 ils   LGRP trf, at RDS altitude 6000 clear for ils rw25   LGRP trf, full established ils rw25 to land    LGRP trf, rw vacated, taxi to platform (xx via xxx xxx)   LGRP trf, on blocks, engines off, flight plan close

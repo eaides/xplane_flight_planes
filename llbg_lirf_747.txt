@@ -1,0 +1,42 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL400
+Ruta:
+	PURLA/M0845FL380 H1B SUVAS UL53 KAROL UL995 XANIS/M0845FL400 UL995 TEA UZ803 LAT 
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.TEA.UZ803.LAT..LIRF 
+
+Distancia: 1245 nm + Distancia Alternativo: 108 nm
+
+Tiempo Vuelo:               02:56
+Tiempo + alternativo:       03:29
+Total combustible (tiempo): 04:14
+Peso Combustible: 84200 ( 100% - ??.? % - 0 - ??.?% - 100 % - 0 - 100% - 0 - 0) reserva: 37950 29.90%
+TOW: 631.5   	    ZFW 547.2	     V1:127 VR:141 V2:155 trim 6.8			
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+LLBG trf, at parking B7 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via M1 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking B7 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+
+LIRF trf, inbound SIPRO leaving FL360 start descending, expecting rw16L ils via LAT4A trans. CMP       LIRF at LAT FL130 start approach LATINA4A for rw16L ils transition CMP      LIRF trf, CMP 3000 clear to ils rw16L     LIRF trf, full established ils rw16L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+LIRF trf, after AKAMO inbound TEA leaving FL380 start descending, expecting rw34L ils via LAT1D trans. ROM       LIRF at LAT FL150 start approach LATINA1D for rw34L ils transition ROM      LIRF trf, ROM 4500 clear to ils rw34L     LIRF trf, full established ils rw34L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+
+
+start 											13:52	?? ??
+encender motores									11:02	08:57
+taxi 											11:04	09:01
+despegue ----------------------------------------------------------------------------	11:12	09:08
+cerrar xfeed --------------------------------------------------------- (+-0:05) -----	11:19	09:12
+over UL995 vertical XANIS, step climb from FL340 to FL360 ------------ (+-1:40) -----	13:29	10:46	-
+at BRD program arrive, ---------- (35 min before arrive) ------------- (+-?:??) -----	14:32	11:15
+descenso antes de SIPRO ------- (25 min before arrive) --------------- (+-?:??) -----	14:59
+aterrizo ------------------------------------------------------------- (+-?:??)------	15:25	11:50 ?
+
+combustible final: ------------------------------------------------------------------  33.294	51.545	(cargar 

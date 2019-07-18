@@ -1,0 +1,24 @@
+Origen:       EGLL - HEATHEOW - LONDON - ENGLAND
+Destino:      LFPG - Charles de Gaulle - Paris - France
+Alternativo:  LFRG - Normandie - Deauville - France 
+Flight Level: FL330
+Ruta:
+	MAY Y47 SFD UM605 BIBAX
+Route (plain text) .. = dct . for airways
+	EGLL..MAY.Y47.SFD.UM605.BIBAX..LFPG
+
+Distancia: 191nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               00:50
+Tiempo + alternativo:       01:22
+Total combustible (tiempo): 02:07
+Peso Combustible: 12082 (70.0 % - 0.0 % - 70.0 % ) reserva: 4.5
+TOW: 120.1 (32.3% - trim 2.81)	v1:116  vr:124  v2: 134
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+EGLL trf, at parking 233 (141) pb & su to LFPG as filed      EGLL trf, taxi to hp rw09L via K J A Link57 A13    EGLL trf, hp A13 rw09L lu & to follow MAY2K    EGLL trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+LFPG trf, at XIDIL leaving FL330 expect rw09L via BIBAX7D            LFPG trf, at BIBAX continue BIBAX7D for rw09L ils   LFPG trf, at D14PNE altitude 4000 clear to ils rw09L   LFPG trf, full established ils rw09l to land    LFPG trf, rw vacated, taxi to platform (xx via xxx xxx)   LFPG trf, on blocks, engines off, flight plan close

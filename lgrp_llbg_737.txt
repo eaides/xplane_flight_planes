@@ -1,0 +1,29 @@
+Origen:       LGRP - Rodos - Rodos - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL390
+Ruta:
+	NILAS UL609 SOLIN
+Route (plain text) .. = dct . for airways
+	LGRP..NILAS.UL609.SOLIN..LLBG	// SIRON is N032 E034
+
+Distancia: 469 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:27
+Tiempo + alternativo:       02:03
+Total combustible (tiempo): 02:48
+Peso Combustible: 15360 ( 89 % - 0.0 % - 89 % ) reserva: 4.5 
+TOW: 123.3 (   trim: )    v1:   vr:  v2:  
+
+Avion: 737-700 : 107 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+
+Notas: 
+
+LGIR trf, at parking 3, pb & su to LLBG as filed     LGIR trf, taxi to hp rw 09 via A   LGIR trf, hp rw 09 lu & to follow SIT2H to FL390   LGIR trf, airborne
+
+LLBG trf, at/after XXX FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position XXX continue approach xxx for rw XX ils/vor-dme   LLBG trf, at XXX altitude xxx clear to ils/start approach rw XX   LLBG trf, full established ils/final rw XX to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, after VELOX FL390 start descending, expecting rw 08 ils via star SOLIN2A transition BOAZZ   LLBG trf, position SOLIN FL120 continue approach SOLIN2A for rw 08 ils   LLBG trf, at BOAZZ altitude 3000 clear to ils rw 08   LLBG trf, full established ils rw 08 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at ERIMO FL390 start descending, expecting rw 26 ils via star SOLIN1C transition BGN   LLBG trf, position SOLIN FL120 continue approach SOLIN1C for rw 26 ils   LLBG trf, at BGN altitude 4500 clear to ils rw 26   LLBG trf, full established ils rw 26 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+
+

@@ -1,0 +1,34 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEIB - Ibiza - Ibiza - Spain
+Alternativo:  LEBL - 					
+Flight Level: FL280	(Barza-Madrid la maxima es FL310 segun controladores)
+Ruta:
+	NANDO UM871 LASPO UZ224 VARUT			odd even even
+Route (plain text) .. = dct . for airways
+	LEMD DCT ANDO UM871 LASPO UZ224 VARUT DCT LEIB			LEMDLEIB01.FLTPLAN
+	LEMD..NANDO.UM871.LASPO.UZ224.VARUT..LEIB
+
+Distancia: 258 nm + Distancia Alternativo: 142 nm
+Tiempo Vuelo:               00:46
+Tiempo + alternativo:         :  
+Total combustible (tiempo): 02:12
+Peso Combustible: 12.6 	reserva: 6.1 
+TOW: 
+
+Avion: 737-800
+Payload 35.7    155 px  160
+Cost Index: 11
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking 340 T4 pb & su to LEIB as filed   
+LEMD trf, taxi to hp rw14R/36L via D13 R M(sur)... / D13 R M(norte)...      
+LEMD trf, hp rw14R/36L lu & to follow NANDO../NANDO..    LEMD trf, airborne
+Despegue: ????Z
+
+vertical NANDO climb from FL250 to final FL260
+
+trans.6000
+LEIB trf, leaving FL260 to ... for VARUT1V/1N expecting rw06/24 ILS
+LEIB trf, at TILNO/BEBES 2800/4000 clear to ils rw06/24     LEIB trf, full established ils rw06/24 to land    LEIB trf, rw vacated, taxi to platform

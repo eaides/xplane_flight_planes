@@ -1,0 +1,28 @@
+Origen:       SBSJ - Sao Jose Dos Campos - Sao Jose Dos Campos, Brazil (alt. 2120)
+Destino:      SBCT - Afonso Pena - Curitiba, Brazil (alt. 2990)
+Alternativo:  SBNF - Ministro Victor Koner Int. - Navegantes, Brazil
+Flight Level: FL260
+Ruta:	
+	CGO UW24 BROCK BROCK
+Route (plain text) .. = dct . for airways	
+	SBSJ..CGO.UW24.BROCK..SBCT
+	SBSJ CGO UW24 BROCK SBCT 
+
+Distancia: 228 nm + Distancia Alternativo: 86 nm
+Tiempo Vuelo:               00:54
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:10
+Peso Combustible: 10232 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 95564
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+15/33
+SBSJ trf, at parking pb & su to SBCT as filed   SBSJ trf, taxi to hp rw15    	       SBSJ trf, hp rw15 LU&TO FL260     SBSJ trf, airborne
+SBSJ trf, at parking pb & su to SBCT as filed   SBSJ trf, taxi to hp rw33   	       SBSJ trf, hp rw33 LU&TO FL260     SBSJ trf, airborne
+
+11/29 15/33
+SBCT trf, 30nm inbound BROCK leavinng FL260 expecting for rw33 ILS via BROCK1/CT011      SBCT trf, CT008 FL070 clear to ILS rw33       SBCT trf, full established ILS rw33, to land    SBCT trf, rw vacated, taxi to platform (xx via xxx xxx)   SBCT trf, on blocks, engines off, flight plan close

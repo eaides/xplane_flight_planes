@@ -1,0 +1,29 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LROP - Henri Coanda - Bucharest - Romania
+Alternativo:  LBSF - Sofia - Bulgaria
+Flight Level: FL360
+Ruta:
+	SUVAS1E SUVAS UL53 KAROL UL995 KOSEG UA16 KFK M855 BKZ W702 YASEN L619 ARGES P727 OSTAL OSTA1U
+		MERVA UP42 DESPO UR18 ALSUS UB15 VESAR UB545 MUT UL619 OKLAM UB545 OSVEL UT337 YASEN UL619 MAKOL L619 BALIK L619 ARGES P727 OSTAL
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.KOSEG.UA16.KFK.M855.BKZ.W702.YASEN.L619.ARGES.P727.OSTAL..LROP
+
+Distancia: 1059 nm + Distancia Alternativo: 162 nm
+Tiempo Vuelo:               02:32
+Tiempo + alternativo:       03:16
+Total combustible (tiempo): 04:16
+Peso Combustible: 23972 lbs - reserva: 7.4
+TOW: 147.2	trim 5.75	v1: 139    vr: 141    v2: 146
+
+Avion: 737-800 : 135 pax (220 lbs per pax)		P012 / 260/057
+Payload 31.1
+Cost Index SUR: 73
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LEBL as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    LLBG trf, hp rw26 lu & to follow PURLA1E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+Vertical UPLIT fl360 climbing fl370 for even flight level when entry italy airspace
+
+LEBL trf, at MUREN leaving FL370 expecting rw07L ILS via VERSO2Z transition VIBIM     LEBL trf, vertical VERSO FL250 continue approach VERSO2Z for rw07L ils   LEBL trf, at VIBIM altitude 7000 clear for ils rw07L   LEBL trf, full established ils rw07L to land    LEBL trf, rw vacated, taxi to platform (xx via xxx xxx)   LEBL trf, on blocks, engines off, flight plan close

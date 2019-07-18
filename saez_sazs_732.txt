@@ -1,0 +1,36 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAZS - Bariloche
+Alternativo:  SAZY - San Martin de los Andes
+Flight Level: FL240
+Ruta:	
+	ASADA W68 GPI W62 OSA T661 EGOKO W32 NEU W30 KOMVI T654 ORERA T654 BAR
+Route (plain text) .. = dct . for airways
+	SAEZ..ASADA.W68.GPI.W62.OSA.T661.EGOKO.W32.NEU.W30.KOMVI.T654.ORERA.T654.BAR..SAZS
+
+Distancia: 826 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               02:10
+Tiempo + alternativo:       02:31
+Total combustible (tiempo): 03:17
+Peso Combustible: 25125
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+SAEZ
+	ASADA 	(PTA 113.7 274/-- intersection GBE 115.6 313/--) hasta interceptar EZE 264 seguir por PTA/274
+	+EZE 116.5 -> 264	+55 ASADA +36 BODIR +70 IRASU (161)
+	-GPI 112.2 <- 261 	
+	-GPI 112.2 -> 208 	+29 XIXOS +30 OSA
+	+OSA 112.5 <- 208
+	+OSA 112.5 <- 191	+30 AKPUR +15 ENRIL +46 KIKIN +45 EGOKO (136)	(intercepta NEU 116.7 267/167 ??)
+	EGOKO -> 267		+72 ARVOV +65 ROPON +30 NEU
+	+NEU 116.7 <- 267 	-30 ROPON
+	+NEU 116.7 -> 206	+30 EGOBO +66 KOMVI (96)
+	KOMVI -> 233		+70 ORERA intercepta +BAR 117.4 246/30 	
++BAR 117.4 <-246
+SAZN Neuquen
+				ILS 29		over BAR FL100		-55 (over KOMVI->233->ORERA) descenso	

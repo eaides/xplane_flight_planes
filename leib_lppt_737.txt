@@ -1,0 +1,30 @@
+Origen:       LEIB - Ibiza - Ibiza - Spain
+Destino:      LPPT - Lisbon Portela Airport - Lisbon - Portugal 
+Alternativo:  LPBJ - Beja International Airport - Beja - Portugal
+Flight Level: FL380
+Ruta:
+	XOSTA UM134 VLC UN733 WALLY UQ900 CCS G7 ELVAR UN975 ATECA DCT ESP
+
+Route (plain text) .. = dct . for airways
+	LEIB..XOSTA.UM134.VLC.UN733.WALLY.UQ900.CCS.G7.ELVAR.UN975.ATECA..ESP..LPPT
+
+Distancia: 513 nm + Distancia Alternativo: 70 nm
+
+Tiempo Vuelo:               01:33
+Tiempo + alternativo:       02:02
+Total combustible (tiempo): 02:47
+Peso Combustible: 15334 ( 99.9 % - 0 % - 99.9 % ) reserva: 4.5 
+TOW: 123.5 (33.3% - trim 2.64)	v1:120  vr:128  v2: 137
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - equipement: L
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+LEIB trf, at parking 25 pb & su to LPPT as filed   LEIB trf, taxi to hp rw06 via B C      LEIB LSZH trf, hp rw06 lu & to follow XOSTA1F    LEIB trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LPPT trf, at BIRBA leaving FL380, expect rw21 ILS follow ESPICHEL8B transition LO         LPPT trf, at LO altitude 4000 clear to ils rw21     LPPT trf, full established ils rw21 to land    LPPT trf, rw vacated, taxi to platform

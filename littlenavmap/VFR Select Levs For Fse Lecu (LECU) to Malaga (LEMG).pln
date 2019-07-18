@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <!-- LNMDATA
+         _lnm=Created by Little Navmap Version 2.2.3 (revision f743328) on 2019 01 30T21:05:06|
+         aircraftperffile=|
+         aircraftperfname=Cessna 172 SP Skyhawk - 180HP - REP|
+         aircraftperftype=C172|
+         cycle=1801|
+         navdata=NAVIGRAPH|
+         simdata=XP11
+-->
+    <FlightPlan.FlightPlan>
+        <Title>LECU to LEMG</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>5500</CruisingAlt>
+        <DepartureID>LECU</DepartureID>
+        <DepartureLLA>N40° 22' 16.01",W3° 47' 38.19",+002266.00</DepartureLLA>
+        <DestinationID>LEMG</DestinationID>
+        <DestinationLLA>N36° 40' 30.00",W4° 29' 57.00",+000049.00</DestinationLLA>
+        <Descr>LECU, LEMG</Descr>
+        <DeparturePosition>10</DeparturePosition>
+        <DepartureName>Select Levs For Fse Lecu</DepartureName>
+        <DestinationName>Malaga</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>61472</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LECU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 22' 14.41",W3° 47' 6.51",+002266.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LECU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 21' 2.63",W3° 55' 57.05",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEMT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 14' 6.00",W4° 1' 35.00",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEMT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N40° 11' 8.49",W4° 7' 14.36",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 52' 3.32",W4° 2' 46.15",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 48' 49.72",W4° 1' 14.69",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N39° 23' 26.06",W4° 14' 39.30",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEPZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 54' 42.66",W4° 11' 23.44",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEPZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 32' 37.93",W4° 6' 54.58",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 12' 34.53",W3° 34' 25.47",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 22' 47.92",W3° 42' 29.97",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 1' 39.99",W4° 1' 47.03",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 42' 38.94",W4° 16' 46.81",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 42' 17.14",W4° 23' 29.73",+000000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEMG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 40' 30.00",W4° 29' 57.00",+000049.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEMG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

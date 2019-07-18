@@ -1,0 +1,34 @@
+Origen:       VOMM - Chennai Intl - Chennai, Ina
+Destino:      VRMM - Male Intl - Male, Maldives
+Alternativo:  VRMK - Kadhdhoo - Kadhdhoo Island, Maldives 
+Flight Level: FL380
+Ruta:	
+	TANGO R457 MUGBA
+Route (plain text) .. = dct . for airways
+	VOMM..TANGO.R457.MUGBA..VRMM
+
+Distancia: 660 nm + Distancia Alternativo: 140 nm
+
+Tiempo Vuelo:               01:49
+Tiempo + alternativo:       02:26
+Total combustible (tiempo): 03:11
+Peso Combustible: 19721 ( 99.9 % - 0 % - 90.0 % ) reserva: 5.0
+TOW: 139.7  (29.9% trim: 4.55)	v1: 138  vr: 141  v2: 147
+mk
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+
+VOMM trf, at parking 29 pb & su to VRMM as filed   VOMM trf, taxi to hp rw RW07 via H K           VOMM trf, hp rw RW07 lu & to to FL380 follow TANGO1     VOMM trf, airborne
+VOMM trf, at parking 29 pb & su to VRMM as filed   VOMM trf, taxi to hp rw RW25 via H E B A J     VOMM trf, hp rw RW25 lu & to to FL380 follow TANGO2     VOMM trf, airborne
+
+
+VRMM trf, after ... inbound ... leaving FL380, expecting rw36 VOR/DME via star MUGBA2A                  VRMM trf, at MUGBA start final approach rw36
+VRMM trf, final rw36 to land             VRMM trf, rw vacated, taxi to platform        VRMM trf, on blocks, engines off, flight plan close
+
+VRMM trf, after NOKID inbound MUGBA leaving FL380, expecting rw18 VOR/DME via star MUGBA2B			VRMM trf, at MUGBA start final approach rw18
+VRMM trf, final rw18 to land             VRMM trf, rw vacated, taxi to platform        VRMM trf, on blocks, engines off, flight plan close

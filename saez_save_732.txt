@@ -1,0 +1,39 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAVE - 
+Alternativo:  SAZS - Bariloche
+Flight Level: FL240
+Ruta:	
+	GBE W18 DIL W18 BCA W18 TRE W40 ESQ  
+Route (plain text) .. = dct . for airways
+	SAEZ..GBE.W18.TRE.W40.ESQ..SAVE
+
+Distancia: 889 nm + Distancia Alternativo: 102 nm
+Tiempo Vuelo:               02:16	
+Tiempo + alternativo:       02:44
+Total combustible (tiempo): 03:29
+Peso Combustible: 26265
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+SAEZ
+	+EZE 116.5
+	-GBE 115.6 -> 208	+36 KALIM +60 DIL (96)
+	+DIL 115.9 <- 208
+	+DIL 115.9 -> 223	+60 ATITO	intercepta +BCA 114.3 251/110
+	ATITO      -> 251	+55 MOXAN +55 BCA				
+	+BCA 114.3 <- 251
+	+BCA 114.3 -> 209	+53 SANBU	intercepta -VIE 117.1 192/---
+	SANBU      -> 192	+53 UESA +30 VIE
+	-VIE 117.1 <- 192						(+- 135 off BCA)
+	-VIE 117.1 -> 214	+30 KIGIR +87 MIGUS +55 TRE = 172
+	+TRE 115.1 <- 214
+	+TRE 115.1 -> 268	+55 EKATO +53 ELADA +90 MIROLA +30 ASUTO +30 ESQ
+	+ESQ 117.8 <- 267
+rw23 - ASUTO (-30 of ESQ) turn 310 until intercept ils ESQ//ES 109.7 229/14 - BOKOL 6300 (-14)	(safety 7000)	-60 ESQ descent to 7000
+SAVE
+

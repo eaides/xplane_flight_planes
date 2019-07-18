@@ -1,0 +1,28 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LEBL - El Prat - Barcelona - Spain
+Alternativo:  LEPA - Palma de Mallorca - Palma de Mallorca - Spain
+Flight Level: FL380
+Ruta:
+	PURLA DCT GITLA UA14 KAVOS UM1 SIT UM978 GZO UM732 GINOX UM601 VERSO
+Route (plain text) .. = dct . for airways
+	LLBG..GITLA.UA14.KAVOS.UM1.SIT.UM978.GZO.UM732.GINOX.UM601.VERSO..LEBL
+
+Distancia: 1745 nm + Distancia Alternativo: 109 nm
+Tiempo Vuelo:               04:06
+Tiempo + alternativo:       04:40
+Total combustible (tiempo): 05:25
+Peso Combustible: 34658 lbs = 15721 kgs( 99.9 % - 45.0 % - 99.9 % ) reserva: 4.5
+TOW: 147.2	trim 5.75	v1: 139    vr: 141    v2: 146
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 297003
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LEBL as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    LLBG trf, hp rw26 lu & to follow PURLA1E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+Vertical UPLIT fl360 climbing fl370 for even flight level when entry italy airspace
+
+LEBL trf, at MUREN leaving FL370 expecting rw07L ILS via VERSO2Z transition VIBIM     LEBL trf, vertical VERSO FL250 continue approach VERSO2Z for rw07L ils   LEBL trf, at VIBIM altitude 7000 clear for ils rw07L   LEBL trf, full established ils rw07L to land    LEBL trf, rw vacated, taxi to platform (xx via xxx xxx)   LEBL trf, on blocks, engines off, flight plan close

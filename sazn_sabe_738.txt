@@ -1,0 +1,28 @@
+Origen:       SAZN - Presidente Peron - Neuquen - Argentina
+Destino:      SABE - Aeroparque Jorge Newery - Buenos Aires - Argentina					
+Alternativo:  SAAR - Islas Malvinas - Rosario - Argentina
+Flight Level: FL370
+Ruta:
+	NEU UT655 ASADA
+Route (plain text) .. = dct . for airways
+	SAZN..NEU.UT655.ASADA..SABE
+
+Distancia: 538 nm + Distancia Alternativo: 155 nm
+Tiempo Vuelo:               01:33
+Tiempo + alternativo:       02:13
+Total combustible (tiempo): 02:58
+Peso Combustible: 16925 (99.9 % - 5.0 % - 99.9 % ) reserva: 4.5
+TOW: 122.4	v1:129   vr:130   v2:140 (150)     trim: 4.75
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+SAZN trf, at parking 1 pb & su to SABE as filed   SAZN trf, taxi to hp rw27 via A    SAZN trf, hp rw27 lu & to dct BUVIM   SAZN trf, airborne
+
+SABE trf, vertical ... leaving FL370, expecting rw31 VOR-DME chart6 via star SAN ANTONIO 7D transition ILM    SABE trf, position SNT continue approach SNT7D for rw31 VOR-DME    SABE trf, at ILM altitude 2500 start final approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+SABE trf, vertical ... leaving FL370, expecting rw13 ILS chart1 via star SAN ANTONIO 7C transition VANAR    SABE trf, position SNT continue approach SNT7C for rw31 ILS    SABE trf, at FDO altitude 2500 clear for ILS 13   SABE trf, full established ils rw13 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

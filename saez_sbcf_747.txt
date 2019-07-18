@@ -1,0 +1,44 @@
+Origen:       SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Destino:      SBCF - Tancredo Neves Intl - Belo Horizonte - Brazil
+Alternativo:  SBGL - Galeao - Rio de Janeiro - Brazil 
+Flight Level: FL370
+Ruta:                                                                                                                                                                                                                                                                              	
+	DORVO UN857 MLO UM671 RONUT UZ23 OPKES
+Route (plain text) .. = dct . for airways
+	SAEZ DORVO UN857 MLO UM671 RONUT UZ23 OPKES SBCF
+	SAEZ..DORVO.UN857.MLO.UM671.RONUT.UZ23.OPKES..SBCF
+	SAEZSBCF01.RTE
+
+Distancia: 1218 nm + Distancia Alternativo: 196 nm
+Tiempo Vuelo:               02:53
+Tiempo + alternativo:       03:37
+Total combustible (tiempo): 04:22
+
+Peso Combustible: 120467 ( 100% - 35.7% - 0% - 35.7% - 100% - 0 - 100% - 0% - 0%) 	reserva: 212002 17.60%		
+TOW: 634.675 (max.875000)   ZFW 514.208	  V1:125 VR:137 V2:155 trim 5.4							
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw17 via Interior A     SAEZ trf, hp rw17 lu & to follow PTA6A transition DORVO to FL370     SAEZ trf, airborne
+
+SBCF trf, after OPKES leaving FL370 expecting rw16 ILS-X via OPKES1.16       SBCF trf, at CF009 altitude 6000 clear to ILS rw16		SBCF trf, full established ILS rw16 to land	SBCF trf, rw vacated on ... taxi to parking
+SBCF trf, after OPKES leaving FL370 expecting rw34 RNAV via OPKES1         SBCF trf, at CF033 FL070 clear to RNAV approach rw34		SBCF trf, final rw34 to land			SBCF trf, rw vacated on ... taxi to parking
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start 											17:10
+encender motores									17:27
+taxi 											17:30
+despegue 21:32	---------------------------------------------------------------------	17:36
+at MAVMO program arrive, -------- (35 min before arrive) ------------- (+-2:15) -----	19:54
+descenso despues de UKAKI ------- (25 min before arrive) ------------- (+-2:30) -----	19:57
+aterrizo ------------------------------------------------------------- (+-2:55)------	20:19
+
+combustible final: ------------------------------------------------------------------  52.824
+

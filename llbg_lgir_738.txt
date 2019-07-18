@@ -1,0 +1,31 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel				244/062 -- P001
+Destino:      LGIR - Nikos Kazantzakis - Iraklion - Greece
+Alternativo:  LGAV - 
+Flight Level: FL380
+Ruta:
+	PURLA SUVAS UL53 KAROL UM1 SIT
+	PURL1B PURLA SUVAS UL53 KAROL UA14 KAVOS UM1 SIT SIT2L
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UM1.SIT..LGIR
+	LLBG..PURLA..SUVAS.UL53.KAROL.UA14.KAVOS.UM1.SIT..LGIR
+
+Distancia: 524 nm
+Tiempo Vuelo:               01:44
+Tiempo + alternativo:       02:29
+Total combustible (tiempo): 03:29
+Peso Combustible: 20179 ( 91 % - 0 % - 91 % ) reserva: 7.6
+TOW: 123.6 
+
+Avion: 737-800 : 172 pax (220 lbs per pax)
+Payload  39.6
+Cost Index SUR: 63		
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LGIR as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    
+LLBG trf, at parking L3 pb & su to LGIR as filed   LLBG trf, taxi to hp rw26 via L N R W1    
+LLBG trf, hp rw26 lu & to follow PURLA2E to FL360 transition SUVAS     LLBG trf, airborne - Despegue: ????Z
+
+
+LGIR trf, after GUDIS leaving FL380 expecting VOR rw27 via SIT2A     LGIR trf, vertical SIT continue approach SIT2A for VOR rw27     LGIR trf, at BASAS altitude 6000 clear for VOR rw27      LGIR trf, final rw27 to land    LGIR trf, rw vacated, taxi to platform        LGIR trf, on blocks, engines off, flight plan close

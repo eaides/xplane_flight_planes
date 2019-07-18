@@ -1,0 +1,54 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      KJFK - J.F.Kennedy Intl - New York - New York - United States
+Alternativo:  KPHL - Philadelphia Intl - Philadelphia - Pensilvania - United States
+Flight Level: FL380
+Ruta:
+	PURLA/KN490FL300 H1B SUVAS UL53 KAROL UL995 KOSEG UM855 KFK UA16 VADEN Q26 UPAMA/M0844FL320 UQ26 BUDOP UL602 NORAH UY59 AMRAX UL617 BAPRO/M0844FL340 UL617 REGLI L617 ARMEX L619 CZE L617 FLS N623 VALDI DCT 63N010W DCT 63N020W DCT 63N030W DCT 60N040W DCT 58N050W DCT LOACH//M0844FL380 DCT FOXXE N264A TAFFY J564 PQI J55 ENE/PARCH1 DCT KJFK
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.H1B.SUVAS.UL53.KAROL.UL995.KOSEG.UM855.KFK.UA16.VADEN.Q26.UPAMA.UQ26.BUDOP.UL602.NORAH.UY59.AMRAX.UL617.REGLI.L617.ARMEX.L619.CZE.L617.FLS.N623.VALDI..63N010W..63N020W..63N030W..60N040W..58N050W..LOACH..FOXXE.N264A.TAFFY.J564.PQI.J55.ENE.PARCH1..KJFK 
+	LLBGKJFK01.RTE
+
+Distancia: 5266 nm + Distancia Alternativo: 81 nm	despegue 19:25
+Tiempo Vuelo:               11:03 (+1 hour)
+Tiempo + alternativo:       11:33
+Total combustible (tiempo): 12:18
+
+Peso Combustible: 340222 ( 100% - 100% - 81.8% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 60000 18.33%		fs_center: 288770 (25211 8.73%) 
+TOW: 854.730 (max.875000)   ZFW 514.208	  V1:153 VR:169 V2:180 trim 6.0							747fuelcalc: 339920 - 37950 (10.78%) 
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+LLBG trf, at parking C7 pb & su to KJFK as filed   LLBG trf, taxi to hp rw26 via M M1 K R W1    LLBG trf, hp rw26 lu & to follow PURLA2E to FL300 transition SUVAS   LLBG trf, airborne - Despegue: ????Z
+LLBG trf, at parking C7 pb & su to KJFK as filed   LLBG trf, taxi to hp rw12 via M M2 K	        LLBG trf, hp rw12 lu & to follow PURLA2C to FL300 transition SUVAS   LLBG trf, airborne
+
+
+KJFK trf, at ENE start PARCH1.22B, expect rw22L ILS      KJFK trf, after PVD leaving FL380 expecting rw22L ILS via PATCH1.22B transition DPK/CAPIT    
+KJFK trf, at CAPIT altitude 2200 clear for ils rw22L   KJFK trf, full established ils rw22L to land    KJFK trf, rw vacated, taxi to platform (xx via xxx xxx)   KJFK trf, on blocks, engines off, flight plan close
+or
+KJFK trf, at ENE start PARCH1.31B, expect rw31L ILS    KJFK trf, inbound PVD leaving FL380 expecting rw31L ILS via PATCH1.31B transition ZACHS      KJFK trf, after ROBER 9000 heading to ZACH for ILS31L              
+KJFK trf, at ZACHS 2200 clear to ILS rw31L 	       KJFK trf, full establish ils 31L to land		KJFK trf, rw vacated, taxi to platform		KJFK trf, on blocks, engines off, flight plan close
+
+start 											21:05			08 36	08:41	
+encender motores									-- --	-- --	-- --	-- --	08:55
+taxi 											21:26	09 22	-- --	-- --	08:58
+despegue 21:32	---------------------------------------------------------------------	19:25	10:16	20:28	09 30	09:05
+over Q26 vertical UPAMA, step climb from FL300 to FL320 -------------- (+-2:00) -----	21:23	12:07	22:23 	11 17	10:57
+center off --------- before BILNA / 2 en centers --------------------- (+-3:00) -----	22:22	13:13	23:22	12 25	12:05
+over L627 vertical BAPRO, step climb from FL320 to FL340 ------------- (+-4:20) -----	23:48	14:50	00:44	13 51	13:24
+oceanic (VALDI) 02:15 ------- 5:00 despues del despegue	-----------------------------	00:29	15:33	-- --	14 12	13:56
+cerrar xfeed --------------------------------------------------------- (+-8:00) -----	03:20	18:19	05:00	17 29	17:09
+entry gadner domestic on LOACH, step climb FL360 --------------------- (+-8:30) -----	04:30	19:58	05:30	17 58	17:55
+vertical TAFFY, entry J564, step climb from FL360 to FL380 ----------- (+-10:00) ----	-- --	-- --	-- --	19 17	18:39
+step climb 400 none									-- --	-- --	-- --	-- --	-- --
+before or FRIAR program arrive, 31LZ RNAV patch31b trans DPK - borrar ROBER y JFK ---		-- --	-- --	19 45	19:20
+at ENE start PARCH1... ----------------------------------------------- (+-10:20) ----				19 51 	19:36	
+descenso inbound/outbound PVD o en TRAIT ----------------------------- (+-10:30) ----	06:37	-- --	07:18	20 00	19:48
+aterrizo --------------------------------------------------------------(+-11:10)-----	07:05 	-- --	-- -- 	20 35	20:22
+
+combustible final: ------------------------------------------------------------------	40.270	-----	-----          44.370
+

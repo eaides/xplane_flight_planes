@@ -1,0 +1,32 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LGSK - Alexandros Papdiamandis - Skiathos - Greece
+Alternativo:  LGVA - Eleftherios Venizelos Int. - Athens - Greece
+Flight Level: FL400
+Ruta:
+	PURLA UH1B SUVAS UL53 KAROL UL995 RIPLI UN137 SKP
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.UH1B.SUVAS.UL53.KAROL.UL995.RIPLI.UN137.SKP..LGSK
+	LLBG DCT PURLA UH1B SUVAS UL53 KAROL UL995 RIPLI UN137 SKP DCT LGSK
+
+Distancia: 721 nm + Distancia Alternativo: 77 nm
+Tiempo Vuelo:               02:01
+Tiempo + alternativo:       02:30
+Total combustible (tiempo): 03:45
+Peso Combustible: 18682 ( 99.9% - 5% - 99.9% ) res: 4.5 
+TOW: 126.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 460kn (0.76 match)
+ICAO aircraft: B737
+					
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LGSK as filed   LLBG trf, taxi to hp rw26 via M1 K R W1     
+LLBG trf, at parking L3 pb & su to LGSK as filed   LLBG trf, taxi to hp rw26 via L N R W1     
+LLBG trf, hp rw26 W1 lu & to follow PURLA2E   LLBG trf, airborne - Despegue: ????Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LGSK trf, leaving FL400 start descending to 4000 over SKP, expecting rw 02 vor-dme    LGSK trf, at SKP altitude 4000 start approach rw 02   LGSK trf, final rw 02 to land    LGSK trf, rw vacated, taxi to platform (xx via xxx xxx)   LGSK trf, on blocks, engines off, flight plan close

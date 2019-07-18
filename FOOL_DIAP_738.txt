@@ -1,0 +1,37 @@
+Origen:       FOOL - Leon M'ba - Libreville, Gabon  (alt 38)
+Destino:      DIAP - Felix Houphouet-Boigny - Abidjan, Cote dIvoire (alt 20)
+Alternativo:  DGTK - Takoradi - Takoradi, Ghana  (alt ...)
+Flight Level: FL380
+Ruta:	
+	GULEP UR979 SESIG 
+Route (plain text) .. = dct . for airways
+	FOOL..GULEP.UR979.SESIG..DIAP
+	FOOL GULEP UR979 SESIG DIAP
+
+Distancia: 850 nm + Distancia Alternativo: 131 nm
+
+Tiempo Vuelo:               02:13
+Tiempo + alternativo:       02:49
+Total combustible (tiempo): 03:34
+Peso Combustible: 18090 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 141.1  (29.1% trim: 4.64)	v1: 136  vr: 139  v2: 146 (161)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+16/34
+FOOL trf, at parking pb & su to DIAP as filed         FOOL trf, taxi to hp rw RW16           FOOL trf, entry rw for bt    FOOL trf, hp rw RW16 lu & to to FL380      FOOL trf, airborne
+FOOL trf, at parking pb & su to DIAP as filed         FOOL trf, taxi to hp rw RW34           FOOL trf, entry rw for bt    FOOL trf, hp rw RW34 lu & to to FL380      FOOL trf, airborne
+
+03/21
+DIAP trf, after BIPEX inbound SESIG leaving FL380, expecting rw21 ILS via SENOT1B trans. DIPRI            DIAP trf, DIPRI 2200 clear for ils rw21
+DIAP trf, full established ils rw21 to land             DIAP trf, rw vacated, taxi to platform        DIAP trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

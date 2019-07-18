@@ -1,0 +1,30 @@
+Origen:       SACO - Cordoba
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL230
+Ruta:	
+	UTRAX W24 SNT 
+Route (plain text) .. = dct . for airways
+	SACO..CBA.W24.SNT..SAEZ
+
+Distancia: 361 nm + Distancia Alternativo: 160 nm
+Tiempo Vuelo:               01:02
+Tiempo + alternativo:       01:37
+Total combustible (tiempo): 02:23
+Peso Combustible: 18758
+
+Avion: 737-200 : 101 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SANT
+	114.500 CBA -> 134 	+54 UTRAX +78 MJZ = 132
+	114.700 MJZ <- 134
+	114.700 MJZ -> 127 	+72 UDITA +52 MULTA +41 SNT = 165
+117.700 SNT <- 129
+117.700 SNT -> 147 ( 42 ) Arsot
+EZE 116.5				64 antes de ARSOT bajar a 5000 (22 antes de SNT)
+SAEZ

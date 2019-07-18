@@ -1,0 +1,25 @@
+Origen:       EIDW - DUBLIN Intl. DUBLIN - IRLAND
+Destino:      EGLL - HEATHEOW - LONDON - ENGLAND
+Alternativo:  EGGD - BRISTOL - ENGLAND
+Flight Level: FL350
+Ruta:
+	DEXEN Y124 AMPIT L15 HON
+Route (plain text) .. = dct . for airways
+	EIDW..DEXEN.Y124.AMPIT.L15.HON..EGLL
+
+Distancia: 258nm + Distancia Alternativo: 85 nm
+Tiempo Vuelo:               00:59
+Tiempo + alternativo:       01:30
+Total combustible (tiempo): 02:15
+Peso Combustible: 12944 (75.0 % - 0.0 % - 75.0 % ) reserva: 4.5
+TOW: 120.9 (32.5% - trim 2.78)	v1:117  vr:125  v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+EIDW trf, at parking 304 (36) pb & su to EGLL as filed   EIDW trf, taxi to hp rw28 via L3 F2 F1 E1    EIDW trf, hp E1 rw28 lu & to follow DEXEN1A    EIDW trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+EGLL trf, after KEPAD over L15 leaving FL350, expecting rw27R ils via BNN4A        EGLL trf, position HON continue approach BNN4A for rw27R ils   EGLL trf, at BNN altitude 7000 clear to ils rw27R   EGLL trf, full established ils rw27R to land    EGLL trf, rw vacated, taxi to platform (xx via xxx xxx)   EGLL trf, on blocks, engines off, flight plan close

@@ -1,0 +1,52 @@
+Origen:       KJFK - J.F.Kennedy Intl - New York - New York - United States
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL370
+Ruta:	Sid: MERIT3 - NATZ: DOTTY CRONO 5250N 5440N 5630N 5520N RESNO NETKI NIBOG
+	PUT/N490F310 J581 TOPPS N111B DOTTY/M0844F330 CRONO 5250N 5440N 5630N 5520N RESNO NETKI NIBOG DCT OSMEG UN551 BEL/M0844F350 UN551 NELBO UP6 REMSI UL603 TORTO UL614 NISVA/M0844F370 UN131 DOREN UA28 LCA UB17 VELOX UW13 SOLIN
+	PUT/N490F310 J581 TOPPS N111B DOTTY/M0844F330 NATZ DCT OSMEG UN551 BEL/M0844F350 UN551 NELBO UP6 REMSI UL603 TORTO UL614 NISVA/M0844F370 UN131 DOREN UA28 LCA UB17 VELOX UW13 SOLIN
+Route (plain text) .. = dct . for airways
+	KJFK..PUT.J581.TOPPS.N111B.DOTTY..CRONO..5250N..5440N..5630N..5520N..RESNO..NETKI..NIBOG..OSMEG.UN551.NELBO.UP6.REMSI.UL603.TORTO.UL614.NISVA.N131.RODIP.UN131.DOREN.UA28.LCA.UB17.VELOX.UW13.SOLIN..LLBG
+	KJFK DCT PUT J581 TOPPS N111B DOTTY DCT CRONO DCT 5250N DCT 5440N DCT 5630N DCT 5520N DCT RESNO DCT NETKI DCT NIBOG DCT OSMEG UN551 NELBO UP6 REMSI UL603 TORTO UL614 NISVA N131 RODIP UN131 DOREN UA28 LCA UB17 VELOX UW13 SOLIN DCT LLBG
+	KJFKLLBG01.RTE
+
+Distancia: 5035 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               10:35 	(-0.5 horas)
+Tiempo + alternativo:       11:11
+Total combustible (tiempo): 11:56
+
+Peso Combustible: 330702 ( 100% - 100% - 73.5% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 60000 18.33%		fs_center: 
+TOW: 844.910 (max.875000)   ZFW 514.208	  V1: 152   VR: 168   V2: 178   trim: 5.8					747fuelcalc: 330400- 37950 (11.49%) 
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.843 match ???)
+
+Notas: 
+
+KJFK trf, at parking International 31 (D31) pb & su to LLBG as filed   KJFK trf, taxi to hp rw31L via HB A J Z    KJFK crossing rw 22R/04L on J      KJFK trf, hp rw31L lu & to follow MERIT3 to FL310 transition PUT   KJFK trf, airborne - Despegue: ????Z
+KJFK trf, at parking International 31 (D31) pb & su to LLBG as filed   KJFK trf, taxi to hp rw04L via H B & K     KJFK trf, hp rw04L lu & to follow MERIT3 to FL310 transition PUT   KJFK trf, airborne
+
+LLBG trf, at VELOX leaving FL370 start descending, expecting rw12 ils via SOLIN1X trans. SIRON     LLBG at SOLIN 11000 start approach SOLIN1X for rw12 ils      LLBG trf, SIRON 5000 clear to ils rw12     LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at VELOX leaving FL370 start descending, expecting rw08 ils via SOLIN2B trans. BOAZZ     LLBG at SOLIN 12000 start approach SOLIN2B for rw08 ils      LLBG trf, BOAZZ 3000 clear to ils rw08     LLBG trf, full established ils rw08 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at VELOX leaving FL370 start descending, expecting rw26 ils-Z via SOLIN1D trans. LIMKO     LLBG at SOLIN 12000 start approach SOLIN1D for rw26 ils-Z      LLBG trf, LIMKO 5000 clear to ils rw26     LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+
+
+
+start -------------------------------------------------------------------------------	-- --	04:47	09:20
+encender motores --------------------------------------------------------------------	-- --	05:08	09:40		
+taxi --------------------------------------------------------------------------------	12:35	05:12	09:50	09:45
+despegue ----------------------------------------------------------------------------	12:40	05:20	10:00   09:49
+vertical DOTTY step climb from FL310 to FL330 ------------------------ (+-1:50) -----	14:44	-- --	11:54	11:52
+vertical CRONO, entry oceanic NATZ ----------------------------------- (+-2:05) -----	14:58	-- --	12:07	12:06
+center off ----------------------------------------------------------- (+-3:00) -----	15:25	-- --	-- --	-- --
+vertical RESNO leaving oceanic --------------------------------------- (+-5:00) -----	17:29	10:00	14 39	-- --
+over UN551 vertical TADEX/BEL, step climb from FL330 to FL350 -------- (+- :  ) -----	18:01	-- --	15:17	15:17
+cerrar xfeed --------------------------------------------------------- (+-7:45) -----	20:35	13:05	17:43	17:18
+over UL614 vertical GINAM, step climb from FL350 to FL370 ------------ (+-8:00) -----	20:39	13:17	17:58 	17:18
+step climb from FL370 to FL390 - none							-- --	-- --	-- --	
+at LCA or later, program arrive: 12ils or 26ils SOLIN... ------------- (+-9:30) -----	-- --	-- --	19:32
+descenso en VELOX ---------------------------------------------------- (+-9:40) -----	22:11	14:46	19:35
+aterrizo ------------------------------------------------------------ (+-10:00) -----	22:35	15:23	20:03	19:53
+combustible final -------------------------------------------------------------------			62902

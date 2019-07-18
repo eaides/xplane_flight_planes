@@ -1,0 +1,48 @@
+Origen:     	KDCA - Ronald Reagan USA, Washington Natl - USA, Washington, USA	alt. 15 ft.
+	RWY01 largo: 6869 ft.
+	RWY04 largo: 4911 ft.
+	RWY15 largo: 5204 ft.
+	RWY19 largo: 6869 ft.
+	RWY22 largo: 4911 ft.
+	RWY33 largo: 5204 ft.
+Destino:	KATL - The Hartsfield Atlanta Intl - Atlanta, USA			alt 1026 ft.
+	RWY08L largo: 9000 ft.
+	RWY08R largo: 10000 ft.
+	RWY09L largo: 11890 ft.
+	RWY09R largo: 9001 ft.
+	RWY10 largo: 9000 ft.
+	RWY26L largo: 10000 ft.
+	RWY26R largo: 9000 ft.
+	RWY27L largo: 9001 ft.
+	RWY27R largo: 11890 ft.
+	RWY28 largo: 9000 ft.
+Alternativo: 	KBNA
+Flight Level: FL380
+Ruta:
+	CLTCH1 FLASK OZZZI1
+Route (plain text) .. = dct . for airways
+	KDCA..FLASK..KATL
+
+Distancia: 476 nm + Distancia Alternativo: 186 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       02:09
+Total combustible (tiempo): 02:54
+Peso Combustible: 19461		reserva: 6.5
+TOW: 142.0
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw10 via main 3    UHMM entry rw for bt		UHMM trf, hp rw 10 lu & to follow OSKET1     UHMM trf, airborne
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw28 via main 1    UHMM entry rw for bt		UHMM trf, hp rw 28 lu & to follow OSKET3     UHMM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+UHPP trf, at EGONI FL370, expecting rw... ILS via .... transition ....		UHPP trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

@@ -1,0 +1,47 @@
+Origen:       KMIA - Miami international - Miami - Florida - United States
+Destino:      EHAM - Schiphol - Amsterdam - Netherlands 
+Alternativo:  EBBR - Brussels International - Brussels - Belgium
+Flight Level: FL350
+Ruta:
+	HEDLY2 HEDLY/N301F330 PHK TRV SNAGY M203 BOBTU/N301F350 VODOR 4550N 4840N 4930N 4920N BEDRA DCT NERTU DCT GAPLI UN20 SAM UL620 MID UM185 BPK Q295 CLN UL620 REDFA
+Route (plain text) .. = dct . for airways
+	KMIA..HEDLY..PHK..TRV..SNAGY.M203.BOBTU..VODOR..4550N..4840N..4930N..4920N..BEDRA..NERTU..GAPLI.UN20.SAM.UL620.MID.UM185.BPK.UM185.CLN.UL620.REDFA..EHAM
+	KMIA HEDLY PHK TRV SNAGY M203 BOBTU VODOR 4550N 4840N 4930N 4920N BEDRA DCT NERTU DCT GAPLI UN20 SAM UL620 MID UM185 BPK Q295 CLN UL620 REDFA EHAM
+
+Distancia: 4142 nm + Distancia Alternativo: 85 nm
+Tiempo Vuelo:               08:47S
+Tiempo + alternativo:       09:18
+Total combustible (tiempo): 09:53
+
+Peso Combustible: 275.942 ( 100% - 100% - 25.9% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 37.950 <<  13.56%		232005
+TOW: 790.150 (max.875000)   ZFW 514.208	  V1: 146     VR:161    V2:174 	   22% - trim 6.0
+
+Avion: 747-200 : 259 pax (220 lbs per pax)	747-400 heavy /L
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 301kn (0.841 match)
+Callsign: SUR5717		NAT Track: X
+Selcal: AD-EM			NAT TMI: 297
+TOT: 13:08:00 UTC
+
+start 											10:35	
+encender motores									11:20 
+taxi 											11:35
+despegue ----------------------------------------------------------------------------	11:44
+request oceanic 30 min t0 - after LIPGO inbound REVNU -------------------------------	13:10 (shanwick)
+vertical REVNU step climb from FL340 to FL360 ------------------------ (+-1:15) -----	13:15
+oceanic (SUNOT) 13:29 ------- 1:45 despues del despegue	-------------- (+-1:45) -----	13:38 (shanwick)
+5820N at 14:02 ------------------------------------------------------- (+-2:15) -----   14:02 (shanwick)
+6030N at 14:48 ------------------------------------------------------- (+-3:00) -----   14:48 (shanwick)
+6140N at 15:30 ------------------------------------------------------- (+-3:45) -----	15:30 (Gander)
+cerrar xfeed --------------------------------------------------------- (+-3:50) -----	15:35
+6050N at 16:12 ------------------------------------------------------- (+-4:30) -----   16:12 (Gander)
+Urtak as 16:49 next LOMTA (domestic) --------------------------------- (+-5:05) -----   16:49 (Gander)
+entry Gadner Domestic inbound LOMTA ---------------------------------- (+-5:30) -----	17:55 (Gander Domeric)
+
+	
+descenso inbound BUSEN ----------------------------------------------- (+-6:20) ----	
+aterrizo --------------------------------------------------------------(+-6:45)-----	
+
+combustible final: ------------------------------------------------------------------	57.871
+

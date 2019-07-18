@@ -1,0 +1,31 @@
+Origen:       LSZH - Zurich - Zurich - Switzerland
+Destino:      LEIB - Ibiza - Ibiza - Spain
+Alternativo:  LEAL - Alicante - Alicante - Spain
+Flight Level: FL400
+Ruta:
+	VEBIT T50 ROTOS UZ669 MILPA UN852 VERSO UL129 POS		
+
+Route (plain text) .. = dct . for airways
+	LSZH..VEBIT.T50.ROTOS.UZ669.MILPA.UN852.VERSO.UL129.POS..LEIB
+
+Distancia: 641 nm + Distancia Alternativo: 97 nm
+
+Tiempo Vuelo:               01:50
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07
+Peso Combustible: 17242 ( 99.9 % - 0 % - 99.9 % ) reserva: 4.5 
+TOW: 125.2 (33.3% - trim 2.63)	v1:121  vr:129  v2: 137
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - equipement: L
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+LSZH trf, at parking 19 (e23) pb & su to LEIB as filed   LSZH trf, taxi to hp rw16 via J C E E1     LSZH trf, hp rw16 lu & to follow VEBIT3S    LSZH trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LEIB trf, at POS leaving FL400, expect rw06 ILS follow POLLENSA2V trans. TILNO           LEIB trf, at TILNO 2800 clear to ils rw06     LEIB trf, full established ils rw06 to land    LEIB trf, rw vacated, taxi to platform
+LEIB trf, at/after LUNIK leaving FL400, expect rw24 ILS follow POLLENSA2N trans. BEBES           LEIB trf, at BEBES 4000 clear to ils rw24     LEIB trf, full established ils rw24 to land    LEIB trf, rw vacated, taxi to platform

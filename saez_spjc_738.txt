@@ -1,0 +1,21 @@
+Origen:       SAEZ - Ministro Pistarini - Ezeiza - Bs.As. - Argentina
+Destino:      SPJC - Jorge Chavez Intl	SPSO - Pisco - Lima-Callao, Peru 
+Alternativo:  SPSO - Pisco - Pisco, Peru 
+Flight Level: FL380
+Ruta:	
+	ATOVO UW5 ROS UL550 SCO
+Route (plain text) .. = dct . for airways
+	SAEZ..ATOVO.UW5.ROS.UL550.SCO..SPJC
+
+Distancia: 1709 nm + Distancia Alternativo: 116 nm
+
+Tiempo Vuelo:               04:02
+Tiempo + alternativo:       04:36
+Total combustible (tiempo): 05:21
+Peso Combustible: 34288 lbs		reserva: 6.9
+TOW: 139.7  (29.9% trim: 4.55)	v1: 133  vr: 140  v2: 151
+(63366 kg)
+
+Avion: 737-800 : 184 pax (220 lbs per pax)
+Payload 42.3
+Cost Index SUR: 60

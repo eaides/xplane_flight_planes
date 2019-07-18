@@ -1,0 +1,32 @@
+Origen:       SYCJ - Cheddi Jagan Int - Georgetown - Guyana
+Destino:      TTPP - Port of Spain Piarco - Port of Spain - Trinidad and Tobago
+Alternativo:  TGPY - Maurice Bishop - St Georges - Grenada
+Flight Level: FL320
+Ruta:
+	TIM UA324 POS
+Route (plain text) .. = dct . for airways
+	SYCJ..TIM.UA324.POS.TTPP
+	SYCJ DCT TIM UA324 POS DCT TTPP 			SYCGTTPP01
+
+Distancia: 307 nm + Distancia Alternativo: 89 nm
+Tiempo Vuelo:               01:06
+Tiempo + alternativo:       01:37
+Total combustible (tiempo): 02:22
+Peso Combustible: 13290 ( 77 % - 0 % - 77 % ) reserva: 4.5
+TOW: 121.2
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SYCG trf, at parking 3 pb & su to TTPP as filed   SYCG trf, taxi to hp rw06 via A C     SYCG trf, crossing rw11/29 on C     SYCG trf, hp rw06 lu & to FL320     SYCG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+TTPP trf, after MINDA leaving FL320, expecting rw10ILS      TTPP trf, vertical POS clear to ILS rw10     TTPP trf, full established ILS rw10 to land    TTPP trf, rw vacated, taxi to platform (xx via xxx xxx)   TTPP trf, on blocks 11, engines off, flight plan close

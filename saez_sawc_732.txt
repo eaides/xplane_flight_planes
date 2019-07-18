@@ -1,0 +1,40 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAWC - 
+Alternativo:  SAWG 
+Flight Level: FL240
+Ruta:	
+	GBE W18 DIL W18 BCA W18 TRE W18 CRV W48 ECA
+Route (plain text) .. = dct . for airways
+	SAEZ..GBE.W18.CRV.W48.ECA..SAVE
+
+Distancia: 1138 nm + Distancia Alternativo: 85 nm
+Tiempo Vuelo:               02:55	
+Tiempo + alternativo:       03:26
+Total combustible (tiempo): 04:11
+Peso Combustible: 30907
+
+Avion: 737-200 : 87 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+SAEZ
++EZE 116.5
+-GBE 115.6 -> 208	+36 KALIM +60 DIL (96)
++DIL 115.9 <- 208
++DIL 115.9 -> 223	+60 ATITO	intercepta +BCA 114.3 251/110
+ATITO      -> 251	+55 MOXAN +55 BCA				
++BCA 114.3 <- 251
++BCA 114.3 -> 209	+53 SANBU	intercepta -VIE 117.1 192/---
+SANBU      -> 192	+53 UESA +30 VIE
+-VIE 117.1 <- 192						(+- 135 off BCA)
+-VIE 117.1 -> 214	+30 KIGIR +87 MIGUS +55 TRE = 172
++TRE 115.1 <- 214
++TRE 115.1 -> 206	+55 GATUD +69 ROMAX +55 CRV
++CRV 117.5 <- 203
++CRV 117.5 -> 205	+55 IRAXO +138 BORUK +86 ASOPA +19 GELEV +30 ECA
++ECA 114.8 <- 202
+SAWC
+

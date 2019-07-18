@@ -1,0 +1,32 @@
+Origen:      	VTSP - Phuket Intl - Phuket, Thailand			alt. 82 ft.
+Destino:	VYYY - Yangon Intl - Yangon, Myanmar 			alt. 109 ft
+Alternativo: 	VTCC
+Flight Level: FL360
+Ruta:
+	LINZY G331 DWI M626 POXEM
+Route (plain text) .. = dct . for airways
+	VTSP..LINZY..DADSA.G331.DWI.M626.POXEM..VYYY
+	
+Distancia: 568 nm + Distancia Alternativo: 197 nm
+Ti0empo Vuelo:              01:37
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07
+Peso Combustible: 20775 ( 99.9 % - 4.0 % - 99.9 % ) reserva: 6.5
+TOW: 126.3
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw10 via main 3    UHMM entry rw for bt		UHMM trf, hp rw 10 lu & to follow OSKET1     UHMM trf, airborne
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw28 via main 1    UHMM entry rw for bt		UHMM trf, hp rw 28 lu & to follow OSKET3     UHMM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+UHPP trf, at EGONI FL370, expecting rw... ILS via .... transition ....		UHPP trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

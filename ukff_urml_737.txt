@@ -1,0 +1,31 @@
+Origen:       UKFF - SIMFEROPOL - Simferopol - Ukraine
+Destino:      URML - UYTASH - Makhachkala - Russia
+Alternativo:  URMG - SEVERNY - Grozny - Russia 
+Flight Level: FL370
+Ruta:
+	SOGTA N190 PALER B491 MOMUG DCT KUMUS
+Route (plain text) .. = dct . for airways
+	UKFF..SOGTA.N190.PALER.B491.MOMUG..KUMUS..URML 
+	UKFF DCT SOGTA N190 PALER B491 MOMUG DCT KUMUS DCT URML 		UKFFURML01.FLTPLAN	
+
+Distancia: 630 nm + Distancia Alternativo: 92 nm
+Tiempo Vuelo:               01:49
+Tiempo + alternativo:       02:20
+Total combustible (tiempo): 03:05
+Peso Combustible: 16914 ( 98.0 % - 0 % - 98.0 % ) reserva: 4.5 
+TOW: 124.9
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+UKFF trf, at parking G5, pb & su to URML as filed
+UKFF trf, taxi to hp rw19 via 5 1 3 9 2 18     UKFF trf, hp rw30 lu & to follow SOGTA1C to FL370   UKFF trf, airborne 
+UKFF trf, taxi to hp rw01 via 5 1 3 9          UKFF trf, hp rw12 lu & to follow SOGTA1A to FL370   UKFF trf, airborne 
+Despegue 1203Z
+
+URML trf, at BAPNI FL370 start descending, expecting rw 14 ils via star KUMUS2    URML trf, position KUMUS continue approach KUMUS2 for rw 14 ils   URML trf, at NDB/H altitude 5910 clear to ils rw 14   URML trf, full established ils rw 14 to land    URML trf, rw vacated on 1, taxi to platform    URML trf, on blocks, engines off, flight plan close
+URML trf, at/after XXX FL370 start descending, expecting rw 32 ils via star KUMUS4    URML trf, position KUMUS continue approach KUMUS4 for rw 32 ils   URML trf, at NDB/S altitude 5920 clear to ils rw 32   URML trf, full established ils rw 32 to land    URML trf, rw vacated on 2, taxi to platform    URML trf, on blocks, engines off, flight plan close
+
+
+

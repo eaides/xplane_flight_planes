@@ -1,0 +1,53 @@
+Origen:       KMIA - Miami international - Miami - Florida - United States
+Destino:      EHAM - Schiphol - Amsterdam - Netherlands 
+Alternativo:  
+Flight Level: FL350
+Ruta:
+	GORLO/M0841F340 UL980 LAM UL179 CPT UL9 KENET UN14 MEDOG UL18 LIPGO DCT REVNU/M0841F360 DCT SUNOT 5820N 6030N 6140N 6050N URTAK N532B LOMTA N534B TAFFY DCT PQI J49 BGR DCT SEAER DCT AJJAY OOSHN3
+Route (plain text) .. = dct . for airways
+	EHAM..GORLO.UL980.LAM.UL179.CPT.UL9.KENET.UN14.MEDOG.UL18.LIPGO..REVNU..SUNOT..5820N..6030N..6140N..6050N..URTAK.N532B.LOMTA.N534B.TAFFY..PQI.J49.BGR..SEAER..AJJAY..KBOS
+	EHAM DCT GORLO UL980 LAM UL179 CPT UL9 KENET UN14 MEDOG UL18 LIPGO DCT REVNU DCT SUNOT 5820N 6030N 6140N 6050N URTAK N532B LOMTA N534B TAFFY DCT PQI J49 BGR DCT SEAER DCT AJJAY DCT KBOS
+
+Distancia: 3314 nm + Distancia Alternativo: 83 nm
+Tiempo Vuelo:               07:07
+Tiempo + alternativo:       07:37
+Total combustible (tiempo): 08:22
+
+Peso Combustible: 226.640 ( 100% - 88.5% - 0% - 88.5% - 100% - 0 - 100% - 100% - 100%) reserva: 30.750 <<  13.56%
+TOW: 741.050 (max.875000)   ZFW 514.208	  V1:139 VR:153 V2:168 	24% - trim 5.9
+
+Avion: 747-200 : 259 pax (220 lbs per pax)	747-400 heavy /L
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 301kn (0.841 match)
+Callsign: SUR5717
+Selcal: AD-EM
+
+Notas:       SUR5717     SELCAL: RS-EL     TOT: 11:37Z
+
+
+EHAM trf, at parking E17  pb & su to KBOS as filed      EHAM trf, taxi to hp rw18L via A14 B N2 crossing rw09 N2      EHAM trf, hp rw28L N2 lu & to follow GORLO.. to FL340      EHAM trf, airborne
+
+
+
+start 											10:35	
+encender motores									11:20 
+taxi 											11:35
+despegue ----------------------------------------------------------------------------	11:44
+request oceanic 30 min t0 - after LIPGO inbound REVNU -------------------------------	13:10 (shanwick)
+vertical REVNU step climb from FL340 to FL360 ------------------------ (+-1:15) -----	13:15
+oceanic (SUNOT) 13:29 ------- 1:45 despues del despegue	-------------- (+-1:45) -----	13:38 (shanwick)
+5820N at 14:02 ------------------------------------------------------- (+-2:15) -----   14:02 (shanwick)
+6030N at 14:48 ------------------------------------------------------- (+-3:00) -----   14:48 (shanwick)
+6140N at 15:30 ------------------------------------------------------- (+-3:45) -----	15:30 (Gander)
+cerrar xfeed --------------------------------------------------------- (+-3:50) -----	15:35
+6050N at 16:12 ------------------------------------------------------- (+-4:30) -----   16:12 (Gander)
+Urtak as 16:49 next LOMTA (domestic) --------------------------------- (+-5:05) -----   16:49 (Gander)
+entry Gadner Domestic inbound LOMTA ---------------------------------- (+-5:30) -----	17:55 (Gander Domeric)
+
+	
+descenso inbound BUSEN ----------------------------------------------- (+-6:20) ----	
+aterrizo --------------------------------------------------------------(+-6:45)-----	
+
+combustible final: ------------------------------------------------------------------	57.871
+

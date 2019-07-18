@@ -1,0 +1,28 @@
+Origen:       SAAV - Sauce Viejo - Santa Fe, Argentina
+Destino:      SARC - Corrientes - Corrientes, Argentina
+Alternativo:  SATR - Reconquista, Reconquista, Argentina
+Flight Level: FL230
+Ruta:	
+	PAR W20 SIS
+Route (plain text) .. = dct . for airways
+	SAAV..PAR.W20.SIS..SARC
+	SAAV PAR W20 SIS SARC
+
+Distancia: 305 nm + Distancia Alternativo: 117 nm
+Tiempo Vuelo:               01:06
+Tiempo + alternativo:       01:41
+Total combustible (tiempo): 02:26
+Peso Combustible: 6369 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+03/21
+SAAV trf, at parking pb & su to SAAV as filed   SAAV trf, taxi to hp rw03    	SAAV trf, entry rw for BT	SAAV trf, hp rw03 lu & TO FL230     SAAV trf, airborne
+SAAV trf, at parking pb & su to SAAV as filed   SAAV trf, taxi to hp rw21       SAAV trf, entry rw for BT	SAAV trf, hp rw21 lu & TO FL230     SAAV trf, airborne
+
+02/20
+SARC trf, 30nm inbound SIS leaving FL230, expecting rw20 ILS     SARC trf, CRR 4000 start clear for ILS rw20    SARC trf, full established ILS rw20 to land    SARC trf, rw vacated, taxi to platform (xx via xxx xxx)   SARC trf, on blocks, engines off, flight plan close

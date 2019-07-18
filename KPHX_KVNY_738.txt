@@ -1,0 +1,32 @@
+Origen:      	KPHX - Phoenix Sky Harbor Intl - Phoenix, USA 				alt. 1135 ft
+Destino:	KVNY - Van Nuys - Van Nuys, USA						alt. 799 ft
+Alternativo: 	KSBD - San Bernardino - CA - USA
+Flight Level: FL360
+Ruta:
+	IZZZO.HRRBR DCT PHRED THRNE.THRNE1
+Route (plain text) .. = dct . for airways
+	KPHX..IZZZO..HRRBR..PHRED..KVNY
+	
+Distancia: 327 nm + Distancia Alternativo: 63 nm
+Tiempo Vuelo:               01:06
+Tiempo + alternativo:       01:34
+Total combustible (tiempo): 02:19
+Peso Combustible: 15994 ( 99.9 % - 4.0 % - 99.9 % ) reserva: 6.5
+TOW: 126.3
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SGAS trf, at parking G2 pb & su to SBBR as filed   SGAS trf, taxi to hp rw20 via interior P E    SGAS trf, hp rw 20 lu & to follow ROCIO/NILKI     SGAS trf, airborne
+SGAS trf, at parking G2 pb & su to SBBR as filed   SGAS trf, taxi to hp rw02 via interior P A    SGAS trf, hp rw 02 lu & to follow ROCIO/NILKI     SGAS trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SBBR trf, at EGONI FL390, expecting rw29L ILS via EGONI1A transition KOMDI    SBBR trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

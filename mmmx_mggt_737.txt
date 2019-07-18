@@ -1,0 +1,32 @@
+Origen:       MMMX - Mexico City - Mexico - Mexico
+Destino:      MGGT - La Aurora Int. - Guatemaka - Guatemala
+Alternativo:  MSLP - El Salvador Int. - El Salvador - El Salvador
+Flight Level: FL390
+Ruta:
+	PBC UJ47 IZT UL423 TAP UR644 AUR
+Route (plain text) .. = dct . for airways
+	MMMX..PBC.UJ47.IZT.UL423.TAP.UR644 AUR..MGGT
+	MMMX DCT PBC UJ47 IZT UL423 TAP UR644 AUR DCT MGGT		MMMXMGGT01
+
+Distancia: 585 nm + Distancia Alternativo: 110 nm
+Tiempo Vuelo:               01:43
+Tiempo + alternativo:       02:17
+Total combustible (tiempo): 03:02
+Peso Combustible: 17086 ( 99.0 % - 0 % - 99.0 % ) reserva: 4.5
+TOW: 125.0
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+MMMX trf, at parking 24 pb & su to MGGT as filed   MMMX trf, taxi to hp rw05L via B    MMMX hp rw 05L lu & follow PBC4C        MMMX trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+MGGT trf, at TAP leaving FL390, expecting rw 01 ILS transition AUR        MMX trf, at AUR 9000 clear to ILS rw 01     MGGT trf, full established ILS rw 01 to land    MGGT trf, rw vacated, taxi to platform (xx via xxx xxx)   MGGT trf, on blocks .., engines off, flight plan close

@@ -1,0 +1,28 @@
+Origen:       SARC - Corrientes - Corrientes, Argentina
+Destino:      SARP - Liberador Gral D Jose De San - Posadas, Argentina
+Alternativo:  SARI - Mayor Carlos Krause - Cataratas del Iguazu, Argentina
+Flight Level: FL210
+Ruta:	
+	LUTSO B687 POS
+Route (plain text) .. = dct . for airways
+	SARC..LUTSO.B687.POS..SARP
+	SARC LUTSO B687 POS SARP
+
+Distancia: 149 nm + Distancia Alternativo: 128 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:21
+Total combustible (tiempo): 02:06
+Peso Combustible: 5578 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+02/20
+SARC trf, at parking pb & su to SAAV as filed   SARC trf, taxi to hp rw02    	SARC trf, entry rw for BT	SARC trf, hp rw02 lu & TO FL210     SARC trf, airborne
+SARC trf, at parking pb & su to SAAV as filed   SARC trf, taxi to hp rw20       SARC trf, entry rw for BT	SARC trf, hp rw20 lu & TO FL210     SARC trf, airborne
+
+01/19
+SARP trf, vertical REPAM inbound POS leaving FL210, expecting rw19 ILS     SARP trf, POS 4000 start clear for ILS rw19    SARP trf, full established ILS rw19 to land    SARP trf, rw vacated, taxi to platform (xx via xxx xxx)   SARC trf, on blocks, engines off, flight plan close

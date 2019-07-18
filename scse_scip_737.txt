@@ -1,0 +1,27 @@
+Origen:       SCSE - La Florida - La Serena - Chile
+Destino:      SCIP - Mataveri Intl - Isla De Pascua, Chile
+Alternativo:  n/a
+Flight Level: FL400
+Ruta:
+
+	TOY/K460/F390 UW208 EMBAL UW208 TBN UT101 VTN UT101 MORSA/K460/F400 UL348 VINAP
+Route (plain text) .. = dct . for airways
+	SCSE TOY UW208 EMBAL UW208 TBN UT101 VTN UT101 MORSA UL348 VINAP  SCIP
+
+Distancia: 2225 nm + Distancia Alternativo: --- nm
+Tiempo Vuelo:               05:07
+Tiempo + alternativo:       05:07
+Total combustible (tiempo): 05:52
+Peso Combustible: 35676 ( 99.9 % - 64.0 % - 99.9 % ) reserva: 4.5 
+TOW: 143.6 (31.2% trim: 3.81)   v1: 131    vr: 139    v2: 146
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+(on FSX rw is 11/29)
+SCSE trf, at parking 1 pb & su to SCIP as filed   SCSE trf, taxi to hp rw12 via A       SCSE trf, entry rw to b/t for hp rw12    SCSE trf, hp rw12 lu & to follow ISGUD1      		SCSE trf, airborne
+SCSE trf, at parking 1 pb & su to SCIP as filed   SCSE trf, taxi to hp rw30 via A       SCSE trf, entry rw to b/t for hp rw30    SCSE trf, hp rw30 lu & to follow LILEN4       	        SCTE trf, airborne
+
+SCIP trf, at VINAP leaving FL400, expecting rw28 VOR-Y next anonunce will be final       SCIP trf, final rw28 to land    SCIP trf, rw vacated, taxi to platform (xx via xxx xxx)   SCIP trf, on blocks, engines off, flight plan close

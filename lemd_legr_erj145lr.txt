@@ -1,0 +1,40 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEGR - Federico Garcia Lorca = Granada - Spain
+Alternativo:  LEZL - Seville - Seville - Spain
+Flight Level: FL250	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	VTB/KN440/FL250 UN867 ANZAN/KN440/FL230 G5 BLN		odd -- odd
+Route (plain text) .. = dct . for airways
+	LEMD DCT VTB UN867 ANZAN G5 BLN DCT LEGR			LEMDLEGR01.FLTPLAN
+	LEMD..VTB.UN867.ANZAN.G5.BLN..LEGR
+
+Distancia: 202 nm + Distancia Alternativo: 102 nm
+Tiempo Vuelo:               00:52
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:10
+Peso Combustible: 5752 ( 50.5 % - 50.5 % ) reserva: 2.3 (40.52%)
+TOW: 44.213
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking 340 Terminal4 pb & su to LEGR as filed   
+LEMD trf, taxi to hp rw14R via interior D A...     
+LEMD trf, taxi to hp rw14L via interior D A...     
+LEMD trf, taxi to hp rw36R via interior D A...     
+LEMD trf, taxi to hp rw36L via interior D A...     
+LEMD trf, hp rw14R lu & to follow VILLATOBAS2S o 1B    LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow VILLATOBAS1V         LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow VILLATOBAS2W         LEMD trf, airborne
+LEMD trf, hp rw36L lu & to follow VILLATOBAS1NF        LEMD trf, airborne
+Despegue: ????Z
+
+vertical ANZAN leaving FL250 descending FL230 for lower over G5
+09-27 (7000)
+LEGR trf, vertical BLN starting BAILEN1D expecting rw09 ILS
+LEGR leaving FL230 continue over BAILEN1D for 09ILS
+LEGR trf, at GDA 7000 clear to ILS 09     LEGR trf, full established ils rw09 to land    LEGR trf, rw vacated, taxi to platform

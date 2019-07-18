@@ -1,0 +1,32 @@
+Origen:       LFMN - COTE D'AZUR - Nice - France
+Destino:      LYBE - NICOLA TESLA - Belgrade - Serbia
+Alternativo:  LYNI - KONSTANTIN VELIKI - Nis - Serbia
+Flight Level: FL370
+Ruta:
+	BASIP Y15 ABN UZ713 FER UM859 BARPI UZ495 MAGAM UP735 ZAG UY574 BABIT UT23 TADAM
+Route (plain text) .. = dct . for airways
+	LFMN..BASIP.Y15.ABN.UZ713.FER.UM859.BARPI.UZ495.MAGAM.UP735.ZAG.UY574.BABIT.UT23..TADAM
+	LFMN BASIP Y15 ABN UZ713 FER UM859 BARPI UZ495 MAGAM UP735 ZAG UY574 BABIT UT23 TADAM 		LFMNLYBE01.FLTPLAN	
+
+Distancia: 615 nm + Distancia Alternativo: 111 nm
+Tiempo Vuelo:               01:47
+Tiempo + alternativo:       02:21
+Total combustible (tiempo): 03:06
+Peso Combustible: 16914 ( 98.0 % - 0 % - 98.0 % ) reserva: 4.5 
+TOW: 124.8
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+LFMN trf, at parking B38, pb & su to LYBE as filed
+LFMN trf, taxi to hp r04R via C U A1 V A32     LFMN trf, hp rw04R lu & to follow BASIP5A to FL370   LFMN trf, airborne 
+LFMN trf, taxi to hp r22L via C S T H1 H2 H3   LFMN trf, hp rw22L lu & to follow BASIP5X to FL370   LFMN trf, airborne 
+LFMN trf, taxi to hp r22L via C S T H1 H2 H3   LFMN trf, hp rw22L lu & to follow BASIP5Z to FL370   LFMN trf, airborne 
+Despegue 1203Z
+
+LYBE trf, at/after XXX FL370 start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LYBE trf, position XXX continue approach xxx for rw XX ils/vor-dme   LYBE trf, at XXX altitude xxx clear to ils/start approach rw XX   LYBE trf, full established ils/final rw XX to land    LYBE trf, rw vacated, taxi to platform (xx via xxx xxx)   LYBE trf, on blocks, engines off, flight plan close
+LYBE trf, at MEBEL leaving FL370, expect rw04R ils via LUC/MUS    LYBE trf, position LUC continue approach via MUS for rw 04R ils   LYBE trf, at BISBO altitude 3000 clear to ils rw 04R   LYBE trf, full established ils rw 04R to land    LYBE trf, rw vacated, taxi to platform (xx via xxx xxx)   LYBE trf, on blocks, engines off, flight plan close
+
+
+

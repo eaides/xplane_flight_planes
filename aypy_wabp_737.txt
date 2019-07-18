@@ -1,0 +1,27 @@
+Origen:       AYPY - Jacksons - Port Moresby, Papua New Guinea
+Destino:      WABP - Tembagapura - Timika, Indonesia (WAYY)
+Alternativo:  WABB - Franz Kaisero - Biak - Indonesia
+Flight Level: FL400
+Ruta:
+	BAR A215 MKE W63 TMK
+Route (plain text) .. = dct . for airways
+	AYPY BAR A215 MKE W63 TMK WABP (WAYY)
+
+Distancia: 726 nm + Distancia Alternativo: 206 nm
+Tiempo Vuelo:               02:01
+Tiempo + alternativo:       02:48
+Total combustible (tiempo): 03:33
+Peso Combustible: 19834 (99.9 % - 9.0 % - 99.9 %) reserva: 4.5 
+TOW: 127.8 (32.9% trim: 2.81)   v1: 122    vr: 130    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 14L/32R
+AYPY trf, at parking 4 pb/su to WABP as filed      AYPY trf, taxi to hp rw14L via B A            AYPY trf, hp rw14L lu & to @FL400    	AYPY trf, airborne
+AYPY trf, at parking 4 pb/su to WABP as filed      AYPY trf, taxi to hp rw32R via D A M          AYPY trf, crossing rw 14E/32L on M             AYPPY tr, entry rw for b/t to hp32L       AYPY trf, hp rw32L lu & to ... @FL400       	AYPY trf, airborne
+
+destination rw: 12/30
+WABP trf, at BIBAG leaving FL400, expecting rw15 LOC-Y via BIB3A trans RAINY        WABP trf, at BIB FL115 start BIB3A for rw15 LOC-Y trans RAINY     WABP trf, RAINY 5000 clear for loc-y ils rw15      WABP trf, established loc ils rw15 to land       WABP trf, rw vacated, taxi to platform    WABP trf, on blocks, engines off, flight plan close

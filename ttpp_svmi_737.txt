@@ -1,0 +1,32 @@
+Origen:       TTPP - Port of Spain Piarco - Port of Spain - Trinidad and Tobago
+Destino:      SVMI - Maiquetia Simon Bolivar - Maiquetia - Venezuela
+Alternativo:  TNCB - Boanire Is.Flamingo - Bonaire Island - Netherlands Antilles
+Flight Level: FL320
+Ruta:
+	POS UA552 MIQ
+Route (plain text) .. = dct . for airways
+	TTPP..POS.UA552.MIQ..SVMI
+	TTPP DCT POS UA552 MIQ DCT SVMI 			TTPPSVMI01
+
+Distancia: 339 nm + Distancia Alternativo: 119 nm
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:45
+Total combustible (tiempo): 02:30
+Peso Combustible: 13980 ( 81 % - 0 % - 81 % ) reserva: 4.5
+TOW: 121.9
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+TTPP trf, at parking 5 pb & su to SVMI as filed   TTPP trf, taxi to hp rw10 via A D     TTPP trf, hp rw10 lu & to FL320     TTPP trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SVMI trf, at CBC leaving FL320, expecting rw10 ILS direct to transition KORLI     SVMI trf, at KORLI start arc dme/17 MIQ for rw10 ILS     SVMI trf, vertical MARES clear to ILS rw10     SVMI trf, full established ILS rw10 to land    SVMI trf, rw vacated, taxi to platform (xx via xxx xxx)   SVMI trf, on blocks .., engines off, flight plan close

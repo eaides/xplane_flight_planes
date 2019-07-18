@@ -1,0 +1,30 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina 		alt. 18 ft
+Destino:      SAAR - Rosario - Rosario, Argentina			alt. 85 ft.
+Alternativo:  SAAV - Santa Fe
+Flight Level: FL220
+Ruta:	
+	ATOVO W5 ESKON						SABESAAR01
+Route (plain text) .. = dct . for airways
+	SABE..ATOVO.W5.ESKON..SAAR
+
+Distancia: 155 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               00:46
+Tiempo + alternativo:       01:22
+Total combustible (tiempo): 02:07
+Peso Combustible: 12570		- reserva 5.8
+TOW: 119.4  	(20.2% trim: 4.75)	v1: 12145    vr: 124    v2: 136
+
+Avion: 737-800 : 173 pax (220 lbs per pax)
+Payload 39.8
+Cost Index SUR: 52			270/033 // 10C
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738	Equipment: Equipment: (ODFLG)R = SR / C
+
+
+SABE trf, at parking 8 pb & su to SAAR as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow ATOVO3B to FL260   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SAAR as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow ATOVO3B to FL260   SABE trf, airborne
+
+SAAR trf, at PEDRO inbound ESKON leaving FL220, expecting rw20 ILS     SAAR trf, at ROS altitude 4000 clear for ILS rw20     SAAR trf, full established ils rw20 to land      SAAR trf, rw vacated, taxi to platform    SAAR trf, on blocks, engines off, flight plan close
+
+SAAR trf, at PEDRO leaving FL220, expecting rw02 VOR/DME                                                                     
+SAAR trf, altitude 2500 final rw02 to land       SAAR trf, rw vacated, taxi to platform    SAAR trf, on blocks, engines off, flight plan close

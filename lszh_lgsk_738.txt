@@ -1,0 +1,28 @@
+Origen:       LSZH - Zurich - Zurich, Switzerland			alt. 1416 ft.	
+Destino:      LGSK - Skiathos - Skiathos, Greece 			alt. 50 ft.
+Alternativo:  LGAV - Athens - Athens, Greece 				alt. 68 ft.
+Flight Level: FL370
+Ruta:
+	GERSA Z50 RESIA T415 LISKO L613 DIPEP T415 MOKTO M872 LATAN L869 KRK G12 YNN V651 AGH
+Route (plain text) .. = dct . for airways
+	LSZH..GERSA.Z50.RESIA.T415.LISKO.L613.DIPEP.T415.MOKTO.M872.LATAN.L869.KRK.G12.YNN.V651.AGH..LGSK
+
+Distancia: 898 nm + Distancia Alternativo: 78 nm
+Tiempo Vuelo:               02:19
+Tiempo + alternativo:       02:48
+Total combustible (tiempo): 03:33
+Peso Combustible: 21.5		reserva: 5.7
+TOW: 150.6
+
+Avion: 737-800 : 164 pax (220 lbs per pax)
+Payload 37.7
+Cost 1Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+SACO trf, at parking 4 pb & su to SABE as filed   SACO trf, taxi to hp rw36 via A    -SACO trf, entry rw.. for backtrack-   SACO trf, hp rw36 lu & to follow ASEMI1 dep. Trans. UTRAX   SACO trf, airborne
+
+SABE trf, vertical ... leaving FL370, expecting rw31 VOR-DME chart6 via star SAN ANTONIO 7D transition ILM    SABE trf, position SNT continue approach SNT7D for rw31 VOR-DME    SABE trf, at ILM altitude 2500 start final approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+SABE trf, vertical ... leaving FL370, expecting rw13 ILS chart1 via star SAN ANTONIO 7C transition VANAR    SABE trf, position SNT continue approach SNT7C for rw31 ILS    SABE trf, at FDO altitude 2500 clear for ILS 13   SABE trf, full established ils rw13 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

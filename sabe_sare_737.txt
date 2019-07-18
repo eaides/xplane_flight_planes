@@ -1,0 +1,29 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SARE - Resistencia - Argentina
+Alternativo:  SARF - Formosa - Argentina
+Flight Level: FL390
+Ruta:	
+	LANDA UW64 GUA UL793 SIS
+Route (plain text) .. = dct . for airways
+	SABE..LANDA.UW64.GUA.UL793.SIS..SARE
+	SABE DCT LANDA UW64 GUA UL793 SIS DCT SARE
+
+Distancia: 428 nm + Distancia Alternativo: 155 nm
+
+Tiempo Vuelo:               01:22
+Tiempo + alternativo:       01:53
+Total combustible (tiempo): 02:38
+Peso Combusti2ble: 15939 lbs = 7230 kgs ( 99.9 % - 0 % - 90.0 % ) reserva: 4.5        (7821 kg)
+TOW: 129.84  (20.7% trim: 4.75)	v1: 120   vr: 123  v2: 133
+(63366 kg)
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Pay6load 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 460kn (0.76 match)
+ICAO aircraft: B737
+
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW13    SABE trf, hp rw RW13 lu & to follow EL-PALOMAR-8 transition NEPIS to FL400   SABE trf, airborne
+SABE trf, at parking 8 pb & su to SARE as filed   SABE trf, taxi to hp rw RW31    SABE trf, hp rw RW31 lu & to follow EL-PALOMAR-8 transition NEPIS to FL400   SABE trf, airborne
+
+SCVM trf, 10nm inboud UMKAL leaving FL400, expecting rw05 ILS via KALET3     SCVM trf, vertical VTN start KALET3 for ILS rw05      SCVM trf, full established ils rw05 to land    SCVM trf, rw vacated, taxi to platform    SCVM trf, on blocks, engines off, flight plan close

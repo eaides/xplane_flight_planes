@@ -1,0 +1,54 @@
+Origen:       SBGL - Galeao - Rio de Janeiro - Brazil 
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIPY - Falconara - Alcona - Italy
+Flight Level: FL370
+Ruta:                                                                                                                                                                                                                                                                              	
+	UKENU/N490F310 UN857 BIDEV UW50 SVD UZ17 REC UR551 VURBI/M0844F330 UR551 BUGAT UL206 REGIS UL206 KODOS 03N025W 11N020W TAROT/M0844F350 UA302 YF UR975 AR UA854 BRENA UG864 CHAMI/M0844F370 UG864 GHA UG859 CSO UG14 KAWKA UM126 ESINO
+Route (plain text) .. = dct . for airways
+	SBGL UKENU UN857 BIDEV UW50 SVD UZ17 REC UR551 BUGAT UL206 REGIS UL206 KODOS 03N025W 11N020W TAROT UA302 YF UR975 AR UA854 BRENA UG864 GHA UG859 CSO UG14 KAWKA UM126 ESINO LIRF
+	SBGL..UKENU.UN857.BIDEV.UW50.SVD.UZ17.REC.UR551.BUGAT.UL206.REGIS.UL206.KODOS..03N025W..11N020W..TAROT.UA302.YF.UR975.AR.UA854.BRENA.UG864.GHA.UG859.CSO.UG14.KAWKA.UM126.ESINO..LIRF
+	SBGLLIRF01.RTE
+
+Distancia: 5041 nm + Distancia Alternativo: 120 nm
+Tiempo Vuelo:               10:36
+Tiempo + alternativo:       11:11
+Total combustible (tiempo): 11:56
+
+Peso Combustible: 313600 ?? ( 100% - 100% - 58.6% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 60000 18.33%		fs_center: 263513-25206(8.73%) = 288719 
+TOW: 827.800 (max.875000)   ZFW 514.208	  V1:151 VR:167 V2:178 trim 6.0							747fuelcalc: 339920 - 37950 (10.78%) 
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+SBGL trf, at parking 8 terminal 1 (22) pb & su to LIRF as filed   SBGL trf, taxi to hp rw28 via interior EE N     SBGL trf, hp rw28 lu & to follow NIBGU1A transition UKENU to FL310	SBGL trf, airborne
+SBGL trf, at parking 8 terminal 1 (22) pb & su to LIRF as filed   SBGL trf, taxi to hp rw10 via interior EE N O   SBGL trf, hp rw10 lu & to follow PCX2A transition UKENU to FL310	SBGL trf, airborne
+SBGL trf, at parking 8 termianl 1 (22) pb & su to LIRF as filed   SBGL trf, taxi to hp rw10/15 via ...    SBGL trf, hp rw10/15 lu & to follow PCX1A/2A/1B transition UKENU to FL310	SBGL trf, airborne
+
+
+LIRF trf, after ..... leaving FL370 expecting rw34L ILS via ESINO1D        LIRF trf, at ESINO start ESINO1D expect rw34L ILS  
+LIRF trf, at NETUN FL070 clear to ILS rw34L 	LIRF trf, full established ILS rw34L to land	LIRF trf, rw vacated on AB taxi to parking 507 (B7) via A crossing rw 25 B H (I) CF 
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start -------------------------------------------------------------------------------	--:--	08:31
+encender motores --------------------------------------------------------------------	16:30	08:43
+taxi --------------------------------------------------------------------------------	16:35	08:47
+despegue ----------------------------------------------------------------------------	16:40	08:52
+center off --------- before ..... / 2 en centers --------------------- (+-1:??) -----	??:??	-- --
+over UR551 vertical VURBI, step climb from FL310 to FL330 ------------ (+-2:30) -----	18:47	11:13
+oceanic (KODOS) -------------------------------------------------------(+-3:30) -----	??:??	12:28
+entry DAKAR airspace on TAROT, step climb from FL330 to FL350 -------- (+-5:00) -----	??:??	13:54
+cerrar xfeed --------------------------------------------------------- (+-7:10) -----	??:??	16:05
+over UG864 vertical CHAMI/....., step climb from FL350 to FL370 ?? --- (+-7:30) -----	??:??	16:24
+step climb 390 none -----------------------------------------------------------------	-- --	-- --
+at ALEDI program arrive, -------- (40 min before arrive) ------------- (+-9:30) -----	02:19	18:28
+descenso despues de QUENN ------- (25 min before arrive) ------------- (+-9:40) -----	02:28	18:35
+aterrizo ------------------------------------------------------------ (+-10:00)------	02:49	18:58
+
+combustible final: ------------------------------------------------------------------	51400	48577	-----
+

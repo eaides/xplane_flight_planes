@@ -1,0 +1,35 @@
+Origen:       SABE - Jorge Newery - Buenos Aires - Argentina
+Destino:      SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina
+Alternativo:  SANR - 
+Flight Level: FL240
+Ruta:	
+	ATOVO W5 ASISA
+Route (plain text) .. = dct . for airways			
+	SAEZ..ATOVO.W5.ASISA..SACO
+
+Distancia: 355 nm + Distancia Alternativo: 107 nm
+
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:40
+Total combustible (tiempo): 02:45
+Peso Combustible: 21782
+
+Avion: 737-200 : 108 pax (220 lbs per pax)
+Empty Weight:
+Payload:     
+ZFW:         
+Cost In\dex SUR: 60
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+	EZE 116.5 -> 005 +42 (landa)
+	SNT 117.7 <- 269 (+31 eze20, +22 eze26)
+	FDO 114.4 -> 317 (26.6 eze26, 36.6 atovo)
+	ROS 117.3 <- 318 ( + 34 + 43 + 30 )		
+	ROS 117.3 -> 308 ( + 30 + 36 + 78 = 144 ASISA) intercepta CBA/298 +35 + 20 = 55)
+CBA 114.5 <- 298
+SACO				5000 over CBA	- descent -67 = 132 nm from ROS
+
+
+

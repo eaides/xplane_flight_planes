@@ -1,0 +1,29 @@
+Origen:       NCAI - Avarua - Aitutaki, Cook Islands
+Destino:      NSTU - Pago Pago Intl - Pago Pago, American Samoa
+Alternativo:  NSFA - Faleolo Intl - Apia - W Samoa - 
+Flight Level: FL400
+Ruta:
+
+	INVAS B454 GUMRA
+Route (plain text) .. = dct . for airways
+	NCAI..INVAS.B454.GUMRA..NSTU
+
+Distancia: 700 nm + Distancia Alternativo: 81 nm
+Tiempo Vuelo:               01:52
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07
+Peso Combustible: 19258 ( 99.9 % - 7.0 % - 99.9 % ) reserva: 5.0 
+TOW: 127.2 (33.0% trim: 2.77)   v1: 122    vr: 130    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 14/32
+NCAI trf, su to NCAI as filed      NSTU trf, taxi to hp rw32        NCAI trf, entry rw to b/t for hp rw32       NCAI trf, hp rw32 lu & to FL400      		NCAI trf, airborne
+NCAI trf, su to NCAI as filed      NSTU trf, taxi to hp rw14        NCAI trf, hp rw14 lu & to FL400      	        NCAI trf, airborne
+
+destination rw: 05/23
+NSTU trf, after GUMRA leaving FL400, expecting rw05 VOR-A DME trans TUT           NSTU trf, vertical TUT 4000 start approach rw05 VOR-A       NSTU trf, final rw05 to land       NSTU trf, rw vacated, taxi to platform    NSTU trf, on blocks, engines off, flight plan close
+NSTU trf, at ... leaving FL400, expecting rw23 VOR DME trans TUT           NSTU trf, vertical TUT 4000 start approach rw23 VOR       NSTU trf, final rw23 to land       NSTU trf, rw vacated, taxi to platform    NSTU trf, on blocks, engines off, flight plan close

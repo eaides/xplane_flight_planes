@@ -1,0 +1,31 @@
+Origen:       LTFJ - Sabhiha Gokcen - Istambul - Turkey
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL390
+Ruta:
+	EDASA UW714 KFK UM855 MAROS UL609 APLON UL609 SOLIN
+
+Route (plain text) .. = dct . for airways
+	LTFJ..EDASA.UW714.KFK.UM855.MAROS.UL609.APLON.UL609.SOLIN..LLBG
+
+Distancia: 644 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:47
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 04:07
+Peso Combustible: 19546 ( 99.9 % - 8.0 % - 99.9 % ) reserva: 4.5
+TOW: 127.5	v1:122  vr:130  v2:138 (158)  trim:3.05
+
+AAvion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+					
+Notas: 
+
+LTFJ trf, at parking 6 pb/su to LLBG as filed   LTFJ trf, taxi to hp rw06 via N D J   LTFJ trf, hp rw06 lu & to follow EDASA1J to FL390   LTFJ trf, airborne 
+LTFJ trf, at parking 6 pb/su to LLBG as filed   LTFJ trf, taxi to hp rw24 via N D E   LTFJ trf, hp rw24 lu & to follow EDASA1L to FL390   LTFJ trf, airborne 
+
+LLBG trf, leaving FL390 start descending, expecting rw08 ils via SOLIN2B      LLBG at SOLIN 9000 start approach SOLIN2B for rw08 ils      LLBG trf, BOAZZ 3000 clear to ils rw08     LLBG trf, full established ils rw08 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, before LEDRA leaving FL390 start descending, expecting rw26 ils via SOLIN1C      LLBG at SOLIN 12000 start approach SOLIN1C for rw26 ils-Z trans. SIRON         LLBG trf, SIRON 5000 clear to ils rw26-z     LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at LEDRA leaving FL390 start descending, expecting rw12 ils via SOLIN1X      LLBG at SOLIN 12000 start approach SOLIN1X for rw12 ils trans. SIRON           LLBG trf, SIRON 5000 clear to ils rw12     LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform     LLBG trf, on blocks, engines off, flight plan close

@@ -1,0 +1,52 @@
+Origen:       LOWI - Innsbruck - Austria
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LEAB
+Flight Level: FL390
+Ruta:
+	BRENO M726 NAXAV M984 VAMTU UM984 DIVKO UN975 RAMON UT520 CMA UZ596 TERSA
+
+Route (plain text) .. = dct . for airways
+	LOWI..BRENO.M726.NAXAV.M984.VAMTU.UM984.DIVKO.UN975.RAMON.UT520.CMA.UZ596.TERSA..LEMD
+
+Distancia: 825 nm + Distancia Alternativo: 93 nm
+
+Tiempo Vuelo:               02:07
+Tiempo + alternativo:       02:43
+Total combustible (tiempo): 03:44
+Peso Combustible: 20001 - reserva: 6.8 
+TOW: 127.0		trim: 4.75	v1: 126	vr: 129	v2: 1417
+
+Avion: 737-800 : 153 pax (220 lbs per pax)
+Payload 35.2
+Cost Index SUR: 5 -- 017/013 -- 1C
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+LIRF trf, at parking 407 pb & su to LEMD as filed   LIRF trf, taxi to hp BA1 rw25 via NZ G NG N B     LIRF trf, hp BA1 rw25 lu & to follow SOSAK5A ESINO5H   LIRF trf, airborne
+						    LIRF trf, taxi to hp AK rw34L via NZ G B A	      LIRF trf, hp AK rw34L lu & to follow SOSAK5Y ESINO5H
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+32R - TERSA1D - MAX FL200
+-65 TERSA leaving FL380 (after/at RUBEO)
+TERSA 	FL200
+SIRGU 	FL140 - 36nm
+ASBIN	6000  - 	
+
+18L - TERSA4E - MAX FL210
+-65 TERSA leaving FL380 (after/at RUBEO)
+TERSA 	FL210
+NOSKO   FL160
+TAGOM 	10000
+LEMD trf, after RUBEO leaving FL380, expecting rw 32R ils-Z via star TERSA1D transition  ASBIN      LEMD trf, position TERSA continue approach TERSA1D for rw 32R ils-Z    LEMD trf, at ASBIN altitude 6000 clear to ils rw 32R    LEMD trf, full established ils rw32R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+LEMD trf, after RUBEO leaving FL380, expecting rw 18L ils-Z via star TERSA4E transition  TAGOM      LEMD trf, position TERSA continue approach TERSA4E for rw 18L ils-Z    LEMD trf, at TAGOM altitude 10000 clear to ils rw 18L    LEMD trf, full established ils rw18L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+
+
+Italia
+https://www.enav.it/enavWebPortalStatic/AIP/AIP/enr/enr3/ENR3-1-1.pdf
+
+France
+https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_11_OCT_2018/FRANCE/AIRAC-2018-10-11/html/index-fr-FR.html
+
+Spain:
+https://ais.enaire.es/AIP/AIPS/AMDT_307_2018_AIRAC_10_2018/AIP.html

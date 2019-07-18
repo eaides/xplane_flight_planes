@@ -1,0 +1,43 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEMG - Costa del Sol - Malaga - Spain
+Alternativo:  LERT - Rota - Cadiz - Spain
+Flight Level: FL230	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	VTB N867 ANZAN G5 BLN		odd -- odd
+Route (plain text) .. = dct . for airways
+	LEMD DCT VTB N867 ANZAN G5 BLN DCT LEMG			LEMDLEMG01.FLTPLAN
+	LEMD..VTB.N867.ANZAN.G5.BLN..LEMG
+
+Distancia: 242 nm + Distancia Alternativo: 89 nm
+Tiempo Vuelo:               00:57
+Tiempo + alternativo:       01:29
+Total combustible (tiempo): 02:19
+Peso Combustible: 5922 ( 52 % - 52 % ) reserva: 2.3 (40.52%)
+TOW: 44.383
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking 352 Terminal4 pb & su to LEMG as filed   
+LEMD trf, taxi to hp rw14R via interior D A...     
+LEMD trf, taxi to hp rw14L via interior D A...     
+LEMD trf, taxi to hp rw36R via interior D A...     
+LEMD trf, taxi to hp rw36L via interior S4 S3 M M17 R5 Z2      
+LEMD trf, hp rw14R lu & to follow VILLATOBAS2S o 1B    LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow VILLATOBAS1V         LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow VILLATOBAS2W         LEMD trf, airborne
+LEMD trf, hp rw36L lu & to follow VILLATOBAS1NF        LEMD trf, airborne
+Despegue: ????Z
+
+14-32 (52 - TA:6000)
+LEMG trf, vertical BLN starting BAILEN1Q expecting rw13 ILS (14)(109.5/135)
+LEMG trf, vertical BLN starting BAILEN1Z expecting rw31 ILS (109.9/315)
+
+LEMG leaving FL230 continue over BAILEN1Q for 13ILS
+LEMG leaving FL230 continue over BAILEN1Z for 31ILS
+LEMG trf, at TOLSU FL070 clear to ILS 13     LEMG trf, full established ils rw13 to land    LEMG trf, rw vacated, taxi to platform
+LEMG trf, at PISAV 3000 clear to ILS 31     LEMG trf, full established ils rw31 to land    LEMG trf, rw vacated, taxi to platform

@@ -1,0 +1,31 @@
+Origen:       LEIB - Ibiza - Ibiza - Spain
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LEAB
+Flight Level: FL310	(max para el avion FL410) (Barza-Madrid la maxima es FL310 segun controladores)
+Ruta:
+	XOSTA UM134 VLC UN733 PRADO	odd - odd 
+Route (plain text) .. = dct . for airways
+	LEIB DCT XOSTA UM134 VLC UN733 PRADO DCT LEMD			LEIBLEMD01.FLTPLAN
+	LEIB..XOSTA.UM134.VLC..PRADO..LEMD
+
+Distancia: 248 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:55	
+Tiempo + alternativo:       01:47
+Total combustible (tiempo): 02:17
+Peso Combustible: 13342     reserva: 5.8
+
+Avion: 737-800: 158 pax
+Payload 36.3
+Cost Index SUR: 20
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEIB trf, at parking .. pb & su to LEMD as filed   
+LEIB trf, taxi to hp rw06 via ...    	LEIB trf, hp rw06 lu & to follow XONDA..    LEIB trf, airborne
+LEIB trf, taxi to hp rw24 via ...    	LEIB trf, hp rw24 lu & to follow XONDA..    LEIB trf, airborne
+
+Despegue: ????Z
+
+LEMD trf, after .... FL250 start descending, expecting rw18R/32.. ils via star PRADO2E/PRADO.. transition TAGOM/ASBIM    LEMD trf, position PRADO continue approach PRADO.. for rw32L/18R ils      LEMD trf, at ASBIM/TAGOM altitude 5000/10000 clear to ils rw18L/36R   LEMD trf, full established ils rw18L/36R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+LEMD trf, after CATOM FL250 start descending, expecting rw18R ils via star PRADO2E transition TAGOM    LEMD trf, position PRADO continue approach PRADO2E for rw18R ils      LEMD trf, at TAGOM altitude 10000 clear to ils rw18R   LEMD trf, full established ils rw18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

@@ -1,0 +1,37 @@
+Origen:       FQBR - Beira - Beira, Mozambique
+Destino:      FADN - Durban Intl - Durban, South Africa (FALE)
+Alternativo:  FARB - Richards Bay, Richards Bay, South Africa
+Flight Level: FL360
+Ruta:	
+	ITMAL UG657 VMA UB529 ITMIL
+Route (plain text) .. = dct . for airways
+	FQBR..ITMAL.UG657.VMA.UB529.ITMIL..FADN 
+	FQBR ITMAL UG657 VMA UB529 ITMIL FADN
+
+Distancia: 634 nm + Distancia Alternativo: 95 nm
+
+Tiempo Vuelo:               01:45
+Tiempo + alternativo:       02:17
+Total combustible (tiempo): 03:02
+Peso Combustible: 18816 ( 99.9 % - 10 % - 99.9 % ) reserva: 5.0
+TOW: 1420.6  (29.0% trim: 4.72)	v1: 137  vr: 140  v2: 147 (162)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 140.6 - opt: FL365     max: FL391
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+12/30
+FQBR trf, at parking pb & su to FADN as filed         FQBR trf, taxi to hp rw RW12 via A           FQBR trf, hp rw RW12 lu & to to FL360 via APMAV1A  trans. ITMAL     FQBR trf, airborne
+FQBR trf, at parking pb & su to FADN as filed         FQBR trf, taxi to hp rw RW30 via C rw           FQBR trf, entry rw for bt    FQBR trf, hp rw RW30 lu & to to FL360 via APMUD1A trans. ITMAL     FQBR trf, airborne
+
+06/24
+FADN trf, after ... inbound ... leaving FL360, expecting rw.. VOR/DME or ILS transition ...                  FADN trf, ... ..00 start final approach rw.. VOR/DME or clear to ILS rw..
+FADN trf, rw insight, final rw.. or full established ILS rw.. to land             FADN trf, rw vacated, taxi to platform        FADN trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

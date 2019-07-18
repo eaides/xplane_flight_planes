@@ -1,0 +1,29 @@
+Origen:       UTAA - ASHGABAT - Ashgabat - Turmenistan
+Destino:      OAKB - KABUL INTL - Kabul - Afganistan
+Alternativo:  OPPS - BACHA KHAN INTL - Peshawar - Pakistan
+Flight Level: FL370
+Ruta:
+	KEMOR A125 RARUN B442 SERGO M696 TAPIS DCT LANNI
+Route (plain text) .. = dct . for airways
+	UTAA..KEMOR.A125.RARUN.B442.SERGO.M696.TAPIS..LANNI..OAKB  
+	UTAA DCT KEMOR A125 RARUN B442 SERGO M696 TAPIS DCT LANNI DCT OAKB		UTAAIAKB01.FLTPLAN	
+
+Distancia: 677 nm + Distancia Alternativo: 119 nm
+Tiempo Vuelo:               01:55
+Tiempo + alternativo:       02:30
+Total combustible (tiempo): 03:15
+Peso Combustible: 18682 ( 99.9 % - 5.0 % - 99.9 % ) reserva: 4.5 
+TOW: 126.6
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+UTAA trf, at parking 11, pb & su to OAKB as filed
+UTAA trf, taxi to hp rw12L via B A      UTAA trf, hp rw12L lu & to follow KEMOR1M to FL370   UTAA trf, airborne 
+Despegue 1203Z
+
+OAKB trf, at/after XXX FL370 start descending, expecting rw XX ils/vor via star MAMED..    OAKB trf, position MAMED continue approach MAMED.. for rw.. ils/vor   OAKB trf, at ... altitude .... clear to ils rw..   OAKB trf, full established ils rw.. to land    OAKB trf, rw vacated on .., taxi to platform    OAKB trf, on blocks, engines off, flight plan close
+
+
+

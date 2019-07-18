@@ -1,0 +1,36 @@
+Origen:       FMMI - Ivato - Antananarivo, Madagascar
+Destino:      FMCZ - Pamandzi - Dzaoudzi, Mayotte
+Alternativo:  FMCI - Moheli - Moheli, Comoros
+Flight Level: FL380
+Ruta:	
+	TN UA401 GALBA UG465 DZP
+Route (plain text) .. = dct . for airways
+	FMMI..TN.UA401.GALBA.UG465.DZP..FMCZ
+
+Distancia: 431 nm + Distancia Alternativo: 94 nm
+
+Tiempo Vuelo:               01:20
+Tiempo + alternativo:       01:51
+Total combustible (tiempo): 02:36
+Peso Combustible: 16396 ( 95.0 % - 0 % - 95.0 % ) reserva: 5.0
+TOW: 138.8  (29.3% trim: 4.50)	v1: 134  vr: 141  v2: 150 (165)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 145.8 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+11/29
+FMMI trf, at parking pb & su to FMCZ as filed    FMMI trf, taxi to hp rw RW11            FMMI trf, entry rw for bt    FMMI trf, hp rw RW11 lu & to to FL380 follow TN1E     FMMI trf, airborne
+FMMI trf, at parking pb & su to FMCZ as filed    FMMI trf, taxi to hp rw RW29            FMMI trf, entry rw for bt    FMMI trf, hp rw RW29 lu & to to FL380 follow TN1W     FMMI trf, airborne
+
+16/34
+FMCZ trf, after MG inbound GALBA leaving FL380, expecting rw34 VOR/DME transition DZP                  FMCZ trf, DZP 3000 start final approach rw34 VOR/DME
+FMCZ trf, rw insight, final rw34 to land             FMCZ trf, rw vacated, taxi to platform        FMCZ trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

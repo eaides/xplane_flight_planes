@@ -1,0 +1,33 @@
+Origen:       LEMD - BARAJAS - Madrid - Spain
+Destino:      LFMN - COTE D'AZUR - Nice - France
+Alternativo:  LFML - PROVENCE - Marseille - France
+Flight Level: FL370
+Ruta:
+	PINAR UN870 BCN G25 LUMAS UN853 NETUP UN853 TURIL DCT LUC
+Route (plain text) .. = dct . for airways
+	LEMD..PINAR.UN870.BCN.G25.LUMAS.UN853.NETUP.UN853.TURIL..LUC..LFMN
+	LEMD DCT PINAR UN870 BCN G25 LUMAS UN853 NETUP UN853 TURIL DCT LUC DCT LFMN		LEMDLFMN01.FLTPLAN	
+
+Distancia: 553 nm + Distancia Alternativo: 88 nm
+Tiempo Vuelo:               01:40
+Tiempo + alternativo:       02:10
+Total combustible (tiempo): 02:55
+Peso Combustible: 16052 ( 93.0 % - 0 % - 93.0 % ) reserva: 4.5 
+TOW: 124.0
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+LEMD trf, at parking 534 terminal 4 satelite, pb & su to LFMN as filed
+LEMD trf, at parking T22 pb & su to LFMN as filed   LEMD trf, taxi to hp rw 36L via I9 4 M M16 M18 R5   LEMD trf, hp rw 36L lu & to follow PINAR2N to FL370   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking T22 pb & su to LFMN as filed   LEMD trf, taxi to hp rw 36L via I9 4 M M16 M18 R5   LEMD trf, hp rw 36L lu & to follow PINAR2N to FL370   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking 556 terminal 4 satelite, pb & su to LFMN as filed      LEMD trf, taxi to hp rw 14L via EB G14 K1    LEMD trf, hp rw 14L lu & to follow PINARAU to FL370     LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking 556 terminal 4 satelite, pb & su to LFMN as filed      LEMD trf, taxi to hp rw36R via EB N Y2    LEMD trf, hp rw 36R lu & to follow PINAR2R to FL370     LEMD trf, airborne - Despegue 1203Z
+264ft pushback (corto, subir por lo menos 3)
+
+LFMN trf, at/after XXX FL370 start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LFMN trf, position XXX continue approach xxx for rw XX ils/vor-dme   LFMN trf, at XXX altitude xxx clear to ils/start approach rw XX   LFMN trf, full established ils/final rw XX to land    LFMN trf, rw vacated, taxi to platform (xx via xxx xxx)   LFMN trf, on blocks, engines off, flight plan close
+LFMN trf, at MEBEL leaving FL370, expect rw04R ils via LUC/MUS    LFMN trf, position LUC continue approach via MUS for rw 04R ils   LFMN trf, at BISBO altitude 3000 clear to ils rw 04R   LFMN trf, full established ils rw 04R to land    LFMN trf, rw vacated, taxi to platform (xx via xxx xxx)   LFMN trf, on blocks, engines off, flight plan close
+
+
+

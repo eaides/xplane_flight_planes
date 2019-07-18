@@ -1,0 +1,28 @@
+Origen:       WBGS - Sibu - Sibu - Malaysia
+Destino:      WMKJ - Sultan Ismail - Johor Bahru - Malaysia
+Alternativo:  WMKM - Malacca - Malacca - Malaysia
+Flight Level: FL400
+Ruta:
+	ISGOT AGPOP W459 AGOBA M761 SABIP B348 TOMAN G580 HOSBA W401 KK
+Route (plain text) .. = dct . for airways
+	WBGS ISGOT AGPOP W459 AGOBA M761 SABIP B348 TOMAN G580 HOSBA W401 KK WMKJ
+	WBGS..ISGOT..AGPOP.W459.AGOBA.M761.SABIP.B348.TOMAN.G580.HOSBA.W401.KK..WMKJ
+
+Distancia: 514 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               01:33
+Tiempo + alternativo:       02:05
+Total combustible (tiempo): 02:50
+Peso Combustible: 16568 (96.0 % - 0.0 % - 96.0 %) reserva: 4.5 wa
+TOW: 124.5 (33.1% trim: 2.66)   v1: 120    vr: 128    v2: 136
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 13/31
+WBGS trf, at parking 1 pb/su to WBGS as filed      WMKJ trf, taxi to hp rw13 via B rw        WBGS trf, entry rw to b/t       WBGS trf, hp rw13 lu & to USGOT1G trans AGPOP @FL400       	WBGS trf, airborne
+WBGS trf, at parking 1 pb/su to WBGS as filed      WMKJ trf, taxi to hp rw31 via A rw        WBGS trf, entry rw to b/t       WBGS trf, hp rw31 lu & to ISGOT1H trans AGPOP @FL400       	WBGS trf, airborne
+
+destination rw: 16/34
+WMKJ trf, after TOMAN leaving FL400, expecting rw16 ILS via KK2C        WMKJ trf, at SABUS 2000 clear for rw16 ILS        WMKJ trf, full established ils rw16 to land       WMKJ trf, rw vacated, taxi to platform    WMKJ trf, on blocks, engines off, flight plan close

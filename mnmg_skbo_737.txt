@@ -1,0 +1,32 @@
+Origen:       MNMG - Augusto Cesar Sandino - Managua - Nicaragua
+Destino:      SKBO - El Dorado - Santa Fe de Bogota - Colombia
+Alternativo:  SKGO - Santa Ana - Cartago - Colombia
+Flight Level: FL390
+Ruta:
+	EMARI UA317 MQU
+Route (plain text) .. = dct . for airways
+	MNMG..EMARI.UA317.MQU..SKBO
+	MNMG DCT EMARI UA317 MQU DCT SKBO		MGGTMNMG01
+
+Distancia: 849 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               02:17
+Tiempo + alternativo:       02:51
+Total combustible (tiempo): 03:36
+Peso Combustible: 19692 ( 99.9 % - 8.5 % - 99.9 % ) reserva: 4.5
+TOW: 127.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+MNMG trf, at parking G2 pb & su to SKBO as filed   MNMG trf, taxi to hp rw09 via A     MNMG trf, hp rw 09 lu & follow VOR/DME/EMARI        MNMG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SKBO trf, 50nm inbound MQU leaving FL390, expecting rw 13R ILS star MQU1A        SKBO trf, at BOG 12000 clear to ILS rw 13R     SKBO trf, full established ILS rw 13R to land    SKBO trf, rw vacated, taxi to platform (xx via xxx xxx)   SKBO trf, on blocks .., engines off, flight plan close

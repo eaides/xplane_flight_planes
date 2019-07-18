@@ -1,0 +1,33 @@
+Origen:       TJBQ - Rafael Hernandez - Aguadialla - Puerto Rico
+Destino:      TXKF - L.F.Wade Intl - Bermuda - Bermuda
+Alternativo:  KCHS - Charleston AFB Intl - Charleston - South Carolina - USA
+Flight Level: FL390
+Ruta:
+	BQN B520 DDP A523 THANK L458 BDA
+Route (plain text) .. = dct . for airways
+	TJBQ..BQN.B520.DDP.A523.THANK.L458.BDA..TXKF 
+
+Distancia: 881 nm + Distancia Alternativo: 778 nm
+Tiempo Vuelo:               02:17
+Tiempo + alternativo:       04:20
+Total combustible (tiempo): 05:05
+Peso Combustible: 27456	 ( 99.9 % - 36 % - 99.9 % ) reserva: 4.5
+TOW: 135.4
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+TJBQ trf, at parking 6 pb & su to TXKF as filed   TJBQ trf, taxi to hp rw08 via A     TJBQ trf, hp rw08 lu & to dct DDP over B520     TJBQ trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+TXKF trf, leavinf FL390 start descending, expecting rw12 vor-Y transition ADIPE   TXKF trf, at BDA start approach rw12 vor-Y trans ADIPE       
+TXKF trf, ADIPE 3000 start final approach rw12      TXKF trf, final rw12 to land    TXKF trf, rw vacated, taxi to platform (xx via xxx xxx)   TXKF trf, on blocks, engines off, flight plan close
+

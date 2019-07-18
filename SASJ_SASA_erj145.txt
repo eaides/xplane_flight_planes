@@ -1,0 +1,27 @@
+Origen:       SASJ - Gobernador Horacio Guzman - Jujuy, Argentina
+Destino:      SASA - Salta - Salta, Argentina
+Alternativo:  SANT - Benjamin Matienzo - Tucuman, Argentina
+Flight Level: FL140
+Ruta:	
+	JUJ A316 SAL
+Route (plain text) .. = dct . for airways
+	SASJ..JUJ.A316.SAL..SASA
+	SASJ JUJ A316 SAL SASA
+
+Distancia: 147 nm + Distancia Alternativo: 35 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:08
+Total combustible (tiempo): 01:53
+Peso Combustible: 5109 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+16/34
+SASJ trf, at parking pb & su to SASA as filed   SASJ trf, taxi to hp rw34    	SASJ trf, entry rw for BT      SASJ trf, hp rw34 lu & TO INFER4A to FL140     SASJ trf, airborne
+
+02/20
+SASA trf, 20nm inbound SAL leaving FL140, expecting rw02 ILS Elber2A    SASA trf, SAL 9000 clear ILS rw02    SASA trf, full established ILS rw02, to land    SASA trf, rw vacated, taxi to platform (xx via xxx xxx)   SASA trf, on blocks, engines off, flight plan close

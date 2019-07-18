@@ -1,0 +1,32 @@
+Origen:       SANL - La Rioja
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL230
+Ruta:	
+	LAR W16 CBA W24 SNT 
+Route (plain text) .. = dct . for airways
+	SANL..LAR.W16.CBA.W24.SNT..SAEZ
+
+Distancia: 533 nm + Distancia Alternativo: 160 nm
+Tiempo Vuelo:               01:28
+Tiempo + alternativo:       02:04
+Total combustible (tiempo): 02:50
+Peso Combustible: 21990
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SANT
+	113.500 LAR -> 132 	+30 AKRAS +48 UMKAD +44 ETEPO +55 CBA (total 177)
+	114.500 CBA <- 136
+	114.500 CBA -> 135 	+54 UTRAX +78 MJZ
+	114.700 MJZ <- 129
+	114.700 MJZ -> 127 	+72 UDITA +52 MULTA +41 SNT
+	117.700 SNT <- 129
+	117.700 SNT -> 147 ( 42 ) Arsot
+EZE 116.5				64 antes de ARSOT bajar a 5000 (22 antes de SNT)
+SAEZ

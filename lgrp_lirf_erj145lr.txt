@@ -1,0 +1,31 @@
+Origen:       LGRP - Diagoras - Rodos - Greece
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL360
+Ruta:
+	ASIMI UL995 TIGRA/KN440FL350 UL995 TEA UZ803 SIPRO UZ803 LAT 
+Route (plain text) .. = dct . for airways
+	LGRP..ASIMI.UL995.TEA.UZ803.SIPRO.UZ803.LAT..LIRF
+
+Distancia: 814 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               02:15
+Tiempo + alternativo:       02:50
+Total combustible (tiempo): 03:35
+Peso Combustible: 9112 ( 80% - 80% ) reserva: 2.300
+TOW: 46.159
+
+Avion: ERJ 145LR : 45 pax (220 lbs per pax) - 500 carga 
+Payload 9710 - ZFW 37047
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 300kn - Arriba de fl250 442kn (0.76 match)
+
+
+Notas: 
+
+LGRP trf, at parking 2 pb & su to LIRF as filed   LGRP trf, taxi to hp rw07 via C F     LGRP trf, hp rw07 lu & to follow ASIMI2T    LGRP trf, airborne
+
+at TIGRA leaving FL360 descending FL350 for odd FL heading west into Italy airspace
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LIRF trf, at/after XXX FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LIRF trf, position XXX continue approach xxx for rw XX ils/vor-dme   LIRF trf, at XXX altitude xxx clear to ils/start approach rw XX   LIRF trf, full established ils/final rw XX to land    LIRF trf, rw vacated, taxi to platform (xx via xxx xxx)   LIRF trf, on blocks, engines off, flight plan close

@@ -1,0 +1,32 @@
+Origen:       MPTO - Int. Tocumen - Panama City - Panama
+Destino:      MROC - Atajuela Santa Maria - San Jose - Costa Rica
+Alternativo:  MPDA - David/Enrique Malek - David - Panama
+Flight Level: FL360
+Ruta:
+	KIKES UG440 ISEBA
+Route (plain text) .. = dct . for airways
+	MPTO..KIKES.UG440.ISEBA..MROC
+	MPTO DCT KIKES UG440 ISEBA DCT MROC			MPTOMROC01
+
+Distancia: 297 nm + Distancia Alternativo: 143 nm
+Tiempo Vuelo:               01:04
+Tiempo + alternativo:       01:43
+Total combustible (tiempo): 02:13
+Peso Combustible: 14152 ( 82 % - 0 % - 82 % ) reserva: 4.5
+TOW: 122.1
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+MPTO trf, at parking 29 pb & su to MROC as filed   MPTO trf, taxi to hp rw21L via I F    MPTO trf, hp rw21L lu & folow TOCUMEN1/KIKES departure    MPTO trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+MROC trf, ISEBA leaving FL360, expecting rw07 ILS / via TARCO1      MROC trf, vertical TARCO clear to ILS rw07    MROC trf, full established ILS rw07 to land    MROC trf, rw vacated, taxi to platform (xx via xxx xxx)   MROC trf, on blocks .., engines off, flight plan close

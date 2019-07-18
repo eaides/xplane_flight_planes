@@ -1,0 +1,35 @@
+Origen:       LEBL - Barcelona - Spain				(position 254 - 07R)	(position ??? - 07L)
+Destino:      LEMD - Barajas - Madrid - Spain			(position T4 - ???)	(position T2 - ???)
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL310	(Barza-Madrid la maxima es FL310 segun controladores)
+Ruta:
+	SENIA UZ596 NEXAS UN975 ADUXO
+Route (plain text) .. = dct . for airways
+	LEBL..SENIA.UZ596.NEXAS.UN975.ADUXO..LEMD
+
+Distancia: 265 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:58
+Tiempo + Ealternativo:      01:30
+Total combustible (tiempo): 02:15
+Peso Combustible: 14266 - reserva: 5.9
+TOW: 48051
+
+Avion: 737-800 : 159 pax (220 lbs per pax)
+Payload 36.6
+Cost Index SUR: 48
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+LEBL trf, at parking 264 pb & su to LEMD as filed   
+LEBL trf, taxi to hp rw25L via NS K    	LEBL trf, hp rw25L lu & to follow SENIA3Q     LEBL trf, airborne
+LEBL trf, taxi to hp rw07R via ...    	LEBL trf, hp rw07R lu & to follow SENIA...    LEBL trf, airborne
+
+LEMD trf, after ... FL260 start descending, expecting rw32/18 ... ils via star ... transition ASBIM/TAGOM    LEMD trf, position VILLA continue approach VILLA2E for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+ZAMORA3A para 18R o 18L
+ZAMORA3C o 1DCC para 32R o 32L
+
+LEMD trf, aproaching TERSA leaving FL270 , expecting rw32R ils via star TERSA2Z transition ASBIM
+
+LEMD trf, position TERSA FL210 continue approach TERSA2E for rw 18R ils   LEMD trf, at TAGOM altitude 10000 clear to ils rw18R   LEMD trf, full established ils rw 18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

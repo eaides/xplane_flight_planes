@@ -1,0 +1,53 @@
+Origen:       LEMD - BARAJAS - Madrid - Spain			1998 ft
+Destino:      LOWI						1907 ft
+Alternativo:  EDDM						1487 ft54
+Flight Level: FL380 (en IVAO usar PAR)
+Ruta:
+	PINAR/F360 UN870 SEGRE UN871 DITON/F370 UN871 MADEB
+Route (plain text) .. = dct . for airways
+	LEMD..PINAR.UN870.SEGRE.UN871.MADEB..LOWI
+
+
+Distancia: 791 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               02:03
+Tiempo + alternativo:       02:33
+Total combustible (tiempo): 03:33
+Peso Combustible: 19354 - reserva: 7.1
+TOW: 124.5
+
+Avion: 737-800 : 131 pax (220 lbs per pax)
+Payload 30.1
+Cost Index SUR: 61 - 015/030 - 4C
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+
+LEMD trf, at parking 144 4satelite pb & su to LOWI as filed   
+LEMD trf, taxi to hp rw 36L via gate14 M Y1    
+LEMD trf, hp rw 36L lu & to follow Pinar1R
+LEMD trf, airborne
+
+
+
+LOWI trf, leaving FL370, expect rw08 rnav-y / madeb1B approach
+
+
+2012-08-17
+LEMD trf, at parking T5 pb & su to LIRF as filed   LEMD trf, taxi to hp rw 36L via Interior G2 M N16 M17 R5 Z2     LEMD trf, hp Z2 rw36L lu & to follow PINAR2N    LEMD trf, airborne
+
+LOWI trf, leaving FL370, expect rw08 MADEB1B/ELMEM RNAV-Y
+
+Spain:
+https://ais.enaire.es/AIP/AIPS/AMDT_307_2018_AIRAC_10_2018/AIP.html
+UN870 de PINAR a SEGRE nivel PAR
+UN871 de SEGRE a RONNY (siguiente TOPTU in France) nivel PAR
+
+France:
+https://www.sia.aviation-civile.gouv.fr/dvd/eAIP_11_OCT_2018/FRANCE/AIRAC-2018-10-11/html/index-fr-FR.html	
+UN871 de TOPTU a MOLUS - level even (par)
+
+Switzerland:
+http://aip.engadin-airport.ch/eAIP/2017-05-25/html/eAIP/LS-ENR-3.3-en-CH.html#ENR33-RDESIG-UN871
+UN871 de MOLUS a DITON level Even (Par)
+de DITON a MALEB level Odd (Impar)
+
+

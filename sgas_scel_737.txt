@@ -1,0 +1,29 @@
+Origen:       SGAS - Silvio Pettirossi Intl - Asuncion - Paraguay
+Destino:      SCEL - Arturo Merino Benitez - Santiago - Chile
+Alternativo:  SAME - Mendoza - Mendoza - Argentina
+Flight Level: FL400
+Ruta:
+	ARPAS UR554 SIS UA307 DOZ UA306 UMKAL
+Route (plain text) .. = dct . for airways
+	SGAS..ARPAS.UR554.SIS.UA307.DOZ.UA306.UMKAL..SCEL
+	SGAS ARPAS UR554 SIS UA307 DOZ UA306 UMKAL SCEL		SGASSCEL01
+
+Distancia: 874 nm + Distancia Alternativo: 106 nm
+Tiempo Vuelo:               02:16
+Tiempo + alternativo:       02:49
+Total combustible (tiempo): 03:34
+Peso Combustible: 22139 ( 99.9 % - 17 % - 99.9 % ) reserva: 4.5
+TOW: 144.6 ( 28.8% trim 4.85)      v1: 136    vr: 143     v2: 153
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+SGAS trf, at parking G2 pb & su to SCEL as filed   SGAS trf, taxi to hp rw20 via L B E        SGAS trf, hp rw20 lu & to follow ARPAS1A departure       SGAS trf, airborne
+
+
+SCEL trf, after DOZ inbound UMKAL leaving FL400 expect UMKAL1A for rw17L RNAV-Y ILS          SCEL trf, UMKAL FL270 start UMKAL1A for ILS RNAV-Y 17L transition MESAL          SCEL trf, at MESAL clear to RNAV-Y ILS  rw17L     SCEL trf, full established ILS rw17L to land    SCEL trf, rw vacated, taxi to platform (xx via xxx xxx)   SCEL trf, on blocks .., engines off, flight plan close

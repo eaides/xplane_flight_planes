@@ -1,0 +1,5 @@
+combustible 90% - 0 - 90%
+TOW 123.4
+
+VQPR pb & su to test in the area     VQPR taxi to rw15     VQPR entry rw for bt      VQPR hp rw15 lu & to to PRO then TAKTI to fl200     VQPR airborne
+VQPR return to TAKTI descending 16000 for IFR/VFR approach rw 15      VQPR over rw start visual approach number 1 to land      VQPR rw vacated

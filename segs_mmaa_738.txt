@@ -1,0 +1,28 @@
+Origen:       SEGS - Seymour - Baltra I Galapagos Is, Ecuador		alt. 52 ft.
+	RWY14 largo: 7874 ft.
+	RWY32 largo: 7874 ft.
+Destino:      MMAA - Gen Juan N Alvarez Intl - Acapulco, Mexico 	alt. 16 ft.
+	RWY06 largo: 5577 ft.
+	RWY10 largo: 10827 ft.
+	RWY24 largo: 5577 ft.
+	RWY28 largo: 10827 ft.
+Alternativo:  MMMX
+
+Flight Level: FL360
+
+Ruta:	
+	OSELO UL401 POGAM UL344 ACA
+Route (plain text) .. = dct . for airways
+	SEGS..OSELO.UL401.POGAM.UL344.ACA..MMAA
+
+Distancia: 1211 nm + Distancia Alternativo: 166 nm
+
+Tiempo Vuelo:               02:59
+Tiempo + alternativo:       03:39
+Total combustible (tiempo): 04:24
+Peso Combustible: 26.2 lbs		reserva: 7.8
+
+
+Avion: 737-800 : 146 pax (220 lbs per pax)
+Payload 33.6
+Cost Index SUR: 60

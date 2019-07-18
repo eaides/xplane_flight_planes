@@ -1,0 +1,28 @@
+Origen:       SAWH - Ushuaia Intl Malvine Is - Ushuaia, Argentina
+Destino:      SAVT - Almirante Zar - Trelew, Argentina
+Alternativo:  SAVV - Gobernador Castello - Viedma, Argentina
+Flight Level: FL350
+Ruta:	
+	KEXOP UW42 GRA UW45 SJU UT109 BITUT
+Route (plain text) .. = dct . for airways	
+	SAWH..KEXOP.UW42.GRA.UW45.SJU.UT109.BITUT..SAVT
+	SAWH KEXOP UW42 GRA UW45 SJU UT109 BITUT
+
+Distancia: 723 nm + Distancia Alternativo: 173 nm
+Tiempo Vuelo:               02:03
+Tiempo + alternativo:       02:45
+Total combustible (tiempo): 03:30
+Peso Combustible: 8956 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+07/25
+SAWH trf, at parking pb & su to SAVT as filed   SAWH trf, taxi to hp rw07 via B   	SAWH trf, entry rw on B for BT       SAWH trf, hp rw07 LU&TO USU2A FL350     SAWG trf, airborne
+SAWH trf, at parking pb & su to SAVT as filed   SAWH trf, taxi to hp rw25 via A  	SAWH trf, entry rw on A for BT       SAWH trf, hp rw25 LU&TO USU2B FL350     SAWG trf, airborne
+
+06/24
+SAVT trf, vertical BITUT inbound TRE leavinng FL350 expecting for rw24 VOR/DME chart 1        SAVT trf, TRE 4000 start approach rw24 chart1      SAVT trf, final rw24, to land    SAVT trf, rw vacated, taxi to platform (xx via xxx xxx)   SAVT trf, on blocks, engines off, flight plan close

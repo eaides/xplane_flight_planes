@@ -1,0 +1,27 @@
+Origen:       YSSY - Kingsford Smith Intl - Sydney - Australia
+Destino:      YBHM - Hamilton I. - Hamilton I - Australia
+Alternativo:  YBTL - Townsville Intl. - Townsville - Australia
+Flight Level: FL400
+Ruta:
+	RIC H76 NBR H105 HM
+Route (plain text) .. = dct . for airways
+	YSSY..RIC.H76.NBR.H105.HM..YBHM
+
+Distancia: 833 nm + Distancia Alternativo: 140 nm
+Tiempo Vuelo:               02:16
+Tiempo + alternativo:       02:54
+Total combustible (tiempo): 03:39
+Peso Combustible: 19834 (99.9 % - 9.0 % - 99.9 %) reserva: 4.5 
+TOW: 127.8 (32.9% trim: 2.81)   v1: 122    vr: 130    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 34L/16R 34R/16L
+YSSY trf, at parking 35 pb/su to YBHM as filed      YSSY trf, taxi to hp rw34L via A            YSSY trf, crossing rw 07/25       YSSY trf, hp rw34L lu & follow RICHMOND3 to FL400    	YMHB trf, airborne
+YSSY trf, at parking 35 pb/su to YBHM as filed      YSSY trf, taxi to hp rw16R via A            YSSY trf, hp rw16R lu & follow DEENA5 trans RIC to FL400         	YMHB trf, airborne
+
+destination rw: 14/32
+YBHM trf, inbound NITTA leaving FL400, expecting rw32 RNAV-Z trans BHMSJ          YBHM trf, BHMSJ 4000 start RNAV-Z rw32      YBHM trf, final rw32 to land       YBHM trf, rw vacated, taxi to platform    YBHM trf, on blocks, engines off, flight plan close

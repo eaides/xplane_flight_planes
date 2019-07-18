@@ -1,0 +1,36 @@
+Origen:       LEMD - Barajas - Madrid - Spain		(13000)
+Destino:      LELN - Leon - Leon - Spain		(3006)			
+Alternativo:  LEXJ - Santander - Santander - Spain
+Flight Level: FL190	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	SIE Z298 ZMR							odd
+Route (plain text) .. = dct . for airways
+	LEMD DCT SIE Z298 ZMR DCT LELN				LEMDLELNO1.FLTPLAN
+	LEMD..SIE.Z298.ZMR..LELN
+
+Distancia: 298 nm + Distancia Alternativo: 95 nm
+Tiempo Vuelo:               00:51
+Tiempo + alternativo:       01:23
+Total combustible (tiempo): 02:07
+Peso Combustible: 5695 ( 50 % - 50 % ) reserva: 2.3 (40.52%)
+TOW: 44.156
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+	LEMD trf, at parking T23 pb & su to LELN as filed   
+LEMD trf, taxi to hp rw14R via Interior G5 A...     
+LEMD trf, taxi to hp rw14L via Interior G5 A...
+LEMD trf, taxi to hp rw36R via Interior G5 A...
+	LEMD trf, taxi to hp rw36L via Interior G5 A...
+LEMD trf, hp rw14R lu & to follow SOMOSIERRA2B o 2S o 2AS to FL230                LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow SOMOSIERRA2V to FL230                           LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow SOMOSIERRA1W (o 1X) to FL230                    LEMD trf, airborne
+	LEMD trf, hp rw36L lu & to follow SOMOSIERRA2L o 1NQ o 1AL o 1X (o 1W) to FL230   LEMD trf, airborne
+Despegue: ????Z
+
+LELN trf, leaving fl190 follow ZMR2E for ILS rw23 trans. EON     LELN trf, at EON clear to ils rw23    LELN trf, full establish ils rw23 to land     LELN trf, rw vacated, taxi to parking

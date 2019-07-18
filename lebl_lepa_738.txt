@@ -1,0 +1,20 @@
+Origen:       LEBL
+Destino:      LEPA
+Alternativo:  LEIB
+Flight Level: FL210	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	LARPA B31 TOLSO
+Route (plain text) .. = dct . for airways
+	LEBL..LARPA.B31.TOLSO..LEPA
+
+Distancia: 109 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               00:32	
+Tiempo + alternativo:       00:56
+Total combustible (tiempo): 01:41
+Peso Combustible: 9665		reserva: 4.5
+
+Avion: 737-800: 137 pax
+Payload 31.5
+Cost Index SUR: 33
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+

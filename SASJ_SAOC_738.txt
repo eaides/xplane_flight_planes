@@ -1,0 +1,36 @@
+Origen:       SASJ - Gobernador Horacio Guzman - Jujuy, Argentina (alt 3019)
+Destino:      SAOC - Area De Material - Rio Cuarto, Argentina (alt 1382)
+Alternativo:  SAOR, ..., Argentina 
+Flight Level: FL370
+Ruta:	
+	ILPAR/F360 UR550 TUC/F370 UR550 CBA UW15 SIMES W65 TRC
+Route (plain text) .. = dct . for airways
+	SASJ..ILPAR/F360.UR550.TUC/F370.UR550.CBA.UW15.SIMES.W65.TRC..SAOC
+	SASJ ILPAR/F360 UR550 TUC/F370 UR550 CBA UW15 SIMES W65 TRC SAOC
+ 
+Distancia: 546 nm + Distancia Alternativo: 69 nm
+
+Tiempo Vuelo:               01:34
+Tiempo + alternativo:       02:03
+Total combustible (tiempo): 02:48
+Peso Combustible: 17363 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 136  vr: 139  v2: 146 (161)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+05/23 18/36
+SASJ trf, at parking pb & su to SAOC as filed         SASJ trf, taxi to hp rw15           SASJ trf, entry rw for bt    SASJ trf, hp rw15 lu & to to FL380      SASJ trf, airborne
+SASJ trf, at parking pb & su to SAOC as filed         SASJ trf, taxi to hp rw33           SASJ trf, entry rw for bt    SASJ trf, hp rw33 lu & to INFER4A/ILPAR initial FL360      SASJ trf, airborne
+
+12/30
+SAOC trf, after DONKA inbound CBA leaving FL370, expecting rw05 ILS trans. TRC             SAOC trf, TRC 4000 clear ILS rw05
+SAOC trf, full established ils rw34 to land             SAOC trf, rw vacated, taxi to platform        SAOC trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

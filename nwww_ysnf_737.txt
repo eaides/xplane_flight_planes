@@ -1,0 +1,28 @@
+Origen:       NWWW - Tontouta - Noumea - New CaledoniaNFNA - Nausori Intl - Nausori - Fiji Islands
+Destino:      YSNF - Norfolk Island Intl - Norfolk I, Australia
+Alternativo:  NWWW - Tontouta - Noumea - New CaledoniaNFNA - Nausori Intl - Nausori - Fiji Islands
+Flight Level: FL390
+Ruta:
+	SCUBA UG591 OSVAR
+Route (plain text) .. = dct . for airways
+	NWWW..SCUBA.UG591.OSVAR..YSNF
+
+Distancia: 432 nm + Distancia Alternativo: 432 nm
+Tiempo Vuelo:               01:22
+Tiempo + alternativo:       02:39
+Total combustible (tiempo): 03:24
+Peso Combustible: 18682 (99.9 % - 5.0 % - 99.9 %) reserva: 4.5 
+TOW: 126.6 (32.8% trim: 2.87)   v1: 123    vr: 131    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 11/29
+NWWW trf, su to YSNF as filed      NWWW trf, taxi to hp rw11     NWWW trf, entry rw to b/t for hp rw11       NWWW trf, hp rw11 lu & to FL400      	NWWW trf, airborne
+NWWW trf, su to YSNF as filed      NWWW trf, taxi to hp rw29     NWWW trf, entry rw to b/t for hp rw29       NWWW trf, hp rw29 lu & to FL400      	NWWW trf, airborne
+
+destination rw: 11/29
+YSNF trf, after MESUS leaving FL400, expecting rw11 ILS STAR ADORA1 trans PEPIT           YSNF trf, vertical ADORA start ADORA1 via LTO/PEPIT for rw11 ILS     YSNF trf, vertical PEPIT 7000 clear to ILS rw11        YSNF trf, full established ILS rw11 to land       YSNF trf, rw vacated, taxi to platform    YSNF trf, on blocks, engines off, flight plan close
+YSNF trf, 50 miles inbound LUPLO leaving FL400, expecting rw28 VOR/ARC DNE trans D011J           YSNF trf, vertical D011J 1500 start approach ARC DME for rw28 VOR       NWWYSNF  trf, final rw28 to land       YSNF trf, rw vacated, taxi to platform    YSNF trf, on blocks, engines off, flight plan close

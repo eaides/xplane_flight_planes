@@ -1,0 +1,38 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEBL - El Prat - Barcelona - Spain
+Alternativo:  LFBO - 
+Flight Level: FL300					(Barza-Madrid la maxima es FL290/310 segun controladores)
+Ruta:
+	PINAR UN870 PONEN UT600 CASPE
+Route (plain text) .. = dct . for airways
+	LEMD DCT PINAR UN870 PONEN UT600 CASPE DCT LEBL			LEMDLEBL01.FLTPLAN
+	LEMD..PINAR.UN870.PONEN.UT600.CASPE..LEBL
+
+Distancia: 267 nm + Distancia Alternativo: 74 nm
+Tiempo Vuelo:               00:50
+Tiempo + alternativo:       01:27
+Total combustible (tiempo): 02:18
+Peso Combustible: 12933	- reserva: 6.3
+
+Avion: 737-800 : 181 pax (220 lbs per pax)
+Payload: 41.6
+Cost Index SUR: 25	- 219/035 - P006
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738	Equipment: Equipment: (ODFLG)R = SR / C
+
+Notas: 3
+
+LEMD trf, at parking 346 pb & su to LEBL as filed   
+LEMD trf, taxi to hp rw14R via R D3 S4 S3 A...     16
+LEMD trf, taxi to hp rw14L via R D3 S4 S3 A...
+LEMD trf, taxi to hp rw36R via R D3 S4 S3 A...
+LEMD trf, taxi to hp rw36L via R D3 S4 S3 A...
+LEMD trf, hp rw14R lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw36L lu & to follow PINAR..                LEMD trf, airborne
+Despegue: ????Z
+
+
+LEBL trf, approaching PONEN leaving FL260 descending for CASPE4T expecting rw25L ILS
+LEBL trf, at CASPE FL160 continue approach CASPE4T to ils rw25L     LEBL trf, at SSL FL070 clear to ILS rw25L     LEBL trf, full established ils rw25L to land    LEBL trf, rw vacated, taxi to platform

@@ -1,0 +1,31 @@
+Origen:       MPTO - Tocumen - Panama City - Panama                                 
+Destino:      MHTG - Toncontin - Tegucigalpa - Honduras
+Alternativo:  MSLP - El Salvador Intl. - El Salvador - El Salvador
+
+Flight Level: FL380
+Ruta:
+	KIKES G440 BDT UG440 TIO UA502 MGA A502 LIBIS DCT TNT
+Route (plain text) .. = dct . for airways
+	MPTO..KIKES.G440.BDT.UG440.TIO.UA502.MGA.A502.LIBIS..TNT..MHTG 
+Ifly: 	...
+
+Distancia: 606 nm + Distancia Alternativo: 114 nm
+Tiempo Vuelo:               01:45
+Tiempo + alternativo:       02:20
+Total combustible (tiempo): 03:05
+Peso Combustible: 16914 ( 98.0 % - 0.0 % - 98.0 % ) reserva: 4.5
+TOW: 124.8
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+					
+Notas: 
+
+MPTO trf, at parking 28 pb/su to MHTG as filed   MPTO trf, taxi to hp rw03R via L  	MPTO trf, hp rw03R lu & to follow TOCUMEN1DEP transition KIKES to FL380		MPTO trf, airborne 
+MPTO trf, at parking 28 pb/su to MHTG as filed   MPTO trf, taxi to hp rw21L via L       MPTO trf, hp rw21L lu & to follow TOCUMEN1DEP transition KIKES to FL380      	MPTO trf, airborne 
+
+Despegue: ????Z
+
+MHTG trf, inbound BERTA leaving FL380 start descending, expecting rw02 SOUTH RNAV trans. TNT       MHTG at TNT 8000 start approach SOUTH RNAV for rw02       MHTG trf, final rw02 to land    MHTG trf, rw vacated, taxi to platform     MHTG trf, on blocks, engines off, flight plan close

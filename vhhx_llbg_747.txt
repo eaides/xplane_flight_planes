@@ -1,0 +1,47 @@
+Origen:       VHHX - Kai Tak - Hong Kong - China
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL380
+Ruta:                                                                                                                                                                                                                                                                              	
+	BEKOL A461 YIN G586 QP B330 IDSEG/M0841F320 B330 GOBIN W66 NUKTI/M0841F340 B215 FKG A368 SARIN G155 BAGIL/M0841F340 G155 MASAV G96 IPLED/M0841F360 A921 KUFAN N61 LAGAS/M0841F380 N61 NOLGA UG261 TBN UW706 SIV UA285 MUT UB545 VESAR UL620 ALSUS UR18 DESPO UR18 VELOX W13 SOLIN
+Route (plain text) .. = dct . for airways
+	VHHH..BEKOL.A461.YIN.G586.QP.B330.GOBIN.W66.NUKTI.B215.FKG.A368.SARIN.G155.MASAV.G96.IPLED.A921.KUFAN.N61.NOLGA.UG261.TBN.UW706.SIV.UA285.MUT.UB545.VESAR.UL620.ALSUS.UR18.DESPO.UR18.VELOX.W13.SOLIN..LLBG
+
+Distancia: 5050 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               10:37
+Tiempo + alternativo:       11:13
+Total combustible (tiempo): 11:58
+
+Peso Combustible: 328132 ( 100% - 100% - 71.2% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 60000 18.33%		fs_center: 263513-25206(8.73%) = 288719 
+TOW: 842.340 (max.875000)   ZFW 514.208	  V1:151 VR:167 V2:178 trim 6.0							747fuelcalc: 339920 - 37950 (10.78%) 
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas:
+
+VHHX trf, at parking 15 pb & su to LLBG as filed   VHHX trf, taxi to hp rw13 via ....    VHHX trf, hp rw13 lu & to dct BEKOL to FL300       VHHX trf, airborne
+
+LLBG trf, after VELOX leaving FL380 expecting rw12 ils GODED1        LLBG trf, at SOLIN start GODED1, expect rw12 ILS    LLBG trf, at GODED altitude 5000 clear to ILS rw12	LLBG trf, full established ILS rw12 to land	LLBG trf, rw vacated on Y taxi to parking C7
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start 											10:45
+encender motores									11:08
+taxi 											..:..
+despegue ----------------------------------------------------------------------------	11:15
+over B330 vertical IDSEG, step climb from FL300 to FL320 ------------- (+-1:30) -----	12:44
+center off ------------------------ 2 en centers --------------------- (+-2:20) -----	13:35
+vertical NUKTI, step climb from FL320 to FL340 ----------------------- (+-4:00) -----	15:16
+over G155 vertical BAGIL, step climb from FL340 to FL360 ------------- (+-6:30) -----	17:48
+cerrar xfeed --------------------------------------------------------- (+-7:20) -----	18:35
+over N61 vertical LAGAS, step climb from FL360 to FL380 -------------- (+-9:00) -----	20:16
+at DESPO program arrive, -------- (35 min before arrive) ------------- (+-10:25) -----	22:01
+descend after VELOX ------------- (25 min before arrive) ------------- (+-10:35) -----	22:06
+aterrizo --------------------------------------------- 30/148 -------- (+-11:00)------  22:31
+
+combustible final: ------------------------------------------------------------------  21.593
+

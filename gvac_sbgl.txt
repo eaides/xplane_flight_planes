@@ -1,0 +1,53 @@
+Origen:       GVAC - AMILCAR CABRAL - SAL - CAPE VERDE
+Destino:      SBGL - GALEAO-ANTONIO C JOBIM INTL - RIO DE JANEIRO - BRASIL
+Alternativo:  SBCF - TANCREDO NEVESINTL - Belo Horizonte - Brasil
+Flight Level: FL400
+Ruta:
+   BULVO DCT POMAT UN873 NTL UZ10 ESMAP
+Route (plain text) .. = dct . for airways
+   GVAC..BULVO..POMAT.UN873.NTL.UZ10.ESMAP..SBGL
+Distancia: 2660 nm + Distancia Alternativo: 196 nm
+Tiempo Vuelo:               06:15
+Tiempo + alternativo:       07:00
+Total combustible (tiempo): 07:45
+Peso Combustible: 40874 ( 100 % - 82 % - 100 % ) reserva: 3.4 
+TOW: 146.9
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas:
+
+
+rw 01 - BULVO1A initial fl090
+sq 1062
+
+GVAC trf, pb & su to SBGL as filed   GVAC trf, taxi to hp RW01 via B A1    GVAC trf, hp rw 01 lu & to follow BILVO1A    GVAC trf, airborne
+
+
+SBGL trf, at ESMAP fl400 STAR ESMAP1A, expecting rw 10 ils transition VELA   SBGL trf, after position BBC leaving FL400 descending, continue approach ESMAP1A for rw 10 ils   SBGL trf, at VELA altitude 6000 clear to ils rw 10   SBGL trf, full established ils rw 10 to land    SBGL trf, rw 10 vacated, taxi to platform 8 via N K L1   SBGL trf, on blocks, engines off, flight plan close
+
+
+
+
+
+Location:	
+IATA Code:	CNF
+Lat/Long:	S19° 37.5' W043° 58.3'
+Elevation:	2715 ft
+
+Airport Use:	Public
+Magnetic Variation:	22.3°W
+
+Fuel Types:	100-130 Octane, Jet, Jet A-1
+Customs:	Yes
+Airport Type:	IFR
+Landing Fee:	No
+Control Tower:	Yes
+Jet Start Unit:	No
+LLWS Alert:	No
+Beacon:	Yes
+
+Sunrise:	0931 Z
+Sunset:	2030 Z

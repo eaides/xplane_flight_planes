@@ -1,0 +1,25 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LFPG Charles de Gaulle - Paris - France
+Alternativo:  EBBR 
+Flight Level: FL360
+Ruta:
+	SIE UN858 CNA UT182 KEPER
+Route (plain text) .. = dct . for airways
+	LEMD..SIE.UN858.CNA.UT182.KEPER..LFPG 
+
+Distancia: 569 nm + Distancia Alternativo: 62 nm
+Tiempo Vuelo:               01:37
+Tiempo + alternativo:       02:16
+Total combustible (tiempo): 03:24
+Peso Combustible: 18364 - reserva: 6.7 
+TOW: 134799
+
+Avion: 737-800 : 146 pax (220 lbs per pax)
+Payload 33.6
+Cost Index SUR: 20		284/034 - P007
+
+Notas: 
+
+LEMD trf, at parking 614 pb & su to LLBG as filed	LEMD trf, taxi to hp rw 36R via ...    LEMD trf, hp rw 36R lu & to follow RBO1R to FL380   LEMD trf, airborne - Despegue 1203Z
+LEMD trf, at parking 614 pb & su to LLBG as filed 	LEMD trf, taxi to hp rw 14L via ...    LEMD trf, hp rw 14L lu & to follow RBO1U to FL380   LEMD trf, airborne - Despegue 1203Z
+

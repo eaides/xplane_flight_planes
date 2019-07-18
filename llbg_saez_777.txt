@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      SAEZ - Ministro Pistarini - Ezeiza - Argentina
+Alternativo:  SACO - Cordoba - Cordoba - Argentina
+Flight Level: FL320
+Ruta:
+	PURLA DCT SUVAS UL53 KAROL UM1 SIT/F3205 UM978 EVIRA UN4 DOBIX UM978 MORJA UA411 IBALU/F340 UN857 LZR UN871 GDV UN873 CVS/F360 UN873 NTL/F380 UZ14 AVILA UZ30 VULOM/F4004 UZ30 SCB UA310 ASDEK UM788 BGE UN741 PAPIX
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UM1.SIT.UM978.EVIRA.UN4.DOBIX.UM978.MORJA.UA411.IBALU.UN857.LZR.UN871.GDV.UN873.NTL.UZ14.AVILA.UZ30.SCB.UA310.ASDEK.UM788.BGE.UN741.PAPIX..SAEZ
+
+Distancia: 7253 nm + Distancia Alternativo: 355 nm
+
+Tiempo Vuelo:               15:13
+Tiempo + alternativo:       16:17
+Total combustible (tiempo): 17:02
+Peso Combustible: 275707 lbs = 125059 kgs ( 100% - ??.? % - 0 - ??.?% - 100 % - 0 - 100% - 0 - 0) reserva: 37950 29.90%
+TOW: 623.528   	    ZFW 514.208	     V1:1?? VR:1?? V2:1?? trim 5.?			
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B77L/H
+
+Notas: 
+
+LLBG trf, at parking C7 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via M1 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking c7 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+
+SAEZ trf, after ... inbound ... leaving FL400, expecting rw11 ILS via star PAPIX6A transition EXE    SAEZ trf, position PAPIX continue approach PAPIXA for rw11 ILS    SAEZ trf, at EZE FL050 clear to ILS rw11   
+SAEZ trf, full established ILS rw11 to land    SAEZ trf, rw vacated, taxi to platform    SAEZ trf, on blocks, engines off, flight plan close
+
+.msg xxxx xxxx
+.msg AFRN_M_FSS contro, I leave the copkit for 1 hour if you have no problem...

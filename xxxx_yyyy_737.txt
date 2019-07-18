@@ -1,0 +1,28 @@
+Origen:       XXXX - ???
+Destino:      YYYY - ???
+Alternativo:  ZZZZ - ???
+Flight Level: FL3??
+Ruta:
+	???? ?? ???
+
+Route (plain text) .. = dct . for airways
+	XXXX..?????.??.?????..YYYY
+
+Distancia: ??? nm + Distancia Alternativo: ??? nm
+Tiempo Vuelo:               0?:??
+Tiempo + alternativo:       0?:??
+Total combustible (tiempo): 0?:??
+Peso Combustible: 1???? ( ??.? % - ??.? % - ??.? % ) reserva: 4.5
+TOW: 127.5	v1:122  vr:130  v2:138 (158)  trim:3.05
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+					
+Notas: 
+
+XXXX trf, at parking ?? pb/su to YYYY as filed   XXXX trf, taxi to hp rw?? via ? ?   ???? trf, entry rw for bt      XXXX trf, hp rw?? lu & to follow ??? / DCT ??? to FL3??   XXXX trf, airborne 
+
+YYYY trf, leaving FL3?? start descending, expecting rw?? ils via ???? / VOR DME      YYYY at ????? ???? start approach ????? for rw?? ils/ VOR DME      YYYY trf, ????? ????? clear to ils rw?? / start final app rw??     YYYY trf, full established ils rw?? to land / final rw?? to land    YYYY trf, rw vacated, taxi to platform     YYYY trf, on blocks, engines off, flight plan close

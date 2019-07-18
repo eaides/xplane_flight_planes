@@ -1,0 +1,28 @@
+Origen:       SANT - Benjamin Matienzo - Tucuman, Argentina
+Destino:      SASJ - Gobernador Horacio Guzman - Jujuy, Argentina
+Alternativo:  SASA - Salta, Argentina
+Flight Level: FL170
+Ruta:	
+	TUC W3 JUJ
+Route (plain text) .. = dct . for airways
+	SANT..TUC.W3.JUJ..SASJ
+	SANT TUC W3 JUJ SASJ
+
+Distancia: 147 nm + Distancia Alternativo: 35 nm
+Tiempo Vuelo:               00:45
+Tiempo + alternativo:       01:08
+Total combustible (tiempo): 01:53
+Peso Combustible: 5109 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+02/20
+SANT trf, at parking pb & su to SASJ as filed   SANT trf, taxi to hp rw02    	SANT trf, entry rw for BT      SANT trf, hp rw03 lu & TO FL170     SANT trf, airborne
+SANT trf, at parking pb & su to SASJ as filed   SANT trf, taxi to hp rw20       SANT trf, entry rw for BT      SANT trf, hp rw21 lu & TO FL170     SANT trf, airborne
+
+15/33
+SASJ trf, 38nm inbound JUJ leaving FL170, expecting rw34 ILS SALTA1A    SASJ trf, D17.JUJ 7500 clear ILS rw34    SASJ trf, full established ILS rw34, to land    SASJ trf, rw vacated, taxi to platform (xx via xxx xxx)   SANT trf, on blocks, engines off, flight plan close

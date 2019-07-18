@@ -1,0 +1,31 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LGRP - Diagoras - Rodos - Greece
+Alternativo:  LGKP - Karphatos - Karphatos - Greece
+Flight Level: FL360
+Ruta:
+	GITLA UA14 KAROL UL995 IRBAX
+Route (plain text) .. = dct . for airways
+	LLBG..GITLA.UA14.KAROL.UL995.IRBAX..LGRP
+
+Distancia: 436 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               01:21
+Tiempo + alternativo:       01:50
+Total combustible (tiempo): 02:35
+Peso Combustible: 12118 ( 61 % - 61 % ) reserva: 2.300
+TOW: 43.994
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LGRP as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    
+LLBG trf, at parking L3 pb & su to LGRP as filed   LLBG trf, taxi to hp rw26 via L N R W1    
+LLBG trf, hp rw26 lu & to follow PURLA1E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+
+LGRP trf, at AMONO leaving FL360 expecting rw07 VOR/DME via IRBAX1C transition RDS    LGRP trf, vertical IRBAX FL110 continue approach IRBAX1C for rw07 VOR/DME RDS    LGRP trf, at RDS altitude 6000 clear for VOR/DME rw07   LGRP trf, final rw07 to land    LGRP trf, rw vacated, taxi to platform (xx via xxx xxx)   LGRP trf, on blocks, engines off, flight plan close
+LGRP trf, leaving FL360 expecting rw25 ILS via IRBAX1H transition PAR    LGRP trf, vertical IRBAX FLxxx continue approach IRBAX1H for rw25 ILS PAR    LGRP trf, at PAR altitude 5000 clear for ILS rw25   LGRP trf, full establish ils rw25 to land    LGRP trf, rw vacated, taxi to platform (xx via xxx xxx)   LGRP trf, on blocks, engines off, flight plan close

@@ -1,0 +1,26 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      EGLL - London Heathrow Airport – London, England
+Alternativo:  EGBB – Birmingham Airport – Birmingham, England
+Flight Level: FL360
+Ruta:
+	PURLA H1B SUVAS UL53 KOR UL613 YNN UL611 ROTAR ROTAR L611 SUXAN UL613 SANDY
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.H1B.SUVAS.UL53.KOR.UL613.YNN.UL611.ROTAR.L611.SUXAN.UL613.SANDY..EGLL
+
+Distancia: 1996nm + Distancia Alternativo: 76 nm
+Tiempo Vuelo:               04:38
+Tiempo + alternativo:       05:08
+Total combustible (tiempo): 05:52
+Peso Combustible: 33710 (99.9 % - 41.0 % - 99.9 % ) reserva: 2.8
+TOW: 137.0 (31.9% - trim 3.41)	v1:127  vr:136  v2: 143
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+LLBG trf, at parking C3 pb & su to EGLL as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    
+LLBG trf, at parking L3 pb & su to EGLL as filed   LLBG trf, taxi to hp rw26 via L N R W1    
+LLBG trf, hp rw26 lu & to follow PURLA1E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z

@@ -1,0 +1,25 @@
+Origen:       LEMD - BARAJAS - MADRID - SPAIN
+Destino:      EIDW - DUBLIN Intl. DUBLIN - IRLAND
+Alternativo:  EGAA - ALDEGROVE - BELFAST- UNITED KINGDOM
+Flight Level: FL380
+Ruta:
+	SIE UN865 DELOG UN864 SALCO UN546 STU UM17 VATRY
+Route (plain text) .. = dct . for airways
+	LEMD..SIE.UN865.DELOG.UN864.SALCO.UN546.STU.UM17.VATRY..EIDW
+
+Distancia: 801 nm + Distancia Alternativo: 74 nm
+Tiempo Vuelo:               02:11
+Tiempo + alternativo:       02:41
+Total combustible (tiempo): 03:26
+Peso Combustible: 18682	 (99.9 % - 5.0 % - 99.9 % ) reserva: 4.5
+TOW: 126.6 (33.1% - trim 2.73)	v1:122  vr:130  v2: 137
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+LEMD trf, at parking T7 pb & su to EIDW as filed   LEMD trf, taxi to hp rw 36R via I G2 M  N13 Y1    LEMD trf, hp Y2 rw 36R lu & to follow SIE1W    LEMD trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+EIDW trf, vertical STU leaving FL380, expecting rw 28 ils via VATRY 1X        EIDW trf, position VATRY continue approach VATRY1X for rw 28 ils   EIDW trf, at LAPMO altitude 3000 clear to ils rw 28   EIDW trf, full established ils rw 28 to land    EIDW trf, rw vacated, taxi to platform (xx via xxx xxx)   EIDW trf, on blocks, engines off, flight plan close

@@ -1,0 +1,28 @@
+Origen:       LEPA - Palma de Mallorca, Spain
+Destino:      LEBL - Barcelona, Spain
+Alternativo:  LFBO
+Flight Level: FL180							be58/60 - fl170
+Ruta:
+	ESPOR W2 NEPAL
+Route (plain text) .. = dct . for airways
+	LEPA..ESPOR.W2.NEPAL..LEBL
+
+Distancia: 116 nm + Distancia Alternativo: 144 nm
+Tiempo Vuelo:               00:40
+Tiempo + alternativo:       01:18
+Total combustible (tiempo): 02:23
+Peso Combustible: 14362 ( 97 % - 00.0 % - 95 % ) reserva: 5.0 
+TOW: 138.7
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+
+Notas: 
+
+LLBG trf, at parking C5 pb & su to LLET as filed   LLBG trf, taxi to hp rw08 via M2 M K   	LLBG trf, hp rw08 W1 lu & to follow TALMI2B to FL210  
+LLBG trf, at parking C5 pb & su to LLET as filed   LLBG trf, taxi to hp rw26 via M2 K R W1	LLBG trf, hp rw08 W1 lu & to follow TALMI2E to FL210
+  LLBG trf, airborne - Despegue: ????Z   
+
+
+LLET trf, after KINAR leaving FL210 start descending, expecting rw 03 RNAV visual    LLET trf, position LOT continue approach for rw 03 RNAV visual   LLET trf, final rw 03 to land    LLET trf, rw vacated, taxi to platform 3   LLET trf, on blocks, engines off, flight plan close                  VREF 143 (150)

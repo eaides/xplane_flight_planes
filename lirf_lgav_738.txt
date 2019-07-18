@@ -1,0 +1,21 @@
+Origen:       LIRF - FIUMICINO - Roma - Italy
+Destino:      LGAV - Athens					alt. 308 ft.
+Alternativo:  LGKL - Kalamatra
+Flight Level: FL390
+Ruta:
+	PEPIX/F360 L50 UNIXO M620 SOR M736 CRN M601 RUTOM/F390 UN604 ARA UB34 NEMES
+Route (plain text) .. = dct . for airways
+	LIRF..PEPIX.L50.UNIXO.M620.SOR.M736.CRN.M601.RUTOM.UN604.ARA.UB34.NEMES..LGAV
+
+Distancia: 636 nm + Distancia Alternativo: 105 nm
+Tiempo Vuelo:               01:40
+Tiempo + alternativo:       02:17
+Total combustible (tiempo): 03:18
+Peso Combustible: 18314		reserva: 6.8
+TOW: 124.5
+
+Avion: 737-800 : 168 pax (220 lbs per pax)
+Payload 38.6
+Cost Index SUR: 66
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+

@@ -1,0 +1,36 @@
+Origen:       VOCX - Car Nicobar AB - Car Nicobar, India
+Destino:      VOMM - Chennai Intl - Chennai, Ina
+Alternativo:  VOTP - Tirupati - Tirupati, India
+Flight Level: FL380
+Ruta:	
+	LAGOG N571 IDASO V003 AVGIR
+Route (plain text) .. = dct . for airways
+	VOCX..LAGOG.N571.IDASO.V003.AVGIR..VOMM
+
+Distancia: 814 nm + Distancia Alternativo: 53 nm
+
+Tiempo Vuelo:               02:08
+Tiempo + alternativo:       02:35
+Total combustible (tiempo): 03:20
+Peso Combustible: 20575 ( 99.9 % - 0 % - 90.0 % ) reserva: 5.0
+TOW: 139.7  (29.9% trim: 4.55)	v1: 138  vr: 141  v2: 147
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+
+VOCX trf, at parking 1 pb & su to VOMM as filed   VOCX trf, taxi to hp rw RW02    VOCX trf, hp rw RW02 lu & to to FL380   VOCX trf, airborne
+VOCX trf, at parking 1 pb & su to VOMM as filed   VOCX trf, taxi to hp rw RW20    VOCX trf, hp rw RW18 lu & to to FL380   VOCX trf, airborne
+
+VOMM trf, after ... inbound ... leaving FL380, expecting rw07 ILS via star GAVID     VOMM trf, position AVGIR continue approach GAVID for rw07 ILS    VOMM trf, at MM513 altitude 4000 clear to ILS rw07
+VOMM trf, full established ILS rw07 to land              VOMM trf, rw vacated, taxi to platform        VOMM trf, on blocks, engines off, flight plan close
+
+
+VOMM trf, approaching AVGIR leaving FL380, expecting rw25 VOR/DME via star GAVID      
+VOMM trf, at MM512 altitude 4000 start final approach rw25       VOMM trf, final rw25 to land     VOMM trf, rw vacated, taxi to platform        VOMM trf, on blocks, engines off, flight plan close
+
+ Aides

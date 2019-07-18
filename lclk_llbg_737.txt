@@ -1,0 +1,28 @@
+Origen:       LCLK - Larnaca Intl - Larnaca - Cyprus
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL250
+Ruta:
+	BOSIS UB17 VELOX Uw13 SOLIN
+Route (plain text) .. = dct . for airways
+	LCLK..BOSIS.UB17.VELOX.UW13.SOLIN..LLBG
+	LCLK DCT BOSIS UB17 VELOX UW13 SOLIN DCT LLBG			LCLKLLBG01
+
+Distancia: 194 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               00:50
+Tiempo + alternativo:       01:25
+Total combustible (tiempo): 02:10
+Peso Combustible: 9250 ( 54 % - 00.0 % - 53 % ) reserva: 4.5
+TOW: 115.2
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+
+Notas: 
+
+LCLK trf, at parking 47 pb & su to LLBG as filed   LCLK trf, taxi to hp rw22 via LC LW C A    LCLK trf, hp rw22 lu & to follow BOSIS1B to FL250   LCLK trf, airborne - Despegue: ????Z
+
+LLBG trf, over UW13 heading to SOLIN leaving FL250 start descending, expecting rw26 ils transition BGA approach SOLIN1c   LLBG trf, SOLIN 9000 start SOLIN1C for BGN transition rw26 ils   LLBG trf, at BGN altitude 4500 starting approach rw26 ils   LLBG trf, full established ils rw26 to land    LLBG trf, rw vacated, taxi to platform L4 via W4 rw12 L    LLBG trf, on blocks, engines off, flight plan close                  VREF: 140 (150)
+LLBG trf, over UW13 heading to SOLIN leaving FL250 start descending, expecting rw08 ils SOLIN2A   LLBG trf, SOLIN FL110 start SOLIN2A rw08 ils   LLBG trf, at BOAZZ 3000 clear ils rw26   LLBG trf, full established ils rw08 to land    LLBG trf, rw vacated, taxi to platform B7 via W3 R K M2    LLBG trf, on blocks, engines off, flight plan close                  VREF: 140 (150)

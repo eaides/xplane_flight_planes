@@ -1,0 +1,31 @@
+Origen:       SPIM - Jorge Chavez Intl. - Lima-Callao - Peru
+Destino:      SLLP - El Alto Intl - La Paz - Bolivia
+Alternativo:  SLCB - Jorge Wilsternann Intl. - Cochabamba - Bolivia
+Flight Level: FL390
+Ruta:
+	ASI UM415 JUL UA304 ELAKO
+Route (plain text) .. = dct . for airways
+	SPIM..ASI.UM415.JUL.UA304.ELAKO..SLLP
+	SPIM DCT ASI UM415 JUL UA304 ELAKO DCT SLLP		SPIMSLLP01
+
+Distancia: 592 nm + Distancia Alternativo: 128 nm
+Tiempo Vuelo:               01:44
+Tiempo + alternativo:       02:20
+Total combustible (tiempo): 03:05
+Peso Combustible: 17242 ( 99.9 % - 0 % - 99.9 % ) reserva: 4.5
+TOW: 125.2
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SPIM trf, at parking G11 pb & su to SPIM as filed   SLLP trf, taxi to hp rw15 via F1 A    SPIM trf, hp rw 15 lu & to follow ASI3 departure       SPIM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+SLLP trf, at 20nm inbound ELAKO leaving FL390, expecting rw 10 ILS-Y transition ELAKO        SLLP trf, at D10.0 PAZ clear to ILS-Y rw 10     SLLP trf, full established ILS rw 10 to land    SLLP trf, rw vacated, taxi to platform (xx via xxx xxx)   SLLP trf, on blocks .., engines off, flight plan close

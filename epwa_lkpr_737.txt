@@ -1,0 +1,25 @@
+Origen:       EPWA - Lotnisko Chopina Warszawie - Warsaw - Poland 
+Destino:      LKPR - Ruzyne - Prague - Czech
+Alternativo:  LKNA - Banest - Namest - Czech
+Flight Level: FL380
+Ruta:
+	SOXER N869 ASTEL UP861 GOLOP
+Route (plain text) .. = dct . for airways
+	EPWA..SOXER.N869.ASTEL.UP861.GOLOP..LKPR
+
+Distancia: 293 nm + Distancia Alternativo: 92 nm
+Tiempo Vuelo:               01:04
+Tiempo + alternativo:       02:02
+Total combustible (tiempo): 02:20	
+Peso Combustible: 12944 (75.0 % - 0.0 % - 75.0 % ) reserva: 4.5
+TOW: 120.9 (33.0% - trim 2.60)	v1:117  vr:125  v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+EPWA trf, at parking 16 pb & su to LKNA as filed      EPWA trf, taxi to hp rw15 via O2 A3 A1 A2 A0      EPWA trf, hp A0 rw15 lu & to follow SOXER5D        EPWA trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LKPR trf, at IXURO leaving FL380 expect rw24 ils via GOLOP1S            LKPR trf, at GOLOP continue GOLOP1S for rw15 ils transition ERASU         LKPR trf, at ERASU altitude 4000 clear to ils rw15      LKPR trf, full established rw15 to land      LKPR trf, rw vacated, taxi to platform      LKPR trf, on blocks, engines off, flight plan close

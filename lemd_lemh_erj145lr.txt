@@ -1,0 +1,39 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEMH - Menorca - Menorca - Spain
+Alternativo:  LEPA - Palma de Mallorca - Palma de Mallorca - Spain
+Flight Level: FL260	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	PINAR/KN440FL260 UN870 BCN/KN440FL230 H70 SARGO
+Route (plain text) .. = dct . for airways
+	LEMD DCT PINAR UN870 BCN H70 SARGO DCT LEMH			LEMDLEMH01.FLTPLAN
+	LEMD..PINAR.UN870.BCN.H70.SARGO..LEMH
+
+Distancia: 406 nm + Distancia Alternativo: 71 nm
+Tiempo Vuelo:               01:20
+Tiempo + alternativo:       01:48
+Total combustible (tiempo): 02:33
+Peso Combustible: 6720 ( 59 % - 59 % ) reserva: 2.3 (40.52%)
+TOW: 45.180
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking T20 pb & su to LEMH as filed   
+LEMD trf, taxi to hp rw14R via R D3 S4 S3 A...     
+LEMD trf, taxi to hp rw14L via R D3 S4 S3 A...
+LEMD trf, taxi to hp rw36R via R D3 S4 S3 A...
+	LEMD trf, taxi to hp rw36L via interior G4 A(north) M17 R5 Z2
+LEMD trf, hp rw14R lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow PINAR..                LEMD trf, airborne
+	LEMD trf, hp rw36L lu & to follow PINAR2N                LEMD trf, airborne
+Despegue: ????Z
+
+vertial BCN leaving FL260 descending for FL230 over H70
+
+LEMH trf, 20nm inbound SARGO leaving FL230 start approach SARGO2B rw01L ils (110.3/010)     LEMH trf, at BALIO 3000 clear to ILS rw01L                       LEMH trf, full established ils rw01L to land    LEMH trf, rw vacated, taxi to platform
+LEMH trf, at ... FL230 start approach SARGO3F rw19R vor/dme             LEMH trf, at DONAV FL... start final approach rw19R vor/dme     LEMH trf, final rw19R to land    LEMH trf, rw vacated, taxi to platform

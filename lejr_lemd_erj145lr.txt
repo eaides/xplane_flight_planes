@@ -1,0 +1,33 @@
+Origen:       LEJR - Jerez - Jerez - Spain					
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL260	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	HIJ UZ230 SOTUK 
+Route (plain text) .. = dct . for airways
+	LEJR DCT HIJ UZ230 SOTUK DCT LEMD			LEJREMDM01.FLTPLAN
+	LEJR..HIJ.UZ230.SOTUK..LEMD
+
+Distancia: 265 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               01:01
+Tiempo + alternativo:       01:32
+Total combustible (tiempo): 02:17
+Peso Combustible: 6150 ( 54 % - 54 % ) reserva: 2.3 (40.52%)
+TOW: 44.213
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEJR trf, at parking 3 pb & su to LEMD as filed   
+LEJR trf, taxi to hp rw20 via T1 rw    	LEJR trf, entry rw to backtrack to hp rw20     LEJR trf, hp rw20 lu & to follow HIJ1V    LEJR trf, airborne
+LEJR trf, taxi to hp rw02 via T1 rw    	LEJR trf, entry rw to backtrack to hp rw02     LEJR trf, hp rw02 lu & to follow HIJ1Q    LEJR trf, airborne
+
+LEMD at NASOS start NASOS2A, expecting rw18R      LEMD trf, after NASOS FL220 start descending for rw18R ils continue NASOS2A     LEMD trf, at TAGOM altitude 10000 clear to ils rw18R   LEMD trf, full established ils rw 18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+LEMD trf, after ... FL220 start descending, expecting rw32/18 ... ils via star NASOS.. transition ASBIM/TAGOM    LEMD trf, position NASOS continue approach NASOS.. for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+
+LEMD trf, position SOTUK start approach SOTUK2C for rw 32L ils     LEMD trf, after SOTUK leaving FL260 start descending via star SOTUK2C for rw32L ils transition TOBEK       LEMD trf, at TOBEK altitude 5000 clear to ils rw32L   
+LEMD trf, full established ils rw 32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

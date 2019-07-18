@@ -1,0 +1,38 @@
+Origen:       LGAV - Eleftherios Venizelos Intl - Athens - Greece
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL360
+
+Ruta:
+	PIKAD UL53 KRK UL995 TIGRA/F350 L995 TEA Z803 LAT
+Route (plain text) .. = dct . for airways
+	LGAV..PIKAD.UL53.KRK.UL995.TIGRA.L995.TEA.Z803.LAT..LIRF
+
+Distancia: 598 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               01:49
+Tiempo + alternativo:       02:23
+Total combustible (tiempo): 03:24	
+Peso Combustible: 18615				reserva: 6.4
+
+Avion: 737-800 : 164 pax (220 lbs per pax)
+Payload 37.7
+Cost Index SUR: 19	-- 286/038 -- P003
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+
+Notas: 
+
+LGAV trf, at parking A11 pb & su to LIRF as filed   LGAV trf, taxi to hp rw 21L via E C D9 D D12    LGAV trf, hp rw 21L lu & to follow PIKAD2F     LGAV trf, airborne
+LGAV trf, at parking A11 pb & su to LIRF as filed   LGAV trf, taxi to hp rw 03R via E C D1          LGAV trf, hp rw 03R lu & to follow PIKAD1E     LGAV trf, airborne
+
+16L: CMP 5000
+22	ROM	120
+11+11	LAT	200
+34	SIPRO	310
+15	TEA	360
+31	AKAMO	15 to TEA start descent
+
+LIRF trf, inbound SIPRO leaving FL380 start descending, expecting rw16L ils via LAT4A trans. CMP       LIRF at LAT FL130 start approach LATINA4A for rw16L ils transition CMP      LIRF trf, CMP 3000 clear to ils rw16L     LIRF trf, full established ils rw16L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+LIRF trf, after AKAMO inbound TEA leaving FL380 start descending, expecting rw34L ils via LAT1D trans. ROM       LIRF at LAT FL150 start approach LATINA1D for rw34L ils transition ROM      LIRF trf, ROM 4500 clear to ils rw34L     LIRF trf, full established ils rw34L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close

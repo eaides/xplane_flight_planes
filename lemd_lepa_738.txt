@@ -1,0 +1,37 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEPA - Palma de Mallorca - Palma de Mallorca - Spain
+Alternativo:  LEBL -Barcelona
+Flight Level: FL300	(max para el avion FL410) (Barza-Madrid la maxima es FL310 segun controladores)
+Ruta:
+	NANDO UM871 GODOX
+Route (plain text) .. = dct . for airways			positionj 548 (t4-s)
+	LEMD DCT NANDO UM871 GODOX DCT LEPA			LEMDLEPA01.FLTPLAN
+	LEMD..NANDO.UM871.GODOX..LEPA
+
+Distancia: 314 nm + Distancia Alternativo: 71 nm
+Tiempo Vuelo:               00:59
+Tiempo + alternativo:       01:43
+Total combustible (tiempo): 02:29
+Peso Combustible: 13922  == reserva: 6.2
+TOW: 45.180
+
+Avion: 737-800: 158 pax
+Payload 36.3
+Cost Index SUR: 17			241/038 - P007
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking T20 pb & su to LEPA as filed   
+LEMD trf, taxi to hp rw14R via R D3 S4 S3 A...     
+LEMD trf, taxi to hp rw14L via R D3 S4 S3 A...
+LEMD trf, taxi to hp rw36R via R D3 S4 S3 A...
+	LEMD trf, taxi to hp rw36L via interior G4 A(north) M17 R5 Z2
+LEMD trf, hp rw14R lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow PINAR..                LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow PINAR..                LEMD trf, airborne
+	LEMD trf, hp rw36L lu & to follow PINAR2N                LEMD trf, airborne
+Despegue: ????Z
+
+LEPA trf, 20nm inbound ... leaving FL2.. start approach GODOX1P rw24L/R ILS (109.3/109.9)     LEPA trf, at POS 5000 clear to ILS rw24L/R           LEPA trf, full established ils rw24L/R to land    LEPA trf, rw vacated, taxi to platform
+LEPA trf, 20nm inbound ... leaving FL2.. start approach GODOX1M rw06L ILS (110.9/010)       LEPA trf, at ADX 5000 clear to ILS rw24L/R           LEPA trf, full established ils rw24L/R to land    LEPA trf, rw vacated, taxi to platform

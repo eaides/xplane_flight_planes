@@ -1,0 +1,36 @@
+Origen:       SAWP - Perito Moreno - Perito Moreno, Argentina (alt 1411)
+Destino:      SCCI - Carlos Ibanez Del Campo Intl - Punta Arenas, Chile (alt 139)
+Alternativo:  SAWG - Norberto Fernandez - Rio Gallegos, Argentina
+Flight Level: FL350
+Ruta:	
+	ASADO UG550 EGOSA
+Route (plain text) .. = dct . for airways
+	SAWP..ASADO.UG550.EGOSA..SCCI
+	SAWP ASADO UG550 EGOSA SCCI
+ 
+Distancia: 391 nm + Distancia Alternativo: 153 nm
+
+Tiempo Vuelo:               01:15
+Tiempo + alternativo:       02:47
+Total combustible (tiempo): 02:32
+Peso Combustible: 15795 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 135  vr: 137  v2: 145 (160)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+10/28 
+SAWP trf, at parking pb & su to SCCI as filed         SAWP trf, taxi to hp rw10           SAWP trf, entry rw for bt    SAWP trf, hp rw10 lu & to FL350      SAWP trf, airborne
+SAWP trf, at parking pb & su to SCCI as filed         SAWP trf, taxi to hp rw28           SAWP trf, entry rw for bt    SAWP trf, hp rw28 lu & to FL350      SAWP trf, airborne
+
+07/25
+SCCI trf, at BUVOK inbound EGOSA leaving FL350, expecting rw25 ILS		SCCI trf, ARCIN 4300 clear to ils rw25
+SCCI trf, full established ils rw25, to land             SCCI trf, rw vacated, taxi to platform        SCCI trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

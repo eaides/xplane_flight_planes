@@ -1,0 +1,31 @@
+Origen:       LGAV - Eleftherios Venizelos Intl - Athens - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL330
+Ruta:
+	VARIX UL995 RDS UL609 SOLIN
+Route (plain text) .. = dct . for airways
+	LGAV..VARIX.UL995.RDS.UL609.SOLIN..LLBG
+
+Distancia: 647 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:47
+Tiempo + alternativo:       02:23
+Total combustible (tiempo): 03:08	
+Peso Combustible: 14618 (99.9 % - 5.0 % - 99.9 % ) reserva: 4.5
+TOW: 126.6 (33.1% - trim 2.73)	v1:121  vr:129  v2: 137
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+Notas: 
+
+LGAV trf, at parking B15 pb & su to LLBG as filed   LGAV trf, taxi to hp rw 21L via E C D9 D D12    LGAV trf, hp rw 21L lu & to follow VARIX1F     LGAV trf, airborne
+									    03R via E C D1          LGAV trf, hp rw 03R lu & to follow VARIX1T         
+
+LLBG trf, at LEDRA leaving FL390, expecting rw12 ils via star GODED1    LLBG trf, position SOLIN continue approach GODED1 for rw12 ils   LLBG trf, at GODED altitude 5000 clear to ils rw12      LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+
+LLBG trf, after ASPIS FL390 start descending, expecting rw 08 ils via star SOLIN1B transition BOAZZ   LLBG trf, position SOLIN 9000 continue approach SOLIN1B for rw 08 ils   LLBG trf, at BOAZZ altitude 3000 clear to ils rw 08   LLBG trf, full established ils rw 08 to land    LLBG trf, rw vacated on W3, taxi to platform C3 via W3 R crossing 12/30 K M1   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at LEDRA leaving FL330, expecting rw12 ils via star GODED1      LLBG trf, position SOLIN FL120 continue approach GODED1 for rw12 ils   LLBG trf, at GODED altitude 5000 clear to ils rw12   LLBG trf, full established ils rw12 to land    LLBG trf, rw vacated on Y, taxi to platform C3 via W3 R crossing 12/30 K M1   LLBG trf, on blocks, engines off, flight plan close

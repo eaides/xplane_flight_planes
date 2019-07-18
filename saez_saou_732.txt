@@ -1,0 +1,35 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAOU - San Luis
+Alternativo:  SAME - MENDOZA
+Flight Level: FL240
+Ruta:	
+	URINO W9 NIN W9 LYE W9 RYD W9 FRAGA
+Route (plain text) .. = dct . for airways
+	SAEZ..URINO.W9.FRAGA..SAOU
+
+Distancia: 404 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               01:12
+Tiempo + alternativo:       01:45
+Total combustible (tiempo): 02:30
+Peso Combustible: 19824
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+SAEZ
++EZE 116.5
+	URINO (EZE 116.5 283/55 intersection GBE -115.6 232) +65 NIN (=120)		-PTA 113.70/274
+	-116.1 NIN <- 284 						(NIN intercepta SNT 117.7 080/77)	
+	-116.1 NIN -> 283 +31 NUXIM +29 ARMUP +64 LYE = 124	
+	-116.3 LYE <- 282 						(LYE inetrcepta MJZ 114.70/220)
+	-116.3 LYE -> 283 +59 TOSOR +45 RYD = 104
++115.7 RYD <- 285 (dme)
++115.7 RYD -> 286  +33 Fraga
+Fraga						Fraga-Ilsen-Mexil=20nm -- 5300		240-5300= -66-20= -46 de fraga descent
+SAOU											-13 de RYD comenzar descenzo a 5300
+						intercepta VOR UIS -116.9 radial 007 mas menos 55 nm from RYD
+

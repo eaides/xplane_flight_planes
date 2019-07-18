@@ -1,0 +1,24 @@
+Origen:       LFPG - Charles de Gaulle - Paris - France
+Destino:      EHAM - Schiphol - Amsterdam - Netherlands
+Alternativo:  EDDL - Dusseldorf - Dusseldorf - Germany
+Flight Level: FL330
+Ruta:
+	NURMO UN874 VEKIN UN873 HELEN
+Route (plain text) .. = dct . for airways
+	LFPG..NURMO.UN874.VEKIN.UN873.HELEN..EHAM
+
+Distancia: 217nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               00:54
+Tiempo + alternativo:       01:26
+Total combustible (tiempo): 02:11
+Peso Combustible: 12082 (70.0 % - 0.0 % - 70.0 % ) reserva: 4.5
+TOW: 120.1 (32.3% - trim 2.81)	v1:116  vr:124  v2: 134
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+LFPG trf, at parking F92 (...) pb & su to EHAM as filed      LFPG trf, taxi to hp rw08L via F G FN3 N U UT1 T1   LFPG trf, hp T1 rw08L lu & to follow NURMO9L            LFPG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+EHAM trf, at ... leaving FL330 expect rw... via HELEM..            EHAM trf, at HELEM continue HELEM.. for rw.. ils   EHAM trf, at .... altitude .... clear to ils rw..      EHAM trf, full established ils rw.. to land      EHAM trf, rw vacated, taxi to platform      EHAM trf, on blocks, engines off, flight plan close

@@ -1,0 +1,55 @@
+Origen:       LIRF - Fiumicino - Roma - Italy
+Destino:      SBGL - Galeao - Rio de Janeiro - Brazil 
+Alternativo:  SBGR - Guarulhos - Sao Paulo - Brazil
+Flight Level: FL380
+Ruta:                                                                                                                                                                                                                                                                              	
+	ESINO/KN490FL300 UM126 KAWKA UG14 CSO UG859 GHA UG864 ABLOD/M0844FL320 UG864 BRENA UA854 AR UR975 NEVDI UR975 YF UA302 INIRO UA302 NEVDI/M0844FL340 UA302 TAROT DCT 11N020W DCT 09N021W DCT 07N022W DCT 05N024W DCT 03N025W DCT KODOS/M0844FL360 UL206 ILKOX/M0844FL380 UL206 VTR UZ44 ADA
+Route (plain text) .. = dct . for airways
+	LIRF ESINO UM126 KAWKA UG14 CSO UG859 GHA UG864 BRENA UA854 AR UR975 NEVDI UR975 YF UA302 INIRO UA302 TAROT 11N020W 09N021W 07N022W 05N024W 03N025W KODOS UL206 VTR UZ44 ADA SBGL
+	LIRF..ESINO.UM126.KAWKA.UG14.CSO.UG859.GHA.UG864.BRENA.UA854.AR.UR975.NEVDI.UR975.YF.UA302.INIRO.UA302.TAROT..11N020W..09N021W..07N022W..05N024W..03N025W..KODOS.UL206.VTR.UZ44.ADA..SBGL
+	LIRFSBGL01.RTE
+
+Distancia: 5035 nm + Distancia Alternativo: 182 nm
+Tiempo Vuelo:               10:36
+Tiempo + alternativo:       11:18
+Total combustible (tiempo): 12:03
+
+Peso Combustible: 328132 ( 100% - 100% - 71.2% - 100% - 100% - 0 - 100% - 100% - 100%) reserva: 60000 18.33%		fs_center: 263513-25206(8.73%) = 288719 
+TOW: 842.340 (max.875000)   ZFW 514.208	  V1:151 VR:167 V2:178 trim 6.0							747fuelcalc: 339920 - 37950 (10.78%) 
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+LIRF trf, at parking 507 (B7) pb & su to SBGL as filed   LIRF trf, taxi to hp rw25 via CF D DM BB    LIRF trf, hp rw25 lu & to follow SOSAK5A transition ESINO5H to FL300  LIRF trf, airborne
+
+SBGL trf, after GIPKO leaving FL380 expecting rw33 via DIVRO1A/UDOGA1 transition ADA        SBGL trf, at ADA start DIVRO1A/UDOGA1 transition ADA, expect rw33 VOR  
+SBGL trf, at OSPID altitude 5000 clear to approach rw33	VOR	SBGL trf, final rw33 to land	SBGL trf, rw vacated on ... taxi to parking
+
+SBGL trf, after GIPKO leaving FL380 expecting rw28 ILS via DIVRO1A/UDOGA1 transition ADA	SBGL trf, at ADA start DIVRO1A/UDOGA1 transition ADA, expect rw28 ils    
+SBGL trf, at KETUX altitude 5000 clear to ils rw28	SBGL trf, full established ils rw28 to land	SBGL trf, rw vacated on BB taxi to parking 8 terminal 1 via N EE interior 
+SBGL trf, on parking 8 termial 1 (22) with engines stop, flight plan close
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start 											21:20
+encender motores									21:38
+taxi 											21:42
+despegue 21:32	---------------------------------------------------------------------	21:50
+over UG864 vertical GHA/ABLOD, step climb from FL300 to FL320 -------- (+-2:00) -----	23:27
+center off --------- before ULPAK / 2 en centers --------------------- (+-3:00) -----	00:30
+over UA302 vertical  SEPEL/NEVDI, step climb from FL320 to FL340 ----- (+-4:00) -----	--:--
+oceanic (TAROT) -------------------------------------------------------(+-5:00) -----	--:--
+entry Atlantico SBAO on KODOS, step climb from FL340 to FL360 -------- (+-6:30) -----	04:40
+cerrar xfeed --------------------------------------------------------- (+-7:30) -----	05:28
+over UL206 vertical ILKOX/DEMON, step climb from FL360 to FL380 ------ (+-9:00) -----	07:00
+step climb 400 none -----------------------------------------------------------------	-- --	
+at MABSI program arrive, -------- (35 min before arrive) ------------ (+-9:55) -----	07:47
+descenso despues de GIKPO ------- (25 min before arrive) ------------ (+-10:05) -----	07:59
+aterrizo -------------------------------------------------------------(+-10:30)------	08:25
+
+combustible final: ------------------------------------------------------------------  49.710
+

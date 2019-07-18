@@ -1,0 +1,38 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SANU - SAN JUAN
+Alternativo:  SAME - MENDOZA
+Flight Level: FL240
+Ruta:	
+	URINO W9 NIN W9 LYE W9 RYD W9 KABAK W9 DOZ W3 MEBRA
+Route (plain text) .. = dct . for airways
+	SAEZ..URINO.W9.DOZ.W3.MEBRA..SANU
+
+Distancia: 702 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               01:38
+Tiempo + alternativo:       02:02
+Total combustible (tiempo): 02:47
+Peso Combustible: 21992
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+EZE 116.5
+	URINO (EZE 116.5 283/55 intersection GBE 115.6 232) +65 NIN
+	116.100 NIN <- 281 
+	116.100 NIN -> 283 +31 NUXIM +29 ARMUP +64 LYE
+	116.300 LYE <- 282 
+	116.300 LYE -> 283 +59 TOSOR +45 RYD = 104
+	115.700 RYD <- 285 
+	115.700 RYD -> 286  +33 Fraga +54 KABAK + 37 PAPIR +55 DOZ
+	114.900 DOZ <- 289
+114.900 DOZ -> 027 +52 MEBRA
+	MEBRA (intersection JUA 113.1 350/30)	for rw18 JUA 7000				20sn after DOZ descen from 240 to 7000
+						for rw36 OPLET 5500 JUA 355/14 (MEBRA +-16 )	at DOZ descent from 240 to 5500
+SANU
+	
+

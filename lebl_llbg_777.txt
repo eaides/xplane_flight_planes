@@ -1,0 +1,35 @@
+Origen:       LEBL - El Prat - Barcelona - Spain
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda- Israel
+Flight Level: FL370
+Ruta:
+	VERSO UM24 LAPIT UN725 ORKUM UM603 SOR UM736 CRN UM601 MIL UN134 SOLIN
+Route (plain text) .. = dct . for airways
+	LEBL..VERSO.UM24.LAPIT.UN725.ORKUM.UM603.SOR.UM736.CRN.UM601.MIL.UN134.SOLIN..SIRON..LLBG		// SOR is VOR/DEM Sorrento // SIRON is N32 E034
+	LEBL DCT VERSO UM24 LAPIT UN725 ORKUM UM603 SOR UM736 CRN UM601 MIL UN134 SOLIN DCT SIRON DCT LLBG
+
+Distancia: 1689 nm + Distancia Alternativo: 125 nm
+Tiempo Vuelo:               03:52
+Tiempo + alternativo:       04:27
+Total combustible (tiempo): 05:12
+Peso Combustible: 82637 lbs = 37848 kgs ( 99.9 % - 43.5 % - 99.9 % ) reserva: 4.5 
+TOW:		 464.237
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B77L/H
+
+
+Notas: 
+
+LEBL trf, at parking E6 (122) pb & su to LLBG as filed   LEBL trf, taxi to hp rw 07L via JN T Z6      LEBL trf, hp Z6 rw 07L lu & to follow VERSO2B to FL370   LEBL trf, airborne
+LEBL trf, at parking E6 (122) pb & su to LLBG as filed   LEBL trf, taxi to hp rw 25R via JN S Z3      LEBL trf, hp Z3 rw 25R lu & to follow VERSO2P to FL370   LEBL trf, airborne
+Despegue: 18057Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLBG trf, at/after xxxx FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position XXX continue approach xxx for rw XX ils/vor-dme   LLBG trf, at XXX altitude xxx clear to ils/start approach rw XX   LLBG trf, full established ils/final rw XX to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at ERINO FL370 start descending, expecting rw 08 ils via star SOLIN1A transition BOAZZ   LLBG trf, position SOLIN FL120 continue approach SOLIN1A for rw 08 ils   LLBG trf, at BOAZZ altitude 3000 clear to ils rw 08   LLBG trf, full established ils rw 08 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, at ERINO FL370 start descending, expecting rw 30 ils via star LIMKO1 transition LIMKO    LLBG trf, position SOLIN FL120 continue approach LIMKO1 for rw 30 ils   LLBG trf, at LIMKO altitude 5000 clear to ils rw 30   LLBG trf, full established ils rw 30 to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

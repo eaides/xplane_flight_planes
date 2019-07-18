@@ -1,0 +1,48 @@
+Origen:       SAAR - Rosario - Rosario, Argentina
+Destino:      SABE - Jorge Newery - Buenos Aires - Argentina
+Alternativo:  SUMU - Carrasco - Montevideo - Uruaguay
+Flight Level: FL210
+Ruta:	
+	VASAL W20 MULTA W24 SNT
+Route (plain text) .. = dct . for airways
+	SAAR..VASAL.W20.MULTA.W24.SNT..SABE
+
+
+Distancia: 161 nm + Distancia Alternativo: 119 nm
+Tiempo Vuelo:               00:35
+Tiempo + alternativo:       01:10
+Total combustible (tiempo): 01:55
+Peso Combustible: 11107		-- res: 5.5
+TOW: 119.4  	(20.2% trim: 4.75)	v1: 134   vr: 136    v2: 146
+
+Avion: 737-800 : 184 pax (220 lbs per pax)
+Payload 42.3 
+Cost Index SUR: 23		// 244/042 -- 7C
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738	Equipment: Equipment: (ODFLG)R = SR / C
+
+
+02/20
+SAAR trf, at parking 3 pb & su to SAZR as filed   SAAR trf, taxi to hp rw02    SAAR trf, hp rw02 lu & to to FL280   SAAR trf, airborne
+SAAR trf, at parking 3 pb & su to SAZR as filed   SAAR trf, taxi to hp rw20    SAAR trf, hp rw20 lu & to to FL280   SAAR trf, airborne
+
+
+for 13:
+5000 on VANAR		
+33nm inbound SNT	33-SNT 	= 25000
+SNT to VANAR    = 44	SNT	= 16000
+			VANAR	= 5000
+
+for 31:
+2500 on ILM	37.5 * x = 112 -> 122
+a 5 de SNT descender
+SNT	23000
+VANAR 	14000
+ENO	9500
+D28	4000
+ILM	2500
+
+SABE trf, 5nm inbound SNT leaving FL250, expecting rw31 vor-dme via star SNT7D                  SABE trf, position SNT continue approach SNT7D for rw31 vor-dme     SABE trf, at ILM altitude 2500 start approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+SABE trf, 33nm inbound SNT leaving FL250, expecting rw13 ILS via star SNT7C transition VANAR    SABE trf, position SNT continue approach SNT7C for rw13 ILS         SABE trf, at FDO altitude 2500 clear to ILS rw13   
+
+    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

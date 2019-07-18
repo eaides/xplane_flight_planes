@@ -1,0 +1,32 @@
+Origen:       SVMI - Maiquetia Simon Bolivar - Maiquetia - Venezuela
+Destino:      MPTO - Int. Tocumen - Panama City - Panama
+Alternativo:  SKLC - Antonio Roldan Betancourt - Carepa - Colombia  
+Flight Level: FL400
+Ruta:
+	REKON W1 ATONO UW1 CRO G431 MAU UM796 ISIMO DCT OGRUL UA319 PANIL AKRIN
+Route (plain text) .. = dct . for airways
+	SVMI..REKON.W1.ATONO.UW1.CRO.G431.MAU.UM796.ISIMO..OGRUL..PANIL..AKRIN..MPTO
+	SVMI DCT REKON W1 ATONO UW1 CRO G431 MAU UM796 ISIMO DCT OGRUL UA319 PANIL DCT AKRIN DCT MPTO			SVMIMPTO01
+
+Distancia: 785 nm + Distancia Alternativo: 176 nm
+Tiempo Vuelo:               02:09
+Tiempo + alternativo:       02:52
+Total combustible (tiempo): 03:37
+Peso Combustible: 19690 ( 99.9 % - 8.5 % - 99.9 % ) reserva: 4.5
+TOW: 127.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+SVMI trf, at parking D3 pb & su to MPTO as filed   SVMI trf, taxi to hp rw09 via H D     SVMI trf, hp rw09 lu & folow REKON3 departure    SVMI trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+MPTO trf, 10nm inboud OGRUL leaving FL400, expecting rw03R ILS / ANKRIN1 transition TUM     MPTO trf, at AKRIN next MEVID/TUM     MPTO trf, vertical TUM 3100 clear to ILS rw03R     MPTO trf, full established ILS rw03R to land    MPTO trf, rw vacated, taxi to platform (xx via xxx xxx)   MPTO trf, on blocks .., engines off, flight plan close

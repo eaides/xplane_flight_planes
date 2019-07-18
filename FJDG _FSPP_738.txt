@@ -1,0 +1,34 @@
+Origen:       FJDG - Diego Garcia - Diego Garcia, British Indian Ocean Territory 
+Destino:      FSPP - Praslin - Praslin, Seychelles
+Alternativo:  HKLU - Lamu/Manda - Lamu/Manda, Kenya
+Flight Level: FL340
+Ruta:	
+	TOLID R212 PERRY
+Route (plain text) .. = dct . for airways
+	FJDG..TOLID.R212.PERRY..FSPP 
+
+Distancia: 1021 nm + Distancia Alternativo: 896 nm
+
+Tiempo Vuelo:               02:34
+Tiempo + alternativo:       04:48
+Total combustible (tiempo): 05:33
+Peso Combustible: 33961 ( 99.9 % - ?? % - 90.0 % ) reserva: 5.0
+TOW: 161.2  (29.9% trim: 4.55)	v1: 149  vr: 151  v2: 158 (173)
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058    TOW: 161149
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+13/31
+FJDG trf, at parking pb & su to FSPP as filed    FJDG trf, taxi to hp rw RW13            FJDG trf, hp rw RW13 lu & to to FL400      FJDG trf, airborne
+FJDG trf, at parking pb & su to FSPP as filed    FJDG trf, taxi to hp rw RW31            FJDG trf, hp rw RW31 lu & to to FL400      FJDG trf, airborne
+
+15/33
+FSPP trf, after PERRY inbound PRA leaving FL340, expecting rw15 VOR/DMA                   FSPP trf, at PRA 2500 start approach VOR C for rw15
+FSPP trf, final rw15 to land             FSPP trf, rw vacated, taxi to platform        FSPP trf, on blocks, engines off, flight plan close
+
+FSPP trf, after PERRY inbound PRA leaving FL340, expecting rw33 VOR/DMA		          FSPP trf, at PRA 2500 start approach VOR A or B for rw33
+FSPP trf, final rw33 to land             FSPP trf, rw vacated, taxi to platform        FSPP trf, on blocks, engines off, flight plan close

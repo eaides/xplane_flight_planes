@@ -1,0 +1,34 @@
+Origen:       SBGL - Galeao-Antonio C Jobim Intl - Rio de Janeiro - Brazil
+Destino:      SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Alternativo:  SUMU - Carrasco Intl - Montevideo - Uruguay
+Flight Level: FL380
+Ruta:                                                                                                                                                                                                                                                                              	
+	BITAK UN857 MLO UM792 CRR UA310 DAGUS UA306 SARGO		sbglsaez
+	SBGL..BITAK.UN857.MLO.UM792.CRR.UA310.DAGUS.UA306.SARGO..SAEZ
+	
+Distancia: 1126 nm + Distancia Alternativo: 124 nm
+Tiempo Vuelo:               02:49
+Tiempo + alternativo:       03:24
+Total combustible (tiempo): 04:09
+
+Peso Combustible: 45944 lbs = 20480 kgs     reserva: 9934   21.62%		
+TOW: 297.184 (max.875000)   ZFW 251.240	  V1:125 VR:132 V2:146 trim 5.75						
+
+Avion: 767-300 : 204 pax (220 lbs per pax)	(max = 269)	(max alt. 39000)
+Payload 67903
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B763/H
+
+Notas: 
+
+SBGL trf, at parking 9 pb & su to SAEZ as filed   SBGL trf, taxi to hp rw 10 via L1 K N O     SBGL trf, hp rw 10 lu & to follow IH 1A RNAV transition BITAK to FL400   SBGL trf, airborne
+						   SBGL trf, taxi to hp rw 15 via L1 K M A
+
+vertical OGRUN FL400 change from Unicom Brazil 123.45 to Unicom 122.80
+
+SAEZ trf, after DAGUS leaving FL400 expecting rw11 ILS via SARGO6A transition EZE        SAEZ trf, at SARGO FL300 start SARGO6A expect rw11 ils     SAEZ trf, at EZE FL070 clear to ILS rw11		SAEZ trf, full established ILS rw11 to land	   SAEZ trf, rw vacated on ... taxi to parking
+SAEZ trf, after DAGUS leaving FL400 expecting rw35 ILS via SARGO6B transition GESTA      SAEZ trf, at SARGO FL300 start SARGO6B expect rw35 ils     SAEZ trf, at GESTA FL050 clear to ILS rw35		SAEZ trf, full established ILS rw35 to land	   SAEZ trf, rw vacated on ... taxi to parking
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+

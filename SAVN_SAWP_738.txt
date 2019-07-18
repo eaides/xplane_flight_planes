@@ -1,0 +1,36 @@
+Origen:       SAVN - Antoine De Saint Exupery - San Antonio Oeste, Argentina (alt 85)
+Destino:      SAWP - Perito Moreno - Perito Moreno, Argentina (alt 1411)
+Alternativo:  SAVC - Gen, Enrique Mosconi - Comodoro RIvadavia, Argentina
+Flight Level: FL380
+Ruta:	
+	TRE UA570 CRV UW58 MIKIM
+Route (plain text) .. = dct . for airways
+	SAVN..TRE.UA570.CRV.UW58.MIKIM..SAWP
+	SAVN TRE UA570 CRV UW58 MIKIM SAWP
+ 
+Distancia: 533 nm + Distancia Alternativo: 153 nm
+
+Tiempo Vuelo:               01:33
+Tiempo + alternativo:       02:12
+Total combustible (tiempo): 02:57
+Peso Combustible: 20282 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 138  vr: 141  v2: 147 (162)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+12/30 
+SAVN trf, at parking pb & su to SAWP as filed         SAVN trf, taxi to hp rw12           SAVN trf, hp rw12 lu & to FL380      SAVN trf, airborne
+SAVN trf, at parking pb & su to SAWP as filed         SAVN trf, taxi to hp rw30           SAVN trf, hp rw30 lu & to FL380      SAVN trf, airborne
+
+10/28
+SAWP trf, after CRV inbound MIKIM leaving FL380, expecting rw28 visual		SAWP trf, MIKIM FL200 start visual approach rw28
+SAWP trf, rw28 insight, to land             SAWP trf, rw vacated, taxi to platform        SAWP trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

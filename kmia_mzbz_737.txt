@@ -1,0 +1,32 @@
+Origen:       KMIA - Miami Int. - Miami - Florida - USA
+Destino:      MZBZ - Philip Goldson Int. Belize City - Belize
+Alternativo:  MHLC - Goloson Int - La Ceiba - Honduras
+Flight Level: FL380
+Ruta:
+	MNATE MTH FIS G765 MAXIM UG765 CZM UB764 TAMDA
+Route (plain text) .. = dct . for airways
+	KMIA..MNATE..MTH..FIS.G765.MAXIM.UG765.CZM.UB764.TAMDA..MZBZ
+	KMIA DCT MNATE DCT MTH DCT FIS G765 MAXIM UG765 CZM UB764 TAMDA	DCT MZBZ		KMIAMZBZ01
+
+Distancia: 693 nm + Distancia Alternativo: 137 nm
+Tiempo Vuelo:               01:57
+Tiempo + alternativo:       02:35
+Total combustible (tiempo): 03:20
+Peso Combustible: 18682 ( 99.9 % - 5 % - 99.9 % ) reserva: 4.5
+TOW: 126.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+Carrera Despegue: 5500 / Techo: 41000
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+KMIA trf, at parking F15 pb & su to MZBZ as filed   KMIA trf, taxi to hp rw30 via P Q    KMIA crossing hp/rw27, KMIA trf, lu rw30 & to folow MNATE1       KMIA trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+MZBZ trf, 40nb inbound SATOS leaving FL380, expecting rw07 ILS transition BZE      MZBZ trf, at BZE 3000 clear to ILS rw07     MZBZ trf, full established ILS rw07 land    MZBZ trf, rw vacated, taxi to platform (xx via xxx xxx)   MZBZ trf, on blocks .., engines off, flight plan close

@@ -1,0 +1,43 @@
+Origen:       SAWH - Malvinas Argentinas - Ushuaia - Argentina
+Destino:      SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Alternativo:  SUMU - Carrasco Intl - Montevideo - Uruguay
+Flight Level: FL390
+Ruta:                                                                                                                                                                                                                                                                              	
+	GRA UT662 DIL UA570 GBE
+Route (plain text) .. = dct . for airways
+	SAWH..GRA.UT662.DIL.UA570.GBE..SAEZ
+
+Distancia: 1272 nm + Distancia Alternativo: 124 nm
+Tiempo Vuelo:               02:59
+Tiempo + alternativo:       03:35
+Total combustible (tiempo): 04:20
+
+Peso Combustible: 100674	reserva: 19100 24.3%		
+TOW: 634.675 (max.875000)   ZFW 514.208	  V1:124 VR:136 V2:154 trim 5.4							
+
+Avion: 747-200 : 259 pax (220 lbs per pax)
+Payload 120120
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 497kn (0.841 match ???)
+
+Notas: 
+
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw17 via Interior A     SAEZ trf, hp rw17 lu & to follow PTA6A transition DORVO to FL370     SAEZ trf, airborne
+SAEZ 1trf, a8t parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw11 via Interior F     SAEZ trf, hp rw11 lu & to follow PTA6B transition DORVO to FL370     SAEZ trf, airborne
+
+SBGL trf, after AKNUB leaving FL390 expect rw15 ils via EPGIP 1A rnav transition VUDAV/EGDUT    SBGL trf, EGDUT 6300 clear to ILS rw15     SBGL trf, full establshed ils rw15 to land       SBGL trf, rw vacated, taxi to parking      
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+
+start1 											17:10	17:12
+encender motores									17:27	17:27
+taxi 											17:30	17:30
+despegue 21:32	---------------------------------------------------------------------	17:36	17:35
+top climb (first step climb FL370 ------------------------------------ (+-0:15) -----	-- --	17:50
+at POR step climb from FL370 to FL390 -------------------------------- (+-1:00) -----	-- --	18:31
+at FEITO program arrive, -------- (35 min before arrive) ------------- (+-2:15) -----	19:54	19:12
+descenso despues de AKNUB ------- (25 min before arrive) ------------- (+-2:30) -----	19:57	19:27
+aterrizo ------------------------------------------------------------- (+-2:55)------	20:19	19:48
+
+combustible final: ------------------------------------------------------------------   52824	60856
+

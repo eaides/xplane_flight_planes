@@ -1,0 +1,33 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SANT - Santiago del Estero
+Alternativo:  SANT - Tucuman
+Flight Level: FL240
+Ruta:	
+	ATOVO W5 ROS T672 ERE W8 SDE
+Route (plain text) .. = dct . for airways
+	SAEZ..ATOVO.W5.ROS.T672.ERE.W8.SDE..SANE
+
+Distancia: 532 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               01:35
+Tiempo + alternativo:       01:59
+Total combustible (tiempo): 02:45
+Peso Combustible: 20755
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+	EZE 116.5 -> 005 +42 (landa)
+	SNT 117.7 <- 269 (+31 eze20, +22 eze26)
+	FDO 114.4 -> 317 (26.6 eze26, 36.6 atovo)
+	ROS 117.3 <- 318 ( + 34 + 43 + 30 )
+	ROS 117.3 -> 350 ( + 20 + 70 + 90 )
+	ERE 115.5 <- 348
+	ERE 115.5 -> 322 ( + 74 + 73 + 30 = 177)
+	SDE 114.8 <- 322	(+- 70 of TUC 114.1)
+SANE							descent to 4000 over SDE -70 of SDE (+107 of ERE / +-140 of TUC) 
+

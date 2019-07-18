@@ -1,0 +1,29 @@
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Origen:       LTFJ - Sabhiha Gokcen - Istambul - Turkey
+Alternativo:  LTBF - Merkez - Balikesir - Turkey
+Flight Level: FL400
+Ruta:
+	PURLA GITLA UW13A VELOX UR18 ALSUS UB15 VESAR UB545 KFK UA16 ELVON
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..GITLA.UW13A.VELOX.UR18.ALSUS.UB15.VESAR.UB545.KFK.UA16 ELVON..LTFJ
+
+Distancia: 664 nm + Distancia Alternativo: 100 nm
+Tiempo Vuelo:               01:53
+Tiempo + alternativo:       02:26
+Total combustible (tiempo): 03:06
+Peso Combustible: 18682 (99.9 % - 5.0 % - 99.9 % ) reserva: 4.5
+TOW: 126.6	v1:121   vr:129   v2:137 (157)     trim: 2.73
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocity for Flight Plan: Above fl250 453kn (0.793 match)
+
+					
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LTFJ as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    LLBG trf, hp rw26 lu & to follow PURLA2E to FL400 transition GITLA  LLBG trf, airborne   
+LLBG trf, at parking C3 pb & su to LTFJ as filed   LLBG trf, taxi to hp rw08 via M2 K S       LLBG trf, hp rw26 lu & to follow PURLA1B to FL400 transition GITLA  LLBG trf, airborne
+
+LTFJ trf, leaving FL400 start descending, expecting rw06 ils via ELVON1G      LTFJ at ELVON FL150 start approach ELVON1G for rw06 ils      LTFJ trf, FJ519 3000 clear to ils rw06     LTFJ trf, full established ils rw06 to land    LTFJ trf, rw vacated, taxi to platform     LTFJ trf, on blocks, engines off, flight plan close
+LTFJ trf, leaving FL400 start descending, expecting rw24 ils via ELVON1H      LTFJ at ELVON FL150 start approach ELVON1H for rw24 ils      LTFJ trf, FJ935 3500 clear to ils rw24     LTFJ trf, full established ils rw24 to land    LTFJ trf, rw vacated, taxi to platform     LTFJ trf, on blocks, engines off, flight plan close

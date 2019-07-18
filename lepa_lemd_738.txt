@@ -1,0 +1,37 @@
+Origen:       LEPA - Palma de Mayorca
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LEMG
+Flight Level: FL310	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:		
+	EPAMA UN733 PRADO
+Route (plain text) .. = dct . for airways
+	LEPA EPAMA UN733 PRADO LEMD		
+	LEPA..EPAMA.UN733.PRADO..LEMD
+
+Distancia: 391 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:                00:58
+Tiempo + Ealternativo:       02:14
+Total combustible (tiempo):  02:44
+Peso Combustible: 16165 - reserva: 8.0
+TOW: 148499 
+
+Avion: 737-800 - 178 pax
+Payload 40.9 - ZFW 132834 
+Cost Index SUR: 15
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMH trf, at parking G5 pb & su to LEMD as filed   
+LEMH trf, taxi to hp rw01L via F D T H01  	LEMH trf, hp rw01L lu & to follow LUNIK2C     LEMH trf, airborne
+LEMH trf, taxi to hp rw19R via F T H19   	LEMH trf, hp rw19R lu & to follow LUNIK2D     LEMH trf, airborne
+
+vertical BCN FL240 climb FL270 for upper UN975S
+
+LEMD trf, after ... FL260 start descending, expecting rw32/18 ... ils via star ... transition ASBIM/TAGOM    LEMD trf, position VILLA continue approach VILLA2E for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+
+LEMD trf, aproaching TERSA leaving FL270 , expecting rw18R ils via star TERSA2E transition TAGOM
+LEMD trf, position TERSA FL210 continue approach TERSA2E for rw 18R ils   LEMD trf, at TAGOM altitude 10000 clear to ils rw18R   LEMD trf, full established ils rw 18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+
+LEMD trf, aproaching TERSA leaving FL270 , expecting rw32L ils via star TERSA1D transition ASBIN
+LEMD trf, position TERSA FL200 continue approach TERSA1D2 for rw 32L ils   LEMD trf, at ASBIN altitude 5000 clear to ils rw32L   LEMD trf, full established ils rw 32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

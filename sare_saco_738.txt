@@ -1,0 +1,27 @@
+Origen:       SARE - Resistencia - Argentina
+Destino:      SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina
+Alternativo:  SAOC - Area de Material - Rio Cuarto, Cordoba - Argentina
+Flight Level: FL360
+Ruta:	
+	ESMOS DCT SARNA UA307 CBA
+Route (plain text) .. = dct . for airways
+	SARE..ESMOS..SARNA.UA307..CBA..SACO
+
+Distancia: 356 nm + Distancia Alternativo: 107 nm
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:44
+Total combustible (tiempo): 02:29
+Peso Combustible: 16924		( 99.9 % - 6.0 - 99.9 % ) reserva: 4.5 
+TOW: 126.9 (33.0% trim: 2.75)	v1: 121 - vr: 129 - v2: 138			pushback 160ft
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+SARE trf, at parking 1 pb & su to SABE as filed   SARE trf, taxi to hp rw RW21    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW21 lu & to ESMOS1            SARE trf, airborne
+SARE trf, at parking 1 pb & su to SABE as filed   SARE trf, taxi to hp rw RW03    SARE trf, entry rw RW for backtrack   SARE trf, hp rw RW03 lu & to dct ESMOS FL360   SARE trf, airborne
+
+
+SACO trf, inbound ... leaving FL360, expecting rw 18 ILS     SACO trf, at CBA altitude 5000 clear for ILS rw18   SACO trf, full established ils rw18 to land    SACO trf, rw vacated, taxi to platform    SACO trf, on blocks, engines off, flight plan close

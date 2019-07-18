@@ -1,0 +1,30 @@
+Origen:       LPPT - Lisbon Portela Airport - Lisbon - Portugal 
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - Salamanca - Salamanca - Spain
+Flight Level: FL370
+Ruta:
+	IXIDA DCT OGERO UZ409 TLD
+
+Route (plain text) .. = dct . for airways
+	LPPT..IDBID..OGERO.UZ409.TLD..LEMD
+
+Distancia: 284 nm + Distancia Alternativo: 93 nm
+
+Tiempo Vuelo:               01:03
+Tiempo + alternativo:       01:34
+Total combustible (tiempo): 02:19
+Peso Combustible: 12944 ( 75 % - 0 % - 75 % ) reserva: 4.5 
+TOW: 120.9 (33.3% - trim 2.52)	v1:117  vr:125  v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - equipement: L
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+LPPT trf, at parking 125 (a20) pb & su to LEMD as filed   LPPT trf, taxi to hp rw21 via R1 R2 U4 U5 H/S 21/03 then U6 S3 S4        LPPT trf, hp rw21 lu & to follow IXIDA9S    LPPT trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LEMD trf, after ROLDO leaving FL300, expect rw32L ILS follow TOLEDO2C            LEMD trf, at TOBEK altitude 5000 clear to ils rw32L     LEMD trf, full established ils rw32L to land    LEMD trf, rw vacated, taxi to platform

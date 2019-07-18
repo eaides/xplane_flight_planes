@@ -1,0 +1,29 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - Matacan - Salamanca - Spain
+Flight Level: FL380
+Ruta:
+        PURLA UH1 GITLA/KN460FL360 UA14 KAVOS UM872 SIT UM978 GZO UM732 UPLIT/KN460FL380 UM732 CAR UM871 MJV UN733 PRADO
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.UH1.GITLA.UA14.KAVOS.UM1.SIT.UM978.GZO.UM732.CAR.UM871.MJV.UN733.PRADO..LEMD
+
+Distancia: 1975 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               04:48
+Tiempo + alternativo:       05:20
+Total combustible (tiempo): 06:05
+Peso Combustible: 30866 ( 99.9 % - 47.3 % - 99.9 % ) reserva: 2.6
+TOW: 138.8
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+Notas: 
+
+LLBG trf, at parking C3 pb & su to LEMD as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    LLBG trf, hp rw26 lu & to follow PURLA2E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+Vertical UPLIT fl360 climbing fl370 for odd flight level when entry italy airspace
+
+LEMD trf, at CATON leaving FL370 expecting rw32R ILS via PRADO1D transition ASBIN    LEMD trf, vertical PRADO FL210 continue approach PRADO1D for rw32R ils   LEMD trf, at ASBIN altitude 6000 clear for ils rw32R   LEMD trf, full established ils rw32R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close
+LEMD trf, at CATON leaving FL370 expecting rw18R ILS via PRADO2E transition TAGOM    LEMD trf, vertical PRADO FL210 continue approach PRADO2E for rw18R ils   LEMD trf, at TAGOM altitude 10000 clear for ils rw18R   LEMD trf, full established ils rw18R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close

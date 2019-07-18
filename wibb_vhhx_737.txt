@@ -1,0 +1,28 @@
+Origen:       WIBB - Pekanbaru - Pekambaru - Indonesia
+Destino:      VHHX - Kai Tak - Hong Kong - China
+Alternativo:  ZGGG - Guangzhou Baiyun - Guangzhou - China
+Flight Level: FL410
+Ruta:
+	SALAX N633 VKL R208 IGARI M765 BITOD L637 TSN W1 BMT W12 PCA G221 BUNTA A1 CH
+
+Route (plain text) .. = dct . for airways
+	WIBB..SALAX.N633.VKL.R208.IGARI.M765.BITOD.L637.TSN.W1.BMT.W12.PCA.G221.BUNTA.A1.CH..VHHX
+
+Distancia: 1600 nm + Distancia Alternativo: 73 nm
+Tiempo Vuelo:               03:58
+Tiempo + alternativo:       04:27
+Total combustible (tiempo): 05:12
+Peso Combustible: 28187 ( 99.9 % - 38 % - 99.9 % ) reserva: 4.5
+TOW: 136.1	v1:127  vr:135  v2:142 (162)  trim:3.36
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+					
+Notas: 
+
+WIBB trf, at ramp 1 pb/su to VHHX as filed   WIBB trf, taxi to hp rw36 via C rw   WIBB trf, entry rw for bt      WIBB trf, hp rw36 lu & to follow SALAX1B to FL410   WIBB trf, airborne 
+
+VHHX trf, leaving FL410 start descending, expecting rw13 ils      VHHX at CH 8000 start approach for rw13 ils      VHHX trf, SL 4500 clear to ils rw13     VHHX trf, full established ils rw13 to land     VHHX trf, rw vacated, taxi to platform     VHHX trf, on blocks, engines off, flight plan close

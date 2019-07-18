@@ -1,0 +1,32 @@
+Origen:       KFLL - Holliwood Intl. - Ft Laurderdale - Florida - USA
+Destino:      TJBQ - Rafael Hernandez - Aguadialla - Puerto Rico
+Alternativo:  MDLR - Casa de Campo Intl. - La Romana - Rep. Dominicana
+Flight Level: FL390
+Ruta:
+	ZBV A555 IDAHO RTE4 BQN
+Route (plain text) .. = dct . for airways
+	KFLL..ZBV.A555.IDAHO.RTE4.BQN..TJBQ
+
+Distancia: 859 nm + Distancia Alternativo: 102 nm
+Tiempo Vuelo:               02:19
+Tiempo + alternativo:       02:52
+Total combustible (tiempo): 03:37
+Peso Combustible: 19679	 ( 99.9 % - 9.0 % - 99.9 % ) reserva: 4.5
+TOW: 127.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+KFLL trf, at concourse B parking 9 pb & su to TJBQ as filed   KFLL trf, taxi to hp rw 10L via T1 B     KFLL trf, hp rw 10L lu & to follow BEECH3     KFLL trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+TJBQ trf, after HARDE FL390 start descending, expecting rw98 vor-dme transition BQN   TJBQ trf, at BQN altitude 6500 start approach rw08   TJBQ trf, final rw08 to land    TJBQ trf, rw vacated, taxi to platform (xx via xxx xxx)   TJBQ trf, on blocks, engines off, flight plan close
+

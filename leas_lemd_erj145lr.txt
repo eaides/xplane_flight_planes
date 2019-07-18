@@ -1,0 +1,33 @@
+Origen:       LEAS - Asturias - Asturias - Spain
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LESA - SALAMANCA - Salamanca - Spain
+Flight Level: FL230	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	XONDA R107 ZMR
+Route (plain text) .. = dct . for airways
+	LEAS DCT XONDA R107 ZMR DCT LEMD			LEASLEMD01.FLTPLAN
+	LEAS..XONDA.R107.ZMR..LEMD
+
+Distancia: 237 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:57
+Tiempo + alternativo:       01:29
+Total combustible (tiempo): 02:14
+Peso Combustible: 5866 ( 51.5 % - 51.5 % ) reserva: 2.3 (40.52%)
+TOW: 44.326
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEAS trf, at parking 4 pb & su to LEMD as filed   
+LEAS trf, taxi to hp rw11 via A T3 T4 A4    	LEAS trf, hp rw11 lu & to follow XONDA1E    LEAS trf, airborne
+LEAS trf, taxi to hp rw29 via A T2 T1 A1    	LEAS trf, hp rw29 lu & to follow XONDA1F    LEAS trf, airborne
+
+LEMD trf, after ... FL260 start descending, expecting rw32/18 ... ils via star ... transition ASBIM/TAGOM    LEMD trf, position VILLA continue approach VILLA2E for rw 18L ils   LEMD trf, at XXX altitude xxx clear to ils/start approach rw XX   LEMD trf, full established ils/final rw XX to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+ZAMORA3A para 18R o 18L
+ZAMORA3C o 1DCC para 32R o 32L
+
+LEMD trf, after ... FL230 start descending, expecting rw32L ils via star ZAMORA1DCC transition TOBEK    LEMD trf, position ZMR continue approach ZAMORA1DCC for rw 32L ils   LEMD trf, at TOBEK altitude 5000 clear to ils rw32L   LEMD trf, full established ils rw 32L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

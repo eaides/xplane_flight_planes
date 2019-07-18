@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL380
+Ruta:
+	PURLA H1B SUVAS UL53 KAROL UL995 TEA UZ803 LAT 
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.TEA.UZ803.LAT..LIRF 
+
+Distancia: 1245 nm + Distancia Alternativo: 108 nm
+
+Tiempo Vuelo:               02:58
+Tiempo + alternativo:       03:31
+Total combustible (tiempo): 04:16
+Peso Combustible: 68068 lbs = 30875 kgs ( 100% - ??.? % - 0 - ??.?% - 100 % - 0 - 100% - 0 - 0) reserva: 37950 29.90%
+TOW: 623.528   	    ZFW 514.208	     V1:126 VR:132 V2:147 trim 5.?			
+
+Avion: 777-200 : 280 pax (220 lbs per pax)
+Payload 67903
+Cost Index SUR: 90
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B77L/H
+
+Notas: 
+
+LLBG trf, at parking C7 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via M1 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking c7 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+
+LIRF trf, after AKAMO inbound TEA leaving FL380 start descending, expecting rw16L ils via LAT4A trans. CMP       LIRF at LAT FL180 start approach LATINA4A for rw16L ils transition CMP      LIRF trf, CMP 3000 clear to ils rw16L     LIRF trf, full established ils rw16L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+LIRF trf, after AKAMO inbound TEA leaving FL380 start descending, expecting rw34L ils via LAT1D trans. ROM       LIRF at LAT FL160 start approach LATINA1D for rw34L ils transition ROM      LIRF trf, ROM 4500 clear to ils rw34L     LIRF trf, full established ils rw34L to land    LIRF trf, rw vacated, taxi to platform     LIRF trf, on blocks, engines off, flight plan close
+
+.msg xxxx xxxx
+ready for descent to destination LIRF

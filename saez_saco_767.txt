@@ -1,0 +1,33 @@
+Origen:       SAEZ - Ezeiza Intl Minitro Pitarini- Buenos Aires - Argentina
+Destino:      SACO - Ing Aeron Ambrosio Lv Taravel - Cordoba, Argentina
+Alternativo:  SAOU - Brigadier Cesar Ojeda - San Luis, Argentina
+Flight Level: FL360
+Ruta:	
+	ATOVO UW5 CBA
+Route (plain text) .. = dct . for airways			
+	SAEZ..ATOVO.UW5.CBA..SACO
+	SAEZ DCT ATOVO UW5 CBA DCT SACO
+
+Distancia: 363 nm + Distancia Alternativo: 161 nm
+Tiempo Vuelo:               01:11
+Tiempo + alternativo:       01:52
+Total combustible (tiempo): 02:37
+
+Peso Combustible: 29605 lbs, 13429 kgs 	reserva: 9934 33.5	%		
+TOW: 280.845 (max.875000)   ZFW 251.240	  V1:124 VR:136 V2:154 trim 5.4							
+
+Avion: 767-300 : 204 pax (220 lbs per pax)	(max = 269)	(max alt. 39000)
+Payload 67903
+Cost Index SUR: 60 / flaps despegue: 15
+Velocidad para el plan de vuelo: Hasta fl250 500kn - Arriba de fl250 500kn (0.86 match)
+ICAO aircraft: B763/H
+
+Notas: 
+
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw17 via Interior A     SAEZ trf, hp rw17 lu & to follow PTA6A transition DORVO to FL370     SAEZ trf, airborne
+SAEZ trf, at parking 11 pb & su to SBGL as filed   SAEZ trf, taxi to hp rw11 via Interior F     SAEZ trf, hp rw11 lu & to follow PTA6B transition DORVO to FL370     SAEZ trf, airborne
+
+SBGL trf, after AKNUB leaving FL390 expect rw15 ils via EPGIP 1A rnav transition EGDUT    SBGL trf, EGDUT 6300 clear to ILS rw15     SBGL trf, full establshed ils rw15 to land       SBGL trf, rw vacated, taxi to parking      
+
+---------------------------------------------------------------------------------------------------------------------------------------------------   
+

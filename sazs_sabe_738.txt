@@ -1,0 +1,29 @@
+Origen:       SAZS - San Carlos de BVariloche - S.C.de Bariloche - Argentina
+Destino:      SABE - Aeroparque Jorge Newery - Buenos Aires - Argentina					
+Alternativo:  SAAR - Islas Malvinas - Rosario - Argentina
+Flight Level: FL390
+Ruta:
+	LIMAY UW26 NEU UT655 ASADA
+Route (plain text) .. = dct . for airways
+	SAZN..NEU.UT655.ASADA..SABE
+
+Distancia: 727 nm + Distancia Alternativo: 155 nm
+Tiempo Vuelo:               01:57
+Tiempo + alternativo:       02:37
+Total combustible (tiempo): 03:22
+Peso Combustible: 22266 (99.9 % - 5.0 % - 99.9 % ) reserva: 4.5
+TOW: 122.4	v1:128   vr:131   v2:129 (149)     trim: 5.25
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+SAZS trf, at parking 6 pb & su to SABE as filed   SAZS trf, taxi to hp rw11 via C    SAZN trf, entry rw on C for BT hp 11    SAZS trf, hp rw11 lu & to GEMOB4A/LIMAY   SAZS trf, airborne
+SAZS trf, at parking 6 pb & su to SABE as filed   SAZS trf, taxi to hp rw29 via A                                            SAZS trf, hp rw29 lu & to KOVAK4A/LIMAY   SAZS trf, airborne
+
+SABE trf, vertical ... leaving FL390, expecting rw31 VOR-DME chart6 via star ASADA 7D transition ILM    SABE trf, position ASADA continue approach ASADA7D for rw31 VOR-DME    SABE trf, at ILM altitude 2500 start final approach rw31   SABE trf, final rw31 to land                   SABE trf, rw vacated, taxi to platform    SABE trf, on blocks, engines off, flight plan close
+SABE trf, vertical ... leaving FL390, expecting rw13 ILS chart1 via star ASADA 7C transition VANAR      SABE trf, position ASADA continue approach ASADA7C for rw13 ILS        SABE trf, at FDO altitude 2500 clear for ILS 13            SABE trf, full established ils rw13 to land    SABE trf, rw vacated, taxi to platform   SABE trf, on blocks, engines off, flight plan close

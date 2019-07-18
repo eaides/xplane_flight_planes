@@ -1,0 +1,42 @@
+Origen:       LIRF - FIUMICINO - Roma - Italy				207/015		407
+Destino:      LEMD - BARAJAS - Madrid - Spain				P006
+Alternativo:  LEAB - 
+Flight Level: FL370
+Ruta:
+	       SOSAK ESINO Z924 RIPAL UM603 CDP UN733 PRADO
+	SOSA5A SOSAK ESINO Z924 RIPAL UM603 CDP UN733 PRADO PRAD4E
+Route (plain text) .. = dct . for airways
+	LIRF..SOSAK..ESINO.Z924.RIPAL.UM603.CDP.UN733.PRADO..LEMD
+
+Distancia: 764 nm + Distancia Alternativo: 120 nm
+
+Tiempo Vuelo:               02:07
+Tiempo + alternativo:       02:59
+Total combustible (tiempo): 03:44
+Peso Combustible: 20264   	reserva: 6.0 
+TOW: 126.2
+
+Avion: 737-800 : 153 pax (220 lbs per pax)
+Payload 35.2
+Cost Index SUR: 9
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+LIRF trf, at parking 407 pb & su to LEMD as filed   LIRF trf, taxi to hp BA1 rw25 via NZ G NG N B     LIRF trf, hp BA1 rw25 lu & to follow SOSAK5A ESINO5H   LIRF trf, airborne
+						    LIRF trf, taxi to hp AK rw34L via NZ G B A	      LIRF trf, hp AK rw34L lu & to follow SOSAK5Y ESINO5H
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+32R - TERSA1D - MAX FL200
+-65 TERSA leaving FL380 (after/at RUBEO)
+TERSA 	FL200
+SIRGU 	FL140 - 36nm
+ASBIN	6000  - 	
+
+18L - TERSA4E - MAX FL210
+-65 TERSA leaving FL380 (after/at RUBEO)
+TERSA 	FL210
+NOSKO   FL160
+TAGOM 	10000
+LEMD trf, after RUBEO leaving FL380, expecting rw 32R ils-Z via star TERSA1D transition  ASBIN      LEMD trf, position TERSA continue approach TERSA1D for rw 32R ils-Z    LEMD trf, at ASBIN altitude 6000 clear to ils rw 32R    LEMD trf, full established ils rw32R to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	
+LEMD trf, after RUBEO leaving FL380, expecting rw 18L ils-Z via star TERSA4E transition  TAGOM      LEMD trf, position TERSA continue approach TERSA4E for rw 18L ils-Z    LEMD trf, at TAGOM altitude 10000 clear to ils rw 18L    LEMD trf, full established ils rw18L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close	

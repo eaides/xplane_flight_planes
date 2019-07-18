@@ -1,0 +1,40 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEAS - Asturias - Asturias - Spain					
+Alternativo:  LEXJ - Santander - Santander - Spain
+Flight Level: FL230	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	SIE/KN420/FL230 Z298 ZMR/KN420/FL220 R107 XONDA			odd even
+Route (plain text) .. = dct . for airways
+	LEMD DCT SIE Z298 ZMR R107 XONDA DCT LEAS			LEMDLEAS01.FLTPLAN
+	LEMD..SIE.Z298.ZMR.R107.XONDA..LEAS
+
+Distancia: 258 nm + Distancia Alternativo: 97 nm
+Tiempo Vuelo:               01:00
+Tiempo + alternativo:       01:32
+Total combustible (tiempo): 02:17
+Peso Combustible: 6036 ( 53 % - 53 % ) reserva: 2.3 (40.52%)
+TOW: 44.497
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+	LEMD trf, at parking 346 pb & su to LEAM as filed   
+LEMD trf, taxi to hp rw14R via R D3 S4 S3 A...     
+LEMD trf, taxi to hp rw14L via R D3 S4 S3 A...
+	LEMD trf, taxi to hp rw36R via R D3 S4 S3 A...
+	LEMD trf, taxi to hp rw36L via R D3 S4 S3 A...
+LEMD trf, hp rw14R lu & to follow SOMOSIERRA2B o 2S o 2AS to FL230                LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow SOMOSIERRA2V to FL230                           LEMD trf, airborne
+	LEMD trf, hp rw36R lu & to follow SOMOSIERRA1W (o 1X) to FL230                    LEMD trf, airborne
+	LEMD trf, hp rw36L lu & to follow SOMOSIERRA2L o 1NQ o 1AL o 1X (o 1W) to FL230   LEMD trf, airborne
+Despegue: ????Z
+
+at ZMR FL230 climb to FL220
+
+11 (XONA1DCA o 1A o 1B) 29 (XONDA1C o 1D o 1L)
+LEAS trf, approaching/at ... leaving FL220 to .... for XONDA... expecting rw11 VOR / rw29 ILS
+LEAS trf, at XONDA FL... continue approach XONDA... to ils rw29 / vor rw11     LEAS trf, at ..... FL... clear to ILS 29 / final approach vor 11     LEAS trf, full established ils rw29 . final rw11 to land    LEAS trf, rw vacated, taxi to platform

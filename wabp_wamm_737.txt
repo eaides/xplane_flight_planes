@@ -1,0 +1,27 @@
+Origen:       WABP - Tembagapura - Timika, Indonesia (WAYY)
+Destino:      WAMM - Ratulangi - Manado - Indonesia
+Alternativo:  WAMG - Dialaluddin - Gorontalo - Indonesia
+Flight Level: FL400
+Ruta:
+	TMK W67 SOSOK
+Route (plain text) .. = dct . for airways
+	WABP (WAYY) TMK W67 SOSOK WAMM
+
+Distancia: 827 nm + Distancia Alternativo: 136 nm
+Tiempo Vuelo:               02:15
+Tiempo + alternativo:       02:52
+Total combustible (tiempo): 03:37
+Peso Combustible: 19834 (99.9 % - 9.0 % - 99.9 %) reserva: 4.5 
+TOW: 127.8 (32.9% trim: 2.81)   v1: 122    vr: 130    v2: 138
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 12/30
+WABP trf, at parking 3 pb/su to WAMM as filed      WABP trf, taxi to hp rw12           WABP tr, entry rw for b/t to hp12       WABP trf, hp rw12 lu & to ... @FL400       	WABP trf, airborne
+WABP trf, at parking 3 pb/su to WAMM as filed      WABP trf, taxi to hp rw30           WABP tr, entry rw for b/t to hp30       WABP trf, hp rw30 lu & to ... @FL400       	WABP trf, airborne
+
+destination rw: 18/36
+WAMM trf, after SOSAK leaving FL400, expecting rw18 ILS via GUREDA1 trans MWB        WAMM trf, at MWB clear for rw18 ILS        WAMM trf, established ils rw18 to land       WAMM trf, rw vacated, taxi to platform    WAMM trf, on blocks, engines off, flight plan close

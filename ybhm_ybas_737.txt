@@ -1,0 +1,27 @@
+Origen:       YBHM - Hamilton I. - Hamilton I - Australia
+Destino:      YBAS - Alice Springs - Alice Springs, Australia
+Alternativo:  YAYE - Ayers Rock - Ayers Rock - Australia
+Flight Level: FL400
+Ruta:
+	HM W685 PN V527 ALISN V134 TL J184 MA J64 ANZAC
+Route (plain text) .. = dct . for airways
+	YBHM..HM.W685.PN.V527.ALISN.V134.TL.J184.MA.J64.ANZAC..YBAS
+
+Distancia: 933 nm + Distancia Alternativo: 180 nm
+Tiempo Vuelo:               02:29
+Tiempo + alternativo:       03:12
+Total combustible (tiempo): 03:57
+Peso Combustible: 21562 (99.9 % - 15.0 % - 99.9 %) reserva: 4.5 
+TOW: 129.5 (32.9% trim: 2.86)   v1: 123    vr: 131    v2: 139
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+departure rw: 14/32
+YBHM trf, at parking 2 pb/su to YBAS as filed      YBHM trf, taxi to hp rw14 via B            YBHM trf, entry rw for b/t to hp       YBHM trf, hp rw14 lu & to to FL400    	YBHM trf, airborne
+YBHM trf, at parking 2 pb/su to YBAS as filed      YBHM trf, taxi to hp rw32 via C            YBHM trf, entry rw for b/t to hp       YBHM trf, hp rw32 lu & to to FL400       	YBHM trf, airborne
+
+destination rw: 12/30
+YBAS trf, inbound AS leaving FL400, expecting rw12 ILS-Y         YBAS trf, AS 5500 clear tp ILS-Y rw12      YBAS trf, full established ils rw12 to land       YBAS trf, rw vacated, taxi to platform    YBAS trf, on blocks, engines off, flight plan close

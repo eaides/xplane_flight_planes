@@ -1,0 +1,33 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LIRF - Fiumicino - Roma - Italy
+Alternativo:  LIRN - Capodichino - Napoles - Italy
+Flight Level: FL360
+Ruta:
+	PURLA UH1B SUVAS UL53 KAROL UL995 TIGRA/KN440FL350 UL995 TEA UZ803 SIPRO UZ803 LAT 
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.TEA.UZ803.SIPRO.UZ803.LAT..LIRF 
+
+Distancia: 1250 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               03:14
+Tiempo + alternativo:       03:48
+Total combustible (tiempo): 04:33
+Peso Combustible: 11390 ( 100 % - 100 % ) reserva: 2309 
+TOW: 48.437
+
+Avion: ERJ 145LR : 45 pax (220 lbs per pax) - 500 carga (85%)
+Payload 9710 
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 300kn - Arriba de fl250 450kn (0.76 match)
+ICAO aircraft: E45X
+					
+Notas: 
+
+LLBG trf, at parking L3 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via L N R W1   LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking C4 pb/su to LIRF as filed   LLBG trf, taxi to hp rw26 W1 via M2 L R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition SUVAS to FL360   LLBG trf, airborne 
+LLBG trf, at parking L3 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via L N R K S     LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+LLBG trf, at parking c4 pb/su to LIRF as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition SUVAS to FL360      LLBG trf, airborne 
+
+Despegue: ????Z
+vertical XXX leaving FL360 descending FL350 over UL995 enter Italy air space
+
+LIRF trf, at AMSOR leaving FL350 start descending, expecting rw16L ils via LAT4A trans. CMP       LIRF at LAT FL120 start approach LATINA4A for rw16L ils transition CMP      LIRF trf, CMP 6000 clear to ils rw16L     LOWW trf, full established ils rw16L to land    LOWW trf, rw vacated, taxi to platform     LOWW trf, on blocks, engines off, flight plan close

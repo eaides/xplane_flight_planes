@@ -1,0 +1,37 @@
+Origen:       LEMD - Barajas - Madrid - Spain
+Destino:      LEJR - Jerez - Jerez - Spain
+Alternativo:  LEGR - Federico Garcia Lorca - Granada - Spain
+Flight Level: FL270	(max para el avion FL370) (Barza-Madrid la maxima es FL290 segun controladores)
+Ruta:
+	VTB UN10 HIJ		odd -- odd
+Route (plain text) .. = dct . for airways
+	LEMD DCT VTB UN10 HIJ DCT LEJR			LEMDLEJR01.FLTPLAN
+	LEMD..VTB.UN10.HIJ..LEJR
+
+Distancia: 265 nm + Distancia Alternativo: 113 nm
+Tiempo Vuelo:               01:01
+Tiempo + alternativo:       01:35
+Total combustible (tiempo): 02:20
+Peso Combustible: 6151 ( 54 % - 54 % ) reserva: 2.3 (40.52%)
+TOW: 44.213
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1914 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LEMD trf, at parking T10 pb & su to LEJR as filed   
+LEMD trf, taxi to hp rw14R via interior G2 A(norte)...     
+LEMD trf, taxi to hp rw14L via interior G2 A(norte)...     
+LEMD trf, taxi to hp rw36R via interior G2 A(norte)...     
+	LEMD trf, taxi to hp rw36L via interior G2 A(norte) M17 R5 Z2     
+LEMD trf, hp rw14R lu & to follow VILLATOBAS2S o 1B    LEMD trf, airborne
+LEMD trf, hp rw14L lu & to follow VILLATOBAS1V         LEMD trf, airborne
+LEMD trf, hp rw36R lu & to follow VILLATOBAS2W         LEMD trf, airborne
+	LEMD trf, hp rw36L lu & to follow VILLATOBAS1NF        LEMD trf, airborne
+Despegue: ????Z
+
+LEJR trf, vertical HIJ starting descendt for HIJ1U expecting rw20 ILS
+LEJR trf, at XETAN 5000 clear to ILS 20     LEJR trf, full established ils rw20 to land    LEJR trf, rw vacated, taxi to platform

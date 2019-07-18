@@ -1,0 +1,25 @@
+Origen:       ESSA - Arlanda - Stockholm - Sweden
+Destino:      EFHK - Vantaa - Helsinki - Finland
+Alternativo:  EFHA - Halli - Halli - Finland
+Flight Level: FL350
+Ruta:
+	NTL N851 LAKUT
+Route (plain text) .. = dct . for airways
+	ESSA..NTL.N851.LAKUT..EFHK 
+
+Distancia: 219 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               00:54
+Tiempo + alternativo:       01:26
+Total combustible (tiempo): 02:11
+Peso Combustible: 12944 (75.0 % - 0.0 % - 75.0 % ) reserva: 4.5
+TOW: 120.9 (32.5% - trim 2.78)	v1:117  vr:125  v2: 135
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+ESSA trf, at parking 14 pb & su to EFHK as filed      ESSA trf, taxi to hp rw08 via ZL X X2      ESSA trf, hp X2 rw98 lu & to follow NTL2L           ESSA trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+EFHK trf, after RIRIP inbound LAKT leaving FL350 expect rw22L via LAKUT2A            EFHK trf, at LAKUT continue LAKUT2A for rw22L ils        EFHK trf, at ARVUX altitude 3100 clear to ils rw22L      EFHK trf, full established ils rw22L to land      EFHK trf, rw vacated, taxi to platform      EFHK trf, on blocks, engines off, flight plan close

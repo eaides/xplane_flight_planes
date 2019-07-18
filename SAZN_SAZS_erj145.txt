@@ -1,0 +1,29 @@
+Origen:       SAZN - Presidente Peron - Neuquen, Argentina (alt. 896)
+Destino:      SAZS - S C De Bariloche - S C De Bariloche, Argentina (alt 2774)
+Alternativo:  SAZY - Aviador C Campos - San Martin de los Andes, Argentina 
+Flight Level: FL280
+Ruta:	
+	NEU UW30 EKEBA UT654 VULON (BAR)
+Route (plain text) .. = dct . for airways	
+	SAZN..NEU.UW30.EKEBA.UT654.VULON..SAZS
+	SAZN NEU UW30 EKEBA UT654 VULON SAZS
+
+Distancia: 198 nm + Distancia Alternativo: 64 nm
+Tiempo Vuelo:               00:51
+Tiempo + alternativo:       01:19
+Total combustible (tiempo): 02:04
+Peso Combustible: 5496 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+09/27
+SAZN trf, at parking pb & su to SAZS as filed   SAZN trf, taxi to hp rw09 via C   	SAZN trf, entry rw onc C for BT   SAZN trf, hp rw09 LU&TO FL280     SAME trf, airborne
+SAZN trf, at parking pb & su to SAZS as filed   SAZN trf, taxi to hp rw27 via A  	                                  SAZN trf, hp rw27 LU&TO FL280     SAME trf, airborne
+
+11/29
+SAZS trf, 60nm inbound VULON leavinng FL280 expecting for rw29 ILS VULON1        SAZS trf, ILRAM 7300 clear for ILS rw29 chart1      SAZS trf, final rw11, to land    SAZS trf, rw vacated, taxi to platform (xx via xxx xxx)   SAZS trf, on blocks, engines off, flight plan close
+SAZS trf, 60nm inbound VULON leavinng FL280 expecting for rw11 VOR/DME VULON1    SAZS trf, BAR FL100 start approach rw11 chart4      SAZS trf, full established ILS rw29, to land    SAZS trf, rw vacated, taxi to platform (xx via xxx xxx)   SAZS trf, on blocks, engines off, flight plan close

@@ -1,0 +1,34 @@
+Origen:       LLET - Eilat - Eilat - Israel                                    
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLET - Eilat - Eilat - Israel                                    
+Flight Level: FL180
+Ruta:
+	SAMAR UJ10 BGN
+Route (plain text) .. = dct . for airways
+	LLET..SAMAR.UJ10.BGN..LLBG
+
+Distancia: 174 nm + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               01:02
+Tiempo + alternativo:       01:48
+Total combustible (tiempo): 02:33
+Peso Combustible: 4.585 ( 41 % - 00.0 % - 40 % ) reserva: 2.3 
+TOW: 23.425
+		
+Avion: SF34 Saab 340 : 25 pax (220 lbs per pax) - 0 carga (85%)
+Payload 6160 - ZFW 18.800
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: 180kn
+
+Notas: 
+
+LLET trf, at parking 3 su to LLBG as filed   LLET trf, taxi to hp rw03    LLET trf, hp rw03 lu & to follow SAMAR1A to FL220   LLET trf, airborne - Despegue: ????Z
+LLET trf, at parking 3 su to LLBG as filed   LLET trf, taxi to hp rw21    LLET trf, entry rw for b/t    LLET trf, hp rw21 lu & to follow SAMAR1B to FL220   LLET trf, airborne - Despegue: ????Z
+
+LLBG trf, leaving FL220 start descending, expecting rw26 ils    LLBG trf, clear to ils26  LLBG trf, full established ils rw26 to land  
+LLBG trf, leaving FL220 start descending, expecting rw08 ils transition BGN      LLBG trf, at BGN 6000 clear to ils08  LLBG trf, full established ils rw08 to land  
+LLBG trf, rw vacated, taxi to platform L3 via W4 R N L     LLBG trf, on blocks, engines off, flight plan close  
+LLBG trf, rw vacated, taxi to platform C3 via W4 M M2  	   LLBG trf, on blocks, engines off, flight plan close
+
+LLBG trf, leaving FL220 start descending, expecting rw08 ils transition BGN   LLBG trf, vertical BGN 6000 clear to ils 08  LLBG trf, full established ils rw 08 to land    
+LLBG trf, rw vacated, taxi to platform C3 via W3 (or W2) R K M1     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, rw vacated, taxi to platform L3 via W3 (or W2) R N L      LLBG trf, on blocks, engines off, flight plan close

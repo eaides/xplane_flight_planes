@@ -1,0 +1,31 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LIPZ - Tessera - Venice - Italy
+Alternativo:  LIPR - Rimini - Rimini - Italy
+Flight Level: FL380
+Ruta:
+	PURLA UH1 GITLA UA14 KAROL UL53 KOR UL613 LISKO UZ906 CHI UN503 LOBSI 
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.UH1.GITLA.UA14.KAROL.UL53.KOR.UL613.LISKO.UZ906.CHI.UN503.LOBSI..LIPZ 
+Ifly: 	LLBGLIPZ01
+
+Distancia: 1371 nm + Distancia Alternativo: 90 nm
+Tiempo Vuelo:               03:27
+Tiempo + alternativo:       03:59
+Total combustible (tiempo): 04:44
+Peso Combustible: 25566 ( 99.9 % - 28.9 % - 99.9 % ) reserva: 4.5
+TOW: 133.5
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24035
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+					
+Notas: 
+
+LLBG trf, at parking C3 pb/su to LIPZ as filed   LLBG trf, taxi to hp rw26 W1 via M1 K R W1  LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition GITLA to FL380   LLBG trf, airborne 
+LLBG trf, at parking c3 pb/su to LIPZ as filed   LLBG trf, taxi to hp rw08 via M2 K S        LLBG trf, hp rw08 lu & to follow PURLA1B transition GITLA to FL380      LLBG trf, airborne 
+
+Despegue: ????Z
+vertical XXX leaving FL380 descending FL370 over UL995 enter Italy air space
+
+LIPZ trf, at XXXX leaving FL370 start descending, expecting rwXXX ils via XXXX trans. XXXX       LIPZ at XXX FLXXX start approach XXXX for rwXXX ils transition XXX      LIPZ trf, XXX 9999 clear to ils rwXXXX     LIPZ trf, full established ils rwXXXX to land    LIPZ trf, rw vacated, taxi to platform     LIPZ trf, on blocks, engines off, flight plan close

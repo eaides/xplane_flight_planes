@@ -1,0 +1,34 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel                                 
+Destino:      LOWW - Schwechat - Vienna - Austria
+Alternativo:  LOWL - Linz - Linz - Austria
+Flight Level: FL360
+Ruta:
+	SUVAS UL53 KAROL UL995 RDS UN128 PEREN UN133 EVIVI L863 RAVAK UY505 BEO UN739 LULIK UM127 TONDO UL610 ABETI DCT PESAT
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA..SUVAS.UL53.KAROL.UL995.RDS.UN128.PEREN.UN133.EVIVI.L863.RAVAK.UY505.BEO.UN739.LULIK.UM127.TONDO.UL610.ABETI..PESAT..LOWW
+
+Distancia: 1321 nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               03:24
+Tiempo + alternativo:       03:56
+Total combustible (tiempo): 04:41
+Peso Combustible: 11390 ( 100 % - 100 % ) reserva: 2309 
+TOW: 48.437
+
+Avion: ERJ 145LR : 45 pax (220 lbs per pax) - 500 carga (85%)
+Payload 9710 
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 300kn - Arriba de fl250 450kn (0.76 match)
+ICAO aircraft: E45X
+					
+Notas: 
+
+LLBG trf, at parking L3 pb/su to LOWW as filed   LLBG trf, taxi to hp rw26 W1 via L N R W1   LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition PURLA to FL360   
+LLBG trf, at parking L3 pb/su to LOWW as filed   LLBG trf, taxi to hp rw08 via L N R K S     LLBG trf, hp rw08 lu & to follow PURLA1B transition PURLA to FL360   
+LLBG trf, at parking C4 pb/su to LOWW as filed   LLBG trf, taxi to hp rw26 W1 via M2 K R W1   LLBG trf, hp rw26 W1 lu & to follow PURLA1E transition PURLA to FL360   
+LLBG trf, at parking C4 pb/su to LOWW as filed   LLBG trf, taxi to hp rw08 via L M2 K S     LLBG trf, hp rw08 lu & to follow PURLA1B transition PURLA to FL360   
+
+LLBG trf, airborne - Despegue: ????Z
+
+vertical XXX leaving FL360 descending FL350 over UL995 enter Italy air space
+
+LOWW trf, leaving FL360 start descending, expecting rwXX ils via PESATxx       LOWW at LAT FL120 start approach LATINA4A for rw16L ils transition ROM      LOWW trf, ROM 6000 clear to ils rw16L     LOWW trf, full established ils rw16L to land    LOWW trf, rw vacated, taxi to platform     LOWW trf, on blocks, engines off, flight plan close

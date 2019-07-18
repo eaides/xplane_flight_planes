@@ -1,0 +1,39 @@
+Origen:       SAME - Mendoza
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL230
+Ruta:	
+
+	PAPIR W9 NIN W12 SNT SNT6A  
+Route (plain text) .. = dct . for airways
+	SAME..PAPIR.W9.NIN.W12.SNT..SAEZ
+
+Distancia: 600 nm + Distancia Alternativo: 160 nm
+Tiempo Vuelo:               01:37
+Tiempo + alternativo:       02:13
+Total combustible (tiempo): 02:58
+Peso Combustible: 22672
+
+Avion: 737-200 : 106 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	
+
+SANE
+	PAPIR +114.9 DOZ -> 109		PAPIR +55 +37 KABAK +54 Fraga +33 RYD
+	+115.7 RYD <- 106  
+	+115.7 RYD -> 105		+45 TOSOR +59 LYE = 104
+	-116.3 LYE <- 103							(LYE inetrcepta MJZ 114.7 220/??)
+	-116.3 LYE -> 102		+64 ARMUP +29 NUXIM +31 NIN					
+	-116.1 NIN <- 106    							(NIN intercepta SNT 117.7 080/77) 
+	-116.1 NIN -> 80		+77 SNT
+	+117.7 SNT <- 80
+	+117.7 SNT -> 147 ( 42 ) Arsot
+EZE +116.5				64 antes de ARSOT bajar a 5000 (22 antes de SNT)
+
+
+
+
+SAEZ

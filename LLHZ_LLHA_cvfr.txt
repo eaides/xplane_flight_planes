@@ -1,0 +1,17 @@
+LLHZ - LLHA	(LLSD)
+
+BAZRA DEROR SHARO HADRA FRDIS ATLIT MDROM GALIM 
+
+	LLHZ	Herzlia	358°	
+(x)	BAZRA	Batzra	045°	800	3.4	045°	047°	130	900					
+(x)	DEROR	Dror	007°	1500	2.4	007°	011°	130	900					
+	SHARO	Tzomet-Hasharon	
+(x)	HADRA	Hadera	360°	
+	FRDIS	Tzomet-Fardis	
+	ATLIT	Atlit	359°	
+(x)	MDROM	Mechlaf-Darom	
+	GALIM	Bat galim	
+	LLHA	Haifa
+
+LLHZ trf, su to LLHZ VFR as filed   LLHZ taxi to hp rw 29     LLHZ trf, hp rw 29 lu & to to BAZRA 800    BAZRA 800 next DEROR	DEROR 800 climbing 1500 next HADRA	HADRA 1500 next MDROR
+MDROR 1500 continue GALIM   GALIM 1500 entry downwind 800 for rw 34 LLHA   LLHA trf, downwind rw34 800	LLHA trf, final rw34 to land   LLHA trf, rw vacated

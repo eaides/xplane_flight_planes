@@ -1,0 +1,35 @@
+Origen:       LEMD - BARAJAS - Madrid - Spain
+Destino:      LIRF - FIUMICINO - Roma - Italy
+Alternativo:  LIRN - NAPOLI CAPODOCHIO - Napoles - Italy
+Flight Level: FL380 (en IVAO usar PAR)
+Ruta:
+	PINAR UN870 BCN UN725 ORKUM UM603 ROXAN UM126 ESINO
+Route (plain text) .. = dct . for airways
+	LEMD..PINAR.UN870.BCN.UN725.ORKUM.UM603.ROXAN.UM126.ESINO..LIRF
+
+Distancia: 761 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               02:10
+Tiempo + alternativo:       02:40
+Total combustible (tiempo): 03:25
+Peso Combustible: 18559 ( 100 % - 4.5 % - 100 % ) reserva: 4.5 
+TOW: 124.5
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas: reemplazar 36L (case sensitive) por el numero de pista para despegue
+
+LEMD trf, at parking 556 pb & su to LIRF as filed   LEMD trf, taxi to hp rw 36L via xx    (LEMD trf, crossing rw XX/XX)   (LEMD trf, entry rw 36L for backtrack)  LEMD trf, hp rw 36L lu & to follow XXXXX (transition XXX)   LEMD trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LIRF trf, at ROXAN FL380 start descending, expecting rw 16L ils via ESINO4B transition CMP   LIRF trf, position ESINO continue approach ESINO4B for rw 16L ils   LIRF trf, at CMP altitude 5000 clear to ils approach rw 16L   LIRF trf, full established ils rw 16L to land    LIRF trf, rw vacated, taxi to platform (xx via xxx xxx)   LIRF trf, on blocks, engines off, flight plan close
+
+
+
+
+2012-08-17
+LEMD trf, at parking T5 pb & su to LIRF as filed   LEMD trf, taxi to hp rw 36L via Interior G2 M N16 M17 R5 Z2     LEMD trf, hp Z2 rw36L lu & to follow PINAR2N    LEMD trf, airborne
+
+LIRF trf, at ROXAN FL380 start descending, expecting rw 25 ils via star ESINO4B transition CMP   LIRF trf, at CMP altitude 6000 clear to ils rw 25   LIRF trf, full established ils rw 25 to land    LIRF trf, rw vacated, taxi to platform (xx via xxx xxx)   LIRF trf, on blocks, engines off, flight plan close

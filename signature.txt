@@ -1,0 +1,52 @@
+https://www.ikea.co.il/category/Bathroom_first/Bathroom_Accessories/40243596
+https://www.ikea.co.il/catid/Bathroom_first/Bathroom_Accessories/40243596
+
+
+https://www.ikea.co.il/catalogue/Bathroom_first/Bathroom_Accessories/40243596
+https://www.ikea.co.il/catalogue/Bathroom/Bathroom_shower_and_toilet_solutions/40243596
+
+
+	https://www.ikea.co.il/catalogue/Bathroom_first/Bathroom_Accessories/30271491 	
+	https://www.ikea.co.il/catalogue/Bathroom/Bathroom_around_the_sink/30271491
+
+http://www.cmtindustrial.com/cms.php?id_cms=7
+
+
+
+svn sw http://svn.il1.signature-it.com/system/v2.0/generic/tags/v2.6M275v241
+svn sw 
+
+
+
+
+$urlObj = new SigUrl( rawurldecode( $_SERVER['REQUEST_URI'] ) );
+$router = Router_Ikea::create();
+$response = $router->getMappedRoute($urlObj);
+
+
+
+ikea_google_item_link		40243596	p_code		id=2471		gid=623
+
+
+ikea-desktop.sabinal.d.il1-d7.signature-it.com/catalogue/Bathroom_first/Bathroom_Accessories/40243596
+
+
+
+
+
+http://ikea-store.m503.signature-it.com/catalogue/Lighting_and_Home_Smart/PendantL/30293370
+http://ikea-store.m503.signature-it.com/catalogue/Lighting_and_Home_Smart/Pendant_lamps/30293370
+http://ikea-store.m503.signature-it.com/catalogue/Lighting_and_Home_Smart/Pendant_lamps/30293370
+
+'CATALOGUE'       => '^\/catalogue\/',
+
+
+	nano /production/ikea2/includes/Classes/Router_Ikea.class.php
+	nano /production/ikea/includes/Classes/Router_Ikea.class.php
+nano /production/ikea-dev/includes/Classes/Router_Ikea.class.php
+nano /production/ikea2.backup/includes/Classes/Router_Ikea.class.php
+nano /production/ikea2-dev/includes/Classes/Router_Ikea.class.php
+
+
+http://ikea-store.m503.signature-it.com/catalogue/Lighting_and_Home_Smart/PendantL/30293370
+http://ikea-store.m503.signature-it.com/catalogue/Lighting_and_Home_Smart/Pendant_lamps/30293370

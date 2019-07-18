@@ -1,0 +1,24 @@
+Origen:       LDZA - Pleso - Zagreb - Croatia
+Destino:      LGAV - Eleftherios Venizelos Intl - Athens - Greece
+Alternativo:  LGKL - Kalamata - Kalamata - Greece
+Flight Level: FL390
+Ruta:
+	BANUG UL603 RUGAS UN128 PEREN/K460F400 UV652 SKP UB1 ABLON
+Route (plain text) .. = dct . for airways
+	LDZA..BANUG.UL603.RUGAS.UN128.PEREN.UV652.SKP.UB1.ABLON..LGAV ??
+
+Distancia: 631 nm + Distancia Alternativo: 105 nm
+Tiempo Vuelo:               01:48
+Tiempo + alternativo:       02:22
+Total combustible (tiempo): 03:07	
+Peso Combustible: 17242 (99.9 % - 0.0 % - 99.9 % ) reserva: 4.5
+TOW: 125.2 (33.3% - trim 2.63)	v1:120  vr:128  v2: 137
+
+Avion: 737-700 : 105 pax (220 lbs per pax) - equipement: L
+Payload 23088
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+
+LDZA trf, at parking 3 pb & su to LGAV as filed      LDZA trf, taxi to hp rw05 via A     LDZA trf, hp rw05 lu & to follow BANUG3C        LDZA trf, airborne
+
+LGAV trf, at OMIRO leaving FL410, expecting rw 21L ils/vor-dme via star ABLON1B transition KEA   LGAV trf, position ABLON continue approach ABLON1B for rw21L ils/vor-dme transition KEA     LGAV trf, at KEA altitude 6000 clear to ils/start approach rw21L      LGAV trf, full established ils/final rw21L to land    LGAV trf, rw vacated, taxi to platform (xx via xxx xxx)   LGAV trf, on blocks, engines off, flight plan close

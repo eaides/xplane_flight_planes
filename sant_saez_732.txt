@@ -1,0 +1,39 @@
+Origen:       SANT - Tucuman
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL230
+Ruta:	
+	ANGEN W8 ERE T672 ROS W20 MULTA W24 SNT
+Route (plain text) .. = dct . for airways
+	SANT..ANGEN.W8.ERE.T672.ROS.W20.MULTA.W24.SNT..SAEZ
+
+Distancia: 603 nm + Distancia Alternativo: 160 nm
+Tiempo Vuelo:               01:42
+Tiempo + alternativo:       02:19
+Total combustible (tiempo): 03:05
+Peso Combustible: 23207
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SANT
+	TUC 114.1 -> 142 ( + 40 ) interceptar SDE
+	SDE 114.8 <- 157 ( + 30 )
+	SDE 114.8 -> 142 ( 30 + ...)	
+	ERE 115.5 <- 142 ( 30 + 73 + 74 = 177)
+	ERE 115.5 -> 168 ( 90 + 70 + 30)
+	ROS 117.3 <- 170
+	ROS 117.3 -> 157 ( 30 + 35 = 65 ) interceptar SNT/129
+	SNT 117.7 <- 129 ( 41 )
+	SNT       => 147 ( 42 ) Arsot
+EZE 116.5				64 antes de ARSOT bajar a 5000 (22 antes de SNT)
+
+
+
+
+
+SAEZ

@@ -1,0 +1,26 @@
+Origen:       SAWH - Ushuaia - Ushuaia - Argentina
+Destino:      SCTE - El Tepual Intl - Puerto Montt - Chile
+Alternativo:  SAZS - San Carlos de Bariloche - Bariloche - Argentina
+Flight Level: FL380
+Ruta:
+	LITOK UG550 GUTIN
+Route (plain text) .. = dct . for airways
+	SAWH..LITOK.UG550.GUTIN..SCTE
+
+Distancia: 845 nm + Distancia Alternativo: 89 nm
+Tiempo Vuelo:               02:12
+Tiempo + alternativo:       02:43
+Total combustible (tiempo): 03:28
+Peso Combustible: 21418 ( 99.9 % - 14.5 % - 99.9 % ) reserva: 4.5 
+TOW: 129.4 (32.8% trim: 2.92)   v1: 123    vr: 131    v2: 139
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+
+SAWH trf, at parking 1 pb & su to SCTE as filed   SAWH trf, taxi to hp rw07 via 2    SAWH trf, entry rw on 2 for backtrack    SAWH trf, hp rw07 lu & to follow USUHAIA2A transition LITOK   SAWH trf, airborne
+SAWH trf, at parking 1 pb & su to SCTE as filed   SAWH trf, taxi to hp rw25 via 1        SAWH trf, entry rw on 1 for backtrack    SAWH trf, hp rw25 lu & to follow USUHAIA2B transition LITOK   SAWH trf, airborne
+
+
+SCTE trf, after ARGOS inbound GUTIN leaving FL380, expecting rw35 ils via star SILAS1    SCTE trf, position GUTIN start approach SILAS1 for rw35 ils   SCTE trf, at SILAS altitude 3000 clear to ils rw35   SCTE trf, full established ils rw35 to land    SCTE trf, rw vacated, taxi to platform (xx via xxx xxx)   SCTE trf, on blocks, engines off, flight plan close

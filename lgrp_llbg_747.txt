@@ -1,0 +1,30 @@
+Origen:       LGRP - Diagoras - Rodos - Greece
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLOV - Ovda - Ovda - Israel
+Flight Level: FL390
+Ruta:
+	NILAS UL609 SOLIN
+Route (plain text) .. = dct . for airways
+	LGRP..NILAS.UL609.SOLIN..LLBG
+
+Distancia: 429 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       02:00
+Total combustible (tiempo): 02:45
+Peso Combustible: 14670 ( 86 % - 0 % - 84 % ) reserva: 4.5
+TOW: 122.6
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 24935
+Cost Index SUR: 60
+
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+LGRP trf, at parking 1 pb & su to LLBG as filed   LGRP trf, taxi to hp rw25 via A    LGRP trf, hp rw25 lu & to follow NILAS1A    LGRP trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LLBG trf, at/after XXX FLxxx start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   LLBG trf, position XXX continue approach xxx for rw XX ils/vor-dme   LLBG trf, at XXX altitude xxx clear to ils/start approach rw XX   LLBG trf, full established ils/final rw XX to land    LLBG trf, rw vacated, taxi to platform (xx via xxx xxx)   LLBG trf, on blocks, engines off, flight plan close

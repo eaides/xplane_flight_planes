@@ -1,0 +1,22 @@
+Origen:       LPMA - Funchal - Madeira, Portugal		344/032		P009
+Destino:      LEMD - Barajas - Madrid - Spain
+Alternativo:  LEAB - 
+Flight Level: FL380
+Ruta:
+	SNT B18 NARTA R47 SVL R10 HIJ Z230 SOTUK
+Route (plain text) .. = dct . for airways
+	LPMA..SNT.B18.NARTA.R47.SVL.R10.HIJ.Z230.SOTUK..LEMD
+
+Distancia: 838 nm + Distancia Alternativo: 93 nm
+
+Tiempo Vuelo:               02:55
+Tiempo + alternativo:       03:45
+Total combustible (tiempo): 04:30
+Peso Combustible: 26401		- reserva: 6.5 
+ZFW 126854	TOW 152755 
+
+Avion: 737-800 : 152 pax (220 lbs per pax) - equipement: L
+Payload 35.0
+Cost Index SUR: 80
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+

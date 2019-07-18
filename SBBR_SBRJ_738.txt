@@ -1,0 +1,41 @@
+Origen:     	SBBR - Pres Juscelino Kubitschek Int - Brasilia, Brazil 			alt. 3479 ft.
+	RWY11L largo: 10499 ft.
+	RWY11R largo: 10827 ft.
+	RWY29L largo: 10827 ft.
+	RWY29R largo: 10499 ft.
+Destino:	SBRJ - Santos Dumont - Rio De Janeiro, Brazil					alt. 11 ft.
+	RWY02L largo: 4134 ft.
+	RWY02R largo: 4331 ft.
+	RWY20L largo: 4331 ft.
+	RWY20R largo: 4134 ft.
+Alternativo: 	SBGR
+Flight Level: FL360
+Ruta:
+	GAXO1A 
+	NIMKI UZ6 TOKIM 
+	UGRA1B
+Route (plain text) .. = dct . for airways
+	SBBR..NIMKI.UZ6.TOKIM..SBRJ
+Distancia: 503 nm + Distancia Alternativo: 186 nm
+Tiempo Vuelo:               01:29
+Tiempo + alternativo:       02:12
+Total combustible (tiempo): 02:57
+Peso Combustible: 19806		reserva: 6.5
+TOW: 143.0
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw10 via main 3    UHMM entry rw for bt		UHMM trf, hp rw 10 lu & to follow OSKET1     UHMM trf, airborne
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw28 via main 1    UHMM entry rw for bt		UHMM trf, hp rw 28 lu & to follow OSKET3     UHMM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+UHPP trf, at EGONI FL370, expecting rw... ILS via .... transition ....		UHPP trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

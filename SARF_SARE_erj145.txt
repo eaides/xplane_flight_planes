@@ -1,0 +1,28 @@
+Origen:       SARF - Formosa - Formosa, Argentina
+Destino:      SARE - Resistencia intl - Resistencia, Argentina
+Alternativo:  SARF - Formosa - Formosa, Argentina
+Flight Level: FL140
+Ruta:	
+	FSA A428 SIS
+Route (plain text) .. = dct . for airways
+	SARF..FSA.A428.SIS..SARE
+	SARF FSA A428 SIS SARE
+
+Distancia: 87 nm + Distancia Alternativo: 87 nm
+Tiempo Vuelo:               00:36
+Tiempo + alternativo:       01:07
+Total combustible (tiempo): 01:52
+Peso Combustible: 5015 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+04/22
+SARF trf, at parking pb & su to SARE as filed   SARF trf, taxi to hp rw04    	SARF trf, entry rw for BT	SARF trf, hp rw04 lu & TO FL140     SARF trf, airborne
+SARF trf, at parking pb & su to SARE as filed   SARF trf, taxi to hp rw22       SARF trf, entry rw for BT	SARF trf, hp rw22 lu & TO FL140     SARF trf, airborne
+
+03/21
+SARE trf, 50nm inbound SIS leaving FL140, expecting rw21 ILS     SARE trf, D9.5 SIS 2500 clear for ILS rw21    SARE trf, full established ILS rw21 to land    SARE trf, rw vacated, taxi to platform (xx via xxx xxx)   SARE trf, on blocks, engines off, flight plan close

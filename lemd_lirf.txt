@@ -1,0 +1,21 @@
+Origen:      LEMD
+Destino:     LIRF
+Alternativo: LIRN
+FL:          FL400
+Ruta: 
+   PINAR UN870 BCN UN725 ORKUM UM603 ROXAN UM126 ESINO
+Route (plain text) .. = dct . for airways
+   LEMD..PINAR.UN870.BCN.UN725.ORKUM.UM603.ROXAN.UM126.ESINO..LIRF
+Distancia: 761 nm + Distancia Alternativo: 108 nm
+Tiempo Vuelo:               02:00
+Tiempo + alternativo:       02:30
+Total combustible (tiempo): 03:15
+Peso Combustible: 18559 ( 100 % - 4.5 % - 100 % ) reserva: 4.5 
+TOW: 124.5
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+Notas:
+15R PINAR2B

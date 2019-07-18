@@ -1,0 +1,29 @@
+Origen:       SACO - Ing. L.V.Tallavera - Cordoba - Argentina
+Destino:      SABE - Aeroparque Jorge Newery - Buenos Aires - Argentina					
+Alternativo:  SAAR - Islas Malvinas - Rosario - Argentina
+Flight Level: FL330
+Ruta:
+	UTRAX UW24 SNT
+Route (plain text) .. = dct . for airways
+	SACO..UTRAX.UW24.SNT..SABE
+
+Distancia: 352 nm + Distancia Alternativo: 155 nm
+Tiempo Vuelo:               01:10
+Tiempo + alternativo:       01:49
+Total combustible (tiempo): 02:34
+Peso Combustible: 12080 ( 85 % - 00.0 % - 85 % ) reserva: 4.5
+TOW: 122.6
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+
+Notas: 
+
+SACO trf, at parking 3 pb & su to SABE as filed   SACO trf, taxi to hp rw36 via A      SACO trf, hp rw36 lu & to follow ASEMI1 dep. Trans. UTRAX   SACO trf, airborne
+SACO trf, at parking 3 pb & su to SABE as filed   SACO trf, taxi to hp rw18 via C rw   SACO trf, entry rw for backtrack-   SACO trf, hp rw18 lu & to follow ASEMI1 dep. Trans. UTRAX   SACO trf, airborne
+
+SABE trf, inbound SNT leaving FL330, expecting rw31 VOR-DME chart6 via star SAN ANTONIO 7D transition ILM    SABE trf, position SNT continue approach SNT7D for rw31 VOR-DME    SABE trf, at ILM altitude 2500 start final approach rw31   SABE trf, final rw31 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close
+SABE trf, inbound MULTA leaving FL330, expecting rw13 ILS chart1 via star SAN ANTONIO 7C transition VANAR    SABE trf, position SNT continue approach SNT7C for rw13 ILS    SABE trf, at FDO altitude 2500 clear for ILS 13   SABE trf, full established ils rw13 to land    SABE trf, rw vacated, taxi to platform (xx via xxx xxx)   SABE trf, on blocks, engines off, flight plan close

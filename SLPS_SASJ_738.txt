@@ -1,0 +1,36 @@
+Origen:       SLPS - Salvador Ogaya - Puerto Suarez, Bolivia (alt 440)
+Destino:      SASJ - Gobernador Horacio Guzman - Jujuy, Argentina (alt 3019)
+Alternativo:  SANT - Benjamin Matienzo - Tucuman, Argentina
+Flight Level: FL380
+Ruta:	
+	CANOP UM799 VINOS UM789 MIMEX
+Route (plain text) .. = dct . for airways
+	SLPS..CANOP.UM799.VINOS.UM789.MIMEX..SASJ
+	SLPS CANOP UM799 VINOS UM789 MIMEX SASJ
+ 
+Distancia: 653 nm + Distancia Alternativo: 147 nm
+
+Tiempo Vuelo:               01:48
+Tiempo + alternativo:       02:26
+Total combustible (tiempo): 03:11
+Peso Combustible: 19721 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 127  vr: 129  v2: 139 (154)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+05/23
+SLPS trf, at parking pb & su to SASJ as filed         SLPS trf, taxi to hp rw05           SLPS trf, entry rw for bt    SLPS trf, hp rw05 lu & to to FL380      SLPS trf, airborne
+SLPS trf, at parking pb & su to SASJ as filed         SLPS trf, taxi to hp rw23           SLPS trf, entry rw for bt    SLPS trf, hp rw23 lu & to to FL380      SLPS trf, airborne
+
+15/33
+SASJ trf, after BOKEM inbound IMBER leaving FL380, expecting rw34 ILS ORBAK1             SASJ trf, MIMEX FL110 start ORBAK1 for rw34 ILS
+SASJ trf, ORBAK 7200 clear ILS rw34              SASJ trf, full established ils rw34 to land             SASJ trf, rw vacated, taxi to platform        SASJ trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

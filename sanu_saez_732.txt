@@ -1,0 +1,37 @@
+Origen:       SANU - San Juan
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL230
+Ruta:	
+
+	DABUL2 MEBRA W44 NIRTA A307 SOLER W19 SRC W19 TRC W10 SNT SNT6A  
+	MEBRA W44 NIRTA A307 SOLER W19 TRC W10 SNT
+
+Route (plain text) .. = dct . for airways
+	SANU..MEBRA.W44.NIRTA.A307.SOLER.W19.TRC.W10.SNT..SAEZ
+
+Distancia: 600 nm + Distancia Alternativo: 160 nm
+Tiempo Vuelo:               01:37
+Tiempo + alternativo:       02:13
+Total combustible (tiempo): 02:58
+Peso Combustible: 22672
+
+Avion: 737-200 : 106 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SANU
+	$113.100 JUA -> 170 +30 MEBRA +36 NIRTA    (intersection DOZ 114.9 071/30)
+	3114.900 DOZ -> 071 +30 MEBRA +25 SALVO +68 SOLER  (intersection SRC 117.5 105/48+7+??)
+					SOLER  +48 ERUTU +07 ARUSO +15 SRC
+	117.500 SRC <- 105
+	117.500 SRC -> 135 +15 UDEXA +18 EGETU +30 TRC
+	114.200 TRC <- 135
+114.200 1TRC -> 109 +30 KOTOL +47 ELABO +64 XOPIS +13 OPUVI +96 SNT
+117.700 SNT <- 110
+117.700 SNT -> 147 ( 42 ) Arsot
+EZE 116.5				64 antes de ARSOT bajar a 5000 (22 antes de SNT)
+SAEZ

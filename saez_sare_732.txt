@@ -1,0 +1,33 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SARE
+Alternativo:  SARF
+Flight Level: FL240
+Ruta:	
+	ATOVO W5 ROS/F230 W20 OPKAM
+Route (plain text) .. = dct . for airways
+	SAEZ..ATOVO.W5.ROS.W20.OPKAM..SARE
+
+Distancia: 543 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               01:26
+Tiempo + alternativo:       01:51
+Total combustible (tiempo): 02:37
+Peso Combustible: 21020
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+	EZE 116.5 -> 005 +42 (landa)
+	SNT 117.7 <- 269 (+31 eze20, +22 eze26)
+	FDO 114.4 -> 317 (26.6 eze26, 36.6 atovo)
+	ROS 117.3 <- 318 ( )
+	ROS       -> 022 (30 + 37) -- descending FL230
+	PAR 116.8 <- 022
+	PAR -> 021 (55 + 41 + 35 + 30)
+	RTA 117.1 <- 023
+RTA       -> 025 (30  + 26 + 55)
+SIS 115.1 <- 027

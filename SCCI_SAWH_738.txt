@@ -1,0 +1,36 @@
+Origen:       SCCI - Carlos Ibanez Del Campo Intl - Punta Arenas, Chile (alt 139)
+Destino:      SAWH - Ushuaia Intl Malvine Is - Ushuaia, Argentina (alt 92)
+Alternativo:  SCFM - Capitan Fuentes Martinez - Porvenir, Chile
+Flight Level: FL170
+Ruta:	
+	NAS G550 LITOK
+Route (plain text) .. = dct . for airways
+	SCCI..NAS.G550.LITOK..SAWH
+	SCCI NAS G550 LITOK SAWH
+ 
+Distancia: 391 nm + Distancia Alternativo: 153 nm
+
+Tiempo Vuelo:               00:43
+Tiempo + alternativo:       01:18
+Total combustible (tiempo): 03:03
+Peso Combustible: 12900 ( 99.9 % - 5 % - 99.9 % ) reserva: 5.0
+TOW: 159.3  (29.1% trim: 4.64)	v1: 133  vr: 136  v2: 144 (160)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 146.6 - opt: FL350     max: FL378
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+07/25
+SCCI trf, at parking pb & su to SAWH as filed         SCCI trf, taxi to hp rw07           SCCI trf, entry rw for bt    SCCI trf, hp rw10 lu & to FL170      SCCI trf, airborne
+SCCI trf, at parking pb & su to SAWH as filed         SCCI trf, taxi to hp rw25           SCCI trf, entry rw for bt    SCCI trf, hp rw28 lu & to FL170      SCCI trf, airborne
+
+07/25
+SAWH trf, inbound LITOK leaving FL170, expecting rw25 ILS		SAWH trf, USU 7000 clear to ils rw25
+SAWH trf, full established ils rw25, to land             SAWH trf, rw vacated, taxi to platform        SAWH trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

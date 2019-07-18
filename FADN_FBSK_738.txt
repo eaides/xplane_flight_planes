@@ -1,0 +1,37 @@
+Origen:       FADN - Durban Intl - Durban, South Africa
+Destino:      FBSK - Sir Seretse Khama Intl - Gaborone, Botswana
+Alternativo:  FAMM - Mefikeng - Mefikeng, South Africa
+Flight Level: FL380
+Ruta:	
+	PMV UG853 HBV UG653 NESEK
+Route (plain text) .. = dct . for airways
+	FADN..PMV.UG853.HBV.UG653.NESEK..FBSK
+	FADN PMV UG853 HBV UG653 NESEK FBSK
+
+Distancia: 437 nm + Distancia Alternativo: 95 nm
+
+Tiempo Vuelo:               01:20
+Tiempo + alternativo:       01:50
+Total combustible (tiempo): 02:35
+Peso Combustible: 16088 ( 99.9 % - 10 % - 99.9 % ) reserva: 5.0
+TOW: 143.3  (29.0% trim: 4.72)	v1: 137  vr: 140  v2: 147 (162)
+                                   --------------------   
+Calculate Weight: 31130 + 96058 ~= 127.2 + fuel ! = TOW - 143.3 - opt: FL365     max: FL391
+                                   --------------------
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130	empty weight: 96058
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+12/30
+FADN trf, at parking pb & su to FBSK as filed         FADN trf, taxi to hp rw RW06 via ...           FADN trf, entry rw for bt    FADN trf, hp rw RW06 lu & to to FL380 via ... trans. ...     FADN trf, airborne
+FADN trf, at parking pb & su to FBSK as filed         FADN trf, taxi to hp rw RW24 via ...           FADN trf, entry rw for bt    FADN trf, hp rw RW24 lu & to to FL380 via ... trans. ...     FADN trf, airborne
+
+08/26
+FBSK trf, after HVB inbound NESEK leaving FL380, expecting rw08 ILS transition GSV                  FBSK trf, ... ..00 start final approach rw.. VOR/DME or clear to ILS rw..
+FBSK trf, rw insight, final rw.. or full established ILS rw.. to land             FBSK trf, rw vacated, taxi to platform        FBSK trf, on blocks, engines off, flight plan close
+
+.msg 
+.msg sur5717 last

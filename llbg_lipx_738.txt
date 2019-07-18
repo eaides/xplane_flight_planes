@@ -1,0 +1,27 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      LIPX - Valerio Catullo Villafranca - Verona - Italy
+Alternativo:  LIMC - Milano Malpensa - Milano - Italy
+Flight Level: FL400
+Ruta:
+	PURLA UH1 GITLA UA14 KAROL UL995 RDS UL609 MES UG18 FSK N128 NANER L615 ROTAR/F370 UL615 VIC
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.UH1.GITLA.UA14.KAROL.UL995.RDS.UL609.MES.UG18.FSK.N128.NANER.L615.VIC..LIPX
+
+Distancia: 1443 nm + Distancia Alternativo: 92 nm
+Tiempo Vuelo:               03:28
+Tiempo + alternativo:       03:59
+Total combustible (tiempo): 04:44
+Peso Combustible: 30591 		reserva: 6.5 
+TOW: 132.4
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+LLBG trf, at parking C6 pb & su to LIPX as filed   LLBG trf, taxi to hp rw 26 via M2 K R W2    (LLBG trf, crossing rw XX/XX)   (LLBG trf, entry rw 26 for backtrack)  LLBG trf, hp rw 26 on W2 lu & to follow PURLA1E transition GITLA   LLBG trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LIPX trf, after TULIK FL370 start descending, expecting rw 04 ils via star VIC3A transition UNKAV and ARC dme13   LIPX trf, position VIL continue approach for rw 04 ils   LIPX trf, after arc dme13 altitude 3000 clear to ils approach rw 04   LIPX trf, full established ils rw 04 to land    LIPX trf, rw vacated, taxi to platform (xx via xxx xxx)   LIPX trf, on blocks, engines off, flight plan close

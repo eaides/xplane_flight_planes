@@ -1,0 +1,20 @@
+TNCM - TFFJ: depature from rw 10 by juliana2 departure, left 210 and search for PJM 113.0/166 climbing to 4000 (1100fpm) at 10dme (using ndb 284), 
+after 11 dme turn left for arc dme 12 descending 3000 search for 113.0/138, turn to the right and start descend to 800-500 before ONBED
+and more or less 16nm turn left and land on rw 10 (102/282) after the hill (down over the hill).
+
+TFFJ - SABA: takaoff from rw 10, heading 250 to 4000 at least 1100fpm, at 17 of PJM (113/010) descend to 1000, search for the big rock an fown on rw 12 (125/305)
+
+SABA - TNCM: takeoff rw 12 (using flpas), heading to 360 climb 3000, intercept  PJM 113.0/058, at 10nm star arc dme 10 (to the left, ndb 284) descending 1600, 
+after radial 084 find the radial 096, at 4.9 descend 500 (descision), land on rw 10 (096/276) - go to gate 7, after terminal international.
+
+------------------
+
+TNCM - SABA: depature from rw 10 by juliana2 departure, left 210 and search for PJM 113.0/166 climbing to 4000 (1100fpm) at 10dme (using ndb 284), then right 230, 
+at 14 of PJM (113/011) descend to 1000s, search for the big rock an fown on rw 12 (125/305)
+
+SABA - TFFJ: takeoff rw 12 (using flaps), heading to 70 climb 3000, at 15nm of PJM (113.0/331) descending 1000 -800fpm, 
+search for the beach at the bay at 500/400 feet, and land on rw 10 (102/282) after the hill (down over the hill).
+
+TFFJ - TNCM: take off rw 10, heading 270, when 10nm pf PJM 113.0 (NDB 284) star arc dme 10 (to the left, ndb 284) descending 1600, after radial 264 find the radial 096, 
+at 4.9 descend 500 (descision), land on rw 10 (096/276) - go to gate 7, after terminal international.
+

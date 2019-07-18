@@ -1,0 +1,39 @@
+Origen:     	SBRJ - Santos Dumont - Rio De Janeiro, Brazil					alt. 11 ft.
+	RWY02L largo: 4134 ft.
+	RWY02R largo: 4331 ft.
+	RWY20L largo: 4331 ft.
+	RWY20R largo: 4134 ft.
+Destino:	SBFL - Hercilio Luz Intl - Florianopolis, Brazil 				alt. 19 ft.
+	RWY03 largo: 4921 ft.
+	RWY14 largo: 7546 ft.
+	RWY21 largo: 4921 ft.
+	RWY32 largo: 7546 ft.
+Alternativo: 	SBPA
+Flight Level: FL380
+Ruta:
+	BITAK UN857 EGDED
+Route (plain text) .. = dct . for airways
+	SBRJ..BITAK.UN857.EGDED..SBFL
+Distancia: 411 nm + Distancia Alternativo: 196 nm
+Tiempo Vuelo:               01:17
+Tiempo + alternativo:       02:02
+Total combustible (tiempo): 02:47
+Peso Combustible: 18735		reserva: 6.5
+TOW: 143.0
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31120
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+Notas: 
+
+Notas: reemplazar XRW (case sensitive) por el numero de pista para despegue
+
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw10 via main 3    UHMM entry rw for bt		UHMM trf, hp rw 10 lu & to follow OSKET1     UHMM trf, airborne
+UHMM trf, at parking 30 pb & su to UHPP as filed   UHMM trf, taxi to hp rw28 via main 1    UHMM entry rw for bt		UHMM trf, hp rw 28 lu & to follow OSKET3     UHMM trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+UHPP trf, at EGONI FL370, expecting rw... ILS via .... transition ....		UHPP trf, after GOI over EGONI1A leaving FL390 continue to rw29L ILS    SBBR trf at BR014 7000 clear to ILS rw29L   SBBR trf, full established ILS rw29L to land    SBBR trf, rw vacated, taxi to platform (xx via xxx xxx)   SBBR trf, on blocks 12, engines off, flight plan close

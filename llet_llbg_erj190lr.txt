@@ -1,0 +1,35 @@
+Origen:       LLET - Eilat - Eilat - Israel                                    
+Destino:      LLBG - Ben Gurion - Tel Aviv - Israel
+Alternativo:  LLET - Eilat - Eilat - Israel                                    
+Flight Level: FL220
+Ruta:
+	SAMAR J10 BGN
+Route (plain text) .. = dct . for airways
+	LLET..SAMAR.J10.BGN..LLBG
+
+Distancia: 174 nm + Distancia Alternativo: 147 nm
+Tiempo Vuelo:               00:47
+Tiempo + alternativo:       01:26
+Total combustible (tiempo): 02:11
+Peso Combustible: 10299 ( 41 % - 00.0 % - 40 % ) reserva: 2.3 
+TOW: 43.112
+
+Avion: ERJ 190LR : 92 pax (232 lbs per pax) - 0 carga
+Payload 21348 - ZFW 63870
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+Notas: 
+
+LLET trf, at parking 3 su to LLBG as filed   LLET trf, taxi to hp rw03    LLET trf, hp rw03 lu & to follow SAMAR1A to FL220   LLET trf, airborne - Despegue: ????Z
+LLET trf, at parking 3 su to LLBG as filed   LLET trf, taxi to hp rw21    LLET trf, entry rw for b/t    LLET trf, hp rw21 lu & to follow SAMAR1B to FL220   LLET trf, airborne - Despegue: ????Z
+
+LLBG trf, leaving FL220 start descending, expecting rw26 ils    LLBG trf, clear to ils26  LLBG trf, full established ils rw26 to land  
+LLBG trf, leaving FL220 start descending, expecting rw08 ils transition BGN      LLBG trf, at BGN 6000 clear to ils08  LLBG trf, full established ils rw08 to land  
+LLBG trf, leaving FL220 start descending, expecting rw12 ils transition BGN      LLBG trf, vertical BGN 6000 clear to ils 12    LLBG trf, full established ils rw 08 to land    
+LLBG trf, leaving FL220 start descending, expecting rw30 ils transition COMET    LLBG trf, vertical COMET 2300 clear to ils 30  LLBG trf, full established ils rw 30 to land    
+LLBG trf, rw vacated, taxi to platform L3 via W4 R N L     LLBG trf, on blocks, engines off, flight plan close  
+LLBG trf, rw vacated, taxi to platform C3 via W4 M M2  	   LLBG trf, on blocks, engines off, flight plan close
+
+LLBG trf, rw vacated, taxi to platform C3 via W3 (or W2) R K M1     LLBG trf, on blocks, engines off, flight plan close
+LLBG trf, rw vacated, taxi to platform L3 via W3 (or W2) R N L      LLBG trf, on blocks, engines off, flight plan close

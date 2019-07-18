@@ -1,0 +1,30 @@
+Origen:       LYBE - NICOLA TESLA - Belgrade - Serbia
+Destino:      UKFF - SIMFEROPOL - Simferopol - Ukraine
+Alternativo:  URKA - VITYAZEVO - Anapa - Russia 
+Flight Level: FL370
+Ruta:
+	NERTA L5 RIVOS L620 CND M747 PESED N613 SOTAM
+Route (plain text) .. = dct . for airways
+	LYBE..NERTA.L5.RIVOS.L620.CND.M747.PESED.N613.SOTAM..UKFF
+	LYBE DCT NERTA DCT VELIP L5 RIVOS L620 CND M747 PESED N613 SOTAM DCT UKFF 		LYBEUKFF01.FLTPLAN	
+
+Distancia: 616 nm + Distancia Alternativo: 143 nm
+Tiempo Vuelo:               01:47
+Tiempo + alternativo:       02:25
+Total combustible (tiempo): 03:10
+Peso Combustible: 17242 ( 99.9 % - 0 % - 99.9 % ) reserva: 4.5 
+TOW: 125.2
+
+Avion: 737-700 : 109 pax (220 lbs per pax)
+Payload 23980
+Cost Index SUR: 60
+
+LYBE trf, at parking A3, pb & su to UKFF as filed
+LYBE trf, taxi to hp rw12 via G A B     LYBE trf, hp rw12 lu & to follow NERTA2D to FL370   LYBE trf, airborne 
+LYBE trf, taxi to hp rw30 via G A E     LYBE trf, hp rw30 lu & to follow NERTA2E/2F to FL370   LYBE trf, airborne 
+Despegue 1203Z
+
+UKFF trf, at/after XXX FL370 start descending, expecting rw XX ils/vor-dme (via star XXX) (transition XXX)   UKFF trf, position XXX continue approach xxx for rw XX ils/vor-dme   UKFF trf, at XXX altitude xxx clear to ils/start approach rw XX   UKFF trf, full established ils/final rw XX to land    UKFF trf, rw vacated, taxi to platform (xx via xxx xxx)   UKFF trf, on blocks, engines off, flight plan close
+
+
+

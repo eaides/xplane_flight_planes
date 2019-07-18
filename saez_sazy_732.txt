@@ -1,0 +1,35 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAZY - 
+Alternativo:  SAZS -
+Flight Level: FL240
+Ruta:	
+	TORUL T654 ARVOV W32 NEU W32 CHP
+Route (plain text) .. = dct . for airways
+	SAEZ..TORUL.T654.SIKAR.T654.KIKIN.T654.ARVOV.W32.NEU.W32.CHP..SAZY
+
+Distancia: 687 nm + Distancia Alternativo: 70 nm
+Tiempo Vuelo:               02:01
+Tiempo + alternativo:       02:24
+Total combustible (tiempo): 03:09
+Peso Combustible: 24350
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+SAEZ
+	TORUL (EZE 116.5 241/55 intersection GBE 115.6 303)
+	+EZE 116.5 -> 241
+	SIKAR +55+79=134	(intercepta +DIL 115.9 318/97)
+	BIXIM +131		(intercepta +OSA 112.5 130/75)
+	KIKIN +83		(intercepta +OSA 112.5 191/88)
+	ARVOV +91 intercepta NEU 116.7 267/95
+	+NEU 116.7 <- 267 -30 ROPON
+	+NEU 116.7 -> 240	+ 30 PORPA +90 EKOTA +31 CHP	(150)
+	+CHP 117.0 <- 237
+SAZN Neuquen
+				ILS 09		over VOR 060	NEU-65 descenso
+

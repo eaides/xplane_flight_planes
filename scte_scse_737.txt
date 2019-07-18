@@ -1,0 +1,27 @@
+Origen:       SCTE - El Tepual Intl - Puerto Montt - Chile
+Destino:      SCSE - La Florida - La Serena - Chile
+Alternativo:  SCAT - Desierto de Atacama - Caldera - Chile
+Flight Level: FL380
+Ruta:
+	KARAK UW200 TOY
+Route (plain text) .. = dct . for airways
+	SCTE KARAK UW200 TOY SCSE
+
+Distancia: 709 nm + Distancia Alternativo: 161 nm
+Tiempo Vuelo:               01:55
+Tiempo + alternativo:       02:35
+Total combustible (tiempo): 03:20
+Peso Combustible: 21418 ( 99.9 % - 14.5 % - 99.9 % ) reserva: 4.5 
+TOW: 129.4 (32.8% trim: 2.92)   v1: 123    vr: 131    v2: 139
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+
+SCTE trf, at parking 1 pb & su to SCSE as filed   SCTE trf, taxi to hp rw17 via A       SCTE trf, hp rw17 lu & to follow KOSOR1 transition KARAK     SCTE trf, airborne
+SCTE trf, at parking 1 pb & su to SCSE as filed   SCTE trf, taxi to hp rw35 via A       SCTE trf, hp rw35 lu & to follow KARAK2       	             SCTE trf, airborne
+
+(on FSX rw is 11/29)
+SCSE trf, vertical ESNOX inbound TOY leaving FL380, expecting rw12 VOR-Z  via star BARCA3        SCSE trf, position TOY start approach BARCA3 for rw12 vor/dme   SCSE trf, vertical BARCA 3000 turn final rw12     SCSE trf, final rw12 to land    SCSE trf, rw vacated, taxi to platform (xx via xxx xxx)   SCSE trf, on blocks, engines off, flight plan close
+SCSE trf, after ... inbound ... leaving FL380, expecting rw30 ils via star BARCA3 / RNAV-Y    SCSE trf, position TOY start approach BARCA3 for rw30 RNAV-Y    SCSE trf, final rw30 to land    SCSE trf, rw vacated, taxi to platform (xx via xxx xxx)   SCSE trf, on blocks, engines off, flight plan close

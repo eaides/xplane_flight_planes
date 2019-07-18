@@ -1,0 +1,29 @@
+Origen:       SAZR - Santa Rosa - Santa Rosa, Argentina
+Destino:      SAOU - San Luis - San Luis, Argentin
+Alternativo:  SAOC - Area de Material - Rio Cuarto, Argentina
+Flight Level: FL270
+Ruta:	
+	GPI UW62 LYE/F240 W9 FRAGA
+Route (plain text) .. = dct . for airways
+	SAZR..GPI.UW62.LYE.W9.FRAGA..SAOU
+	SAZR GPI W62 LYE W9 FRAGA SAOU
+
+Distancia: 315 nm + Distancia Alternativo: 106 nm
+Tiempo Vuelo:               01:07
+Tiempo + alternativo:       01:41
+Total combustible (tiempo): 02:26
+Peso Combustible: 6364 ( 65 % - 65 % ) reserva: 4.5 
+TOW: 45864
+
+Avion: ERJ 145LR : 45 pax (190 lbs per pax) - 1160 carga (85%)
+Payload 9710 - ZFW 38461
+Cost Index SUR: n/a 
+Velocidad para el plan de vuelo: Hasta fl250 420kn - Arriba de fl250 440kn (0.75 match)
+
+01/19
+SAZR trf, at parking pb & su to SAOU as filed   SAZR trf, taxi to hp rw01    SAZR trf, entry rw for BT    SAZR trf, hp rw01 lu & to to FL270   SAZR trf, airborne
+SAZR trf, at parking pb & su to SAOU as filed   SAZR trf, taxi to hp rw19    SAZR trf, hp rw19 lu & to to FL270   SAZR trf, airborne
+
+01/19
+SAOU trf, after 15 nm inbound RYD leaving FL240, expecting rw01 VOR/DME and visual     SAOU trf, vertical FRAGA start approach rw01   SAOU trf, final rw01 to land    SAOU trf, rw vacated, taxi to platform (xx via xxx xxx)   SAOU trf, on blocks, engines off, flight plan close
+SAOU trf, after ... leaving FL270, expecting rw .. VOR/DME     SAOU trf, altitu12de ..00 final rw.. to land    SAOU trf, rw vacated, taxi to platform (xx via xxx xxx)   SAOU trf, on blocks, engines off, flight plan close

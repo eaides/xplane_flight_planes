@@ -1,0 +1,33 @@
+Origen:       SAZS - Bariloche
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL230
+Ruta:	
+
+	LIMAY W26 NEU T655 ENRIL T661 OSA W73 IRASU W68 ASADA 
+Route (plain text) .. = dct . for airways
+	SAZS..LIMAY.W26.NEU.T655.ENRIL.T661.OSA.W73.IRASU.W68.ASADA..SAEZ
+
+Distancia: 745 nm + Distancia Alternativo: 160 nm
+Tiempo Vuelo:               01:56
+Tiempo + alternativo:       02:36
+Total combustible (tiempo): 03:22
+Peso Combustible: 25298
+
+Avion: 737-200 : 100 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	
+
+SAZY
+	+BAR 117.4 -> 040	+35 LIMAY +113 DAMBA +13 ARTOK +30 NEU
+	+NEU 116.7 <- 040
+	+NEU 116.7 -> 058  	+31 NIDBA +173 	= 201	ENRIL  intercepta +OSA 112.5 011/45
+	+OSA 112.5 <- 011
+	+OSA 112.5 <- 062 	+30 TIMKU + 113 = 143 -	IRASU  intercepta -GPI 112.2 078/---
+	IRASU GPI 112.2 -> 078 	+70 BODIR + 36 		ASADA intercepta +EZE 116.5 084/55	
+	+EZE 116.5 <- 084
+SAEZ				pista 28, EZE 3000 -70 EZE descenso -- -15 ASADA
+			pista 11  ARSOT 5000 (-70) descenso -- -24 ASADA (-79 EZE)		+ENO 112.90 30/23 - ARSOT 30/13

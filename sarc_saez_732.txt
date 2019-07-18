@@ -1,0 +1,30 @@
+Origen:       SARC
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina
+Alternativo:  SAAR
+Flight Level: FL310
+Ruta:	
+	SIS UW7 MCS/F300 UW64 GUA UW65 PAGON
+Route (plain text) .. = dct . for airways
+	SARC..UROLI.UW7.MCS.UW64.GUA.UW65.PAGON..SAEZ
+
+Distancia: 601 nm + Distancia Alternativo: 72 nm
+Tiempo Vuelo:               01:20
+Tiempo + alternativo:       01:57
+Total combustible (tiempo): 02:42
+Peso Combustible: 20676
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      20.7+5
+ZFW:          93.0
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+
+	SIS 115.10 -> 168 	+77/UROLI 	+128/SOTSSA 	+142/OGTEL 	+184/MCS
+	MCS 113.90 <- 168
+	MCS 113.90 -> 207	descend 300	+ 27/KORTA(-145) 	+129/PADAS(-43) 	+172/GUA(-0)
+	GUA 113.20 <- 204
+GUA 113.20 -> 192 	+55/PAGON	+79/VANAR	+94/ENO		GUA+20 descent to FL050
+ENO 112.90 <- 192
+

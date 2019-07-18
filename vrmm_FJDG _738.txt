@@ -1,0 +1,34 @@
+Origen:       VRMM - Male Intl - Male, Maldives
+Destino:      FJDG - Diego Garcia - Diego Garcia, British Indian Ocean Territory 
+Alternativo:  VRMG - Gan - Gan Island, Maldives
+Flight Level: FL380
+Ruta:	
+	ATISA R329 MOMMA DCT NKW
+Route (plain text) .. = dct . for airways
+	VRMM..ATISA.R329.MOMMA..NKW..FJDG 
+
+Distancia: 695 nm + Distancia Alternativo: 400 nm
+
+Tiempo Vuelo:               01:53
+Tiempo + alternativo:       03:04
+Total combustible (tiempo): 03:49
+Peso Combustible: 23481 ( 99.9 % - ?? % - 90.0 % ) reserva: 5.0
+TOW: 139.7  (29.9% trim: 4.55)	v1: 140  vr: 144  v2: 149
+
+Avion: 737-800 : 135 pax (220 lbs per pax)
+Payload 31130
+Cost Index SUR: 60
+Velocidad para el plan de vuelo: Hasta fl250 ???kn - Arriba de fl250 460kn (0.795 match)
+ICAO aircraft: B738
+
+
+
+VRMM trf, at parking pb & su to FJDG as filed   VRMM trf, taxi to hp rw RW18 via rw / backtrack           VRMM trf, hp rw RW18 lu & to to FL380 follow A4D/ATISA     VRMM trf, airborne
+VRMM trf, at parking pb & su to FJDG as filed   VRMM trf, taxi to hp rw RW36 via rw / backtrack           VRMM trf, hp rw RW36 lu & to to FL380 follow ...           VRMM trf, airborne
+
+
+FJDG trf, 31nm inbound MOMMA leaving FL380, expecting rw31 ILS transition SHORD                  FJDG trf, at SHORD 2000 clear to ils rw31
+FJDG trf, full established ILS rw31 to land             FJDG trf, rw vacated, taxi to platform        FJDG trf, on blocks, engines off, flight plan close
+
+FJDG trf, after NOKID inbound MUGBA leaving FL380, expecting rw18 VOR/DME via star MUGBA2B			FJDG trf, at MUGBA start final approach rw18
+FJDG trf, final rw18 to land             FJDG trf, rw vacated, taxi to platform        FJDG trf, on blocks, engines off, flight plan close

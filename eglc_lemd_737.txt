@@ -1,0 +1,24 @@
+Origen:       EGLC - LONDON CITY- LONDON - ENGLAND
+Destino:      LEMD - BARAJAS - MADRID - SPAIN
+Alternativo:  LESA - SALAMANCA - SALAMANCA - SPAIN
+Flight Level: FL390
+Ruta:
+	SAM UN866 KORUL UT7 VES UM30 ZMR
+Route (plain text) .. = dct . for airways
+	EGLC..SAM.UN866.KORUL.UT7.VES.UM30.ZMR..LEMD
+Distancia: 823 nm + Distancia Alternativo: 93 nm
+Tiempo Vuelo:               02:15
+Tiempo + alternativo:       02:45
+Total combustible (tiempo): 03:30
+Peso Combustible: 19276 ( 100 % - 7.0 % - 100 % ) reserva: 4.5
+TOW: 125.2
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+EGLC trf, at parking 7 pb & su to LEMD as filed   EGLC trf, taxi to hp rw 27 via C RW K L M   EGLC trf, entry RW on C for backtrack    EGLC trf, hp rw 27 lu & to follow SAM6T    EGLC trf, airborne
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+
+LEMD trf, at ZMR leaving FL390 start descending, expecting rw 18R or L ils via star ZMR3A transition LALPI   LEMD trf, passing LALPI altitude 11000 clear to ils rw 18R / L   LEMD trf, full established ils rw 18R / L to land    LEMD trf, rw vacated, taxi to platform (xx via xxx xxx)   LEMD trf, on blocks, engines off, flight plan close

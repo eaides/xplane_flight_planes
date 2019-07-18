@@ -1,0 +1,43 @@
+Origen:       LLBG - Ben Gurion - Tel Aviv - Israel
+Destino:      EHAM - Schiphol - Amsterdam - Netherlands
+Alternativo:  EDDL - Dusseldorf - Dusseldorf - Germany
+Flight Level: FL440
+Ruta:
+	PURLA H1B SUVAS UL53 KAROL UL995 RDS UL609 MES UG18 FSK UL608 BOSNA UL604 MAPOX UL604 BIGGE T281 NORKU
+Route (plain text) .. = dct . for airways
+	LLBG..PURLA.H1B.SUVAS.UL53.KAROL.UL995.RDS.UL609.MES.UG18.FSK.UL608.BOSNA.UL604.MAPOX.UL604.BIGGE.T281.NORKU..EHAM
+
+Distancia: 1836nm + Distancia Alternativo: 96 nm
+Tiempo Vuelo:               04:29
+Tiempo + alternativo:       05:02
+Total combustible (tiempo): 05:47
+Peso Combustible: 29051 (99.9 % - 41.0 % - 99.9 % ) reserva: 4.5
+TOW: 137.0 (31.9% - trim 3.41)	v1:127  vr:136  v2: 143
+
+Avion: 737-700 : 105 pax (220 lbs per pax)
+Payload 23088
+Cost Index SUR: 60
+
+LLBG trf, at parking C3 pb & su to LGRP as filed   LLBG trf, taxi to hp rw26 via M1 K R W1    
+LLBG trf, at parking L3 pb & su to LGRP as filed   LLBG trf, taxi to hp rw26 via L N R W1    
+LLBG trf, hp rw26 lu & to follow PURLA1E to FL360 transition GITLA  LLBG trf, airborne - Despegue: ????Z
+
+reemplazar YRW (case sensitive) por el numero de pista para aterrizaje
+EHAM trf, at ... leaving FL330 expect rw... via HELEM..            EHAM trf, at HELEM continue HELEM.. for rw.. ils   EHAM trf, at .... altitude .... clear to ils rw..      EHAM trf, full established ils rw.. to land      EHAM trf, rw vacated, taxi to platform      EHAM trf, on blocks, engines off, flight plan close
+
+
+
+
+
+
+
+
+
+Distancia: 436 nm + Distancia Alternativo: 75 nm
+Tiempo Vuelo:               01:25
+Tiempo + alternativo:       01:55
+Total combustible (tiempo): 02:40
+Peso Combustible: 14670 ( 86 % - 0 % - 84 % ) reserva: 4.5
+TOW: 122.6 (32.8 trim:2.72)	v1:118 vr:126 v2:136
+
+
