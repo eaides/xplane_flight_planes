@@ -1,0 +1,29 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAZM - Mar del plata
+Alternativo:  SAZB - Bahia Blanca
+Flight Level: FL230
+Ruta:	
+	GBE W29 MDP
+Route (plain text) .. = dct . for airways
+	SAEZ..GBE.W18.BCA..SAZB
+
+Distancia: 241 nm + Distancia Alternativo: 257 nm
+Tiempo Vuelo:               00:52
+Tiempo alternativo:         00:53
+Total combustible (tiempo): 02:31
+Peso Combustible: 14612			reserva: 7.3
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      21.2+5
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732
+
+SAEZ
+SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 intercep on the takeoff the +EZE 116.5/126
+
+-GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
+-GBE 115.6 -> 174	+81 (+-136 out of EZE // +56 inboud MDP) VOTRA (+56 MDP) = 137				VOTRA intercepta +MDP 116.2/163 /56
+	   -> 163	+56 MDP
++MDP 116.2 <- 163

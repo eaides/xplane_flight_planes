@@ -1,0 +1,30 @@
+Origen:       SAZM - Mar del Plata
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina 
+Alternativo:  SAAR - Rosario- Argentina
+Flight Level: FL240
+Ruta:	
+	MDP W31 TENIL
+Route (plain text) .. = dct . for airways
+	SAZM..MDP.W31.TENIL..PTA..SAEZ
+
+Distancia: 216 nm + Distancia Alternativo: 161 nm
+Tiempo Vuelo:               00:43
+Tiempo + alternativo:       00:46
+Total combustible (tiempo): 02:30
+Peso Combustible: 14593	-	reserva: 7.8
+
+Avion: 737-200 : 92 pax (220 lbs per pax)
+Payload:      27.1
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
++MDP 116.2 -> 001	+56 PULPA +87 TENIL +34 PTA
+-PTA 113.7 <- 000
+-PTA 113.7 ->
+		
++EZE 116.5
+			pista 11  ARSOT 5000  
+
+
