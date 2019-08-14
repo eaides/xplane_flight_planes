@@ -5,42 +5,42 @@ Flight Level: FL240
 Ruta:	
 	GBE W18 GAL W42 USU
 Route (plain text) .. = dct . for airways
-	SAEZ..GBE.W18.		..SAWH
+	SAEZ..GBE.W18.GAL.W42.USU..SAWH
 
 Distancia: 1380 nm + Distancia Alternativo: 85 nm
-Tiempo Vuelo:               03:28	
-Tiempo + alternativo:       03:50
-Total combustible (tiempo): 04:35
-Peso Combustible: 33390
+Tiempo Vuelo:               04:04	
+Tiempo + alternativo:       00:32
+Total combustible (tiempo): 05:22
+Peso Combustible: 29668				reserve: 5.0
 
-Avion: 737-200 : 82 pax (220 lbs per pax)
+Avion: 737-200 : 96 pax (220 lbs per pax)
 Payload:      21.2+5
 ZFW:          88.7
 Cost Index SUR: --
 Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
 ICAO aircraft: B732	Equipment: (ODFL) = S / C
 
-SAEZ
-+EZE 116.5
--GBE 115.6 -> 208	+36 KALIM +60 DIL (96)
-+DIL 115.9 <- 208
-+DIL 115.9 -> 223	+60 ATITO	intercepta +BCA 114.3 251/110
-ATITO      -> 251	+55 MOXAN +55 BCA				
-+BCA 114.3 <- 251
-+BCA 114.3 -> 209	+53 SANBU	intercepta -VIE 117.1 192/---
-SANBU      -> 192	+53 UESA +30 VIE
--VIE 117.1 <- 192						(+- 135 off BCA)
--VIE 117.1 -> 214	+30 KIGIR +87 MIGUS +55 TRE = 172
-+TRE 115.1 <- 214
-+TRE 115.1 -> 206	+55 GATUD +69 ROMAX +55 CRV
-+CRV 117.5 <- 203
-+CRV 117.5 -> 177	+55 ANDEX +158 SJU
-+SJU 117.7 <- 175
-+SJU 117.7 -> 192	+95 IRAVU +55 GAL
-+GAL 116.7 <- 191
-+GAL 116.7 -> 145	+78 MUBES +64 GRA
-+GRA 117.3 <- 143
-+GRA 117.3 -> 184	+46 KEXOP +21 USU
+	SAEZ
+	+EZE 116.5
+	-GBE 115.6 -> 208	+36 KALIM +60 DIL (96)
+	+DIL 115.9 <- 208
+	+DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
+		   -> 250	+55 MOXAN +55 BCA = 110		
+	+BCA 114.3 <- 250	
+	+BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
+		   -> 189	+53 UDESA +30 VIE = 83				-VIE is 172 from +TRE 115.1 // 135 of +BCA 114.3
+	-VIE 117.1 <- 189
+	-VIE 117.1 -> 213	+30 KIGIR +87 MIGUS +55 TRE = 172
+	+TRE 115.1 <- 213
+	+TRE 115.1 -> 207	+55 GATUD +69 ROMAX +55 CRV
+	+CRV 117.5 <- 205
+	+CRV 117.5 -> 177	+55 ANDEX +158 SJU
+	+SJU 117.7 <- 175
+	+SJU 117.7 -> 192	+95 IRAVU +55 GAL
+	+GAL 116.7 <- 191
+	+GAL 116.7 -> 145	+78 MUBES +64 GRA
+	+GRA 117.3 <- 143
++GRA 117.3 -> 184	+46 KEXOP +21 USU = 67
 -USU 113.7 <- 184
 SAWH
 

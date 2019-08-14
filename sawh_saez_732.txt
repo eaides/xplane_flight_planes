@@ -1,0 +1,51 @@
+Origen:       SAWH - Ushuaia
+Destino:      SAEZ - Ezeiza - Buenos Aires - Argentina 
+Alternativo:  SAAR - Rosario- Argentina
+Flight Level: FL230
+Ruta:	
+	GRA W42 GAL W18 GBE
+Route (plain text) .. = dct . for airways
+	SAWH..GRA.W42.GAL.W18.GBE..SAEZ
+
+Distancia: 1380 nm + Distancia Alternativo: 161 nm
+Tiempo Vuelo:               03:33
+Tiempo + alternativo:       00:54
+Total combustible (tiempo): 05:12
+Peso Combustible: 29771			reserva: 7.4
+
+Avion: 737-200 : 95 pax (220 lbs per pax)
+Payload:      27.1
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+	-USU 113.7 (use DME from US 111.3/093/14.0)
+	+GRA 117.3 <- 347
+	+GRA 117.3 -> 323	
+	+GAL 116.7 <- 324
+	+GAL 116.7 -> 011	+55 IRAVU +95 SJU = 150
+	+SJU 117.7 <- 012
+	+SJU 117.7 -> 355	+158 ANDEX +55 CRV = 213
+	+CRV 117.5 <- 359
+	+CRV 117.5 -> 025	+55 ROMAX +69 GATUD +55 TRE = 179
+	+TRE 115.1 <- 027
+	+TRE 115.1 -> 033	+55 MIGUS +87  KIGIR +30 VIE = 172
+	-VIE 117.1 <- 033						-VIE is 172 from +TRE 115.1 and 135 from +BCA 114.3
+	-VIE 117.1 -> 009	+30 UDESA +53 SANBU = 83		intercepta +BCA 114.3/29 (+53)		
+		   -> 029	+53 BCA
+	+BCA 114.3 <- 029
+	+BCA 114.3 -> 070	+55 MOXAN +55 ATITO = 110		intercepta +DIL 115.9/42 (+60)
+   		-> 042		+60 DIL
+	+DIL 115.9 <- 042
+	+DIL 115.9 -> 027	+60 KALIM +36 GBE = 96			(GBE is 55 out of +EZE 116.5/005)
+	-GBE 115.6 <- 028
+	-GBE 115.6 -> 339		intercepta +ENO 112.90 30/25 - 
+
+	ARSOT 30/13	intercepta +ENO 112.90 30/13	 - 
++EZE 116.5
+pista 11  ARSOT 5000  empezar descenso en GBE		+ENO 112.90 30/23 - ARSOT 30/13
+ils 110.10 / 110
+rw29 dct EZE 116.5/003	at EZE  3000 -- FL230 -> 3000 = 20000x3=60	GBE to EZE = 55... 15 to GBE descent, -70 to EZE
+
+23-5=18x3=54+11=65	GBE to ARSON 55+10+2=67

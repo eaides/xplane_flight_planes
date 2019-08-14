@@ -1,0 +1,40 @@
+Origen:       SAEZ - Ezeiza - Buenos Aires - Argentina
+Destino:      SAWG - 
+Alternativo:  SAWC
+Flight Level: FL240
+Ruta:	
+	GBE W18 GAL
+Route (plain text) .. = dct . for airways
+	SAEZ..GBE.W18.GAL..SAWG
+
+Distancia: 1172 nm + Distancia Alternativo: 131 nm
+Tiempo Vuelo:               03:18	
+Tiempo + alternativo:       00:33
+Total combustible (tiempo): 04:36
+Peso Combustible: 26460		reserva 5.7
+
+Avion: 737-200 : 102 pax (220 lbs per pax)
+Payload:      27.1
+ZFW:          88.7
+Cost Index SUR: --
+Velocidad para el plan de vuelo TAS: Hasta fl250 ???kn - Arriba de fl250 422kn (0.74 match)
+ICAO aircraft: B732	Equipment: (ODFL) = S / C
+
+	SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 intercep on the takeoff the +EZE 116.5/126
+	-GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
+	-GBE 115.6 -> 211	+36 KALIM +60 DIL = 96
+	+DIL 115.9 <- 207
+	+DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
+	   -> 250	+55 MOXAN +55 BCA = 110		
+	+BCA 114.3 <- 250	
+	+BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
+   	   	-> 189		+53 UDESA +30 VIE = 83			-VIE is 172 from +TRE 115.1 and 135 from +BCA 114.3
+	-VIE 117.1 <- 189
+	-VIE 117.1 -> 213	+30 KIGIR +87 MIGUS +55 TRE = 172
+	+TRE 115.1 <- 213
+	+TRE 115.1 -> 207	+55 GATUD +69 ROMAX +55 CRV = 179
+	+CRV 117.5 <- 205
+	+CRV 117.5 -> 179	+55 ANDEX +158 SJU = 213
+	6+SJU 117.7 <- 175
++SJU 117.7 -> 192	+95 IRAVU +55 GAL = 150
++GAL 116.7 <- 191
