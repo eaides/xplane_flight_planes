@@ -14,7 +14,7 @@ Tiempo alternativo:         00:43
 Total combustible (tiempo): 03:28
 Peso Combustible: 19950			reserva: 6.4
 
-Avion: 737-200 : 92 pax (220 lbs per pax)
+Avion: 737-200 : 102 pax (220 lbs per pax)
 Payload:      21.2+5
 ZFW:          88.7
 Cost Index SUR: --
@@ -24,15 +24,15 @@ ICAO aircraft: B732
 SAEZ
 SID GBE - use -PTA 113.7/272 to intercept GBE 115.6/183 - in case of rw11 intercep on the takeoff the +EZE 116.5/126
 
--GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
--GBE 115.6 -> 211	+36 KALIM +60 DIL = 96
-+DIL 115.9 <- 207
-+DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
-	   -> 250	+55 MOXAN +55 BCA = 110		
-+BCA 114.3 <- 250	
-+BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
-	   -> 189	+53 UDESA +30 VIE = 83				-VIE is 172 from +TRE 115.1
--VIE 117.1 <- 189
+	-GBE 115.6 <- 183 	(GBE is 55 DME from EZE)
+	-GBE 115.6 -> 211	+36 KALIM +60 DIL = 96
+	+DIL 115.9 <- 207
+	+DIL 115.9 -> 222	+60 ATITO 				intercepta +BCA 114.3/250
+		   -> 250	+55 MOXAN +55 BCA = 110		
+	+BCA 114.3 <- 250	
+	+BCA 114.3 -> 209	+53 SANBU				intercepta -VIE 117.1/189
+		   -> 189	+53 UDESA +30 VIE = 83				-VIE is 172 from +TRE 115.1 and 135 from +BCA 114.3
+	-VIE 117.1 <- 189
 -VIE 117.1 -> 213	+30 KIGIR +87 MIGUS +55 TRE = 172
 +TRE 115.1 <- 213
 
